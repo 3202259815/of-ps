@@ -25,6 +25,9 @@ class Config:
     DEBUG_PACKET_PASS = [1007, 1008, 1203, 1206, 2201, 2202]
 
     VERIFY_TOKEN = False
+    # 账号系统（登录器体系）：True 时 gate 严格校验 users.user_token，
+    # 客户端 1001 里的 sdk_uid/login_token 必须来自 /account/login。
+    ACCOUNT_STRICT_TOKEN = False
     REJECT_PAYMENT = False  # CreatePayOrderReq
     # 抽卡 SSR 保底抽数：0 = 用官方配置（限时池 70），填 90 就是 90 抽必出
     GACHA_PITY_SSR = 70

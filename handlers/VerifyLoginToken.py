@@ -31,6 +31,18 @@ class Handler(PacketHandler):
             session.send(MsgId.VerifyLoginTokenRsp, rsp, packet_id)
             return
 
+        # 账号系统严格模式：uid + token 必须来自 /account/login
+        if Config.ACCOUNT_STRICT_TOKEN:
+            try:
+                from utils import account as _account
+                _ok = _account.verify(req.sdk_uid, req.login_token)
+            except Exception:
+                _ok = False
+            if not _ok:
+                rsp.status = StatusCode.StatusCode_INVALID_TOKEN
+                session.send(MsgId.VerifyLoginTokenRsp, rsp, packet_id)
+                return
+
         player_id = db.get_player_id(user_id)
         with lock_session:
             for i in session_list:

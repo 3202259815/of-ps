@@ -12,6 +12,7 @@ from urllib.parse import urlencode
 from http_server.handlers.dispatch_handler import DispatchHandler
 from http_server.handlers.oauth_handler import OAuthHandler
 import utils.db as db
+from utils import account
 from config import Config
 
 logger = logging.getLogger(__name__)
@@ -30,10 +31,34 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# 手机端 QuickSDK v1/v2（AES/DES 表单）——实现见 http_server/sdk_quick.py
+from http_server.sdk_quick import router as quick_router  # noqa: E402
+
+app.include_router(quick_router)
+
 
 class LoginRequest(BaseModel):
     username: str
     password: str
+
+
+class RegisterRequest(BaseModel):
+    username: str
+    password: str
+    nickname: str = ""
+    birthday: str = ""
+
+
+class CheckRequest(BaseModel):
+    uid: int
+    token: str = ""
+
+
+class AccountUpdateRequest(BaseModel):
+    uid: int
+    token: str
+    nickname: str = None
+    birthday: str = None
 
 
 def millis() -> int:
@@ -100,7 +125,7 @@ async def get_image(version: str, filename: str, request: Request):
 
 @app.post("/dispatch/region_info")
 async def route_region_info(request: Request):
-    return JSONResponse(DispatchHandler.region_info())
+    return JSONResponse(DispatchHandler.region_info(request.headers.get("host")))
 
 
 @app.post("/dispatch/get_notice_url_list")
@@ -205,6 +230,58 @@ async def api_login(login: LoginRequest):
 @app.get("/loginSuccess.html")
 async def login_success():
     return Response(content="", status_code=200)
+
+
+# --------------------------------------------------------------------------- #
+# 本地账号接口（登录器用；不走 QuickSDK 的 OAuth）
+# --------------------------------------------------------------------------- #
+@app.post("/account/register")
+async def account_register(req: RegisterRequest):
+    try:
+        r = account.register(req.username, req.password, req.nickname, req.birthday)
+    except Exception as e:  # 数据库异常也要给登录器一个明确的 JSON
+        logger.exception("account_register failed")
+        return JSONResponse({"ok": False, "error": f"服务端错误: {e}"}, status_code=200)
+    if not r.get("ok"):
+        return JSONResponse(r, status_code=200)
+    logger.info(f"[account] register uid={r['uid']} username={r['username']}")
+    return JSONResponse(r)
+
+
+@app.post("/account/login")
+async def account_login(req: LoginRequest):
+    try:
+        r = account.login(req.username, req.password)
+    except Exception as e:
+        logger.exception("account_login failed")
+        return JSONResponse({"ok": False, "error": f"服务端错误: {e}"}, status_code=200)
+    if not r.get("ok"):
+        return JSONResponse(r, status_code=200)
+    logger.info(f"[account] login uid={r['uid']} username={r['username']}")
+    return JSONResponse(r)
+
+
+@app.post("/account/check")
+async def account_check(req: CheckRequest):
+    return JSONResponse({"ok": account.verify(req.uid, req.token)})
+
+
+@app.post("/account/update")
+async def account_update(req: AccountUpdateRequest):
+    try:
+        r = account.set_nickname(req.uid, req.token, req.nickname, req.birthday)
+    except Exception as e:
+        logger.exception("account_update failed")
+        return JSONResponse({"ok": False, "error": f"服务端错误: {e}"}, status_code=200)
+    return JSONResponse(r)
+
+
+@app.get("/account/profile")
+async def account_profile(uid: int):
+    p = account.profile(uid)
+    if not p:
+        return JSONResponse({"ok": False, "error": "账号不存在"}, status_code=200)
+    return JSONResponse({"ok": True, **p})
 
 
 def start():

@@ -14,14 +14,28 @@ class DispatchHandler:
         )
 
     @staticmethod
-    def region_info():
+    def region_info(host_header: str = None):
+        # 监听地址（0.0.0.0 / 空）不能直接发给客户端：客户端拿到 0.0.0.0 会连自己。
+        # 这种情况回填「客户端访问 dispatch 时用的那个主机名/IP」，本地就是 127.0.0.1，
+        # 公网就是玩家填进来的公网 IP 或域名，天然自适应。
+        ip = (Config.GAME_SERVER_GADGET_IP or "").strip()
+        if ip in ("", "0.0.0.0", "::", "*"):
+            ip = "127.0.0.1"
+            if host_header:
+                h = host_header.strip()
+                if h.startswith("["):           # [::1]:25565
+                    h = h[1:h.find("]")] if "]" in h else h
+                elif ":" in h:                  # 1.2.3.4:25565
+                    h = h.rsplit(":", 1)[0]
+                if h:
+                    ip = h
         return json.loads(
             '{"status":true,"message":"success","gate_tcp_ip":"'
-            + Config.GAME_SERVER_GADGET_IP
+            + ip
             + '","gate_tcp_port":'
             + str(Config.GAME_SERVER_GADGET_PORT)
             + ',"is_server_open":true,"text":"","client_log_tcp_ip":"'
-            + Config.GAME_SERVER_GADGET_IP
+            + ip
             + '","client_log_tcp_port":'
             + str(Config.GAME_SERVER_GADGET_PORT)
             + ',"currentVersion":"'

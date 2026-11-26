@@ -9,7 +9,7 @@ class Config:
     RES_VERSION = "2026-10-21-14-05-50_2026-11-25-19-54-41"  # global
     RES_URL = "http://cdn-of.inutan.com/Resources;https://cdn-of.inutan.com/Resources;http://127.0.0.1:21000/Resources"
 
-    GAME_SERVER_GADGET_IP = "127.0.0.1"  # access
+    GAME_SERVER_GADGET_IP = "0.0.0.0"  # access
     GAME_SERVER_GADGET_PORT = 25566
 
     # Game Server

@@ -988,3 +988,41 @@ class Config:
             31: ((110530501, 1),),
         },
     }
+
+
+# ---------------------------------------------------------------- 环境变量覆盖
+# Docker / 服务器部署时不用改代码：同名环境变量优先于类里的默认值
+import os as _os
+
+_ENV_TYPES = {
+    "HTTP_HOST": str,
+    "HTTP_PORT": int,
+    "GAME_SERVER_IP": str,
+    "GAME_SERVER_PORT": int,
+    "GAME_SERVER_GADGET_IP": str,
+    "GAME_SERVER_GADGET_PORT": int,
+    "RES_VERSION": str,
+    "RES_URL": str,
+    "SESSION_POOL_MAX_WORKERS": int,
+    "PACKET_POOL_MAX_WORKERS": int,
+    "ACTION_SYNC_WORKERS": int,
+    "SERVER_MAX_TPS": int,
+    "AUTOSAVE_INTERVAL_SEC": float,
+    "AUTOSAVE_MAX_DIRTY": int,
+    "IN_MEMORY": bool,
+    "DB_PATH": str,
+    "VERIFY_TOKEN": bool,
+    "ACCOUNT_STRICT_TOKEN": bool,
+}
+
+for _k, _t in _ENV_TYPES.items():
+    _v = _os.environ.get(_k)
+    if _v is None or _v == "":
+        continue
+    try:
+        if _t is bool:
+            setattr(Config, _k, _v.strip().lower() in ("1", "true", "yes", "on"))
+        else:
+            setattr(Config, _k, _t(_v))
+    except (TypeError, ValueError):
+        pass

@@ -1,4 +1,5 @@
 from config import Config
+import os
 import sys
 import types
 import logging
@@ -126,7 +127,11 @@ sys.excepthook = _handle_uncaught_main
 
 def _prompt_loop():
     global _sigint_count, _sigint_deadline, _session
-    session = PromptSession()
+    try:
+        session = PromptSession()
+    except Exception as exc:  # NoConsoleScreenBufferError 等
+        logging.info("无法创建命令提示符（%s）：跳过 GM 控制台", type(exc).__name__)
+        return
     _session = session
     try:
         with patch_stdout():
@@ -176,11 +181,24 @@ def _prompt_loop():
         _restore_terminal()
 
 
+def _interactive() -> bool:
+    """容器 / 重定向 / 后台运行时没有真实控制台，不能起 prompt。"""
+    if os.environ.get("OFPS_NO_PROMPT", "").strip().lower() in ("1", "true", "yes", "on"):
+        return False
+    try:
+        return bool(sys.stdin and sys.stdin.isatty())
+    except Exception:  # noqa: BLE001
+        return False
+
+
 def start():
     global _prompt_thread
     log_module.start(_stop_event)
-    _prompt_thread = threading.Thread(target=_prompt_loop, daemon=True)
-    _prompt_thread.start()
+    if _interactive():
+        _prompt_thread = threading.Thread(target=_prompt_loop, daemon=True)
+        _prompt_thread.start()
+    else:
+        logging.info("没有交互式控制台：跳过 GM 命令提示符（服务端正常运行）")
     return _stop_event
 
 

@@ -30,20 +30,38 @@ def _format_record_to_ansi(record):
     return color + text + Style.RESET_ALL
 
 
+def _format_record_plain(record):
+    if _formatter is not None:
+        return _formatter.format(record)
+    return f"{record.levelname}: {record.getMessage()}"
+
+
+_PLAIN_MODE = False
+
+
+def _emit(record):
+    """有真实控制台就用 prompt_toolkit 上色；没有（Docker/重定向）就退化成普通 print。"""
+    global _PLAIN_MODE
+    if not _PLAIN_MODE:
+        try:
+            print_formatted_text(ANSI(_format_record_to_ansi(record)))
+            return
+        except Exception:  # NoConsoleScreenBufferError 等
+            _PLAIN_MODE = True
+    print(_format_record_plain(record), flush=True)
+
+
 def _log_consumer_loop(q: queue.Queue, stop_event: threading.Event):
     while not stop_event.is_set():
         if q.empty():
             stop_event.wait(0.05)
             continue
         record = q.get_nowait()
-
-        msg = _format_record_to_ansi(record)
-        print_formatted_text(ANSI(msg))
+        _emit(record)
 
     while not q.empty():
         record = q.get_nowait()
-        msg = _format_record_to_ansi(record)
-        print_formatted_text(ANSI(msg))
+        _emit(record)
 
 
 def start(stop_event: threading.Event = None):

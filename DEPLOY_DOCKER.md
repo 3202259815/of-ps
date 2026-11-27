@@ -108,7 +108,67 @@ curl -s -X POST http://127.0.0.1:25565/dispatch/region_info \
 
 应返回 `gate_tcp_ip` / `gate_tcp_port` / `currentVersion` 的 JSON。
 
-## 5. 重启 / 升级 / 备份
+## 5. 发 GM 指令（give / tp / time …）
+
+容器里没有交互式控制台，所以指令走 **HTTP 接口**。
+
+**先在 `.env` 里设一个 token**（留空 = 接口关闭）：
+
+```bash
+echo 'GM_HTTP_TOKEN=换成你自己的随机串' >> .env
+docker compose up -d          # 重建容器让环境变量生效
+```
+
+**然后这样发指令**（把 25565 换成你的 `HTTP_PORT`）：
+
+```bash
+TOKEN=换成你自己的随机串
+
+# 给某个玩家一件物品（也是最常用的写法）
+curl -s -X POST http://127.0.0.1:25565/gm/cmd \
+  -H "X-GM-Token: $TOKEN" \
+  -d "cmd=give 1000001 402"
+
+# 给所有在线玩家发全套物品（动作+表情也会一起解锁）
+curl -s -X POST http://127.0.0.1:25565/gm/cmd \
+  -H "X-GM-Token: $TOKEN" \
+  -d "cmd=give all all"
+
+# 把玩家传送到场景 100
+curl -s -X POST http://127.0.0.1:25565/gm/cmd \
+  -H "X-GM-Token: $TOKEN" \
+  -d "cmd=tp 1000001 100"
+
+# 看在线玩家
+curl -s -X POST http://127.0.0.1:25565/gm/cmd \
+  -H "X-GM-Token: $TOKEN" \
+  -d "cmd=players"
+```
+
+返回示例（`output` 就是原来控制台里的那几行）：
+
+```json
+{"ok": true, "cmd": "give 10001 713285", "error": "", "output": ["..."]}
+```
+
+也支持 JSON 和纯文本 body：
+
+```bash
+curl -s -X POST http://127.0.0.1:25565/gm/cmd -H "X-GM-Token: $TOKEN" \
+  -H "Content-Type: application/json" -d '{"cmd":"give 1000001 402"}'
+
+curl -s -X POST http://127.0.0.1:25565/gm/cmd -H "X-GM-Token: $TOKEN" \
+  -H "Content-Type: text/plain" --data-binary "give 1000001 402"
+```
+
+注意：`give` 是按**在线玩家**找人的，玩家不在线会返回 `No matching players found.`。
+`player_id` 就是登录器里显示的 uid（比如 `1000001`），也可以用 `all`。
+
+> 想用原生的交互式控制台也可以：在 `docker-compose.yml` 的 `ofps` 下加
+> `stdin_open: true` 和 `tty: true`，重建容器后 `docker attach ofps`，
+> 退出用 `Ctrl+P Ctrl+Q`（直接 `Ctrl+C` 会把服务端停掉）。
+
+## 6. 重启 / 升级 / 备份
 
 ```bash
 docker compose restart ofps          # 重启

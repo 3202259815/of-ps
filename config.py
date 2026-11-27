@@ -76,6 +76,11 @@ class Config:
     AUTOSAVE_INTERVAL_SEC = 2.0
     AUTOSAVE_MAX_DIRTY = 200
 
+    # GM 指令 HTTP 接口（容器/无控制台时用它执行 give 等指令）
+    # 留空 = 关闭；设置后请求需带 X-GM-Token 头
+    GM_HTTP_TOKEN = ""
+    GM_HTTP_ENABLED = True
+
     # Package scanning
     HANDLERS_PACKAGE = "handlers"
 
@@ -1013,6 +1018,8 @@ _ENV_TYPES = {
     "DB_PATH": str,
     "VERIFY_TOKEN": bool,
     "ACCOUNT_STRICT_TOKEN": bool,
+    "GM_HTTP_TOKEN": str,
+    "GM_HTTP_ENABLED": bool,
 }
 
 for _k, _t in _ENV_TYPES.items():

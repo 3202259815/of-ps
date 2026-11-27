@@ -33,8 +33,10 @@ app.add_middleware(
 
 # 手机端 QuickSDK v1/v2（AES/DES 表单）——实现见 http_server/sdk_quick.py
 from http_server.sdk_quick import router as quick_router  # noqa: E402
+from http_server.gm_api import router as gm_router  # noqa: E402
 
 app.include_router(quick_router)
+app.include_router(gm_router)
 
 
 class LoginRequest(BaseModel):

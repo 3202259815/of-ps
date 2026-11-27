@@ -29,6 +29,9 @@ services:
       AUTOSAVE_MAX_DIRTY: "200"
       SESSION_POOL_MAX_WORKERS: "128"
       ACCOUNT_STRICT_TOKEN: "${ACCOUNT_STRICT_TOKEN:-false}"
+      # GM 指令 HTTP 接口（容器里没有控制台，用它执行 give 等指令）
+      GM_HTTP_ENABLED: "${GM_HTTP_ENABLED:-true}"
+      GM_HTTP_TOKEN: "${GM_HTTP_TOKEN:-}"
       TZ: "Asia/Shanghai"
     ports:
       # 宿主机端口:容器端口（同一个数字，改 .env 里的 HTTP_PORT / GATE_PORT 即可）

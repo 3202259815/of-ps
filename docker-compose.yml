@@ -1,0 +1,47 @@
+services:
+  ofps:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ofps:latest
+    container_name: ofps
+    restart: unless-stopped
+    environment:
+      # 对内监听：容器里统一 0.0.0.0，端口来自 env
+      HTTP_HOST: "0.0.0.0"
+      HTTP_PORT: "${HTTP_PORT:-25565}"
+      GAME_SERVER_IP: "0.0.0.0"
+      GAME_SERVER_PORT: "${GATE_PORT:-25566}"
+      # 发给客户端的 gate 地址：
+      #   0.0.0.0 = 自动回填客户端访问 dispatch 用的 Host（直连/同域名最省事）
+      #   填公网 IP 或域名 = 强制下发该地址（NAT/反代场景用）
+      GAME_SERVER_GADGET_IP: "${PUBLIC_IP:-0.0.0.0}"
+      GAME_SERVER_GADGET_PORT: "${GATE_PORT:-25566}"
+      RES_VERSION: "${RES_VERSION:-2026-10-21-14-05-50_2026-11-25-19-54-41}"
+      RES_URL: "${RES_URL:-http://cdn-of.inutan.com/Resources;https://cdn-of.inutan.com/Resources}"
+      DB_PATH: "/app/data/player.db"
+      IN_MEMORY: "false"
+      AUTOSAVE_INTERVAL_SEC: "2.0"
+      AUTOSAVE_MAX_DIRTY: "200"
+      SESSION_POOL_MAX_WORKERS: "128"
+      ACCOUNT_STRICT_TOKEN: "${ACCOUNT_STRICT_TOKEN:-false}"
+      TZ: "Asia/Shanghai"
+    ports:
+      # 宿主机端口:容器端口（同一个数字，改 .env 里的 HTTP_PORT / GATE_PORT 即可）
+      - "${HTTP_PORT:-25565}:${HTTP_PORT:-25565}"
+      - "${GATE_PORT:-25566}:${GATE_PORT:-25566}"
+    volumes:
+      # 配置表（118 个 JSON），只读挂载；由你本机的 resources/data 拷过去
+      - ./resources:/app/resources:ro
+      # 存档（SQLite）与日志，持久化
+      - ./data:/app/data
+      - ./logs:/app/logs
+    ulimits:
+      nofile:
+        soft: 65535
+        hard: 65535
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "5"

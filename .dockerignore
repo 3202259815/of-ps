@@ -1,0 +1,21 @@
+# 构建镜像时排除的本地文件
+.git
+.gitignore
+.idea
+.vscode
+venv
+.venv
+__pycache__
+*.pyc
+logs
+data
+player.db
+player.db-*
+run_new.log
+*.bak
+*.bak_*
+docs
+dist
+build
+resources/assets
+resources/swirlnoisetexture

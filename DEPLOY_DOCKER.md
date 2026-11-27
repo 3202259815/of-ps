@@ -8,6 +8,45 @@
 - 放行端口：`HTTP_PORT`（默认 25565，PC 登录器 + 手机 SDK 都连它）、`GATE_PORT`（默认 25566，游戏数据）
 - 内存：1.5 GB 起（100 人同时在线实测 ~250 MB）
 
+### 0.1 国内服务器：先解决镜像拉取（必看）
+
+如果 `docker compose build` 报这类错，说明连不上 Docker Hub：
+
+```
+failed to resolve source metadata for docker.io/docker/dockerfile:1: dial tcp ...: i/o timeout
+failed to do request: Head "https://registry-1.docker.io/v2/...": i/o timeout
+```
+
+两条路，任选：
+
+**A. 配镜像加速（推荐，一次配好）**
+
+```bash
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json >/dev/null <<'EOF'
+{
+  "registry-mirrors": [
+    "https://docker.m.daocloud.io",
+    "https://dockerproxy.com",
+    "https://mirror.ccs.tencentyun.com"
+  ]
+}
+EOF
+sudo systemctl daemon-reload && sudo systemctl restart docker
+docker pull python:3.12-slim    # 验证能拉
+```
+
+**B. 只给本项目换基础镜像源**
+
+在 `.env` 里加一行（镜像站任选，能拉就行）：
+
+```
+PYTHON_IMAGE=docker.m.daocloud.io/library/python:3.12-slim
+```
+
+> `Dockerfile` 里已经**没有** `# syntax=docker/dockerfile:1` 这行，所以不会再额外去拉 BuildKit 前端镜像；apt 与 pip 也都换成了国内源。
+
+
 ## 1. 上传代码
 
 ```bash

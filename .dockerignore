@@ -18,4 +18,5 @@ docs
 dist
 build
 resources/assets
+resources/data
 resources/swirlnoisetexture

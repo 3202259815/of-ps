@@ -1,0 +1,11 @@
+# Docker 构建上下文必须是 LF，否则 Linux 上 sh 会报 "\r: not found"
+Dockerfile            text eol=lf
+docker-compose.yml    text eol=lf
+*.yml                 text eol=lf
+*.yaml                text eol=lf
+.env.example          text eol=lf
+.dockerignore         text eol=lf
+*.sh                  text eol=lf
+*.md                  text eol=lf
+*.py                  text eol=lf
+*.proto               text eol=lf

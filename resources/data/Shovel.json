@@ -1,0 +1,27 @@
+{
+  "shovel": {
+    "datas": [
+      {
+        "i_d": 1007001,
+        "item_i_d": 1007001,
+        "excavate_time": 12,
+        "success_rate": 500,
+        "collection_i_d": 7000110
+      },
+      {
+        "i_d": 1007002,
+        "item_i_d": 1007002,
+        "excavate_time": 8,
+        "success_rate": 800,
+        "collection_i_d": 7000120
+      },
+      {
+        "i_d": 1007003,
+        "item_i_d": 1007003,
+        "excavate_time": 5,
+        "success_rate": 1000,
+        "collection_i_d": 7000130
+      }
+    ]
+  }
+}

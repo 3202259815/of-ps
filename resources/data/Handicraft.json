@@ -1,0 +1,5955 @@
+{
+  "handicraft_level": {
+    "datas": [
+      {
+        "i_d": 1,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 1000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510101,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510102,
+            "proficiency": 200,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510103,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510104,
+            "proficiency": 200,
+            "complete_limit": 15
+          }
+        ]
+      },
+      {
+        "i_d": 2,
+        "upgrade_level_by_proficiency": 8000,
+        "need_item_i_d": 101,
+        "need_item_count": 2000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510201,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510202,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510203,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510204,
+            "proficiency": 2000,
+            "complete_limit": 2
+          }
+        ]
+      },
+      {
+        "i_d": 3,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 3000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510301,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510302,
+            "proficiency": 600,
+            "complete_limit": 5
+          },
+          {
+            "achieve_condition_i_d": 100510303,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510304,
+            "proficiency": 200,
+            "complete_limit": 20
+          }
+        ]
+      },
+      {
+        "i_d": 4,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 5000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510401,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510402,
+            "proficiency": 200,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510403,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510404,
+            "proficiency": 200,
+            "complete_limit": 15
+          }
+        ]
+      },
+      {
+        "i_d": 5,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 8000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510501,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510502,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510503,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510504,
+            "proficiency": 200,
+            "complete_limit": 20
+          }
+        ]
+      },
+      {
+        "i_d": 6,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 10000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510601,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510602,
+            "proficiency": 600,
+            "complete_limit": 5
+          },
+          {
+            "achieve_condition_i_d": 100510603,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510604,
+            "proficiency": 1000,
+            "complete_limit": 4
+          }
+        ]
+      },
+      {
+        "i_d": 7,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 15000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510701,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510702,
+            "proficiency": 200,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510703,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510704,
+            "proficiency": 200,
+            "complete_limit": 15
+          }
+        ]
+      },
+      {
+        "i_d": 8,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 20000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510801,
+            "proficiency": 200,
+            "complete_limit": 15
+          },
+          {
+            "achieve_condition_i_d": 100510802,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510803,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510804,
+            "proficiency": 200,
+            "complete_limit": 20
+          }
+        ]
+      },
+      {
+        "i_d": 9,
+        "upgrade_level_by_proficiency": 10000,
+        "need_item_i_d": 101,
+        "need_item_count": 30000,
+        "handicraft_level_achieve": [
+          {
+            "achieve_condition_i_d": 100510901,
+            "proficiency": 100,
+            "complete_limit": 10
+          },
+          {
+            "achieve_condition_i_d": 100510902,
+            "proficiency": 600,
+            "complete_limit": 5
+          },
+          {
+            "achieve_condition_i_d": 100510903,
+            "proficiency": 200,
+            "complete_limit": 20
+          },
+          {
+            "achieve_condition_i_d": 100510904,
+            "proficiency": 200,
+            "complete_limit": 20
+          }
+        ]
+      },
+      {
+        "i_d": 10,
+        "upgrade_level_by_proficiency": 10000
+      }
+    ]
+  },
+  "handicraft_item": {
+    "datas": [
+      {
+        "i_d": 5052001,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031106,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3001,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.8,
+        "get_item_i_d": 5052001,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520012,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520014,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052002,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031104,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 3002,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052002,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520021,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520022,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520024,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052003,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031114,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3002,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052003,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520032,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520034,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052004,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 3004,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052004,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520041,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520042,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520044,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052005,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031105,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3006,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052005,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520051,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520052,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520054,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052006,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031114,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20200001,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.8,
+        "get_item_i_d": 5052006,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520062,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520063,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520064,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052007,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031106,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20300001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.9,
+        "get_item_i_d": 5052007,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520071,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520072,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520073,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520074,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052008,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031101,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 3005,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.9,
+        "get_item_i_d": 5052008,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520081,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520082,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520083,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520084,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052009,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031109,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20300001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052009,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520091,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520092,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520093,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520094,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052010,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031111,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3003,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052010,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520101,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520102,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520103,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520104,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052011,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031112,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 3003,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.8,
+        "get_item_i_d": 5052011,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520111,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520112,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520113,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520114,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052012,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031108,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 3001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.9,
+        "get_item_i_d": 5052012,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520121,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520122,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520123,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520124,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052013,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031110,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3001,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052013,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520131,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520132,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520133,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520134,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052014,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031114,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20300001,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052014,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520141,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520142,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520143,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520144,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052015,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031107,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3003,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052015,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520151,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520152,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520153,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520154,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052016,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031114,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 3005,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.8,
+        "get_item_i_d": 5052016,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520161,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520162,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520163,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520164,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052017,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031104,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3006,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.9,
+        "get_item_i_d": 5052017,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520171,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520172,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520173,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520174,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052018,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031113,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 3004,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.8,
+        "get_item_i_d": 5052018,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520181,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520182,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520183,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520184,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052019,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031112,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20200001,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052019,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520191,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520192,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520193,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520194,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052020,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031111,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 3001,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.9,
+        "get_item_i_d": 5052020,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520201,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520202,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520203,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520204,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052021,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031115,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 3002,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052021,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520211,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520212,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520213,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520214,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052022,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031102,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 3002,
+            "item_count": 8
+          }
+        ],
+        "successful_probability": 0.75,
+        "get_item_i_d": 5052022,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520221,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 150520222,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 150520223,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 150520224,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052023,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031103,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 3003,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052023,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520231,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 150520232,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 150520233,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 150520234,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 5052024,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 5031114,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20300001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 0.85,
+        "get_item_i_d": 5052024,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 150520241,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 150520242,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 150520243,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 150520244,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 4
+      },
+      {
+        "i_d": 801,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 801,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008012,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008014,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 802,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 802,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008021,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008024,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 803,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 803,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008032,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008034,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 804,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400102,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 804,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008041,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008042,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008044,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 805,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400102,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 805,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008051,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008054,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 806,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 806,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008062,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008063,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008064,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 807,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 807,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008071,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008072,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008073,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008074,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 808,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400101,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 808,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008081,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008082,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008083,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008084,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 811,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 811,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008111,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008112,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008113,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008114,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 812,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 812,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008121,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008122,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008123,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008124,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 813,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 813,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008131,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008132,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008133,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008134,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 814,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 814,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008141,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008142,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008143,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008144,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 815,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 815,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008151,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008152,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008153,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008154,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 816,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400101,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 816,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008161,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008162,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008163,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008164,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 817,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400104,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 817,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008171,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008172,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008173,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008174,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 818,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400102,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 818,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008181,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008182,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008183,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008184,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 821,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 821,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008211,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008212,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008213,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008214,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 822,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 822,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008221,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008222,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008223,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008224,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 823,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 823,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008231,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008232,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008233,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008234,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 824,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400106,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 824,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008241,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008242,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008243,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008244,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 825,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400104,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 825,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008251,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008252,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008253,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008254,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 826,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 826,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008261,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008262,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008263,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008264,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 827,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400101,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 827,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008271,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008272,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008273,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008274,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 828,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400103,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 828,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008281,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008282,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008283,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008284,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 831,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 831,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008311,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008312,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008313,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008314,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 832,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400101,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 832,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008321,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008322,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008323,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008324,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 833,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 833,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008331,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008332,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008333,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008334,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 834,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 834,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008341,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008342,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008343,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008344,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 835,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 835,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008351,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008352,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008353,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008354,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 836,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 836,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008361,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008362,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008363,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008364,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 837,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 837,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008371,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008372,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008373,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008374,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 838,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400104,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 838,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008381,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008382,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008383,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008384,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 841,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 841,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008411,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008412,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008413,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008414,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 842,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400101,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 842,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008421,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008422,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008423,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008424,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 843,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 843,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008431,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008432,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008433,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008434,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 844,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 844,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008441,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008442,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008443,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008444,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 845,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 845,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008451,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008452,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008453,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008454,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 846,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 846,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008461,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008462,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008463,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008464,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 847,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 847,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008471,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008472,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008473,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008474,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 848,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400105,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400107,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 848,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008481,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008482,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008483,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008484,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 851,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 851,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008511,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008512,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008513,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008514,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 852,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 852,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008521,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008522,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008523,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008524,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 853,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 853,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008531,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008532,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008533,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008534,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 854,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400206,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 854,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008541,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008542,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008543,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008544,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 855,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 855,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008551,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008552,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008553,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008554,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 856,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 856,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008561,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008562,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008563,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008564,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 857,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400107,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 857,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008571,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008572,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008573,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008574,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 858,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400106,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 858,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008581,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008582,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008583,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008584,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 861,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400207,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 861,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008611,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008612,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008613,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008614,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 862,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 862,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008621,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008622,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008623,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008624,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 863,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 863,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008631,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008632,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008633,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008634,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 864,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 2
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 864,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008641,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008642,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008643,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008644,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 865,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 865,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008651,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008652,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008653,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 100008654,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 866,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400201,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400203,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 866,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008661,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 100008662,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 100008663,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008664,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 867,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 20400205,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 867,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008671,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 100008672,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 100008673,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 100008674,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 868,
+        "is_show": true,
+        "is_handbook_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20400107,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 20400204,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400202,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 868,
+        "handicraft_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 100008681,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 100008682,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 100008683,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 100008684,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_handicraft_page_type": 5
+      },
+      {
+        "i_d": 6018,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "opening_time": "2025-11-27 00:00:00",
+        "closing_time": "2025-12-07 23:59:59",
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 6015,
+            "item_count": 5
+          },
+          {
+            "item_i_d": 6016,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 6017,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 6018,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000010,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20200001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20300001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 3002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 3003,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100001,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000020,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600016,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600020,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600022,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000021,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600021,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600023,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600015,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000022,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400009,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400001,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000023,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400017,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400018,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400010,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000024,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100003,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100004,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100005,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100006,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000025,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100021,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100022,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100026,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100025,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000030,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600019,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600013,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600027,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000031,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600011,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600017,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600010,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000032,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400004,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400011,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400003,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000033,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400019,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400020,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400012,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000034,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100007,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100008,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100010,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100009,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000035,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100023,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100024,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100019,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100020,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000040,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600024,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600018,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600025,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000041,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600006,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600007,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600026,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000042,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400006,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400013,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400005,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000043,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400022,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400021,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400014,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000044,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100013,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100014,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100011,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100012,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000045,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100029,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100030,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100031,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100032,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100004,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000050,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600005,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600008,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000051,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600004,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20600009,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000052,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400008,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400015,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400007,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000053,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100001,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400023,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400024,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20400016,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000054,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100015,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100016,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100017,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100018,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000055,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 20100027,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100028,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100033,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20100034,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000060,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 200100003,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 200100004,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 200100005,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000061,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100002,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 20200002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20300002,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000062,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100003,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 20200002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20300002,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000063,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100004,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 20200002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20300002,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 2001000064,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 10,
+        "handicraft_items": [
+          {
+            "item_i_d": 200100005,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 20200002,
+            "item_count": 1
+          },
+          {
+            "item_i_d": 20300002,
+            "item_count": 1
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 200100006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 1102,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1101,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1102,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 1103,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1102,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1103,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 20200002,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 20200001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 20200002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 20300002,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 20300001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 20300002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 20500002,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 5,
+        "need_item_i_d": 11,
+        "need_item_count": 20,
+        "handicraft_items": [
+          {
+            "item_i_d": 20500001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 20500002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 6000080,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "opening_time": "2026-10-29 15:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 6009,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 6010,
+            "item_count": 3
+          },
+          {
+            "item_i_d": 6011,
+            "item_count": 5
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 6000080,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 6000081,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "opening_time": "2026-10-29 15:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 6009,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 6010,
+            "item_count": 4
+          },
+          {
+            "item_i_d": 6011,
+            "item_count": 4
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 6000080,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 6000082,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "opening_time": "2026-10-29 15:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 6009,
+            "item_count": 2
+          },
+          {
+            "item_i_d": 6010,
+            "item_count": 5
+          },
+          {
+            "item_i_d": 6011,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 6000080,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 1
+      },
+      {
+        "i_d": 5000002,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000003,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000002,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000005,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000004,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000005,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000006,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000005,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000006,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000008,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000007,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000008,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000009,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000008,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000009,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000011,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000010,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000011,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000012,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000011,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000012,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000014,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000013,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000014,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 5000015,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 5000014,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 5000015,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1001,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1000,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1001,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1002,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1001,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1002,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1003,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1002,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1003,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1011,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1010,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1011,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1012,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1011,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1012,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1013,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1012,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1013,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1021,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1020,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1021,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1022,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1021,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1022,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1023,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1022,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1023,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1031,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1030,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1031,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1032,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1031,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1032,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      },
+      {
+        "i_d": 1033,
+        "is_show": true,
+        "handicraft_level": 1,
+        "need_time": 3,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "handicraft_items": [
+          {
+            "item_i_d": 1032,
+            "item_count": 3
+          }
+        ],
+        "successful_probability": 1.0,
+        "get_item_i_d": 1033,
+        "new_handicraft_type": 1,
+        "new_handicraft_page_type": 6
+      }
+    ]
+  },
+  "handicraft_spell": {
+    "datas": [
+      {
+        "i_d": 35100,
+        "handicraft_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 35100,
+            "text_i_d": 35101,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.01,
+            "need_handicraft_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 35100,
+            "text_i_d": 35102,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.02,
+            "need_handicraft_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "icon_i_d": 35100,
+            "text_i_d": 35103,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.03,
+            "need_handicraft_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "icon_i_d": 35100,
+            "text_i_d": 35104,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.04,
+            "need_handicraft_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "icon_i_d": 35100,
+            "text_i_d": 35105,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.05,
+            "need_handicraft_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "icon_i_d": 35100,
+            "text_i_d": 35106,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.06,
+            "need_handicraft_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "icon_i_d": 35100,
+            "text_i_d": 35107,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.07,
+            "need_handicraft_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "icon_i_d": 35100,
+            "text_i_d": 35108,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.08,
+            "need_handicraft_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "icon_i_d": 35100,
+            "text_i_d": 35109,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.09,
+            "need_handicraft_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "icon_i_d": 35100,
+            "text_i_d": 35110,
+            "new_life_spell_effect_type": 17,
+            "spell_param1": 0.1,
+            "need_handicraft_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 50000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 35200,
+        "handicraft_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 35200,
+            "text_i_d": 35201,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.01,
+            "need_handicraft_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 35200,
+            "text_i_d": 35202,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.02,
+            "need_handicraft_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "icon_i_d": 35200,
+            "text_i_d": 35203,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.03,
+            "need_handicraft_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "icon_i_d": 35200,
+            "text_i_d": 35204,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.04,
+            "need_handicraft_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "icon_i_d": 35200,
+            "text_i_d": 35205,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.05,
+            "need_handicraft_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "icon_i_d": 35200,
+            "text_i_d": 35206,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.06,
+            "need_handicraft_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "icon_i_d": 35200,
+            "text_i_d": 35207,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.07,
+            "need_handicraft_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "icon_i_d": 35200,
+            "text_i_d": 35208,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.08,
+            "need_handicraft_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "icon_i_d": 35200,
+            "text_i_d": 35209,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.09,
+            "need_handicraft_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "icon_i_d": 35200,
+            "text_i_d": 35210,
+            "new_life_spell_effect_type": 21,
+            "spell_param1": 0.1,
+            "need_handicraft_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 50000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 35300,
+        "handicraft_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 35300,
+            "text_i_d": 35301,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.02,
+            "need_handicraft_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 35300,
+            "text_i_d": 35302,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.04,
+            "need_handicraft_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "icon_i_d": 35300,
+            "text_i_d": 35303,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.06,
+            "need_handicraft_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "icon_i_d": 35300,
+            "text_i_d": 35304,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.08,
+            "need_handicraft_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "icon_i_d": 35300,
+            "text_i_d": 35305,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.1,
+            "need_handicraft_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "icon_i_d": 35300,
+            "text_i_d": 35306,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.12,
+            "need_handicraft_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "icon_i_d": 35300,
+            "text_i_d": 35307,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.14,
+            "need_handicraft_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "icon_i_d": 35300,
+            "text_i_d": 35308,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.16,
+            "need_handicraft_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "icon_i_d": 35300,
+            "text_i_d": 35309,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.18,
+            "need_handicraft_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "icon_i_d": 35300,
+            "text_i_d": 35310,
+            "new_life_spell_effect_type": 22,
+            "spell_param1": 0.2,
+            "need_handicraft_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 50000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 35400,
+        "handicraft_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 35400,
+            "text_i_d": 35401,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 1.0,
+            "need_handicraft_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 35400,
+            "text_i_d": 35402,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 2.0,
+            "need_handicraft_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "icon_i_d": 35400,
+            "text_i_d": 35403,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 3.0,
+            "need_handicraft_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "icon_i_d": 35400,
+            "text_i_d": 35404,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 4.0,
+            "need_handicraft_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "icon_i_d": 35400,
+            "text_i_d": 35405,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 5.0,
+            "need_handicraft_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "icon_i_d": 35400,
+            "text_i_d": 35406,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 6.0,
+            "need_handicraft_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "icon_i_d": 35400,
+            "text_i_d": 35407,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 7.0,
+            "need_handicraft_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "icon_i_d": 35400,
+            "text_i_d": 35408,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 8.0,
+            "need_handicraft_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "icon_i_d": 35400,
+            "text_i_d": 35409,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 9.0,
+            "need_handicraft_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "icon_i_d": 35400,
+            "text_i_d": 35410,
+            "new_life_spell_effect_type": 23,
+            "spell_param1": 10.0,
+            "need_handicraft_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 50000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 35500,
+        "handicraft_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 35500,
+            "text_i_d": 35501,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.1,
+            "spell_param2": 1.0,
+            "need_handicraft_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 35500,
+            "text_i_d": 35502,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.1,
+            "spell_param2": 2.0,
+            "need_handicraft_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "icon_i_d": 35500,
+            "text_i_d": 35503,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.1,
+            "spell_param2": 3.0,
+            "need_handicraft_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "icon_i_d": 35500,
+            "text_i_d": 35504,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.1,
+            "spell_param2": 4.0,
+            "need_handicraft_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000013,
+                "need_item_count": 3
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "icon_i_d": 35500,
+            "text_i_d": 35505,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.1,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "icon_i_d": 35500,
+            "text_i_d": 35506,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.12,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "icon_i_d": 35500,
+            "text_i_d": 35507,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.14,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000014,
+                "need_item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "icon_i_d": 35500,
+            "text_i_d": 35508,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.16,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "icon_i_d": 35500,
+            "text_i_d": 35509,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.18,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "icon_i_d": 35500,
+            "text_i_d": 35510,
+            "new_life_spell_effect_type": 24,
+            "spell_param1": 0.2,
+            "spell_param2": 5.0,
+            "need_handicraft_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 50000,
+            "handicraft_need_item": [
+              {
+                "need_item_i_d": 5000015,
+                "need_item_count": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3441 @@
+{
+  "battle_encounter": {
+    "datas": [
+      {
+        "i_d": 999,
+        "c_d": 10,
+        "show_timer": 100,
+        "live_timer": 100,
+        "asset_full_name": "Level/Encounter/EncounterBattle_999"
+      },
+      {
+        "i_d": 1001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1001",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1002",
+        "whether_show": true
+      },
+      {
+        "i_d": 1003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1003",
+        "whether_show": true
+      },
+      {
+        "i_d": 1004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1004",
+        "whether_show": true
+      },
+      {
+        "i_d": 1005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1005",
+        "whether_show": true
+      },
+      {
+        "i_d": 1006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1006",
+        "whether_show": true
+      },
+      {
+        "i_d": 1007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1007",
+        "whether_show": true
+      },
+      {
+        "i_d": 1008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1008",
+        "whether_show": true
+      },
+      {
+        "i_d": 1009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1009",
+        "whether_show": true
+      },
+      {
+        "i_d": 1010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1010",
+        "whether_show": true
+      },
+      {
+        "i_d": 1011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1011",
+        "whether_show": true
+      },
+      {
+        "i_d": 1012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1012",
+        "whether_show": true
+      },
+      {
+        "i_d": 1013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1013",
+        "whether_show": true
+      },
+      {
+        "i_d": 1014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1014",
+        "whether_show": true
+      },
+      {
+        "i_d": 1015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1015",
+        "whether_show": true
+      },
+      {
+        "i_d": 1016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1016",
+        "whether_show": true
+      },
+      {
+        "i_d": 1017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1017",
+        "whether_show": true
+      },
+      {
+        "i_d": 1018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1018",
+        "whether_show": true
+      },
+      {
+        "i_d": 1019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1019",
+        "whether_show": true
+      },
+      {
+        "i_d": 1020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1020",
+        "whether_show": true
+      },
+      {
+        "i_d": 1021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1021",
+        "whether_show": true
+      },
+      {
+        "i_d": 1022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1022",
+        "whether_show": true
+      },
+      {
+        "i_d": 1023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1023",
+        "whether_show": true
+      },
+      {
+        "i_d": 1024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1024",
+        "whether_show": true
+      },
+      {
+        "i_d": 1025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1025",
+        "whether_show": true
+      },
+      {
+        "i_d": 1026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1026",
+        "whether_show": true
+      },
+      {
+        "i_d": 1027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1027",
+        "whether_show": true
+      },
+      {
+        "i_d": 1028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1028",
+        "whether_show": true
+      },
+      {
+        "i_d": 1029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1029",
+        "whether_show": true
+      },
+      {
+        "i_d": 1030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1030",
+        "whether_show": true
+      },
+      {
+        "i_d": 1031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1031",
+        "whether_show": true
+      },
+      {
+        "i_d": 1032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1032",
+        "whether_show": true
+      },
+      {
+        "i_d": 1033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1033",
+        "whether_show": true
+      },
+      {
+        "i_d": 1034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1034",
+        "whether_show": true
+      },
+      {
+        "i_d": 1035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1035",
+        "whether_show": true
+      },
+      {
+        "i_d": 1036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1036",
+        "whether_show": true
+      },
+      {
+        "i_d": 1037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1037",
+        "whether_show": true
+      },
+      {
+        "i_d": 1038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1038",
+        "whether_show": true
+      },
+      {
+        "i_d": 1039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1039",
+        "whether_show": true
+      },
+      {
+        "i_d": 1040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1040",
+        "whether_show": true
+      },
+      {
+        "i_d": 1041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1041",
+        "whether_show": true
+      },
+      {
+        "i_d": 1042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1042",
+        "whether_show": true
+      },
+      {
+        "i_d": 1043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1043",
+        "whether_show": true
+      },
+      {
+        "i_d": 1044,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1044",
+        "whether_show": true
+      },
+      {
+        "i_d": 1045,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1045",
+        "whether_show": true
+      },
+      {
+        "i_d": 1046,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1046",
+        "whether_show": true
+      },
+      {
+        "i_d": 1047,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1047",
+        "whether_show": true
+      },
+      {
+        "i_d": 1048,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1048",
+        "whether_show": true
+      },
+      {
+        "i_d": 1049,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1049",
+        "whether_show": true
+      },
+      {
+        "i_d": 1050,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1050",
+        "whether_show": true
+      },
+      {
+        "i_d": 1051,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1051",
+        "whether_show": true
+      },
+      {
+        "i_d": 1052,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1052",
+        "whether_show": true
+      },
+      {
+        "i_d": 1053,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1053",
+        "whether_show": true
+      },
+      {
+        "i_d": 1054,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1054",
+        "whether_show": true
+      },
+      {
+        "i_d": 1055,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1055",
+        "whether_show": true
+      },
+      {
+        "i_d": 1056,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1056",
+        "whether_show": true
+      },
+      {
+        "i_d": 1057,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1057",
+        "whether_show": true
+      },
+      {
+        "i_d": 1058,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1058",
+        "whether_show": true
+      },
+      {
+        "i_d": 1059,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1059",
+        "whether_show": true
+      },
+      {
+        "i_d": 1060,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1060",
+        "whether_show": true
+      },
+      {
+        "i_d": 1061,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1061",
+        "whether_show": true
+      },
+      {
+        "i_d": 1062,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1062",
+        "whether_show": true
+      },
+      {
+        "i_d": 1063,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1063",
+        "whether_show": true
+      },
+      {
+        "i_d": 1064,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1064",
+        "whether_show": true
+      },
+      {
+        "i_d": 1065,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1065",
+        "whether_show": true
+      },
+      {
+        "i_d": 1066,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1066",
+        "whether_show": true
+      },
+      {
+        "i_d": 1067,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1067",
+        "whether_show": true
+      },
+      {
+        "i_d": 1068,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1068",
+        "whether_show": true
+      },
+      {
+        "i_d": 1069,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1069",
+        "whether_show": true
+      },
+      {
+        "i_d": 1070,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1070",
+        "whether_show": true
+      },
+      {
+        "i_d": 1071,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1071",
+        "whether_show": true
+      },
+      {
+        "i_d": 1072,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1072",
+        "whether_show": true
+      },
+      {
+        "i_d": 1073,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1073",
+        "whether_show": true
+      },
+      {
+        "i_d": 1074,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1074",
+        "whether_show": true
+      },
+      {
+        "i_d": 1075,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1075",
+        "whether_show": true
+      },
+      {
+        "i_d": 1076,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1076",
+        "whether_show": true
+      },
+      {
+        "i_d": 1077,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1077",
+        "whether_show": true
+      },
+      {
+        "i_d": 1078,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1078",
+        "whether_show": true
+      },
+      {
+        "i_d": 1079,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1079",
+        "whether_show": true
+      },
+      {
+        "i_d": 1080,
+        "is_special": true,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1080",
+        "whether_show": true
+      },
+      {
+        "i_d": 1101,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001/EncounterBattle_1101",
+        "whether_show": true
+      },
+      {
+        "i_d": 2001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2001",
+        "whether_show": true
+      },
+      {
+        "i_d": 2002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2002",
+        "whether_show": true
+      },
+      {
+        "i_d": 2003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2003",
+        "whether_show": true
+      },
+      {
+        "i_d": 2004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2004",
+        "whether_show": true
+      },
+      {
+        "i_d": 2005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2005",
+        "whether_show": true
+      },
+      {
+        "i_d": 2006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2006",
+        "whether_show": true
+      },
+      {
+        "i_d": 2007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2007",
+        "whether_show": true
+      },
+      {
+        "i_d": 2008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2008",
+        "whether_show": true
+      },
+      {
+        "i_d": 2009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2009",
+        "whether_show": true
+      },
+      {
+        "i_d": 2010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2010",
+        "whether_show": true
+      },
+      {
+        "i_d": 2011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2011",
+        "whether_show": true
+      },
+      {
+        "i_d": 2012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2012",
+        "whether_show": true
+      },
+      {
+        "i_d": 2013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2013",
+        "whether_show": true
+      },
+      {
+        "i_d": 2014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2014",
+        "whether_show": true
+      },
+      {
+        "i_d": 2015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2015",
+        "whether_show": true
+      },
+      {
+        "i_d": 2016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2016",
+        "whether_show": true
+      },
+      {
+        "i_d": 2017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2017",
+        "whether_show": true
+      },
+      {
+        "i_d": 2018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2018",
+        "whether_show": true
+      },
+      {
+        "i_d": 2019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2019",
+        "whether_show": true
+      },
+      {
+        "i_d": 2020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2020",
+        "whether_show": true
+      },
+      {
+        "i_d": 2021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2021",
+        "whether_show": true
+      },
+      {
+        "i_d": 2022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2022",
+        "whether_show": true
+      },
+      {
+        "i_d": 2023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2023",
+        "whether_show": true
+      },
+      {
+        "i_d": 2024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2024",
+        "whether_show": true
+      },
+      {
+        "i_d": 2025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2025",
+        "whether_show": true
+      },
+      {
+        "i_d": 2026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2026",
+        "whether_show": true
+      },
+      {
+        "i_d": 2027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2027",
+        "whether_show": true
+      },
+      {
+        "i_d": 2028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2028",
+        "whether_show": true
+      },
+      {
+        "i_d": 2029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2029",
+        "whether_show": true
+      },
+      {
+        "i_d": 2030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2030",
+        "whether_show": true
+      },
+      {
+        "i_d": 2031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2031",
+        "whether_show": true
+      },
+      {
+        "i_d": 2032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2032",
+        "whether_show": true
+      },
+      {
+        "i_d": 2033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2033",
+        "whether_show": true
+      },
+      {
+        "i_d": 2034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2034",
+        "whether_show": true
+      },
+      {
+        "i_d": 2035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2035",
+        "whether_show": true
+      },
+      {
+        "i_d": 2036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2036",
+        "whether_show": true
+      },
+      {
+        "i_d": 2037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2037",
+        "whether_show": true
+      },
+      {
+        "i_d": 2038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2038",
+        "whether_show": true
+      },
+      {
+        "i_d": 2039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2039",
+        "whether_show": true
+      },
+      {
+        "i_d": 2040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2040",
+        "whether_show": true
+      },
+      {
+        "i_d": 2041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2041",
+        "whether_show": true
+      },
+      {
+        "i_d": 2042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2042",
+        "whether_show": true
+      },
+      {
+        "i_d": 2043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2043",
+        "whether_show": true
+      },
+      {
+        "i_d": 2044,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2044",
+        "whether_show": true
+      },
+      {
+        "i_d": 2045,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2045",
+        "whether_show": true
+      },
+      {
+        "i_d": 2046,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2046",
+        "whether_show": true
+      },
+      {
+        "i_d": 2047,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2047",
+        "whether_show": true
+      },
+      {
+        "i_d": 2048,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2048",
+        "whether_show": true
+      },
+      {
+        "i_d": 2049,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2049",
+        "whether_show": true
+      },
+      {
+        "i_d": 2050,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2050",
+        "whether_show": true
+      },
+      {
+        "i_d": 2051,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2051",
+        "whether_show": true
+      },
+      {
+        "i_d": 2052,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2052",
+        "whether_show": true
+      },
+      {
+        "i_d": 2053,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2053",
+        "whether_show": true
+      },
+      {
+        "i_d": 2054,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2054",
+        "whether_show": true
+      },
+      {
+        "i_d": 2055,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2055",
+        "whether_show": true
+      },
+      {
+        "i_d": 2056,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2056",
+        "whether_show": true
+      },
+      {
+        "i_d": 2057,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2057",
+        "whether_show": true
+      },
+      {
+        "i_d": 2058,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2058",
+        "whether_show": true
+      },
+      {
+        "i_d": 2059,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2059",
+        "whether_show": true
+      },
+      {
+        "i_d": 2060,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2060",
+        "whether_show": true
+      },
+      {
+        "i_d": 2061,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2061",
+        "whether_show": true
+      },
+      {
+        "i_d": 2062,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2062",
+        "whether_show": true
+      },
+      {
+        "i_d": 2063,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2063",
+        "whether_show": true
+      },
+      {
+        "i_d": 2064,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2064",
+        "whether_show": true
+      },
+      {
+        "i_d": 2065,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2065",
+        "whether_show": true
+      },
+      {
+        "i_d": 2066,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2066",
+        "whether_show": true
+      },
+      {
+        "i_d": 2067,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2067",
+        "whether_show": true
+      },
+      {
+        "i_d": 2068,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2068",
+        "whether_show": true
+      },
+      {
+        "i_d": 2069,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2069",
+        "whether_show": true
+      },
+      {
+        "i_d": 2070,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2070",
+        "whether_show": true
+      },
+      {
+        "i_d": 2071,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2071",
+        "whether_show": true
+      },
+      {
+        "i_d": 2072,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2072",
+        "whether_show": true
+      },
+      {
+        "i_d": 2073,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2073",
+        "whether_show": true
+      },
+      {
+        "i_d": 2074,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2074",
+        "whether_show": true
+      },
+      {
+        "i_d": 2075,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2075",
+        "whether_show": true
+      },
+      {
+        "i_d": 2076,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2076",
+        "whether_show": true
+      },
+      {
+        "i_d": 2077,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2077",
+        "whether_show": true
+      },
+      {
+        "i_d": 2078,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2078",
+        "whether_show": true
+      },
+      {
+        "i_d": 2079,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2079",
+        "whether_show": true
+      },
+      {
+        "i_d": 2080,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2080",
+        "whether_show": true
+      },
+      {
+        "i_d": 2081,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2081",
+        "whether_show": true
+      },
+      {
+        "i_d": 2082,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2082",
+        "whether_show": true
+      },
+      {
+        "i_d": 2083,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2083",
+        "whether_show": true
+      },
+      {
+        "i_d": 2084,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2084",
+        "whether_show": true
+      },
+      {
+        "i_d": 2085,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2085",
+        "whether_show": true
+      },
+      {
+        "i_d": 2086,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2086",
+        "whether_show": true
+      },
+      {
+        "i_d": 2087,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2087",
+        "whether_show": true
+      },
+      {
+        "i_d": 2088,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2088",
+        "whether_show": true
+      },
+      {
+        "i_d": 2089,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002/EncounterBattle_2089",
+        "whether_show": true
+      },
+      {
+        "i_d": 3001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3001",
+        "whether_show": true
+      },
+      {
+        "i_d": 3002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3002",
+        "whether_show": true
+      },
+      {
+        "i_d": 3003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3003",
+        "whether_show": true
+      },
+      {
+        "i_d": 3004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3004",
+        "whether_show": true
+      },
+      {
+        "i_d": 3005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3005",
+        "whether_show": true
+      },
+      {
+        "i_d": 3006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3006",
+        "whether_show": true
+      },
+      {
+        "i_d": 3007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3007",
+        "whether_show": true
+      },
+      {
+        "i_d": 3008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3008",
+        "whether_show": true
+      },
+      {
+        "i_d": 3009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3009",
+        "whether_show": true
+      },
+      {
+        "i_d": 3010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3010",
+        "whether_show": true
+      },
+      {
+        "i_d": 3011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3011",
+        "whether_show": true
+      },
+      {
+        "i_d": 3012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3012",
+        "whether_show": true
+      },
+      {
+        "i_d": 3013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3013",
+        "whether_show": true
+      },
+      {
+        "i_d": 3014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3014",
+        "whether_show": true
+      },
+      {
+        "i_d": 3015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3015",
+        "whether_show": true
+      },
+      {
+        "i_d": 3016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3016",
+        "whether_show": true
+      },
+      {
+        "i_d": 3017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3017",
+        "whether_show": true
+      },
+      {
+        "i_d": 3018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3018",
+        "whether_show": true
+      },
+      {
+        "i_d": 3019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3019",
+        "whether_show": true
+      },
+      {
+        "i_d": 3020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3020",
+        "whether_show": true
+      },
+      {
+        "i_d": 3021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3021",
+        "whether_show": true
+      },
+      {
+        "i_d": 3022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3022",
+        "whether_show": true
+      },
+      {
+        "i_d": 3023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3023",
+        "whether_show": true
+      },
+      {
+        "i_d": 3024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3024",
+        "whether_show": true
+      },
+      {
+        "i_d": 3025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3025",
+        "whether_show": true
+      },
+      {
+        "i_d": 3026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3026",
+        "whether_show": true
+      },
+      {
+        "i_d": 3027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3027",
+        "whether_show": true
+      },
+      {
+        "i_d": 3028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3028",
+        "whether_show": true
+      },
+      {
+        "i_d": 3029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3029",
+        "whether_show": true
+      },
+      {
+        "i_d": 3030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3030",
+        "whether_show": true
+      },
+      {
+        "i_d": 3031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3031",
+        "whether_show": true
+      },
+      {
+        "i_d": 3032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3032",
+        "whether_show": true
+      },
+      {
+        "i_d": 3033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3033",
+        "whether_show": true
+      },
+      {
+        "i_d": 3034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3034",
+        "whether_show": true
+      },
+      {
+        "i_d": 3035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3035",
+        "whether_show": true
+      },
+      {
+        "i_d": 3036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3036",
+        "whether_show": true
+      },
+      {
+        "i_d": 3037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3037",
+        "whether_show": true
+      },
+      {
+        "i_d": 3038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3038",
+        "whether_show": true
+      },
+      {
+        "i_d": 3039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3039",
+        "whether_show": true
+      },
+      {
+        "i_d": 3040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3040",
+        "whether_show": true
+      },
+      {
+        "i_d": 3041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3041",
+        "whether_show": true
+      },
+      {
+        "i_d": 3042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3042",
+        "whether_show": true
+      },
+      {
+        "i_d": 3043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3043",
+        "whether_show": true
+      },
+      {
+        "i_d": 3044,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3044",
+        "whether_show": true
+      },
+      {
+        "i_d": 3045,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3045",
+        "whether_show": true
+      },
+      {
+        "i_d": 3046,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3046",
+        "whether_show": true
+      },
+      {
+        "i_d": 3047,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3047",
+        "whether_show": true
+      },
+      {
+        "i_d": 3048,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3048",
+        "whether_show": true
+      },
+      {
+        "i_d": 3049,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3049",
+        "whether_show": true
+      },
+      {
+        "i_d": 3050,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3050",
+        "whether_show": true
+      },
+      {
+        "i_d": 3051,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3051",
+        "whether_show": true
+      },
+      {
+        "i_d": 3052,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3052",
+        "whether_show": true
+      },
+      {
+        "i_d": 3053,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3053",
+        "whether_show": true
+      },
+      {
+        "i_d": 3054,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3054",
+        "whether_show": true
+      },
+      {
+        "i_d": 3055,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3055",
+        "whether_show": true
+      },
+      {
+        "i_d": 3101,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle001_Night/EncounterBattle_3101",
+        "whether_show": true
+      },
+      {
+        "i_d": 4001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4001",
+        "whether_show": true
+      },
+      {
+        "i_d": 4002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4002",
+        "whether_show": true
+      },
+      {
+        "i_d": 4003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4003",
+        "whether_show": true
+      },
+      {
+        "i_d": 4004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4004",
+        "whether_show": true
+      },
+      {
+        "i_d": 4005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4005",
+        "whether_show": true
+      },
+      {
+        "i_d": 4006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4006",
+        "whether_show": true
+      },
+      {
+        "i_d": 4007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4007",
+        "whether_show": true
+      },
+      {
+        "i_d": 4008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4008",
+        "whether_show": true
+      },
+      {
+        "i_d": 4009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4009",
+        "whether_show": true
+      },
+      {
+        "i_d": 4010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4010",
+        "whether_show": true
+      },
+      {
+        "i_d": 4011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4011",
+        "whether_show": true
+      },
+      {
+        "i_d": 4012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4012",
+        "whether_show": true
+      },
+      {
+        "i_d": 4013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4013",
+        "whether_show": true
+      },
+      {
+        "i_d": 4014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4014",
+        "whether_show": true
+      },
+      {
+        "i_d": 4015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4015",
+        "whether_show": true
+      },
+      {
+        "i_d": 4016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4016",
+        "whether_show": true
+      },
+      {
+        "i_d": 4017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4017",
+        "whether_show": true
+      },
+      {
+        "i_d": 4018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4018",
+        "whether_show": true
+      },
+      {
+        "i_d": 4019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4019",
+        "whether_show": true
+      },
+      {
+        "i_d": 4020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4020",
+        "whether_show": true
+      },
+      {
+        "i_d": 4021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4021",
+        "whether_show": true
+      },
+      {
+        "i_d": 4022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4022",
+        "whether_show": true
+      },
+      {
+        "i_d": 4023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4023",
+        "whether_show": true
+      },
+      {
+        "i_d": 4024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4024",
+        "whether_show": true
+      },
+      {
+        "i_d": 4025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4025",
+        "whether_show": true
+      },
+      {
+        "i_d": 4026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4026",
+        "whether_show": true
+      },
+      {
+        "i_d": 4027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4027",
+        "whether_show": true
+      },
+      {
+        "i_d": 4028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4028",
+        "whether_show": true
+      },
+      {
+        "i_d": 4029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4029",
+        "whether_show": true
+      },
+      {
+        "i_d": 4030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4030",
+        "whether_show": true
+      },
+      {
+        "i_d": 4031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4031",
+        "whether_show": true
+      },
+      {
+        "i_d": 4032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4032",
+        "whether_show": true
+      },
+      {
+        "i_d": 4033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4033",
+        "whether_show": true
+      },
+      {
+        "i_d": 4034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4034",
+        "whether_show": true
+      },
+      {
+        "i_d": 4035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4035",
+        "whether_show": true
+      },
+      {
+        "i_d": 4036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4036",
+        "whether_show": true
+      },
+      {
+        "i_d": 4037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4037",
+        "whether_show": true
+      },
+      {
+        "i_d": 4038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4038",
+        "whether_show": true
+      },
+      {
+        "i_d": 4039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4039",
+        "whether_show": true
+      },
+      {
+        "i_d": 4040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4040",
+        "whether_show": true
+      },
+      {
+        "i_d": 4041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4041",
+        "whether_show": true
+      },
+      {
+        "i_d": 4042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4042",
+        "whether_show": true
+      },
+      {
+        "i_d": 4043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4043",
+        "whether_show": true
+      },
+      {
+        "i_d": 4044,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4044",
+        "whether_show": true
+      },
+      {
+        "i_d": 4045,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4045",
+        "whether_show": true
+      },
+      {
+        "i_d": 4046,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4046",
+        "whether_show": true
+      },
+      {
+        "i_d": 4047,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4047",
+        "whether_show": true
+      },
+      {
+        "i_d": 4048,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4048",
+        "whether_show": true
+      },
+      {
+        "i_d": 4049,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4049",
+        "whether_show": true
+      },
+      {
+        "i_d": 4050,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4050",
+        "whether_show": true
+      },
+      {
+        "i_d": 4051,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4051",
+        "whether_show": true
+      },
+      {
+        "i_d": 4052,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4052",
+        "whether_show": true
+      },
+      {
+        "i_d": 4053,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4053",
+        "whether_show": true
+      },
+      {
+        "i_d": 4054,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4054",
+        "whether_show": true
+      },
+      {
+        "i_d": 4055,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4055",
+        "whether_show": true
+      },
+      {
+        "i_d": 4056,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4056",
+        "whether_show": true
+      },
+      {
+        "i_d": 4057,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4057",
+        "whether_show": true
+      },
+      {
+        "i_d": 4058,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4058",
+        "whether_show": true
+      },
+      {
+        "i_d": 4059,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4059",
+        "whether_show": true
+      },
+      {
+        "i_d": 4060,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4060",
+        "whether_show": true
+      },
+      {
+        "i_d": 4061,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4061",
+        "whether_show": true
+      },
+      {
+        "i_d": 4062,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4062",
+        "whether_show": true
+      },
+      {
+        "i_d": 4063,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4063",
+        "whether_show": true
+      },
+      {
+        "i_d": 4064,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4064",
+        "whether_show": true
+      },
+      {
+        "i_d": 4065,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4065",
+        "whether_show": true
+      },
+      {
+        "i_d": 4066,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4066",
+        "whether_show": true
+      },
+      {
+        "i_d": 4067,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4067",
+        "whether_show": true
+      },
+      {
+        "i_d": 4068,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4068",
+        "whether_show": true
+      },
+      {
+        "i_d": 4069,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4069",
+        "whether_show": true
+      },
+      {
+        "i_d": 4070,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4070",
+        "whether_show": true
+      },
+      {
+        "i_d": 4071,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4071",
+        "whether_show": true
+      },
+      {
+        "i_d": 4072,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle002_Superstructure/EncounterBattle_4072",
+        "whether_show": true
+      },
+      {
+        "i_d": 5001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5001",
+        "whether_show": true
+      },
+      {
+        "i_d": 5002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5002",
+        "whether_show": true
+      },
+      {
+        "i_d": 5003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5003",
+        "whether_show": true
+      },
+      {
+        "i_d": 5004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5004",
+        "whether_show": true
+      },
+      {
+        "i_d": 5005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5005",
+        "whether_show": true
+      },
+      {
+        "i_d": 5006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5006",
+        "whether_show": true
+      },
+      {
+        "i_d": 5007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5007",
+        "whether_show": true
+      },
+      {
+        "i_d": 5008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5008",
+        "whether_show": true
+      },
+      {
+        "i_d": 5009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5009",
+        "whether_show": true
+      },
+      {
+        "i_d": 5010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5010",
+        "whether_show": true
+      },
+      {
+        "i_d": 5011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5011",
+        "whether_show": true
+      },
+      {
+        "i_d": 5012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5012",
+        "whether_show": true
+      },
+      {
+        "i_d": 5013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5013",
+        "whether_show": true
+      },
+      {
+        "i_d": 5014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5014",
+        "whether_show": true
+      },
+      {
+        "i_d": 5015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5015",
+        "whether_show": true
+      },
+      {
+        "i_d": 5016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5016"
+      },
+      {
+        "i_d": 5017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5017",
+        "whether_show": true
+      },
+      {
+        "i_d": 5018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5018",
+        "whether_show": true
+      },
+      {
+        "i_d": 5019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5019",
+        "whether_show": true
+      },
+      {
+        "i_d": 5020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5020",
+        "whether_show": true
+      },
+      {
+        "i_d": 5021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5021",
+        "whether_show": true
+      },
+      {
+        "i_d": 5022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5022",
+        "whether_show": true
+      },
+      {
+        "i_d": 5023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5023",
+        "whether_show": true
+      },
+      {
+        "i_d": 5024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5024",
+        "whether_show": true
+      },
+      {
+        "i_d": 5025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5025",
+        "whether_show": true
+      },
+      {
+        "i_d": 5026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5026",
+        "whether_show": true
+      },
+      {
+        "i_d": 5027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5027",
+        "whether_show": true
+      },
+      {
+        "i_d": 5028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5028",
+        "whether_show": true
+      },
+      {
+        "i_d": 5029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5029",
+        "whether_show": true
+      },
+      {
+        "i_d": 5030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5030",
+        "whether_show": true
+      },
+      {
+        "i_d": 5031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5031",
+        "whether_show": true
+      },
+      {
+        "i_d": 5032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5032",
+        "whether_show": true
+      },
+      {
+        "i_d": 5033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5033",
+        "whether_show": true
+      },
+      {
+        "i_d": 5034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5034",
+        "whether_show": true
+      },
+      {
+        "i_d": 5035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5035",
+        "whether_show": true
+      },
+      {
+        "i_d": 5036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5036",
+        "whether_show": true
+      },
+      {
+        "i_d": 5037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5037",
+        "whether_show": true
+      },
+      {
+        "i_d": 5038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5038",
+        "whether_show": true
+      },
+      {
+        "i_d": 5039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5039",
+        "whether_show": true
+      },
+      {
+        "i_d": 5040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5040",
+        "whether_show": true
+      },
+      {
+        "i_d": 5041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5041",
+        "whether_show": true
+      },
+      {
+        "i_d": 5042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5042",
+        "whether_show": true
+      },
+      {
+        "i_d": 5043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5043",
+        "whether_show": true
+      },
+      {
+        "i_d": 5044,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5044",
+        "whether_show": true
+      },
+      {
+        "i_d": 5045,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5045",
+        "whether_show": true
+      },
+      {
+        "i_d": 5046,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5046",
+        "whether_show": true
+      },
+      {
+        "i_d": 5047,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5047",
+        "whether_show": true
+      },
+      {
+        "i_d": 5048,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5048",
+        "whether_show": true
+      },
+      {
+        "i_d": 5049,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5049",
+        "whether_show": true
+      },
+      {
+        "i_d": 5050,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5050",
+        "whether_show": true
+      },
+      {
+        "i_d": 5051,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5051",
+        "whether_show": true
+      },
+      {
+        "i_d": 5052,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5052",
+        "whether_show": true
+      },
+      {
+        "i_d": 5053,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5053",
+        "whether_show": true
+      },
+      {
+        "i_d": 5054,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5054",
+        "whether_show": true
+      },
+      {
+        "i_d": 5055,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5055",
+        "whether_show": true
+      },
+      {
+        "i_d": 5056,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5056",
+        "whether_show": true
+      },
+      {
+        "i_d": 5057,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5057",
+        "whether_show": true
+      },
+      {
+        "i_d": 5058,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5058",
+        "whether_show": true
+      },
+      {
+        "i_d": 5059,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5059",
+        "whether_show": true
+      },
+      {
+        "i_d": 5060,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle003/EncounterBattle_5060",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001001",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001002",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001003",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001004",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001005",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001006",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001007",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001008",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001009",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001010",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001011",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001012",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001013",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001014",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001015",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001016",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001017",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001018",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001019",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001020",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001021",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001022",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001023",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001024",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001025",
+        "whether_show": true
+      },
+      {
+        "i_d": 1001026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1001/EncounterBattle_1001026",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002001,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002001",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002002,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002002",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002003,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002003",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002004,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002004",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002005,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002005",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002006,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002006",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002007,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002007",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002008,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002008",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002009,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002009",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002010,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002010",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002011,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002011",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002012,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002012",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002013,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002013",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002014,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002014",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002015,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002015",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002016,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002016",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002017,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002017",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002018,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002018",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002019,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002019",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002020,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002020",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002021,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002021",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002022,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002022",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002023,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002023",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002024,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002024",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002025,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002025",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002026,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002026",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002027,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002027",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002028,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002028",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002029,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002029",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002030,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002030",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002031,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002031",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002032,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002032",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002033,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002033",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002034,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002034",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002035,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002035",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002036,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002036",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002037,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002037",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002038,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002038",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002039,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002039",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002040,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002040",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002041,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002041",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002042,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002042",
+        "whether_show": true
+      },
+      {
+        "i_d": 1002043,
+        "c_d": 600,
+        "show_timer": 300,
+        "live_timer": 300,
+        "asset_full_name": "Level/Encounter/TestSceneBattle1002/EncounterBattle_1002043",
+        "whether_show": true
+      }
+    ]
+  }
+}

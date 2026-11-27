@@ -1,0 +1,1273 @@
+{
+  "battle_normal": {
+    "datas": [
+      {
+        "i_d": 110010,
+        "text_i_d": 1,
+        "icon_i_d": 110010,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110010"
+      },
+      {
+        "i_d": 110020,
+        "text_i_d": 1,
+        "icon_i_d": 110020,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110020"
+      },
+      {
+        "i_d": 110030,
+        "text_i_d": 1,
+        "icon_i_d": 110030,
+        "start_voice_i_d": 110030,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110030"
+      },
+      {
+        "i_d": 110040,
+        "text_i_d": 1,
+        "icon_i_d": 110040,
+        "start_voice_i_d": 110040,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110040"
+      },
+      {
+        "i_d": 110050,
+        "text_i_d": 1,
+        "icon_i_d": 110050,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110050"
+      },
+      {
+        "i_d": 110060,
+        "text_i_d": 1,
+        "icon_i_d": 110060,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110060"
+      },
+      {
+        "i_d": 110070,
+        "text_i_d": 1,
+        "icon_i_d": 110070,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110070"
+      },
+      {
+        "i_d": 110080,
+        "text_i_d": 1,
+        "icon_i_d": 110080,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110080"
+      },
+      {
+        "i_d": 110090,
+        "text_i_d": 1,
+        "icon_i_d": 110090,
+        "start_voice_i_d": 110090,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110090"
+      },
+      {
+        "i_d": 110100,
+        "text_i_d": 1,
+        "icon_i_d": 110100,
+        "start_voice_i_d": 110100,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110100"
+      },
+      {
+        "i_d": 110110,
+        "text_i_d": 1,
+        "icon_i_d": 110110,
+        "start_voice_i_d": 110110,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110110"
+      },
+      {
+        "i_d": 110120,
+        "text_i_d": 1,
+        "icon_i_d": 110120,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110120"
+      },
+      {
+        "i_d": 110130,
+        "text_i_d": 1,
+        "icon_i_d": 110130,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110130"
+      },
+      {
+        "i_d": 110140,
+        "text_i_d": 1,
+        "icon_i_d": 110140,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110140"
+      },
+      {
+        "i_d": 110150,
+        "text_i_d": 1,
+        "icon_i_d": 110150,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110150"
+      },
+      {
+        "i_d": 110160,
+        "text_i_d": 1,
+        "icon_i_d": 110160,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110160"
+      },
+      {
+        "i_d": 110170,
+        "text_i_d": 1,
+        "icon_i_d": 110170,
+        "start_voice_i_d": 110170,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110170"
+      },
+      {
+        "i_d": 110180,
+        "text_i_d": 1,
+        "icon_i_d": 110180,
+        "start_voice_i_d": 110180,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110180"
+      },
+      {
+        "i_d": 110190,
+        "text_i_d": 1,
+        "icon_i_d": 110190,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110190"
+      },
+      {
+        "i_d": 110200,
+        "text_i_d": 1,
+        "icon_i_d": 110200,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110200"
+      },
+      {
+        "i_d": 110210,
+        "text_i_d": 1,
+        "icon_i_d": 110210,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110210"
+      },
+      {
+        "i_d": 110220,
+        "text_i_d": 1,
+        "icon_i_d": 110220,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110220"
+      },
+      {
+        "i_d": 110230,
+        "text_i_d": 1,
+        "icon_i_d": 110230,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110230"
+      },
+      {
+        "i_d": 110240,
+        "text_i_d": 1,
+        "icon_i_d": 110240,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110240"
+      },
+      {
+        "i_d": 110250,
+        "text_i_d": 1,
+        "icon_i_d": 110250,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110250"
+      },
+      {
+        "i_d": 110260,
+        "text_i_d": 1,
+        "icon_i_d": 110260,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110260"
+      },
+      {
+        "i_d": 110270,
+        "text_i_d": 1,
+        "icon_i_d": 110270,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110270"
+      },
+      {
+        "i_d": 110280,
+        "text_i_d": 1,
+        "icon_i_d": 110280,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110280"
+      },
+      {
+        "i_d": 110290,
+        "text_i_d": 1,
+        "icon_i_d": 110290,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110290"
+      },
+      {
+        "i_d": 110300,
+        "text_i_d": 1,
+        "icon_i_d": 110300,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110300"
+      },
+      {
+        "i_d": 110310,
+        "text_i_d": 1,
+        "icon_i_d": 110310,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110310"
+      },
+      {
+        "i_d": 110320,
+        "text_i_d": 1,
+        "icon_i_d": 110320,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110320"
+      },
+      {
+        "i_d": 110330,
+        "text_i_d": 1,
+        "icon_i_d": 110330,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110330"
+      },
+      {
+        "i_d": 110340,
+        "text_i_d": 1,
+        "icon_i_d": 110340,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110340"
+      },
+      {
+        "i_d": 110350,
+        "text_i_d": 1,
+        "icon_i_d": 110350,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110350"
+      },
+      {
+        "i_d": 110360,
+        "text_i_d": 1,
+        "icon_i_d": 110360,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110360"
+      },
+      {
+        "i_d": 110370,
+        "text_i_d": 1,
+        "icon_i_d": 110370,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110370"
+      },
+      {
+        "i_d": 110380,
+        "text_i_d": 1,
+        "icon_i_d": 110380,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110380"
+      },
+      {
+        "i_d": 110390,
+        "text_i_d": 1,
+        "icon_i_d": 110390,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110390"
+      },
+      {
+        "i_d": 110400,
+        "text_i_d": 1,
+        "icon_i_d": 110400,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110400"
+      },
+      {
+        "i_d": 110410,
+        "text_i_d": 1,
+        "icon_i_d": 110410,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/NormalBattle_110410"
+      },
+      {
+        "i_d": 210010,
+        "text_i_d": 1,
+        "icon_i_d": 210010,
+        "start_voice_i_d": 210010,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210010"
+      },
+      {
+        "i_d": 210020,
+        "text_i_d": 1,
+        "icon_i_d": 210020,
+        "start_voice_i_d": 210020,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210020"
+      },
+      {
+        "i_d": 210030,
+        "text_i_d": 1,
+        "icon_i_d": 210030,
+        "start_voice_i_d": 210030,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210030"
+      },
+      {
+        "i_d": 210040,
+        "text_i_d": 1,
+        "icon_i_d": 210040,
+        "start_voice_i_d": 210040,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210040"
+      },
+      {
+        "i_d": 210050,
+        "text_i_d": 1,
+        "icon_i_d": 210050,
+        "start_voice_i_d": 210050,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210050"
+      },
+      {
+        "i_d": 210060,
+        "text_i_d": 1,
+        "icon_i_d": 210060,
+        "start_voice_i_d": 210060,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210060"
+      },
+      {
+        "i_d": 210070,
+        "text_i_d": 1,
+        "icon_i_d": 210070,
+        "start_voice_i_d": 210070,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210070"
+      },
+      {
+        "i_d": 210080,
+        "text_i_d": 1,
+        "icon_i_d": 210080,
+        "start_voice_i_d": 210080,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210080"
+      },
+      {
+        "i_d": 210090,
+        "text_i_d": 1,
+        "icon_i_d": 210090,
+        "start_voice_i_d": 210090,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210090"
+      },
+      {
+        "i_d": 210100,
+        "text_i_d": 1,
+        "icon_i_d": 210100,
+        "start_voice_i_d": 210100,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210100"
+      },
+      {
+        "i_d": 210110,
+        "text_i_d": 1,
+        "icon_i_d": 210110,
+        "start_voice_i_d": 210110,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210110"
+      },
+      {
+        "i_d": 210120,
+        "text_i_d": 1,
+        "icon_i_d": 210120,
+        "start_voice_i_d": 210120,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210120"
+      },
+      {
+        "i_d": 210130,
+        "text_i_d": 1,
+        "icon_i_d": 210130,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210130"
+      },
+      {
+        "i_d": 210140,
+        "text_i_d": 1,
+        "icon_i_d": 210140,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210140"
+      },
+      {
+        "i_d": 210150,
+        "text_i_d": 1,
+        "icon_i_d": 210150,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210150"
+      },
+      {
+        "i_d": 210160,
+        "text_i_d": 1,
+        "icon_i_d": 210160,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210160"
+      },
+      {
+        "i_d": 210170,
+        "text_i_d": 1,
+        "icon_i_d": 210170,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210170"
+      },
+      {
+        "i_d": 210180,
+        "text_i_d": 1,
+        "icon_i_d": 210180,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210180"
+      },
+      {
+        "i_d": 210190,
+        "text_i_d": 1,
+        "icon_i_d": 210190,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210190"
+      },
+      {
+        "i_d": 210200,
+        "text_i_d": 1,
+        "icon_i_d": 210200,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210200"
+      },
+      {
+        "i_d": 210210,
+        "text_i_d": 1,
+        "icon_i_d": 210210,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210210"
+      },
+      {
+        "i_d": 210220,
+        "text_i_d": 1,
+        "icon_i_d": 210220,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210220"
+      },
+      {
+        "i_d": 210230,
+        "text_i_d": 1,
+        "icon_i_d": 210230,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210230"
+      },
+      {
+        "i_d": 210240,
+        "text_i_d": 1,
+        "icon_i_d": 210240,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210240"
+      },
+      {
+        "i_d": 210250,
+        "text_i_d": 1,
+        "icon_i_d": 210250,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210250"
+      },
+      {
+        "i_d": 210260,
+        "text_i_d": 1,
+        "icon_i_d": 210260,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210260"
+      },
+      {
+        "i_d": 210270,
+        "text_i_d": 1,
+        "icon_i_d": 210270,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210270"
+      },
+      {
+        "i_d": 210280,
+        "text_i_d": 1,
+        "icon_i_d": 210280,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210280"
+      },
+      {
+        "i_d": 210290,
+        "text_i_d": 1,
+        "icon_i_d": 210290,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210290"
+      },
+      {
+        "i_d": 210300,
+        "text_i_d": 1,
+        "icon_i_d": 210300,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210300"
+      },
+      {
+        "i_d": 210310,
+        "text_i_d": 1,
+        "icon_i_d": 210310,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210310"
+      },
+      {
+        "i_d": 210320,
+        "text_i_d": 1,
+        "icon_i_d": 210320,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210320"
+      },
+      {
+        "i_d": 210330,
+        "text_i_d": 1,
+        "icon_i_d": 210330,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210330"
+      },
+      {
+        "i_d": 210340,
+        "text_i_d": 1,
+        "icon_i_d": 210340,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210340"
+      },
+      {
+        "i_d": 210350,
+        "text_i_d": 1,
+        "icon_i_d": 210350,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210350"
+      },
+      {
+        "i_d": 210360,
+        "text_i_d": 1,
+        "icon_i_d": 210360,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210360"
+      },
+      {
+        "i_d": 210370,
+        "text_i_d": 1,
+        "icon_i_d": 210370,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210370"
+      },
+      {
+        "i_d": 210380,
+        "text_i_d": 1,
+        "icon_i_d": 210380,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210380"
+      },
+      {
+        "i_d": 210390,
+        "text_i_d": 1,
+        "icon_i_d": 210390,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210390"
+      },
+      {
+        "i_d": 210400,
+        "text_i_d": 1,
+        "icon_i_d": 210400,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210400"
+      },
+      {
+        "i_d": 210410,
+        "text_i_d": 1,
+        "icon_i_d": 210410,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210410"
+      },
+      {
+        "i_d": 210420,
+        "text_i_d": 1,
+        "icon_i_d": 210420,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210420"
+      },
+      {
+        "i_d": 210430,
+        "text_i_d": 1,
+        "icon_i_d": 210430,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210430"
+      },
+      {
+        "i_d": 210440,
+        "text_i_d": 1,
+        "icon_i_d": 210440,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210440"
+      },
+      {
+        "i_d": 210450,
+        "text_i_d": 1,
+        "icon_i_d": 210450,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210450"
+      },
+      {
+        "i_d": 210460,
+        "text_i_d": 1,
+        "icon_i_d": 210460,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210460"
+      },
+      {
+        "i_d": 210470,
+        "text_i_d": 1,
+        "icon_i_d": 210470,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210470"
+      },
+      {
+        "i_d": 210480,
+        "text_i_d": 1,
+        "icon_i_d": 210480,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210480"
+      },
+      {
+        "i_d": 210490,
+        "text_i_d": 1,
+        "icon_i_d": 210490,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210490"
+      },
+      {
+        "i_d": 210500,
+        "text_i_d": 1,
+        "icon_i_d": 210500,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210500"
+      },
+      {
+        "i_d": 210510,
+        "text_i_d": 1,
+        "icon_i_d": 210510,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210510"
+      },
+      {
+        "i_d": 210520,
+        "text_i_d": 1,
+        "icon_i_d": 210520,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210520"
+      },
+      {
+        "i_d": 210530,
+        "text_i_d": 1,
+        "icon_i_d": 210530,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210530"
+      },
+      {
+        "i_d": 210540,
+        "text_i_d": 1,
+        "icon_i_d": 210540,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210540"
+      },
+      {
+        "i_d": 210550,
+        "text_i_d": 1,
+        "icon_i_d": 210550,
+        "asset_full_name": "Level/Mission/TestSceneBattle002/NormalBattle_210550"
+      },
+      {
+        "i_d": 310010,
+        "text_i_d": 1,
+        "icon_i_d": 310010,
+        "start_voice_i_d": 310010,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310010"
+      },
+      {
+        "i_d": 310020,
+        "text_i_d": 1,
+        "icon_i_d": 310020,
+        "start_voice_i_d": 310020,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310020"
+      },
+      {
+        "i_d": 310030,
+        "text_i_d": 1,
+        "icon_i_d": 310030,
+        "start_voice_i_d": 310030,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310030"
+      },
+      {
+        "i_d": 310040,
+        "text_i_d": 1,
+        "icon_i_d": 310040,
+        "start_voice_i_d": 310040,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310040"
+      },
+      {
+        "i_d": 310050,
+        "text_i_d": 1,
+        "icon_i_d": 310050,
+        "start_voice_i_d": 310050,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310050"
+      },
+      {
+        "i_d": 310060,
+        "text_i_d": 1,
+        "icon_i_d": 310060,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310060"
+      },
+      {
+        "i_d": 310070,
+        "text_i_d": 1,
+        "icon_i_d": 310070,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310070"
+      },
+      {
+        "i_d": 310080,
+        "text_i_d": 1,
+        "icon_i_d": 310080,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310080"
+      },
+      {
+        "i_d": 310090,
+        "text_i_d": 1,
+        "icon_i_d": 310090,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310090"
+      },
+      {
+        "i_d": 310100,
+        "text_i_d": 1,
+        "icon_i_d": 310100,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310100"
+      },
+      {
+        "i_d": 310110,
+        "text_i_d": 1,
+        "icon_i_d": 310110,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310110"
+      },
+      {
+        "i_d": 310120,
+        "text_i_d": 1,
+        "icon_i_d": 310120,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310120"
+      },
+      {
+        "i_d": 310130,
+        "text_i_d": 1,
+        "icon_i_d": 310130,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310130"
+      },
+      {
+        "i_d": 310140,
+        "text_i_d": 1,
+        "icon_i_d": 310140,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310140"
+      },
+      {
+        "i_d": 310150,
+        "text_i_d": 1,
+        "icon_i_d": 310150,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310150"
+      },
+      {
+        "i_d": 310160,
+        "text_i_d": 1,
+        "icon_i_d": 310160,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310160"
+      },
+      {
+        "i_d": 310170,
+        "text_i_d": 1,
+        "icon_i_d": 310170,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310170"
+      },
+      {
+        "i_d": 310180,
+        "text_i_d": 1,
+        "icon_i_d": 310180,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310180"
+      },
+      {
+        "i_d": 310190,
+        "text_i_d": 1,
+        "icon_i_d": 310190,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310190"
+      },
+      {
+        "i_d": 310200,
+        "text_i_d": 1,
+        "icon_i_d": 310200,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310200"
+      },
+      {
+        "i_d": 310210,
+        "text_i_d": 1,
+        "icon_i_d": 310210,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310210"
+      },
+      {
+        "i_d": 310220,
+        "text_i_d": 1,
+        "icon_i_d": 310220,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310220"
+      },
+      {
+        "i_d": 310230,
+        "text_i_d": 1,
+        "icon_i_d": 310230,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310230"
+      },
+      {
+        "i_d": 310240,
+        "text_i_d": 1,
+        "icon_i_d": 310240,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310240"
+      },
+      {
+        "i_d": 310250,
+        "text_i_d": 1,
+        "icon_i_d": 310250,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310250"
+      },
+      {
+        "i_d": 310260,
+        "text_i_d": 1,
+        "icon_i_d": 310260,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310260"
+      },
+      {
+        "i_d": 310270,
+        "text_i_d": 1,
+        "icon_i_d": 310270,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310270"
+      },
+      {
+        "i_d": 310280,
+        "text_i_d": 1,
+        "icon_i_d": 310280,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310280"
+      },
+      {
+        "i_d": 310290,
+        "text_i_d": 1,
+        "icon_i_d": 310290,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310290"
+      },
+      {
+        "i_d": 310300,
+        "text_i_d": 1,
+        "icon_i_d": 310300,
+        "asset_full_name": "Level/Mission/TestSceneBattle001_Night/NormalBattle_310300"
+      },
+      {
+        "i_d": 410010,
+        "text_i_d": 1,
+        "icon_i_d": 410010,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410010"
+      },
+      {
+        "i_d": 410020,
+        "text_i_d": 1,
+        "icon_i_d": 410020,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410020"
+      },
+      {
+        "i_d": 410030,
+        "text_i_d": 1,
+        "icon_i_d": 410030,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410030"
+      },
+      {
+        "i_d": 410040,
+        "text_i_d": 1,
+        "icon_i_d": 410040,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410040"
+      },
+      {
+        "i_d": 410050,
+        "text_i_d": 1,
+        "icon_i_d": 410050,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410050"
+      },
+      {
+        "i_d": 410060,
+        "text_i_d": 1,
+        "icon_i_d": 410060,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410060"
+      },
+      {
+        "i_d": 410070,
+        "text_i_d": 1,
+        "icon_i_d": 410070,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410070"
+      },
+      {
+        "i_d": 410080,
+        "text_i_d": 1,
+        "icon_i_d": 410080,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410080"
+      },
+      {
+        "i_d": 410090,
+        "text_i_d": 1,
+        "icon_i_d": 410090,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410090"
+      },
+      {
+        "i_d": 410100,
+        "text_i_d": 1,
+        "icon_i_d": 410100,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410100"
+      },
+      {
+        "i_d": 410110,
+        "text_i_d": 1,
+        "icon_i_d": 410110,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410110"
+      },
+      {
+        "i_d": 410120,
+        "text_i_d": 1,
+        "icon_i_d": 410120,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410120"
+      },
+      {
+        "i_d": 410130,
+        "text_i_d": 1,
+        "icon_i_d": 410130,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410130"
+      },
+      {
+        "i_d": 410140,
+        "text_i_d": 1,
+        "icon_i_d": 410140,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410140"
+      },
+      {
+        "i_d": 410150,
+        "text_i_d": 1,
+        "icon_i_d": 410150,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410150"
+      },
+      {
+        "i_d": 410160,
+        "text_i_d": 1,
+        "icon_i_d": 410160,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410160"
+      },
+      {
+        "i_d": 410170,
+        "text_i_d": 1,
+        "icon_i_d": 410170,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410170"
+      },
+      {
+        "i_d": 410180,
+        "text_i_d": 1,
+        "icon_i_d": 410180,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410180"
+      },
+      {
+        "i_d": 410190,
+        "text_i_d": 1,
+        "icon_i_d": 410190,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410190"
+      },
+      {
+        "i_d": 410200,
+        "text_i_d": 1,
+        "icon_i_d": 410200,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410200"
+      },
+      {
+        "i_d": 410210,
+        "text_i_d": 1,
+        "icon_i_d": 410210,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410210"
+      },
+      {
+        "i_d": 410220,
+        "text_i_d": 1,
+        "icon_i_d": 410220,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410220"
+      },
+      {
+        "i_d": 410230,
+        "text_i_d": 1,
+        "icon_i_d": 410230,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410230"
+      },
+      {
+        "i_d": 410240,
+        "text_i_d": 1,
+        "icon_i_d": 410240,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410240"
+      },
+      {
+        "i_d": 410250,
+        "text_i_d": 1,
+        "icon_i_d": 410250,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410250"
+      },
+      {
+        "i_d": 410260,
+        "text_i_d": 1,
+        "icon_i_d": 410260,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410260"
+      },
+      {
+        "i_d": 410270,
+        "text_i_d": 1,
+        "icon_i_d": 410270,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410270"
+      },
+      {
+        "i_d": 410280,
+        "text_i_d": 1,
+        "icon_i_d": 410280,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410280"
+      },
+      {
+        "i_d": 410290,
+        "text_i_d": 1,
+        "icon_i_d": 410290,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410290"
+      },
+      {
+        "i_d": 410300,
+        "text_i_d": 1,
+        "icon_i_d": 410300,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410300"
+      },
+      {
+        "i_d": 410310,
+        "text_i_d": 1,
+        "icon_i_d": 410310,
+        "asset_full_name": "Level/Mission/TestSceneBattle002_Superstructure/NormalBattle_410310"
+      },
+      {
+        "i_d": 510010,
+        "text_i_d": 1,
+        "icon_i_d": 510010,
+        "start_voice_i_d": 510010,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510010"
+      },
+      {
+        "i_d": 510020,
+        "text_i_d": 1,
+        "icon_i_d": 510020,
+        "start_voice_i_d": 510020,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510020"
+      },
+      {
+        "i_d": 510030,
+        "text_i_d": 1,
+        "icon_i_d": 510030,
+        "start_voice_i_d": 510030,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510030"
+      },
+      {
+        "i_d": 510040,
+        "text_i_d": 1,
+        "icon_i_d": 510040,
+        "start_voice_i_d": 510040,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510040"
+      },
+      {
+        "i_d": 510050,
+        "text_i_d": 1,
+        "icon_i_d": 510050,
+        "start_voice_i_d": 510050,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510050"
+      },
+      {
+        "i_d": 510060,
+        "text_i_d": 1,
+        "icon_i_d": 510060,
+        "start_voice_i_d": 510060,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510060"
+      },
+      {
+        "i_d": 510070,
+        "text_i_d": 1,
+        "icon_i_d": 510070,
+        "start_voice_i_d": 510070,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510070"
+      },
+      {
+        "i_d": 510080,
+        "text_i_d": 1,
+        "icon_i_d": 510080,
+        "start_voice_i_d": 510080,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510080"
+      },
+      {
+        "i_d": 510090,
+        "text_i_d": 1,
+        "icon_i_d": 510090,
+        "start_voice_i_d": 510090,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510090"
+      },
+      {
+        "i_d": 510100,
+        "text_i_d": 1,
+        "icon_i_d": 510100,
+        "start_voice_i_d": 510100,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510100"
+      },
+      {
+        "i_d": 510110,
+        "text_i_d": 1,
+        "icon_i_d": 510110,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510110"
+      },
+      {
+        "i_d": 510120,
+        "text_i_d": 1,
+        "icon_i_d": 510120,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510120"
+      },
+      {
+        "i_d": 510130,
+        "text_i_d": 1,
+        "icon_i_d": 510130,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510130"
+      },
+      {
+        "i_d": 510140,
+        "text_i_d": 1,
+        "icon_i_d": 510140,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510140"
+      },
+      {
+        "i_d": 510150,
+        "text_i_d": 1,
+        "icon_i_d": 510150,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510150"
+      },
+      {
+        "i_d": 510160,
+        "text_i_d": 1,
+        "icon_i_d": 510160,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510160"
+      },
+      {
+        "i_d": 510170,
+        "text_i_d": 1,
+        "icon_i_d": 510170,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510170"
+      },
+      {
+        "i_d": 510180,
+        "text_i_d": 1,
+        "icon_i_d": 510180,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510180"
+      },
+      {
+        "i_d": 510190,
+        "text_i_d": 1,
+        "icon_i_d": 510190,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510190"
+      },
+      {
+        "i_d": 510200,
+        "text_i_d": 1,
+        "icon_i_d": 510200,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510200"
+      },
+      {
+        "i_d": 510210,
+        "text_i_d": 1,
+        "icon_i_d": 510210,
+        "asset_full_name": "Level/Mission/TestSceneBattle003/NormalBattle_510210"
+      },
+      {
+        "i_d": 100110010,
+        "text_i_d": 1,
+        "icon_i_d": 100110010,
+        "start_voice_i_d": 100110010,
+        "asset_full_name": "Level/Mission/TestSceneBattle1001/NormalBattle_100110010"
+      },
+      {
+        "i_d": 100110020,
+        "text_i_d": 1,
+        "icon_i_d": 100110020,
+        "start_voice_i_d": 100110020,
+        "asset_full_name": "Level/Mission/TestSceneBattle1001/NormalBattle_100110020"
+      },
+      {
+        "i_d": 100110030,
+        "text_i_d": 1,
+        "icon_i_d": 100110030,
+        "start_voice_i_d": 100110030,
+        "asset_full_name": "Level/Mission/TestSceneBattle1001/NormalBattle_100110030"
+      },
+      {
+        "i_d": 100110040,
+        "text_i_d": 1,
+        "icon_i_d": 100110040,
+        "asset_full_name": "Level/Mission/TestSceneBattle1001/NormalBattle_100110040"
+      },
+      {
+        "i_d": 100210010,
+        "text_i_d": 1,
+        "icon_i_d": 100210010,
+        "start_voice_i_d": 100210010,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210010"
+      },
+      {
+        "i_d": 100210020,
+        "text_i_d": 1,
+        "icon_i_d": 100210020,
+        "start_voice_i_d": 100210020,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210020"
+      },
+      {
+        "i_d": 100210030,
+        "text_i_d": 1,
+        "icon_i_d": 100210030,
+        "start_voice_i_d": 100210030,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210030"
+      },
+      {
+        "i_d": 100210040,
+        "text_i_d": 1,
+        "icon_i_d": 100210040,
+        "start_voice_i_d": 100210040,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210040"
+      },
+      {
+        "i_d": 100210050,
+        "text_i_d": 1,
+        "icon_i_d": 100210050,
+        "start_voice_i_d": 100210050,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210050"
+      },
+      {
+        "i_d": 100210060,
+        "text_i_d": 1,
+        "icon_i_d": 100210060,
+        "start_voice_i_d": 100210060,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210060"
+      },
+      {
+        "i_d": 100210070,
+        "text_i_d": 1,
+        "icon_i_d": 100210070,
+        "start_voice_i_d": 100210070,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210070"
+      },
+      {
+        "i_d": 100210080,
+        "text_i_d": 1,
+        "icon_i_d": 100210080,
+        "start_voice_i_d": 100210080,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210080"
+      },
+      {
+        "i_d": 100210090,
+        "text_i_d": 1,
+        "icon_i_d": 100210090,
+        "start_voice_i_d": 100210090,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210090"
+      },
+      {
+        "i_d": 100210100,
+        "text_i_d": 1,
+        "icon_i_d": 100210100,
+        "start_voice_i_d": 100210100,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210100"
+      },
+      {
+        "i_d": 100210110,
+        "text_i_d": 1,
+        "icon_i_d": 100210110,
+        "start_voice_i_d": 100210110,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210110"
+      },
+      {
+        "i_d": 100210120,
+        "text_i_d": 1,
+        "icon_i_d": 100210120,
+        "start_voice_i_d": 100210120,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210120"
+      },
+      {
+        "i_d": 100210130,
+        "text_i_d": 1,
+        "icon_i_d": 100210130,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210130"
+      },
+      {
+        "i_d": 100210140,
+        "text_i_d": 1,
+        "icon_i_d": 100210140,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210140"
+      },
+      {
+        "i_d": 100210150,
+        "text_i_d": 1,
+        "icon_i_d": 100210150,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210150"
+      },
+      {
+        "i_d": 100210160,
+        "text_i_d": 1,
+        "icon_i_d": 100210160,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210160"
+      },
+      {
+        "i_d": 100210170,
+        "text_i_d": 1,
+        "icon_i_d": 100210170,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210170"
+      },
+      {
+        "i_d": 100210180,
+        "text_i_d": 1,
+        "icon_i_d": 100210180,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210180"
+      },
+      {
+        "i_d": 100210190,
+        "text_i_d": 1,
+        "icon_i_d": 100210190,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210190"
+      },
+      {
+        "i_d": 100210200,
+        "text_i_d": 1,
+        "icon_i_d": 100210200,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210200"
+      },
+      {
+        "i_d": 100210210,
+        "text_i_d": 1,
+        "icon_i_d": 100210210,
+        "asset_full_name": "Level/Mission/TestSceneBattle1002/NormalBattle_100210210"
+      }
+    ]
+  }
+}

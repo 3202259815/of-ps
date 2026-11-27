@@ -1,0 +1,2364 @@
+{
+  "config": {
+    "datas": [
+      {
+        "i_d": 99999,
+        "key": "BuildHashCode",
+        "values": [
+          "44278789"
+        ]
+      },
+      {
+        "i_d": 1,
+        "key": "Player_Level_Max",
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "i_d": 3,
+        "key": "Player_Name_Max_Length",
+        "values": [
+          "18"
+        ]
+      },
+      {
+        "i_d": 4,
+        "key": "Player_Equip_Max_Count",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 5,
+        "key": "Player_BattleBag_Max_Count",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 6,
+        "key": "Player_NameChange_CostCurrency",
+        "values": [
+          "102:10"
+        ]
+      },
+      {
+        "i_d": 7,
+        "key": "Gift_Max_Count",
+        "values": [
+          "500"
+        ]
+      },
+      {
+        "i_d": 8,
+        "key": "Player_Vitality_Max_Count",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 9,
+        "key": "Player_Recover_Vitality_Second",
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "i_d": 10,
+        "key": "SupplyBox_Random_Time",
+        "values": [
+          "10",
+          "30"
+        ]
+      },
+      {
+        "i_d": 11,
+        "key": "Player_Friend_Count",
+        "values": [
+          "200"
+        ]
+      },
+      {
+        "i_d": 12,
+        "key": "Player_Friend_Apply_Count",
+        "values": [
+          "200"
+        ]
+      },
+      {
+        "i_d": 13,
+        "key": "ReturnLastSceneDuration",
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "i_d": 14,
+        "key": "ReturnLastChannelDuration",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 15,
+        "key": "ChannelDefaultPlayerNum",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 16,
+        "key": "ChannelBufferPlayerNum",
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "i_d": 17,
+        "key": "ChannelMaxPlayerNum",
+        "values": [
+          "70"
+        ]
+      },
+      {
+        "i_d": 18,
+        "key": "MaxPublicChannelId",
+        "values": [
+          "10000"
+        ]
+      },
+      {
+        "i_d": 19,
+        "key": "Character_Clothes_Man",
+        "values": [
+          "4100013"
+        ]
+      },
+      {
+        "i_d": 20,
+        "key": "Character_Hair_Man",
+        "values": [
+          "4100012"
+        ]
+      },
+      {
+        "i_d": 21,
+        "key": "Character_Clothes_WoMan",
+        "values": [
+          "4200013"
+        ]
+      },
+      {
+        "i_d": 22,
+        "key": "Character_Hair_WoMan",
+        "values": [
+          "4200012"
+        ]
+      },
+      {
+        "i_d": 23,
+        "key": "Fashion_ColoringPlan_Count",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 24,
+        "key": "Tod_Diurnal_Cycle",
+        "values": [
+          "1800"
+        ]
+      },
+      {
+        "i_d": 25,
+        "key": "Player_Sign_Text_Cout",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "i_d": 26,
+        "key": "Chat_Text_MaxCount",
+        "values": [
+          "180"
+        ]
+      },
+      {
+        "i_d": 27,
+        "key": "Explore_InterVal_ReduceTime",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 28,
+        "key": "Player_Initial_Scenario_ID",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 29,
+        "key": "Explore_ProcessIng_MaxCount",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 30,
+        "key": "Init_Character_IDs",
+        "values": [
+          "101001"
+        ]
+      },
+      {
+        "i_d": 31,
+        "key": "Report_PlayeLevel_Limit",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 32,
+        "key": "Report_Time_Limit",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 33,
+        "key": "Player_Default_Umbrella_ItemID",
+        "values": [
+          "4050"
+        ]
+      },
+      {
+        "i_d": 34,
+        "key": "CampsiteDetectionRadius",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 35,
+        "key": "FootResetDetectionRadius",
+        "values": [
+          "25"
+        ]
+      },
+      {
+        "i_d": 36,
+        "key": "DiceDetectionRadius",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 37,
+        "key": "ClapDetectionRadius",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 38,
+        "key": "ClapDotProduct",
+        "values": [
+          "-5"
+        ]
+      },
+      {
+        "i_d": 39,
+        "key": "Player_Vitality_Buy_Times",
+        "values": [
+          "102:50:60",
+          "102:100:60",
+          "102:100:60",
+          "102:150:60",
+          "102:200:60",
+          "102:200:60"
+        ]
+      },
+      {
+        "i_d": 40,
+        "key": "Player_GachaRate_Up",
+        "values": [
+          "1000",
+          "25",
+          "900",
+          "0"
+        ]
+      },
+      {
+        "i_d": 41,
+        "key": "FootBallPosition",
+        "values": [
+          "19.71",
+          "-5.19",
+          "42.18"
+        ]
+      },
+      {
+        "i_d": 42,
+        "key": "Scene_UnitPlatforms_Quest",
+        "values": [
+          "1:100074"
+        ]
+      },
+      {
+        "i_d": 43,
+        "key": "MoonCard_Rveryday_Currency",
+        "values": [
+          "102:90"
+        ]
+      },
+      {
+        "i_d": 44,
+        "key": "Player_Energy_Buy_Times",
+        "values": [
+          "102:30:200",
+          "102:40:200",
+          "102:40:200",
+          "102:50:200",
+          "102:200:200",
+          "102:200:200"
+        ]
+      },
+      {
+        "i_d": 45,
+        "key": "Player_BackTrack_CostAP_Count",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 46,
+        "key": "BattlePass_BuyExp_Currency",
+        "values": [
+          "102:50:1000"
+        ]
+      },
+      {
+        "i_d": 47,
+        "key": "Player_BattleBag_Tips_Count",
+        "values": [
+          "25"
+        ]
+      },
+      {
+        "i_d": 48,
+        "key": "Equip_Disassemble_MaxCount",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 49,
+        "key": "ShopBuy_Item_MaxNum",
+        "values": [
+          "1000"
+        ]
+      },
+      {
+        "i_d": 50,
+        "key": "ChatChannelDefaultPlayerNum",
+        "values": [
+          "200"
+        ]
+      },
+      {
+        "i_d": 51,
+        "key": "ChatChannelBufferPlayerNum",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 52,
+        "key": "ChatChannelMaxPlayerNum",
+        "values": [
+          "500"
+        ]
+      },
+      {
+        "i_d": 53,
+        "key": "ChatReturnLastChannelDuration",
+        "values": [
+          "1800"
+        ]
+      },
+      {
+        "i_d": 54,
+        "key": "ChatMsgRecordLimit",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 55,
+        "key": "Fashion_dye_ProbabilityAdd",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 56,
+        "key": "Item_Level_Rule",
+        "values": [
+          "1001"
+        ]
+      },
+      {
+        "i_d": 57,
+        "key": "Fashion_DyeStuff_Num",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 58,
+        "key": "ChannelPublicOnlyPlayerLevel",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "i_d": 61,
+        "key": "StageSceneChannelDefaultPlayerNum",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 62,
+        "key": "StageSceneChannelBufferPlayerNum",
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "i_d": 63,
+        "key": "StageSceneChannelMaxPlayerNum",
+        "values": [
+          "150"
+        ]
+      },
+      {
+        "i_d": 64,
+        "key": "Mail_CollectMax_Count",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 65,
+        "key": "FreezePlayerConfig",
+        "values": [
+          "100",
+          "1",
+          "101",
+          "500"
+        ]
+      },
+      {
+        "i_d": 66,
+        "key": "BattlePass_Buys_Reward",
+        "values": [
+          "108:100"
+        ]
+      },
+      {
+        "i_d": 67,
+        "key": "Dungeon_Vitality_Max_Count",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 68,
+        "key": "WeatherForecastHour",
+        "values": [
+          "12"
+        ]
+      },
+      {
+        "i_d": 69,
+        "key": "GardenPasswordLen",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "i_d": 70,
+        "key": "GardenPasswordExpireTime",
+        "values": [
+          "259200"
+        ]
+      },
+      {
+        "i_d": 71,
+        "key": "Birthday_Email_Item",
+        "values": [
+          "4610161:1"
+        ]
+      },
+      {
+        "i_d": 72,
+        "key": "RenamePunishCount",
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "i_d": 73,
+        "key": "RegisterRenamePunishCount",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 74,
+        "key": "RenamePunishTimeList",
+        "values": [
+          "60",
+          "60",
+          "60",
+          "300",
+          "300",
+          "300",
+          "600",
+          "600",
+          "600",
+          "3600"
+        ]
+      },
+      {
+        "i_d": 75,
+        "key": "GardenPasswordPunishCount",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 76,
+        "key": "GardenPasswordPunishTimeList",
+        "values": [
+          "60",
+          "60",
+          "60",
+          "300",
+          "300",
+          "300",
+          "600",
+          "600",
+          "600",
+          "3600"
+        ]
+      },
+      {
+        "i_d": 77,
+        "key": "Fashion_ColoringPlan_Price",
+        "values": [
+          "102:100"
+        ]
+      },
+      {
+        "i_d": 78,
+        "key": "Fashion_Customize_Color_Price",
+        "values": [
+          "102:100"
+        ]
+      },
+      {
+        "i_d": 79,
+        "key": "MoonCard_MaxRemainingDay",
+        "values": [
+          "180"
+        ]
+      },
+      {
+        "i_d": 100,
+        "key": "Encounter_War_Range",
+        "values": [
+          "10",
+          "20"
+        ]
+      },
+      {
+        "i_d": 101,
+        "key": "Encounter_War_Time_Range",
+        "values": [
+          "10",
+          "15"
+        ]
+      },
+      {
+        "i_d": 102,
+        "key": "Encounter_War_MaxNum",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "i_d": 103,
+        "key": "Encounter_War_TreasureExistTime",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "i_d": 104,
+        "key": "Encounter_War_MissionDistance",
+        "values": [
+          "9"
+        ]
+      },
+      {
+        "i_d": 105,
+        "key": "Encounter_War_ShowModelDis",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 106,
+        "key": "Encounter_War_HideModelDis",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "i_d": 107,
+        "key": "Encounter_War_EndTime_Range",
+        "values": [
+          "45",
+          "75"
+        ]
+      },
+      {
+        "i_d": 200,
+        "key": "PolygonColliderCloseWaitTime",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 201,
+        "key": "PolygonColliderTimeRecoveryFactor",
+        "values": [
+          "0.1"
+        ]
+      },
+      {
+        "i_d": 300,
+        "key": "AchieveTipsTimeIntervalSec",
+        "values": [
+          "0.2"
+        ]
+      },
+      {
+        "i_d": 301,
+        "key": "AchieveTipsMinTimeSec",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 302,
+        "key": "AchieveTipsMaxTimeSec",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 400,
+        "key": "MoonStone_UnlockPage_ItemCount",
+        "values": [
+          "0",
+          "8",
+          "16",
+          "24",
+          "32"
+        ]
+      },
+      {
+        "i_d": 401,
+        "key": "MoonStone_Page_UnlockCondition ",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "i_d": 500,
+        "key": "WeaponCorrectionData",
+        "values": [
+          "1.15",
+          "1.075",
+          "1.05",
+          "1.025",
+          "1",
+          "0.75",
+          "0.5"
+        ]
+      },
+      {
+        "i_d": 501,
+        "key": "InlayUnLockNeedStar",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 502,
+        "key": "UpgradeStarNeedItem",
+        "values": [
+          "101:10000"
+        ]
+      },
+      {
+        "i_d": 503,
+        "key": "UpgradeStarLevelTips",
+        "values": [
+          "10000",
+          "10001",
+          "10002",
+          "10003",
+          "10004"
+        ]
+      },
+      {
+        "i_d": 504,
+        "key": "WeaponStrengthNeedItem",
+        "values": [
+          "220",
+          "221",
+          "222"
+        ]
+      },
+      {
+        "i_d": 505,
+        "key": "ArmorStrengthNeedItem",
+        "values": [
+          "200",
+          "201",
+          "202"
+        ]
+      },
+      {
+        "i_d": 506,
+        "key": "StrengthExpExchangeRate",
+        "values": [
+          "0.6"
+        ]
+      },
+      {
+        "i_d": 507,
+        "key": "InscriptionChangeItem",
+        "values": [
+          "101:1000"
+        ]
+      },
+      {
+        "i_d": 600,
+        "key": "SpellBreakValueData",
+        "values": [
+          "0",
+          "75",
+          "100",
+          "150",
+          "200",
+          "325",
+          "625",
+          "825"
+        ]
+      },
+      {
+        "i_d": 601,
+        "key": "MaxUltraAndActionPoint",
+        "values": [
+          "600",
+          "600"
+        ]
+      },
+      {
+        "i_d": 602,
+        "key": "RollActionPoint",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 603,
+        "key": "BaseActionPointRegenBySec",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "i_d": 604,
+        "key": "ActionAndUltraReconverPointByHp",
+        "values": [
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "i_d": 605,
+        "key": "DungeonAndBattleLimitActionPoint",
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "i_d": 606,
+        "key": "ReconverActionPointBySec",
+        "values": [
+          "60",
+          "40"
+        ]
+      },
+      {
+        "i_d": 607,
+        "key": "AutoRecoverAPWaitingTimeInBattle",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 608,
+        "key": "AutoRecoverAPWaitingTime",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 609,
+        "key": "AutoRecoverAPSpellSuccessWaitingTime",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 610,
+        "key": "AutoRecoverAPSpellSuccessWaitingTimeInBattle",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 611,
+        "key": "UltraSpellResetTime",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 612,
+        "key": "UltraSpellInStageScene",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 700,
+        "key": "ClearCDByItemConfig",
+        "values": [
+          "102:5"
+        ]
+      },
+      {
+        "i_d": 701,
+        "key": "Player_Energy_Max_Count",
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "i_d": 702,
+        "key": "Life_Cooking_Fire_Radius",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 703,
+        "key": "HomeItemPointMax",
+        "values": [
+          "50000"
+        ]
+      },
+      {
+        "i_d": 704,
+        "key": "HomeLikesNum",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 705,
+        "key": "LikesEmailSendTime",
+        "values": [
+          "5",
+          "12"
+        ]
+      },
+      {
+        "i_d": 706,
+        "key": "CoffeeUseItemID",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 707,
+        "key": "CoffeeDeposeItemID",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 708,
+        "key": "CoffeeDeposeItemNumber",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 709,
+        "key": "BonfireTime",
+        "values": [
+          "1050:180",
+          "1051:300",
+          "1052:480"
+        ]
+      },
+      {
+        "i_d": 710,
+        "key": "PublicHomeItemPointMax",
+        "values": [
+          "200000"
+        ]
+      },
+      {
+        "i_d": 711,
+        "key": "PrivateHomeItemPointMax",
+        "values": [
+          "200000"
+        ]
+      },
+      {
+        "i_d": 712,
+        "key": "SpecialSceneID",
+        "values": [
+          "1000"
+        ]
+      },
+      {
+        "i_d": 713,
+        "key": "SpecialPublicHomeItemPointMax",
+        "values": [
+          "500000"
+        ]
+      },
+      {
+        "i_d": 714,
+        "key": "StageSceneOpenDay",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "i_d": 715,
+        "key": "StageSceneOpenTime",
+        "values": [
+          "19",
+          "24"
+        ]
+      },
+      {
+        "i_d": 716,
+        "key": "SpecialSceneNoticeMsg",
+        "values": [
+          "罗塔大舞台目前已开放，欢迎各位队长前往。"
+        ]
+      },
+      {
+        "i_d": 717,
+        "key": "Life_MakingRate_Up",
+        "values": [
+          "1001",
+          "25",
+          "30",
+          "2",
+          "10"
+        ]
+      },
+      {
+        "i_d": 718,
+        "key": "HomeItemHeightLimit",
+        "values": [
+          "500"
+        ]
+      },
+      {
+        "i_d": 800,
+        "key": "RandomQuestResetGetNum",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 801,
+        "key": "RandomQuestGetMin",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 802,
+        "key": "RandomQuestGetDayNum",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 803,
+        "key": "RandomQuestGetCD",
+        "values": [
+          "1800"
+        ]
+      },
+      {
+        "i_d": 804,
+        "key": "RandomQuestGetNum",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 805,
+        "key": "RandomQuestBonusNum",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "i_d": 806,
+        "key": "RandomQuestBonusRewardID",
+        "values": [
+          "999999999"
+        ]
+      },
+      {
+        "i_d": 900,
+        "key": "GatherPointAroundPlayerRadiusMax",
+        "values": [
+          "45"
+        ]
+      },
+      {
+        "i_d": 901,
+        "key": "GatherPointAroundPlayerRadiusMin",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 902,
+        "key": "GatherPointRadiusNumber",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 903,
+        "key": "GatherPointRefreshRate",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 904,
+        "key": "GatherRefreshRecoverPercent",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 905,
+        "key": "GatherRefreshDurationSecond",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "i_d": 906,
+        "key": "GatherLuckyFinishBaseProbability",
+        "values": [
+          "10",
+          "10",
+          "10",
+          "10",
+          "10",
+          "10"
+        ]
+      },
+      {
+        "i_d": 907,
+        "key": "MainSceneGatherLuckyFinish",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 1000,
+        "key": "RiddleTreasureLimitCountEveryDay",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 1001,
+        "key": "RiddleTreasureLimitRewardPoolID",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 1002,
+        "key": "SceneTreasureExistTime",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "i_d": 1100,
+        "key": "SystemRefreshTime",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 1101,
+        "key": "ExpressionLearningTimer",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 1102,
+        "key": "ExpressionLearningDistance",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 1103,
+        "key": "ExpressionLearningTimerLimited",
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "i_d": 1200,
+        "key": "CharacterLevelUpNeedItem",
+        "values": [
+          "190",
+          "191",
+          "192"
+        ]
+      },
+      {
+        "i_d": 1300,
+        "key": "DayFiveQuestRandomID",
+        "values": [
+          "99999"
+        ]
+      },
+      {
+        "i_d": 1301,
+        "key": "DayFiveQuestMaxNum",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 1302,
+        "key": "DayFiveQuestMaxAdd",
+        "values": [
+          "99999"
+        ]
+      },
+      {
+        "i_d": 1303,
+        "key": "DayFiveQuestBonus1",
+        "values": [
+          "20",
+          "3",
+          "1"
+        ]
+      },
+      {
+        "i_d": 1304,
+        "key": "DayFiveQuestBonus2",
+        "values": [
+          "10",
+          "5",
+          "2"
+        ]
+      },
+      {
+        "i_d": 1305,
+        "key": "DayFiveQuestBonus3",
+        "values": [
+          "5",
+          "10",
+          "5"
+        ]
+      },
+      {
+        "i_d": 1306,
+        "key": "DayFiveQuesBonusNum",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "i_d": 1307,
+        "key": "DayFiveQuesRewardID",
+        "values": [
+          "999999999"
+        ]
+      },
+      {
+        "i_d": 1400,
+        "key": "Gacha_QuestUnlock",
+        "values": [
+          "100013",
+          "2000"
+        ]
+      },
+      {
+        "i_d": 1401,
+        "key": "QuestCook",
+        "values": [
+          "100086"
+        ]
+      },
+      {
+        "i_d": 1402,
+        "key": "ChannelQuestUnlock",
+        "values": [
+          "100025"
+        ]
+      },
+      {
+        "i_d": 1403,
+        "key": "InitialQuest",
+        "values": [
+          "100011"
+        ]
+      },
+      {
+        "i_d": 1404,
+        "key": "InitialReward",
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "i_d": 1500,
+        "key": "Gacha_Character_Quality4_Reward",
+        "values": [
+          "111:16"
+        ]
+      },
+      {
+        "i_d": 1501,
+        "key": "Gacha_Character_Quality3_Reward",
+        "values": [
+          "111:3"
+        ]
+      },
+      {
+        "i_d": 1502,
+        "key": "Gacha_Character_Quality2_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1503,
+        "key": "Gacha_Character_Quality1_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1504,
+        "key": "Gacha_Character_Quality0_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1505,
+        "key": "Gacha_Character_FullStarQuality4_Reward",
+        "values": [
+          "111:40"
+        ]
+      },
+      {
+        "i_d": 1506,
+        "key": "Gacha_Character_FullStarQuality3_Reward",
+        "values": [
+          "111:12"
+        ]
+      },
+      {
+        "i_d": 1507,
+        "key": "Gacha_Character_FullStarQuality2_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1508,
+        "key": "Gacha_Character_FullStarQuality1_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1509,
+        "key": "Gacha_Character_FullStarQuality0_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1510,
+        "key": "Gacha_Poster_Quality4_Reward",
+        "values": [
+          "111:20"
+        ]
+      },
+      {
+        "i_d": 1511,
+        "key": "Gacha_Poster_Quality3_Reward",
+        "values": [
+          "112:15"
+        ]
+      },
+      {
+        "i_d": 1512,
+        "key": "Gacha_Poster_Quality2_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1513,
+        "key": "Gacha_Poster_Quality1_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1514,
+        "key": "Gacha_Poster_Quality0_Reward",
+        "values": [
+          "112:1"
+        ]
+      },
+      {
+        "i_d": 1515,
+        "key": "Character_FullStarQuality4_Exchange",
+        "values": [
+          "111:8"
+        ]
+      },
+      {
+        "i_d": 1516,
+        "key": "Character_FullStarQuality3_Exchange",
+        "values": [
+          "111:3"
+        ]
+      },
+      {
+        "i_d": 1517,
+        "key": "Character_FullStarQuality2_Exchange",
+        "values": [
+          "112:3"
+        ]
+      },
+      {
+        "i_d": 1518,
+        "key": "Character_FullStarQuality1_Exchange",
+        "values": [
+          "112:3"
+        ]
+      },
+      {
+        "i_d": 1519,
+        "key": "Character_FullStarQuality0_Exchange",
+        "values": [
+          "112:3"
+        ]
+      },
+      {
+        "i_d": 1550,
+        "key": "Gacha_Record_Page_Count",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 1551,
+        "key": "Gacha_OptionalUp_Param",
+        "values": [
+          "5",
+          "5"
+        ]
+      },
+      {
+        "i_d": 1600,
+        "key": "CheckUltraEffectTime",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 1700,
+        "key": "SpecialNotice_Quest",
+        "values": [
+          "9001:62"
+        ]
+      },
+      {
+        "i_d": 1801,
+        "key": "Fireworks_Party_StartRealTime",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 1802,
+        "key": "Fireworks_Party_StartGameTime",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 1803,
+        "key": "Fireworks_Notice_Info",
+        "values": [
+          "10001:0:12:3600",
+          "10002:12:18:1800",
+          "10003:18:20:600",
+          "10004:21:22:600"
+        ]
+      },
+      {
+        "i_d": 1911,
+        "key": "WorldLevel_Flag15401_SceneID",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 1912,
+        "key": "WorldLevel_Flag15401_Pos",
+        "values": [
+          "50.13",
+          "-0.19",
+          "-82.93"
+        ]
+      },
+      {
+        "i_d": 1913,
+        "key": "WorldLevel_Flag15401__Toward",
+        "values": [
+          "0",
+          "337.5",
+          "0"
+        ]
+      },
+      {
+        "i_d": 1921,
+        "key": "WorldLevel_Flag15402_SceneID",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 1922,
+        "key": "WorldLevel_Flag15402_Pos",
+        "values": [
+          "-33.76",
+          "225.65",
+          "41.42"
+        ]
+      },
+      {
+        "i_d": 1923,
+        "key": "WorldLevel_Flag15402__Toward",
+        "values": [
+          "0",
+          "49.6017723",
+          "0"
+        ]
+      },
+      {
+        "i_d": 1931,
+        "key": "WorldLevel_Flag15403_SceneID",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 1932,
+        "key": "WorldLevel_Flag15403_Pos",
+        "values": [
+          "-2.33",
+          "284.1",
+          "62.61"
+        ]
+      },
+      {
+        "i_d": 1933,
+        "key": "WorldLevel_Flag15403__Toward",
+        "values": [
+          "0",
+          "89.9",
+          "0"
+        ]
+      },
+      {
+        "i_d": 1941,
+        "key": "WorldLevel_Flag15404_SceneID",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 1942,
+        "key": "WorldLevel_Flag15404_Pos",
+        "values": [
+          "-72.57",
+          "-0.19",
+          "-35.1"
+        ]
+      },
+      {
+        "i_d": 1943,
+        "key": "WorldLevel_Flag15404__Toward",
+        "values": [
+          "0",
+          "91.9",
+          "0"
+        ]
+      },
+      {
+        "i_d": 1951,
+        "key": "WorldLevel_Flag15405_SceneID",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 1952,
+        "key": "WorldLevel_Flag15405_Pos",
+        "values": [
+          "-45.1",
+          "-0.5",
+          "-39.1"
+        ]
+      },
+      {
+        "i_d": 1953,
+        "key": "WorldLevel_Flag15405__Toward",
+        "values": [
+          "0",
+          "270",
+          "0"
+        ]
+      },
+      {
+        "i_d": 2001,
+        "key": "BattleDrop_Decay_Ratio",
+        "values": [
+          "0.01"
+        ]
+      },
+      {
+        "i_d": 2002,
+        "key": "BattleDrop_Decay_LowerLimit",
+        "values": [
+          "0.1"
+        ]
+      },
+      {
+        "i_d": 2003,
+        "key": "TreasureDrop_Decay_Ratio",
+        "values": [
+          "0.01"
+        ]
+      },
+      {
+        "i_d": 2004,
+        "key": "TreasureDrop_Decay_LowerLimit",
+        "values": [
+          "0.1"
+        ]
+      },
+      {
+        "i_d": 2101,
+        "key": "Treasure_Armor_Rarity",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 2102,
+        "key": "Ascension_Rarity",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 2121,
+        "key": "Backup_A",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 2122,
+        "key": "Backup_B",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 2123,
+        "key": "Backup_C",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 2201,
+        "key": "PhotoWall_Title_Length",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "i_d": 2202,
+        "key": "PhotoWall_Label_Length",
+        "values": [
+          "24"
+        ]
+      },
+      {
+        "i_d": 2203,
+        "key": "PhotoWall_Photo_Pattern",
+        "values": [
+          "320",
+          "180",
+          "50"
+        ]
+      },
+      {
+        "i_d": 2204,
+        "key": "PhotoWall_Share_Num",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 2205,
+        "key": "PhotoWall_Collect_MaxNum",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 2206,
+        "key": "PhotoWall_Find_MaxNum",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 2207,
+        "key": "PhotoWall_ChangeTitle_Currency",
+        "values": [
+          "102",
+          "50"
+        ]
+      },
+      {
+        "i_d": 2208,
+        "key": "PhotoWall_CopyDye_Currency",
+        "values": [
+          "102",
+          "50"
+        ]
+      },
+      {
+        "i_d": 2209,
+        "key": "PhotoWall_Rank_RefreshTime",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 2210,
+        "key": "PhotoWall_Rank_MaxNum",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 2211,
+        "key": "PhotoWall_Daily_Limit",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 2212,
+        "key": "PhotoWall_ActivityPhoto_MaxNum",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 2213,
+        "key": "PhotoWall_Activity_LikeScore",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 2214,
+        "key": "PhotoWall_Activity_SaveScore",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 2215,
+        "key": "PhotoWall_Activity_DownloadScore",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 2216,
+        "key": "PhotoWall_Activity_HighGrading",
+        "values": [
+          "150"
+        ]
+      },
+      {
+        "i_d": 2217,
+        "key": "PhotoWall_Activity_MidGrading",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 2301,
+        "key": "Shop_Dispatched_Name_Length",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 2302,
+        "key": "Shop_Dispatched_Address_Length",
+        "values": [
+          "180"
+        ]
+      },
+      {
+        "i_d": 2303,
+        "key": "Shop_Dispatched_ItemIDList",
+        "values": [
+          "61101",
+          "69999"
+        ]
+      },
+      {
+        "i_d": 2304,
+        "key": "Shop_Dispatched_Timer1",
+        "values": [
+          "2025-06-12 00:00:00"
+        ]
+      },
+      {
+        "i_d": 2305,
+        "key": "Shop_Dispatched_Timer2",
+        "values": [
+          "2025-06-27 23:59:59"
+        ]
+      },
+      {
+        "i_d": 3001,
+        "key": "TeamNameMaxLen",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 3002,
+        "key": "TeamKickRejoinCD",
+        "values": [
+          "15120"
+        ]
+      },
+      {
+        "i_d": 3003,
+        "key": "BeaconRange",
+        "values": [
+          "7"
+        ]
+      },
+      {
+        "i_d": 3005,
+        "key": "TeamPlayReadyTimeout",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 3006,
+        "key": "TeamPlayPlatformHideWaitTime",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 3007,
+        "key": "TeamPlayStartCountDown",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 3008,
+        "key": "TeamPlayForceStartWaitTime",
+        "values": [
+          "180"
+        ]
+      },
+      {
+        "i_d": 3009,
+        "key": "TeamPlayPlatformFinishDelay",
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "i_d": 3010,
+        "key": "TeamGameMaxTime",
+        "values": [
+          "1800"
+        ]
+      },
+      {
+        "i_d": 3011,
+        "key": "TeamGameRestrictJoin",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 3012,
+        "key": "TeamPlaySpearDropHeightRate",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 3013,
+        "key": "TeamPlaySpearMinAttack",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 3031,
+        "key": "GameCoinIni",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 3032,
+        "key": "GameCoinMax",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 3033,
+        "key": "GameCoinDayRecover",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 3034,
+        "key": "GameCoinBuy",
+        "values": [
+          "102",
+          "5",
+          "1"
+        ]
+      },
+      {
+        "i_d": 3035,
+        "key": "GameCoinTimeRecover",
+        "values": [
+          "10800"
+        ]
+      },
+      {
+        "i_d": 3051,
+        "key": "GameCredits_WeekMax",
+        "values": [
+          "5000000"
+        ]
+      },
+      {
+        "i_d": 3052,
+        "key": "GameCredits_DayMax",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "i_d": 3053,
+        "key": "GameCredits_WeekBonus"
+      },
+      {
+        "i_d": 3054,
+        "key": "GameCredits_DayBonus",
+        "values": [
+          "3000"
+        ]
+      },
+      {
+        "i_d": 3055,
+        "key": "GameCredits_WeekMag"
+      },
+      {
+        "i_d": 3056,
+        "key": "GameCredits_DayMag"
+      },
+      {
+        "i_d": 3057,
+        "key": "GameCredits_ItemId",
+        "values": [
+          "121"
+        ]
+      },
+      {
+        "i_d": 3058,
+        "key": "Gomoku_SubID",
+        "values": [
+          "100401"
+        ]
+      },
+      {
+        "i_d": 3059,
+        "key": "Gomoku_SubIndex",
+        "values": [
+          "10040101"
+        ]
+      },
+      {
+        "i_d": 3060,
+        "key": "Gomoku_OnLine_FailTime",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 3201,
+        "key": "MoonStone_ChangeReward",
+        "values": [
+          "2000650"
+        ]
+      },
+      {
+        "i_d": 3202,
+        "key": "DailyTaskRewardMailId",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "i_d": 3203,
+        "key": "CollectionMoonProgress",
+        "values": [
+          "65",
+          "40",
+          "15",
+          "0"
+        ]
+      },
+      {
+        "i_d": 3301,
+        "key": "BanLifeAbility",
+        "values": [
+          "130100101",
+          "130100320"
+        ]
+      },
+      {
+        "i_d": 3401,
+        "key": "UnLockHomeSet1_Item",
+        "values": [
+          "104000001"
+        ]
+      },
+      {
+        "i_d": 3402,
+        "key": "UnLockHomeSet2_Item",
+        "values": [
+          "104000002"
+        ]
+      },
+      {
+        "i_d": 3403,
+        "key": "UnLockHomeSet3_Item",
+        "values": [
+          "104000003"
+        ]
+      },
+      {
+        "i_d": 3501,
+        "key": "IntimacyMax",
+        "values": [
+          "99999"
+        ]
+      },
+      {
+        "i_d": 3502,
+        "key": "IntimacyGiftMaxUseNumber",
+        "values": [
+          "999"
+        ]
+      },
+      {
+        "i_d": 3503,
+        "key": "IntimacyLevelUnLockGift",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 3504,
+        "key": "IntimacyLevelUnLockTag",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 3505,
+        "key": "MultiplayerExpressionRange",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 3506,
+        "key": "MultiplayerExpressionTimeout",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "i_d": 3507,
+        "key": "CommodityGiftLimitNumber",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 3508,
+        "key": "CommodityGiftFriendLimitTime",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 3509,
+        "key": "CommodityGiftIntimacyLimitNumber",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 3510,
+        "key": "WishListsMaximumNumber",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 3511,
+        "key": "RhombicStoneGiftIntimacyLimitNumber",
+        "values": [
+          "1000"
+        ]
+      },
+      {
+        "i_d": 3512,
+        "key": "WishListsMoonCardStone",
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "i_d": 3513,
+        "key": "WishListsBattlePassStone",
+        "values": [
+          "680"
+        ]
+      },
+      {
+        "i_d": 3550,
+        "key": "RestaurantGameBaseWeight",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 3551,
+        "key": "RestaurantGameWeightNumber",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "i_d": 3552,
+        "key": "RestaurantGameWeightLimit",
+        "values": [
+          "90"
+        ]
+      },
+      {
+        "i_d": 3601,
+        "key": "MPlandlordScoreItem",
+        "values": [
+          "101"
+        ]
+      },
+      {
+        "i_d": 3602,
+        "key": "MPLandlordFleePunishTimes",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "i_d": 3701,
+        "key": "Character_HomeDisplay_Condition",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 3801,
+        "key": "TurntableFirstOneNeed",
+        "values": [
+          "108",
+          "6"
+        ]
+      },
+      {
+        "i_d": 4001,
+        "key": "SecondaryVerificationPasswordLength",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "i_d": 4002,
+        "key": "SecondaryVerificationPasswordLimitTime",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "i_d": 4101,
+        "key": "RecentNewHomeItemLimit",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 4102,
+        "key": "RecentPutHomeItemLimit",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "i_d": 4201,
+        "key": "SoundFadeOutTime",
+        "values": [
+          "0.8"
+        ]
+      },
+      {
+        "i_d": 4202,
+        "key": "NearbyPlayerRadius",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 4203,
+        "key": "RingShrinkDuration",
+        "values": [
+          "1.3"
+        ]
+      },
+      {
+        "i_d": 4204,
+        "key": "InputTimingTolerance",
+        "values": [
+          "0.3"
+        ]
+      },
+      {
+        "i_d": 4301,
+        "key": "ReturningUserJudgement",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 4302,
+        "key": "ReturningDurationTime",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "i_d": 4401,
+        "key": "PileGrandPrizeRate",
+        "values": [
+          "500"
+        ]
+      },
+      {
+        "i_d": 4402,
+        "key": "PileGrandPrizePityCounter",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "i_d": 4403,
+        "key": "PileGrandPrizeDailyLimit",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "i_d": 4404,
+        "key": "PileHitsDailyLimit",
+        "values": [
+          "2000"
+        ]
+      },
+      {
+        "i_d": 4405,
+        "key": "PileDropRandomTimes",
+        "values": [
+          "5",
+          "20"
+        ]
+      },
+      {
+        "i_d": 4501,
+        "key": "WishEnd_Timer1",
+        "values": [
+          "2026-04-06 23:59:59"
+        ]
+      },
+      {
+        "i_d": 4502,
+        "key": "WishActivityId",
+        "values": [
+          "260326131"
+        ]
+      },
+      {
+        "i_d": 4503,
+        "key": "Wish_Conent_Max_Length",
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "i_d": 4601,
+        "key": "PetBagOriginal",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "i_d": 4602,
+        "key": "PetBagMax",
+        "values": [
+          "3000"
+        ]
+      },
+      {
+        "i_d": 4603,
+        "key": "PetBagExpandRadix",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "i_d": 4701,
+        "key": "Exploration_Default_AchieveID",
+        "values": [
+          "10000"
+        ]
+      },
+      {
+        "i_d": 4702,
+        "key": "Exploration_Start_Time",
+        "values": [
+          "2026-06-08 00:00:00"
+        ]
+      },
+      {
+        "i_d": 4703,
+        "key": "Exploration_EndTime_Hour",
+        "values": [
+          "341"
+        ]
+      }
+    ]
+  }
+}

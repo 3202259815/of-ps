@@ -1,0 +1,2198 @@
+{
+  "collection_gloves": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_gloves_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 1001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 1002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 1003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 1004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 1005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 1006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 1007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 1008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 1009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 1010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 1011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 1012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 1013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 1014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 1015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 1016
+          },
+          {
+            "level": -1,
+            "guide_voice": 1101
+          },
+          {
+            "level": -1,
+            "guide_voice": 1102
+          },
+          {
+            "level": -1,
+            "guide_voice": 1103
+          },
+          {
+            "level": -1,
+            "guide_voice": 1104
+          },
+          {
+            "level": -1,
+            "guide_voice": 1105
+          },
+          {
+            "level": -1,
+            "guide_voice": 1106
+          },
+          {
+            "level": -1,
+            "guide_voice": 1107
+          },
+          {
+            "level": -1,
+            "guide_voice": 1108
+          },
+          {
+            "level": -1,
+            "guide_voice": 1109
+          },
+          {
+            "level": -1,
+            "guide_voice": 1110
+          },
+          {
+            "level": -1,
+            "guide_voice": 1111
+          },
+          {
+            "level": -1,
+            "guide_voice": 1112
+          },
+          {
+            "level": -1,
+            "guide_voice": 1113
+          },
+          {
+            "level": -1,
+            "guide_voice": 1114
+          },
+          {
+            "level": -1,
+            "guide_voice": 1115
+          },
+          {
+            "level": -1,
+            "guide_voice": 1116
+          },
+          {
+            "level": -1,
+            "guide_voice": 1117
+          },
+          {
+            "level": -1,
+            "guide_voice": 1118
+          },
+          {
+            "level": -1,
+            "guide_voice": 1119
+          },
+          {
+            "level": -1,
+            "guide_voice": 1120
+          },
+          {
+            "level": -1,
+            "guide_voice": 1121
+          },
+          {
+            "level": -1,
+            "guide_voice": 1122
+          },
+          {
+            "level": -1,
+            "guide_voice": 1123
+          },
+          {
+            "level": -1,
+            "guide_voice": 1124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_gloves_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 1001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 1002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 1003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 1004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 1005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 1006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 1007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 1008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 1009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 1010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 1011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 1012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 1013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 1014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 1015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 1016
+          },
+          {
+            "level": -1,
+            "guide_voice": 1101
+          },
+          {
+            "level": -1,
+            "guide_voice": 1102
+          },
+          {
+            "level": -1,
+            "guide_voice": 1103
+          },
+          {
+            "level": -1,
+            "guide_voice": 1104
+          },
+          {
+            "level": -1,
+            "guide_voice": 1105
+          },
+          {
+            "level": -1,
+            "guide_voice": 1106
+          },
+          {
+            "level": -1,
+            "guide_voice": 1107
+          },
+          {
+            "level": -1,
+            "guide_voice": 1108
+          },
+          {
+            "level": -1,
+            "guide_voice": 1109
+          },
+          {
+            "level": -1,
+            "guide_voice": 1110
+          },
+          {
+            "level": -1,
+            "guide_voice": 1111
+          },
+          {
+            "level": -1,
+            "guide_voice": 1112
+          },
+          {
+            "level": -1,
+            "guide_voice": 1113
+          },
+          {
+            "level": -1,
+            "guide_voice": 1114
+          },
+          {
+            "level": -1,
+            "guide_voice": 1115
+          },
+          {
+            "level": -1,
+            "guide_voice": 1116
+          },
+          {
+            "level": -1,
+            "guide_voice": 1117
+          },
+          {
+            "level": -1,
+            "guide_voice": 1118
+          },
+          {
+            "level": -1,
+            "guide_voice": 1119
+          },
+          {
+            "level": -1,
+            "guide_voice": 1120
+          },
+          {
+            "level": -1,
+            "guide_voice": 1121
+          },
+          {
+            "level": -1,
+            "guide_voice": 1122
+          },
+          {
+            "level": -1,
+            "guide_voice": 1123
+          },
+          {
+            "level": -1,
+            "guide_voice": 1124
+          }
+        ]
+      }
+    ]
+  },
+  "logging_axe": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_logging_axe_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 2001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 2002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 2003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 2004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 2005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 2006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 2007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 2008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 2009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 2010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 2011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 2012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 2013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 2014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 2015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 2016
+          },
+          {
+            "level": -1,
+            "guide_voice": 2101
+          },
+          {
+            "level": -1,
+            "guide_voice": 2102
+          },
+          {
+            "level": -1,
+            "guide_voice": 2103
+          },
+          {
+            "level": -1,
+            "guide_voice": 2104
+          },
+          {
+            "level": -1,
+            "guide_voice": 2105
+          },
+          {
+            "level": -1,
+            "guide_voice": 2106
+          },
+          {
+            "level": -1,
+            "guide_voice": 2107
+          },
+          {
+            "level": -1,
+            "guide_voice": 2108
+          },
+          {
+            "level": -1,
+            "guide_voice": 2109
+          },
+          {
+            "level": -1,
+            "guide_voice": 2110
+          },
+          {
+            "level": -1,
+            "guide_voice": 2111
+          },
+          {
+            "level": -1,
+            "guide_voice": 2112
+          },
+          {
+            "level": -1,
+            "guide_voice": 2113
+          },
+          {
+            "level": -1,
+            "guide_voice": 2114
+          },
+          {
+            "level": -1,
+            "guide_voice": 2115
+          },
+          {
+            "level": -1,
+            "guide_voice": 2116
+          },
+          {
+            "level": -1,
+            "guide_voice": 2117
+          },
+          {
+            "level": -1,
+            "guide_voice": 2118
+          },
+          {
+            "level": -1,
+            "guide_voice": 2119
+          },
+          {
+            "level": -1,
+            "guide_voice": 2120
+          },
+          {
+            "level": -1,
+            "guide_voice": 2121
+          },
+          {
+            "level": -1,
+            "guide_voice": 2122
+          },
+          {
+            "level": -1,
+            "guide_voice": 2123
+          },
+          {
+            "level": -1,
+            "guide_voice": 2124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_logging_axe_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 2001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 2002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 2003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 2004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 2005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 2006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 2007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 2008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 2009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 2010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 2011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 2012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 2013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 2014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 2015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 2016
+          },
+          {
+            "level": -1,
+            "guide_voice": 2101
+          },
+          {
+            "level": -1,
+            "guide_voice": 2102
+          },
+          {
+            "level": -1,
+            "guide_voice": 2103
+          },
+          {
+            "level": -1,
+            "guide_voice": 2104
+          },
+          {
+            "level": -1,
+            "guide_voice": 2105
+          },
+          {
+            "level": -1,
+            "guide_voice": 2106
+          },
+          {
+            "level": -1,
+            "guide_voice": 2107
+          },
+          {
+            "level": -1,
+            "guide_voice": 2108
+          },
+          {
+            "level": -1,
+            "guide_voice": 2109
+          },
+          {
+            "level": -1,
+            "guide_voice": 2110
+          },
+          {
+            "level": -1,
+            "guide_voice": 2111
+          },
+          {
+            "level": -1,
+            "guide_voice": 2112
+          },
+          {
+            "level": -1,
+            "guide_voice": 2113
+          },
+          {
+            "level": -1,
+            "guide_voice": 2114
+          },
+          {
+            "level": -1,
+            "guide_voice": 2115
+          },
+          {
+            "level": -1,
+            "guide_voice": 2116
+          },
+          {
+            "level": -1,
+            "guide_voice": 2117
+          },
+          {
+            "level": -1,
+            "guide_voice": 2118
+          },
+          {
+            "level": -1,
+            "guide_voice": 2119
+          },
+          {
+            "level": -1,
+            "guide_voice": 2120
+          },
+          {
+            "level": -1,
+            "guide_voice": 2121
+          },
+          {
+            "level": -1,
+            "guide_voice": 2122
+          },
+          {
+            "level": -1,
+            "guide_voice": 2123
+          },
+          {
+            "level": -1,
+            "guide_voice": 2124
+          }
+        ]
+      }
+    ]
+  },
+  "mining_hammer": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_mining_hammer_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 3001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 3002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 3003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 3004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 3005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 3006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 3007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 3008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 3009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 3010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 3011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 3012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 3013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 3014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 3015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 3016
+          },
+          {
+            "level": -1,
+            "guide_voice": 3101
+          },
+          {
+            "level": -1,
+            "guide_voice": 3102
+          },
+          {
+            "level": -1,
+            "guide_voice": 3103
+          },
+          {
+            "level": -1,
+            "guide_voice": 3104
+          },
+          {
+            "level": -1,
+            "guide_voice": 3105
+          },
+          {
+            "level": -1,
+            "guide_voice": 3106
+          },
+          {
+            "level": -1,
+            "guide_voice": 3107
+          },
+          {
+            "level": -1,
+            "guide_voice": 3108
+          },
+          {
+            "level": -1,
+            "guide_voice": 3109
+          },
+          {
+            "level": -1,
+            "guide_voice": 3110
+          },
+          {
+            "level": -1,
+            "guide_voice": 3111
+          },
+          {
+            "level": -1,
+            "guide_voice": 3112
+          },
+          {
+            "level": -1,
+            "guide_voice": 3113
+          },
+          {
+            "level": -1,
+            "guide_voice": 3114
+          },
+          {
+            "level": -1,
+            "guide_voice": 3115
+          },
+          {
+            "level": -1,
+            "guide_voice": 3116
+          },
+          {
+            "level": -1,
+            "guide_voice": 3117
+          },
+          {
+            "level": -1,
+            "guide_voice": 3118
+          },
+          {
+            "level": -1,
+            "guide_voice": 3119
+          },
+          {
+            "level": -1,
+            "guide_voice": 3120
+          },
+          {
+            "level": -1,
+            "guide_voice": 3121
+          },
+          {
+            "level": -1,
+            "guide_voice": 3122
+          },
+          {
+            "level": -1,
+            "guide_voice": 3123
+          },
+          {
+            "level": -1,
+            "guide_voice": 3124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_mining_hammer_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 3001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 3002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 3003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 3004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 3005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 3006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 3007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 3008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 3009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 3010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 3011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 3012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 3013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 3014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 3015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 3016
+          },
+          {
+            "level": -1,
+            "guide_voice": 3101
+          },
+          {
+            "level": -1,
+            "guide_voice": 3102
+          },
+          {
+            "level": -1,
+            "guide_voice": 3103
+          },
+          {
+            "level": -1,
+            "guide_voice": 3104
+          },
+          {
+            "level": -1,
+            "guide_voice": 3105
+          },
+          {
+            "level": -1,
+            "guide_voice": 3106
+          },
+          {
+            "level": -1,
+            "guide_voice": 3107
+          },
+          {
+            "level": -1,
+            "guide_voice": 3108
+          },
+          {
+            "level": -1,
+            "guide_voice": 3109
+          },
+          {
+            "level": -1,
+            "guide_voice": 3110
+          },
+          {
+            "level": -1,
+            "guide_voice": 3111
+          },
+          {
+            "level": -1,
+            "guide_voice": 3112
+          },
+          {
+            "level": -1,
+            "guide_voice": 3113
+          },
+          {
+            "level": -1,
+            "guide_voice": 3114
+          },
+          {
+            "level": -1,
+            "guide_voice": 3115
+          },
+          {
+            "level": -1,
+            "guide_voice": 3116
+          },
+          {
+            "level": -1,
+            "guide_voice": 3117
+          },
+          {
+            "level": -1,
+            "guide_voice": 3118
+          },
+          {
+            "level": -1,
+            "guide_voice": 3119
+          },
+          {
+            "level": -1,
+            "guide_voice": 3120
+          },
+          {
+            "level": -1,
+            "guide_voice": 3121
+          },
+          {
+            "level": -1,
+            "guide_voice": 3122
+          },
+          {
+            "level": -1,
+            "guide_voice": 3123
+          },
+          {
+            "level": -1,
+            "guide_voice": 3124
+          }
+        ]
+      }
+    ]
+  },
+  "insect_net": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_insect_net_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 4001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 4002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 4003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 4004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 4005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 4006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 4007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 4008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 4009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 4010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 4011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 4012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 4013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 4014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 4015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 4016
+          },
+          {
+            "level": -1,
+            "guide_voice": 4101
+          },
+          {
+            "level": -1,
+            "guide_voice": 4102
+          },
+          {
+            "level": -1,
+            "guide_voice": 4103
+          },
+          {
+            "level": -1,
+            "guide_voice": 4104
+          },
+          {
+            "level": -1,
+            "guide_voice": 4105
+          },
+          {
+            "level": -1,
+            "guide_voice": 4106
+          },
+          {
+            "level": -1,
+            "guide_voice": 4107
+          },
+          {
+            "level": -1,
+            "guide_voice": 4108
+          },
+          {
+            "level": -1,
+            "guide_voice": 4109
+          },
+          {
+            "level": -1,
+            "guide_voice": 4110
+          },
+          {
+            "level": -1,
+            "guide_voice": 4111
+          },
+          {
+            "level": -1,
+            "guide_voice": 4112
+          },
+          {
+            "level": -1,
+            "guide_voice": 4113
+          },
+          {
+            "level": -1,
+            "guide_voice": 4114
+          },
+          {
+            "level": -1,
+            "guide_voice": 4115
+          },
+          {
+            "level": -1,
+            "guide_voice": 4116
+          },
+          {
+            "level": -1,
+            "guide_voice": 4117
+          },
+          {
+            "level": -1,
+            "guide_voice": 4118
+          },
+          {
+            "level": -1,
+            "guide_voice": 4119
+          },
+          {
+            "level": -1,
+            "guide_voice": 4120
+          },
+          {
+            "level": -1,
+            "guide_voice": 4121
+          },
+          {
+            "level": -1,
+            "guide_voice": 4122
+          },
+          {
+            "level": -1,
+            "guide_voice": 4123
+          },
+          {
+            "level": -1,
+            "guide_voice": 4124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_insect_net_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 4001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 4002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 4003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 4004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 4005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 4006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 4007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 4008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 4009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 4010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 4011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 4012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 4013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 4014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 4015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 4016
+          },
+          {
+            "level": -1,
+            "guide_voice": 4101
+          },
+          {
+            "level": -1,
+            "guide_voice": 4102
+          },
+          {
+            "level": -1,
+            "guide_voice": 4103
+          },
+          {
+            "level": -1,
+            "guide_voice": 4104
+          },
+          {
+            "level": -1,
+            "guide_voice": 4105
+          },
+          {
+            "level": -1,
+            "guide_voice": 4106
+          },
+          {
+            "level": -1,
+            "guide_voice": 4107
+          },
+          {
+            "level": -1,
+            "guide_voice": 4108
+          },
+          {
+            "level": -1,
+            "guide_voice": 4109
+          },
+          {
+            "level": -1,
+            "guide_voice": 4110
+          },
+          {
+            "level": -1,
+            "guide_voice": 4111
+          },
+          {
+            "level": -1,
+            "guide_voice": 4112
+          },
+          {
+            "level": -1,
+            "guide_voice": 4113
+          },
+          {
+            "level": -1,
+            "guide_voice": 4114
+          },
+          {
+            "level": -1,
+            "guide_voice": 4115
+          },
+          {
+            "level": -1,
+            "guide_voice": 4116
+          },
+          {
+            "level": -1,
+            "guide_voice": 4117
+          },
+          {
+            "level": -1,
+            "guide_voice": 4118
+          },
+          {
+            "level": -1,
+            "guide_voice": 4119
+          },
+          {
+            "level": -1,
+            "guide_voice": 4120
+          },
+          {
+            "level": -1,
+            "guide_voice": 4121
+          },
+          {
+            "level": -1,
+            "guide_voice": 4122
+          },
+          {
+            "level": -1,
+            "guide_voice": 4123
+          },
+          {
+            "level": -1,
+            "guide_voice": 4124
+          }
+        ]
+      }
+    ]
+  },
+  "water_bottle": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_water_bottle_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 5001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 5002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 5003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 5004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 5005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 5006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 5007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 5008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 5009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 5010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 5011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 5012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 5013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 5014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 5015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 5016
+          },
+          {
+            "level": -1,
+            "guide_voice": 5101
+          },
+          {
+            "level": -1,
+            "guide_voice": 5102
+          },
+          {
+            "level": -1,
+            "guide_voice": 5103
+          },
+          {
+            "level": -1,
+            "guide_voice": 5104
+          },
+          {
+            "level": -1,
+            "guide_voice": 5105
+          },
+          {
+            "level": -1,
+            "guide_voice": 5106
+          },
+          {
+            "level": -1,
+            "guide_voice": 5107
+          },
+          {
+            "level": -1,
+            "guide_voice": 5108
+          },
+          {
+            "level": -1,
+            "guide_voice": 5109
+          },
+          {
+            "level": -1,
+            "guide_voice": 5110
+          },
+          {
+            "level": -1,
+            "guide_voice": 5111
+          },
+          {
+            "level": -1,
+            "guide_voice": 5112
+          },
+          {
+            "level": -1,
+            "guide_voice": 5113
+          },
+          {
+            "level": -1,
+            "guide_voice": 5114
+          },
+          {
+            "level": -1,
+            "guide_voice": 5115
+          },
+          {
+            "level": -1,
+            "guide_voice": 5116
+          },
+          {
+            "level": -1,
+            "guide_voice": 5117
+          },
+          {
+            "level": -1,
+            "guide_voice": 5118
+          },
+          {
+            "level": -1,
+            "guide_voice": 5119
+          },
+          {
+            "level": -1,
+            "guide_voice": 5120
+          },
+          {
+            "level": -1,
+            "guide_voice": 5121
+          },
+          {
+            "level": -1,
+            "guide_voice": 5122
+          },
+          {
+            "level": -1,
+            "guide_voice": 5123
+          },
+          {
+            "level": -1,
+            "guide_voice": 5124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_water_bottle_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 5001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 5002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 5003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 5004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 5005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 5006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 5007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 5008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 5009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 5010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 5011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 5012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 5013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 5014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 5015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 5016
+          },
+          {
+            "level": -1,
+            "guide_voice": 5101
+          },
+          {
+            "level": -1,
+            "guide_voice": 5102
+          },
+          {
+            "level": -1,
+            "guide_voice": 5103
+          },
+          {
+            "level": -1,
+            "guide_voice": 5104
+          },
+          {
+            "level": -1,
+            "guide_voice": 5105
+          },
+          {
+            "level": -1,
+            "guide_voice": 5106
+          },
+          {
+            "level": -1,
+            "guide_voice": 5107
+          },
+          {
+            "level": -1,
+            "guide_voice": 5108
+          },
+          {
+            "level": -1,
+            "guide_voice": 5109
+          },
+          {
+            "level": -1,
+            "guide_voice": 5110
+          },
+          {
+            "level": -1,
+            "guide_voice": 5111
+          },
+          {
+            "level": -1,
+            "guide_voice": 5112
+          },
+          {
+            "level": -1,
+            "guide_voice": 5113
+          },
+          {
+            "level": -1,
+            "guide_voice": 5114
+          },
+          {
+            "level": -1,
+            "guide_voice": 5115
+          },
+          {
+            "level": -1,
+            "guide_voice": 5116
+          },
+          {
+            "level": -1,
+            "guide_voice": 5117
+          },
+          {
+            "level": -1,
+            "guide_voice": 5118
+          },
+          {
+            "level": -1,
+            "guide_voice": 5119
+          },
+          {
+            "level": -1,
+            "guide_voice": 5120
+          },
+          {
+            "level": -1,
+            "guide_voice": 5121
+          },
+          {
+            "level": -1,
+            "guide_voice": 5122
+          },
+          {
+            "level": -1,
+            "guide_voice": 5123
+          },
+          {
+            "level": -1,
+            "guide_voice": 5124
+          }
+        ]
+      }
+    ]
+  },
+  "pick": {
+    "datas": [
+      {
+        "i_d": 100,
+        "collection_pick_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 5001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 5002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 5003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 5004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 5005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 5006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 5007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 5008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 5009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 5010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 5011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 5012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 5013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 5014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 5015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 5016
+          },
+          {
+            "level": -1,
+            "guide_voice": 5101
+          },
+          {
+            "level": -1,
+            "guide_voice": 5102
+          },
+          {
+            "level": -1,
+            "guide_voice": 5103
+          },
+          {
+            "level": -1,
+            "guide_voice": 5104
+          },
+          {
+            "level": -1,
+            "guide_voice": 5105
+          },
+          {
+            "level": -1,
+            "guide_voice": 5106
+          },
+          {
+            "level": -1,
+            "guide_voice": 5107
+          },
+          {
+            "level": -1,
+            "guide_voice": 5108
+          },
+          {
+            "level": -1,
+            "guide_voice": 5109
+          },
+          {
+            "level": -1,
+            "guide_voice": 5110
+          },
+          {
+            "level": -1,
+            "guide_voice": 5111
+          },
+          {
+            "level": -1,
+            "guide_voice": 5112
+          },
+          {
+            "level": -1,
+            "guide_voice": 5113
+          },
+          {
+            "level": -1,
+            "guide_voice": 5114
+          },
+          {
+            "level": -1,
+            "guide_voice": 5115
+          },
+          {
+            "level": -1,
+            "guide_voice": 5116
+          },
+          {
+            "level": -1,
+            "guide_voice": 5117
+          },
+          {
+            "level": -1,
+            "guide_voice": 5118
+          },
+          {
+            "level": -1,
+            "guide_voice": 5119
+          },
+          {
+            "level": -1,
+            "guide_voice": 5120
+          },
+          {
+            "level": -1,
+            "guide_voice": 5121
+          },
+          {
+            "level": -1,
+            "guide_voice": 5122
+          },
+          {
+            "level": -1,
+            "guide_voice": 5123
+          },
+          {
+            "level": -1,
+            "guide_voice": 5124
+          }
+        ]
+      },
+      {
+        "i_d": 101,
+        "collection_pick_level_item": [
+          {
+            "level": 1,
+            "need_count": 1,
+            "guide_voice": 5001
+          },
+          {
+            "level": 2,
+            "need_count": 1,
+            "guide_voice": 5002
+          },
+          {
+            "level": 3,
+            "need_count": 1,
+            "guide_voice": 5003
+          },
+          {
+            "level": 4,
+            "need_count": 1,
+            "guide_voice": 5004
+          },
+          {
+            "level": 5,
+            "need_count": 1,
+            "guide_voice": 5005
+          },
+          {
+            "level": 6,
+            "need_count": 1,
+            "guide_voice": 5006
+          },
+          {
+            "level": 7,
+            "need_count": 1,
+            "guide_voice": 5007
+          },
+          {
+            "level": 8,
+            "need_count": 1,
+            "guide_voice": 5008
+          },
+          {
+            "level": 9,
+            "need_count": 1,
+            "guide_voice": 5009
+          },
+          {
+            "level": 10,
+            "need_count": 1,
+            "guide_voice": 5010
+          },
+          {
+            "level": 11,
+            "need_count": 1,
+            "guide_voice": 5011
+          },
+          {
+            "level": 12,
+            "need_count": 1,
+            "guide_voice": 5012
+          },
+          {
+            "level": 13,
+            "need_count": 1,
+            "guide_voice": 5013
+          },
+          {
+            "level": 14,
+            "need_count": 1,
+            "guide_voice": 5014
+          },
+          {
+            "level": 15,
+            "need_count": 1,
+            "guide_voice": 5015
+          },
+          {
+            "level": 16,
+            "need_count": 1,
+            "guide_voice": 5016
+          },
+          {
+            "level": -1,
+            "guide_voice": 5101
+          },
+          {
+            "level": -1,
+            "guide_voice": 5102
+          },
+          {
+            "level": -1,
+            "guide_voice": 5103
+          },
+          {
+            "level": -1,
+            "guide_voice": 5104
+          },
+          {
+            "level": -1,
+            "guide_voice": 5105
+          },
+          {
+            "level": -1,
+            "guide_voice": 5106
+          },
+          {
+            "level": -1,
+            "guide_voice": 5107
+          },
+          {
+            "level": -1,
+            "guide_voice": 5108
+          },
+          {
+            "level": -1,
+            "guide_voice": 5109
+          },
+          {
+            "level": -1,
+            "guide_voice": 5110
+          },
+          {
+            "level": -1,
+            "guide_voice": 5111
+          },
+          {
+            "level": -1,
+            "guide_voice": 5112
+          },
+          {
+            "level": -1,
+            "guide_voice": 5113
+          },
+          {
+            "level": -1,
+            "guide_voice": 5114
+          },
+          {
+            "level": -1,
+            "guide_voice": 5115
+          },
+          {
+            "level": -1,
+            "guide_voice": 5116
+          },
+          {
+            "level": -1,
+            "guide_voice": 5117
+          },
+          {
+            "level": -1,
+            "guide_voice": 5118
+          },
+          {
+            "level": -1,
+            "guide_voice": 5119
+          },
+          {
+            "level": -1,
+            "guide_voice": 5120
+          },
+          {
+            "level": -1,
+            "guide_voice": 5121
+          },
+          {
+            "level": -1,
+            "guide_voice": 5122
+          },
+          {
+            "level": -1,
+            "guide_voice": 5123
+          },
+          {
+            "level": -1,
+            "guide_voice": 5124
+          }
+        ]
+      }
+    ]
+  }
+}

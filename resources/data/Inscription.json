@@ -1,0 +1,7446 @@
+{
+  "inscription": {
+    "datas": [
+      {
+        "i_d": 20001,
+        "item_i_d": 20001,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30010,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30011,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30012,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30013,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30014,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30015,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30016,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30017,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30018,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30019,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20002,
+        "item_i_d": 20002,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30020,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30021,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30022,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30023,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30024,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30025,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30026,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30027,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30028,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30029,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20003,
+        "item_i_d": 20003,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30030,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30031,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30032,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30033,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30034,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30035,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30036,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30037,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30038,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30039,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20004,
+        "item_i_d": 20004,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30040,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30041,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30042,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30043,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30044,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30045,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30046,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30047,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30048,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30049,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20005,
+        "item_i_d": 20005,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30050,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30051,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30052,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30053,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30054,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30055,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30056,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30057,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30058,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30059,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20006,
+        "item_i_d": 20006,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30060,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30061,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30062,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30063,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30064,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30065,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30066,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30067,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30068,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30069,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20007,
+        "item_i_d": 20007,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30070,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30071,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30072,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30073,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30074,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30075,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30076,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30077,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30078,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30079,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20008,
+        "item_i_d": 20008,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30080,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30081,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30082,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30083,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30084,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30085,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30086,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30087,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30088,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30089,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20009,
+        "item_i_d": 20009,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30090,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30091,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30092,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30093,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30094,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30095,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30096,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30097,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30098,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30099,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20010,
+        "item_i_d": 20010,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 30100,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 30101,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 30102,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 30103,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 30104,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 30105,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 30106,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 30107,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 30108,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 30109,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 20101,
+        "item_i_d": 20101,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31010,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31011,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31012,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31013,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31014,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31015,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31016,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31017,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31018,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31019,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20102,
+        "item_i_d": 20102,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31020,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31021,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31022,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31023,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31024,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31025,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31026,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31027,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31028,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31029,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20103,
+        "item_i_d": 20103,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31030,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31031,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31032,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31033,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31034,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31035,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31036,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31037,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31038,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31039,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20104,
+        "item_i_d": 20104,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31040,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31041,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31042,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31043,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31044,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31045,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31046,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31047,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31048,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31049,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20105,
+        "item_i_d": 20105,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31050,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31051,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31052,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31053,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31054,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31055,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31056,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31057,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31058,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31059,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20106,
+        "item_i_d": 20106,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31060,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31061,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31062,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31063,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31064,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31065,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31066,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31067,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31068,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31069,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20107,
+        "item_i_d": 20107,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31070,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31071,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31072,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31073,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31074,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31075,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31076,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31077,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31078,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31079,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20108,
+        "item_i_d": 20108,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31080,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31081,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31082,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31083,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31084,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31085,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31086,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31087,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31088,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31089,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20109,
+        "item_i_d": 20109,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31090,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31091,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31092,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31093,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31094,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31095,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31096,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31097,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31098,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31099,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20110,
+        "item_i_d": 20110,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 31100,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 31101,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 31102,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 31103,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 31104,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 31105,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 31106,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 31107,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 31108,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 31109,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 1
+      },
+      {
+        "i_d": 20201,
+        "item_i_d": 20201,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32010,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32011,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32012,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32013,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32014,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32015,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32016,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32017,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32018,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32019,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20202,
+        "item_i_d": 20202,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32020,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32021,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32022,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32023,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32024,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32025,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32026,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32027,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32028,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32029,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20203,
+        "item_i_d": 20203,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32030,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32031,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32032,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32033,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32034,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32035,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32036,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32037,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32038,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32039,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20204,
+        "item_i_d": 20204,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32040,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32041,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32042,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32043,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32044,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32045,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32046,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32047,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32048,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32049,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20205,
+        "item_i_d": 20205,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32050,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32051,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32052,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32053,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32054,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32055,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32056,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32057,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32058,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32059,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20206,
+        "item_i_d": 20206,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32060,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32061,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32062,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32063,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32064,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32065,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32066,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32067,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32068,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32069,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20207,
+        "item_i_d": 20207,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32070,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32071,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32072,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32073,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32074,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32075,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32076,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32077,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32078,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32079,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20208,
+        "item_i_d": 20208,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32080,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32081,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32082,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32083,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32084,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32085,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32086,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32087,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32088,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32089,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20209,
+        "item_i_d": 20209,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32090,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32091,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32092,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32093,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32094,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32095,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32096,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32097,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32098,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32099,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20210,
+        "item_i_d": 20210,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 32100,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 32101,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 32102,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 32103,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 32104,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 32105,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 32106,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 32107,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 32108,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 32109,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 2
+      },
+      {
+        "i_d": 20301,
+        "item_i_d": 20301,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33010,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33011,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33012,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33013,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33014,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33015,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33016,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33017,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33018,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33019,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20302,
+        "item_i_d": 20302,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33020,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33021,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33022,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33023,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33024,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33025,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33026,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33027,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33028,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33029,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20303,
+        "item_i_d": 20303,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33030,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33031,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33032,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33033,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33034,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33035,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33036,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33037,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33038,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33039,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20304,
+        "item_i_d": 20304,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33040,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33041,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33042,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33043,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33044,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33045,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33046,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33047,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33048,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33049,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20305,
+        "item_i_d": 20305,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33050,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33051,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33052,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33053,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33054,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33055,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33056,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33057,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33058,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33059,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20306,
+        "item_i_d": 20306,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33060,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33061,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33062,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33063,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33064,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33065,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33066,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33067,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33068,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33069,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20307,
+        "item_i_d": 20307,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33070,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33071,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33072,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33073,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33074,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33075,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33076,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33077,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33078,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33079,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20308,
+        "item_i_d": 20308,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33080,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33081,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33082,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33083,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33084,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33085,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33086,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33087,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33088,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33089,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20309,
+        "item_i_d": 20309,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33090,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33091,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33092,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33093,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33094,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33095,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33096,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33097,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33098,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33099,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20310,
+        "item_i_d": 20310,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 33100,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 33101,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 33102,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 33103,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 33104,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 33105,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 33106,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 33107,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 33108,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 33109,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 3
+      },
+      {
+        "i_d": 20401,
+        "item_i_d": 20401,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34010,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34011,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34012,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34013,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34014,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34015,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34016,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34017,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34018,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34019,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20402,
+        "item_i_d": 20402,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34020,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34021,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34022,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34023,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34024,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34025,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34026,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34027,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34028,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34029,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20403,
+        "item_i_d": 20403,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34030,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34031,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34032,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34033,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34034,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34035,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34036,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34037,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34038,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34039,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20404,
+        "item_i_d": 20404,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34040,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34041,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34042,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34043,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34044,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34045,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34046,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34047,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34048,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34049,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20405,
+        "item_i_d": 20405,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34050,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34051,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34052,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34053,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34054,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34055,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34056,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34057,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34058,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34059,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20406,
+        "item_i_d": 20406,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34060,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34061,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34062,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34063,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34064,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34065,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34066,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34067,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34068,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34069,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20407,
+        "item_i_d": 20407,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34070,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34071,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34072,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34073,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34074,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34075,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34076,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34077,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34078,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34079,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20408,
+        "item_i_d": 20408,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34080,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34081,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34082,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34083,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34084,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34085,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34086,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34087,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34088,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34089,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20409,
+        "item_i_d": 20409,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34090,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34091,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34092,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34093,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34094,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34095,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34096,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34097,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34098,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34099,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      },
+      {
+        "i_d": 20410,
+        "item_i_d": 20410,
+        "inscription_group_info": [
+          {
+            "level": 1,
+            "passive_spell_i_d": 34100,
+            "need_gold_count": 1000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "passive_spell_i_d": 34101,
+            "need_gold_count": 1500,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "passive_spell_i_d": 34102,
+            "need_gold_count": 2000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 8
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "passive_spell_i_d": 34103,
+            "need_gold_count": 4000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 11
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 2
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "passive_spell_i_d": 34104,
+            "need_gold_count": 5000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 14
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "passive_spell_i_d": 34105,
+            "need_gold_count": 6000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 17
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 4
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "passive_spell_i_d": 34106,
+            "need_gold_count": 7000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 20
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "passive_spell_i_d": 34107,
+            "need_gold_count": 8000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 23
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 6
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "passive_spell_i_d": 34108,
+            "need_gold_count": 9000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 26
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "passive_spell_i_d": 34109,
+            "need_gold_count": 10000,
+            "inscription_need_item": [
+              {
+                "need_item_i_d": 205,
+                "item_count": 29
+              },
+              {
+                "need_item_i_d": 206,
+                "item_count": 8
+              }
+            ]
+          }
+        ],
+        "new_weapon_system_type": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,3001 @@
+{
+  "activity": {
+    "datas": [
+      {
+        "i_d": 5014,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-13 23:59:59",
+        "text_i_d": 5014,
+        "icon_i_d": 5014,
+        "index": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 100001,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-06-06 23:59:59",
+        "text_i_d": 100001,
+        "icon_i_d": 100001,
+        "index": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5004,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "text_i_d": 5004,
+        "icon_i_d": 5004,
+        "index": 101,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 100102,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-06-06 23:59:59",
+        "text_i_d": 100102,
+        "icon_i_d": 100102,
+        "index": 102,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5007,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-04 04:59:59",
+        "text_i_d": 5007,
+        "icon_i_d": 5007,
+        "index": 200,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5010,
+        "opening_time": "2025-04-04 05:00:00",
+        "closing_time": "2025-04-14 23:59:59",
+        "text_i_d": 5010,
+        "icon_i_d": 5010,
+        "index": 201,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5006,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-10 23:59:59",
+        "text_i_d": 5006,
+        "icon_i_d": 5006,
+        "index": 202,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5009,
+        "opening_time": "2025-04-11 00:00:00",
+        "closing_time": "2025-04-13 23:59:59",
+        "text_i_d": 5009,
+        "icon_i_d": 5009,
+        "index": 203,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5011,
+        "opening_time": "2025-04-15 05:00:00",
+        "closing_time": "2025-04-27 23:59:59",
+        "text_i_d": 5011,
+        "icon_i_d": 5011,
+        "index": 204,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5020,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-13 23:59:59",
+        "text_i_d": 5020,
+        "icon_i_d": 5020,
+        "index": 205,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5021,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "text_i_d": 5021,
+        "icon_i_d": 5021,
+        "index": 206,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5019,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "text_i_d": 5019,
+        "icon_i_d": 5019,
+        "index": 207,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5027,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-07-03 23:59:59",
+        "text_i_d": 5027,
+        "icon_i_d": 5027,
+        "index": 208,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5028,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-27 23:59:59",
+        "text_i_d": 5028,
+        "icon_i_d": 5028,
+        "index": 209,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5029,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-27 23:59:59",
+        "text_i_d": 5029,
+        "icon_i_d": 5029,
+        "index": 210,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5030,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-27 23:59:59",
+        "text_i_d": 5030,
+        "icon_i_d": 5030,
+        "index": 211,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5031,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-26 23:59:59",
+        "text_i_d": 5031,
+        "icon_i_d": 5031,
+        "index": 212,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5032,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-29 23:59:59",
+        "text_i_d": 5032,
+        "icon_i_d": 5032,
+        "index": 213,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5033,
+        "opening_time": "2025-06-20 00:00:00",
+        "closing_time": "2025-07-03 23:59:59",
+        "text_i_d": 5033,
+        "icon_i_d": 5033,
+        "index": 214,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5034,
+        "opening_time": "2025-06-20 00:00:00",
+        "closing_time": "2025-06-26 23:59:59",
+        "text_i_d": 5034,
+        "icon_i_d": 5034,
+        "index": 215,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5036,
+        "opening_time": "2025-06-27 00:00:00",
+        "closing_time": "2025-07-10 23:59:59",
+        "text_i_d": 5036,
+        "icon_i_d": 5036,
+        "index": 217,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5037,
+        "opening_time": "2025-07-01 00:00:00",
+        "closing_time": "2025-07-31 23:59:59",
+        "text_i_d": 5037,
+        "icon_i_d": 5037,
+        "index": 218,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5038,
+        "opening_time": "2025-07-04 00:00:00",
+        "closing_time": "2025-07-17 23:59:59",
+        "text_i_d": 5038,
+        "icon_i_d": 5038,
+        "index": 219,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5039,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-08-10 23:59:59",
+        "text_i_d": 5039,
+        "icon_i_d": 5039,
+        "index": 221,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5040,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-07-24 23:59:59",
+        "text_i_d": 5040,
+        "icon_i_d": 5040,
+        "index": 222,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5041,
+        "opening_time": "2025-07-12 00:00:00",
+        "closing_time": "2025-07-25 23:59:59",
+        "text_i_d": 5041,
+        "icon_i_d": 5041,
+        "index": 223,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5042,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-07-31 23:59:59",
+        "text_i_d": 5042,
+        "icon_i_d": 5042,
+        "index": 224,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5043,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-07-17 23:59:59",
+        "text_i_d": 5043,
+        "icon_i_d": 5043,
+        "index": 225,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5044,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-07-17 23:59:59",
+        "text_i_d": 5044,
+        "icon_i_d": 5044,
+        "index": 226,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5045,
+        "opening_time": "2025-07-11 00:00:00",
+        "closing_time": "2025-08-31 23:59:59",
+        "text_i_d": 5045,
+        "icon_i_d": 5045,
+        "index": 227,
+        "activity_i_d": 5045,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5046,
+        "opening_time": "2025-08-01 00:00:00",
+        "closing_time": "2025-08-31 23:59:59",
+        "text_i_d": 5046,
+        "icon_i_d": 5046,
+        "index": 228,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5047,
+        "opening_time": "2025-07-18 00:00:00",
+        "closing_time": "2025-07-31 23:59:59",
+        "text_i_d": 5047,
+        "icon_i_d": 5047,
+        "index": 229,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5048,
+        "opening_time": "2025-07-25 00:00:00",
+        "closing_time": "2025-08-14 23:59:59",
+        "text_i_d": 5048,
+        "icon_i_d": 5048,
+        "index": 230,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5049,
+        "opening_time": "2025-07-25 00:00:00",
+        "closing_time": "2025-07-31 23:59:59",
+        "text_i_d": 5049,
+        "icon_i_d": 5049,
+        "index": 231,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5050,
+        "opening_time": "2025-08-01 00:00:00",
+        "closing_time": "2025-08-14 23:59:59",
+        "text_i_d": 5050,
+        "icon_i_d": 5050,
+        "index": 232,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5051,
+        "opening_time": "2025-08-01 00:00:00",
+        "closing_time": "2025-08-22 23:59:59",
+        "text_i_d": 5051,
+        "icon_i_d": 5051,
+        "index": 233,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5052,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-09-04 23:59:59",
+        "text_i_d": 5052,
+        "icon_i_d": 5052,
+        "index": 234,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5053,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-09-14 23:59:59",
+        "text_i_d": 5053,
+        "icon_i_d": 5053,
+        "index": 235,
+        "activity_i_d": 5053,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 5054,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-09-14 23:59:59",
+        "text_i_d": 5054,
+        "icon_i_d": 5054,
+        "index": 236,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5055,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-08-21 23:59:59",
+        "text_i_d": 5055,
+        "icon_i_d": 5055,
+        "index": 237,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5056,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-08-28 23:59:59",
+        "text_i_d": 5056,
+        "icon_i_d": 5056,
+        "index": 238,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5057,
+        "opening_time": "2025-08-15 00:00:00",
+        "closing_time": "2025-09-21 23:59:59",
+        "text_i_d": 5057,
+        "icon_i_d": 5057,
+        "index": 239,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5058,
+        "opening_time": "2025-08-22 00:00:00",
+        "closing_time": "2025-09-04 23:59:59",
+        "text_i_d": 5058,
+        "icon_i_d": 5058,
+        "index": 240,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5059,
+        "opening_time": "2025-08-22 00:00:00",
+        "closing_time": "2025-08-31 23:59:59",
+        "text_i_d": 5059,
+        "icon_i_d": 5059,
+        "index": 241,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5060,
+        "opening_time": "2025-09-01 00:00:00",
+        "closing_time": "2025-09-30 23:59:59",
+        "text_i_d": 5060,
+        "icon_i_d": 5060,
+        "index": 228,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5061,
+        "opening_time": "2025-08-29 00:00:00",
+        "closing_time": "2025-09-11 23:59:59",
+        "text_i_d": 5061,
+        "icon_i_d": 5061,
+        "index": 238,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5062,
+        "opening_time": "2025-09-05 00:00:00",
+        "closing_time": "2025-09-25 23:59:59",
+        "text_i_d": 5062,
+        "icon_i_d": 5062,
+        "index": 240,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5063,
+        "opening_time": "2025-09-05 00:00:00",
+        "closing_time": "2025-09-18 23:59:59",
+        "text_i_d": 5063,
+        "icon_i_d": 5063,
+        "index": 241,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5064,
+        "opening_time": "2025-09-12 00:00:00",
+        "closing_time": "2025-09-25 23:59:59",
+        "text_i_d": 5064,
+        "icon_i_d": 5064,
+        "index": 238,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5065,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-31 23:59:59",
+        "text_i_d": 5065,
+        "icon_i_d": 5065,
+        "index": 242,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5066,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-09 23:59:59",
+        "text_i_d": 5066,
+        "icon_i_d": 5066,
+        "index": 243,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5067,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-09 23:59:59",
+        "text_i_d": 5067,
+        "icon_i_d": 5067,
+        "index": 244,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5068,
+        "opening_time": "2025-10-01 00:00:00",
+        "closing_time": "2025-10-31 23:59:59",
+        "text_i_d": 5068,
+        "icon_i_d": 5068,
+        "index": 245,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5069,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-16 23:59:59",
+        "text_i_d": 5069,
+        "icon_i_d": 5069,
+        "index": 246,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5070,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-09 23:59:59",
+        "text_i_d": 5070,
+        "icon_i_d": 5070,
+        "index": 247,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5071,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-31 23:59:59",
+        "text_i_d": 5071,
+        "icon_i_d": 5071,
+        "index": 227,
+        "activity_i_d": 5071,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5072,
+        "opening_time": "2025-10-16 00:00:00",
+        "closing_time": "2025-10-30 23:59:59",
+        "text_i_d": 5072,
+        "icon_i_d": 5072,
+        "index": 228,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5073,
+        "opening_time": "2025-10-16 00:00:00",
+        "closing_time": "2025-10-30 23:59:59",
+        "text_i_d": 5073,
+        "icon_i_d": 5073,
+        "index": 229,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5074,
+        "opening_time": "2025-10-23 00:00:00",
+        "closing_time": "2025-11-12 23:59:59",
+        "text_i_d": 5074,
+        "icon_i_d": 5074,
+        "index": 200,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5075,
+        "opening_time": "2025-10-23 00:00:00",
+        "closing_time": "2025-11-10 23:59:59",
+        "text_i_d": 5075,
+        "icon_i_d": 5075,
+        "index": 201,
+        "quest_i_d": 910101,
+        "dialog_i_d": 1011,
+        "activity_i_d": 5075,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5076,
+        "opening_time": "2025-11-01 00:00:00",
+        "closing_time": "2025-11-30 23:59:59",
+        "text_i_d": 5076,
+        "icon_i_d": 5076,
+        "index": 201,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5077,
+        "opening_time": "2025-11-13 00:00:00",
+        "closing_time": "2025-11-27 23:59:59",
+        "text_i_d": 5077,
+        "icon_i_d": 5077,
+        "index": 201,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5078,
+        "opening_time": "2025-11-13 00:00:00",
+        "closing_time": "2025-11-26 23:59:59",
+        "text_i_d": 5078,
+        "icon_i_d": 5078,
+        "index": 201,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 4001,
+        "opening_time": "2025-04-04 05:00:00",
+        "closing_time": "2025-04-14 23:59:59",
+        "text_i_d": 4001,
+        "icon_i_d": 4001,
+        "index": 300,
+        "dialog_i_d": 1014,
+        "activity_i_d": 4001,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 4004,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-13 23:59:59",
+        "text_i_d": 4004,
+        "icon_i_d": 4004,
+        "index": 301,
+        "dialog_i_d": 1017,
+        "activity_i_d": 4004,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 100302,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-06-07 23:59:59",
+        "text_i_d": 100302,
+        "icon_i_d": 100302,
+        "index": 302,
+        "activity_i_d": 100302,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 100303,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-05-29 23:59:59",
+        "text_i_d": 100303,
+        "icon_i_d": 100303,
+        "index": 303,
+        "activity_i_d": 100303,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 4007,
+        "opening_time": "2025-05-30 05:00:00",
+        "closing_time": "2025-06-12 23:59:59",
+        "text_i_d": 4007,
+        "icon_i_d": 4007,
+        "index": 304,
+        "activity_i_d": 4007,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 2006,
+        "opening_time": "2025-05-30 05:00:00",
+        "closing_time": "2025-06-12 23:59:59",
+        "text_i_d": 2006,
+        "icon_i_d": 2006,
+        "index": 402,
+        "activity_i_d": 2006,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2007,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-27 23:59:59",
+        "text_i_d": 2007,
+        "icon_i_d": 2007,
+        "index": 403,
+        "activity_i_d": 2007,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2008,
+        "opening_time": "2025-06-13 00:00:00",
+        "closing_time": "2025-06-27 23:59:59",
+        "text_i_d": 2008,
+        "icon_i_d": 2008,
+        "index": 404,
+        "activity_i_d": 2008,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2010,
+        "opening_time": "2025-10-01 00:00:00",
+        "closing_time": "2025-10-03 23:59:59",
+        "text_i_d": 2010,
+        "icon_i_d": 2010,
+        "index": 406,
+        "activity_i_d": 2010,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2011,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-17 23:59:59",
+        "text_i_d": 2011,
+        "icon_i_d": 2011,
+        "index": 407,
+        "activity_i_d": 2011,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2012,
+        "opening_time": "2025-10-10 00:00:00",
+        "closing_time": "2025-10-31 23:59:59",
+        "text_i_d": 2012,
+        "icon_i_d": 2012,
+        "index": 408,
+        "activity_i_d": 2012,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2013,
+        "opening_time": "2025-10-01 00:00:00",
+        "closing_time": "2025-10-15 23:59:59",
+        "text_i_d": 2013,
+        "icon_i_d": 2013,
+        "index": 409,
+        "activity_i_d": 2013,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2002,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-22 23:59:59",
+        "text_i_d": 2002,
+        "icon_i_d": 2002,
+        "index": 500,
+        "activity_i_d": 2002,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2004,
+        "opening_time": "2025-04-15 05:00:00",
+        "closing_time": "2025-05-06 23:59:59",
+        "text_i_d": 2004,
+        "icon_i_d": 2004,
+        "index": 501,
+        "activity_i_d": 2004,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 100502,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-06-06 23:59:59",
+        "text_i_d": 100502,
+        "icon_i_d": 100502,
+        "index": 502,
+        "activity_i_d": 2005,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 5008,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-06 23:59:59",
+        "text_i_d": 5008,
+        "icon_i_d": 5008,
+        "index": 600,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5017,
+        "opening_time": "2025-04-15 05:00:00",
+        "closing_time": "2025-04-29 23:59:59",
+        "text_i_d": 5017,
+        "icon_i_d": 5017,
+        "index": 601,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5015,
+        "opening_time": "2025-04-15 05:00:00",
+        "closing_time": "2025-04-22 23:59:59",
+        "text_i_d": 5015,
+        "icon_i_d": 5015,
+        "index": 700,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5022,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-06 23:59:59",
+        "text_i_d": 5022,
+        "icon_i_d": 5022,
+        "index": 701,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5012,
+        "opening_time": "2025-04-22 05:00:00",
+        "closing_time": "2025-04-28 23:59:59",
+        "text_i_d": 5012,
+        "icon_i_d": 5012,
+        "index": 800,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5025,
+        "opening_time": "2025-05-06 00:00:00",
+        "closing_time": "2025-05-13 23:59:59",
+        "text_i_d": 5025,
+        "icon_i_d": 5025,
+        "index": 801,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5018,
+        "opening_time": "2025-04-15 05:00:00",
+        "closing_time": "2025-04-29 23:59:59",
+        "text_i_d": 5018,
+        "icon_i_d": 5018,
+        "index": 901,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5002,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-30 23:59:59",
+        "text_i_d": 5002,
+        "icon_i_d": 5002,
+        "index": 1100,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5024,
+        "opening_time": "2025-05-01 00:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "text_i_d": 5024,
+        "icon_i_d": 5024,
+        "index": 1101,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5026,
+        "opening_time": "2025-06-01 00:00:00",
+        "closing_time": "2025-06-30 23:59:59",
+        "text_i_d": 5026,
+        "icon_i_d": 5026,
+        "index": 1102,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5005,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-04-21 23:59:59",
+        "text_i_d": 5005,
+        "icon_i_d": 5005,
+        "index": 1200,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5016,
+        "opening_time": "2025-04-22 05:00:00",
+        "closing_time": "2025-05-12 23:59:59",
+        "text_i_d": 5016,
+        "icon_i_d": 5016,
+        "index": 1201,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5023,
+        "opening_time": "2025-04-29 05:00:00",
+        "closing_time": "2025-05-25 23:59:59",
+        "text_i_d": 5023,
+        "icon_i_d": 5023,
+        "index": 1202,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 101203,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-06-06 23:59:59",
+        "text_i_d": 101203,
+        "icon_i_d": 101203,
+        "index": 1203,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5003,
+        "opening_time": "2025-05-16 05:00:00",
+        "closing_time": "2025-06-06 23:59:59",
+        "text_i_d": 5003,
+        "icon_i_d": 5003,
+        "index": 1301,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 6001,
+        "opening_time": "2025-04-01 05:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "text_i_d": 6001,
+        "icon_i_d": 6001,
+        "index": 1402,
+        "activity_i_d": 6001,
+        "new_activity_type": 8
+      },
+      {
+        "i_d": 7001,
+        "opening_time": "2025-07-11 05:00:00",
+        "closing_time": "2025-08-10 23:59:59",
+        "text_i_d": 7001,
+        "icon_i_d": 7001,
+        "index": 100,
+        "activity_i_d": 7001,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7002,
+        "opening_time": "2025-07-25 05:00:00",
+        "closing_time": "2025-08-24 23:59:59",
+        "text_i_d": 7002,
+        "icon_i_d": 7002,
+        "index": 99,
+        "activity_i_d": 7002,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7003,
+        "opening_time": "2025-08-15 05:00:00",
+        "closing_time": "2025-10-14 23:59:59",
+        "text_i_d": 7003,
+        "icon_i_d": 7003,
+        "index": 98,
+        "activity_i_d": 7003,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7004,
+        "opening_time": "2025-08-22 05:00:00",
+        "closing_time": "2025-09-21 23:59:59",
+        "text_i_d": 7004,
+        "icon_i_d": 7004,
+        "index": 97,
+        "activity_i_d": 7004,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7005,
+        "opening_time": "2025-09-05 05:00:00",
+        "closing_time": "2025-10-04 23:59:59",
+        "text_i_d": 7005,
+        "icon_i_d": 7005,
+        "index": 96,
+        "activity_i_d": 7005,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7006,
+        "opening_time": "2025-09-05 05:00:00",
+        "closing_time": "2025-11-04 23:59:59",
+        "text_i_d": 7006,
+        "icon_i_d": 7006,
+        "index": 95,
+        "activity_i_d": 7006,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7007,
+        "opening_time": "2025-09-05 05:00:00",
+        "closing_time": "2025-11-04 23:59:59",
+        "text_i_d": 7007,
+        "icon_i_d": 7007,
+        "index": 94,
+        "activity_i_d": 7007,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7008,
+        "opening_time": "2025-09-26 05:00:00",
+        "closing_time": "2025-10-25 23:59:59",
+        "text_i_d": 7008,
+        "icon_i_d": 7008,
+        "index": 93,
+        "activity_i_d": 7008,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 10000,
+        "opening_time": "2025-03-01 05:00:00",
+        "closing_time": "2025-04-30 23:59:59",
+        "icon_i_d": 10000,
+        "activity_i_d": 10000,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10010,
+        "opening_time": "2025-05-01 00:00:00",
+        "closing_time": "2025-05-31 23:59:59",
+        "icon_i_d": 10010,
+        "activity_i_d": 10010,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10020,
+        "opening_time": "2025-06-01 00:00:00",
+        "closing_time": "2025-06-30 23:59:59",
+        "icon_i_d": 10020,
+        "activity_i_d": 10020,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10030,
+        "opening_time": "2025-07-01 00:00:00",
+        "closing_time": "2025-07-31 23:59:59",
+        "icon_i_d": 10030,
+        "activity_i_d": 10030,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10040,
+        "opening_time": "2025-08-01 00:00:00",
+        "closing_time": "2025-08-31 23:59:59",
+        "icon_i_d": 10040,
+        "activity_i_d": 10040,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10050,
+        "opening_time": "2025-09-01 00:00:00",
+        "closing_time": "2025-09-30 23:59:59",
+        "icon_i_d": 10050,
+        "activity_i_d": 10050,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10060,
+        "opening_time": "2025-10-01 00:00:00",
+        "closing_time": "2025-10-31 23:59:59",
+        "icon_i_d": 10060,
+        "activity_i_d": 10060,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10070,
+        "opening_time": "2025-11-01 00:00:00",
+        "closing_time": "2025-11-30 23:59:59",
+        "icon_i_d": 10070,
+        "activity_i_d": 10070,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 8000,
+        "opening_time": "2024-08-10 00:00:00",
+        "closing_time": "2024-08-24 23:59:59",
+        "text_i_d": 80000,
+        "icon_i_d": 8000,
+        "index": 1300,
+        "activity_i_d": 8000,
+        "new_activity_type": 9
+      },
+      {
+        "i_d": 8001,
+        "opening_time": "2024-08-25 00:00:00",
+        "closing_time": "2024-09-10 23:59:59",
+        "text_i_d": 80010,
+        "icon_i_d": 8001,
+        "index": 1301,
+        "activity_i_d": 8001,
+        "new_activity_type": 9
+      },
+      {
+        "i_d": 3002,
+        "opening_time": "2025-09-26 00:00:00",
+        "closing_time": "2025-10-25 23:59:59",
+        "activity_i_d": 3002,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 12000,
+        "opening_time": "2025-09-26 05:00:00",
+        "closing_time": "2025-10-27 04:59:59",
+        "text_i_d": 12000,
+        "icon_i_d": 12000,
+        "index": 600,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 4008,
+        "text_i_d": 4008,
+        "icon_i_d": 4008,
+        "index": 305,
+        "activity_i_d": 4008,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5013,
+        "text_i_d": 5013,
+        "icon_i_d": 5013,
+        "index": 902,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 4002,
+        "text_i_d": 4002,
+        "icon_i_d": 4002,
+        "index": 1000,
+        "activity_i_d": 4002,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5001,
+        "text_i_d": 5001,
+        "icon_i_d": 5001,
+        "index": 1001,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 1001,
+        "opening_time": "2025-04-01 05:00:00",
+        "text_i_d": 1001,
+        "icon_i_d": 1001,
+        "index": 400,
+        "activity_i_d": 1001
+      },
+      {
+        "i_d": 2001,
+        "text_i_d": 2001,
+        "icon_i_d": 2001,
+        "index": 401,
+        "activity_i_d": 2001,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2003,
+        "text_i_d": 2003,
+        "icon_i_d": 2003,
+        "index": 1400,
+        "activity_i_d": 2003,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 3001,
+        "activity_i_d": 3001,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 5079,
+        "opening_time": "2025-12-01 00:00:00",
+        "closing_time": "2025-12-31 23:59:59",
+        "text_i_d": 5079,
+        "icon_i_d": 5079,
+        "index": 201,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5080,
+        "opening_time": "2025-11-27 00:00:00",
+        "closing_time": "2025-12-17 23:59:59",
+        "text_i_d": 5080,
+        "icon_i_d": 5080,
+        "index": 201,
+        "quest_i_d": 3015,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5081,
+        "opening_time": "2025-12-04 00:00:00",
+        "closing_time": "2025-12-17 23:59:59",
+        "text_i_d": 5081,
+        "icon_i_d": 5081,
+        "index": 201,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5082,
+        "opening_time": "2025-11-27 00:00:00",
+        "closing_time": "2025-12-07 23:59:59",
+        "text_i_d": 5082,
+        "icon_i_d": 5082,
+        "index": 201,
+        "activity_i_d": 5082,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5083,
+        "opening_time": "2025-11-27 00:00:00",
+        "closing_time": "2025-12-11 23:59:59",
+        "text_i_d": 5083,
+        "icon_i_d": 5083,
+        "index": 202,
+        "quest_i_d": 10007,
+        "dialog_i_d": 10007,
+        "activity_i_d": 8,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5084,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-01-07 23:59:59",
+        "text_i_d": 5084,
+        "icon_i_d": 5084,
+        "index": 203,
+        "quest_i_d": 3016,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5085,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2025-12-31 23:59:59",
+        "text_i_d": 5085,
+        "icon_i_d": 5085,
+        "index": 204,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5087,
+        "opening_time": "2026-02-12 05:00:00",
+        "closing_time": "2026-03-19 23:59:59",
+        "text_i_d": 5087,
+        "icon_i_d": 5087,
+        "index": 206,
+        "activity_i_d": 9,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5088,
+        "opening_time": "2026-01-01 00:00:00",
+        "closing_time": "2026-01-31 23:59:59",
+        "text_i_d": 5088,
+        "icon_i_d": 5088,
+        "index": 207,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 5089,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-01-21 23:59:59",
+        "text_i_d": 5089,
+        "icon_i_d": 5089,
+        "index": 201,
+        "activity_i_d": 5089,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 4010,
+        "opening_time": "2026-02-12 08:00:00",
+        "closing_time": "2026-02-25 23:59:59",
+        "text_i_d": 4010,
+        "icon_i_d": 4010,
+        "index": 201,
+        "activity_i_d": 4010,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 5090,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-10-31 23:59:59",
+        "text_i_d": 5054,
+        "icon_i_d": 5054,
+        "index": 236,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 2014,
+        "opening_time": "2025-11-13 00:00:00",
+        "closing_time": "2025-12-03 23:59:59",
+        "text_i_d": 2014,
+        "icon_i_d": 2014,
+        "index": 410,
+        "activity_i_d": 2014,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2015,
+        "opening_time": "2026-01-01 00:00:00",
+        "closing_time": "2026-01-03 23:59:59",
+        "text_i_d": 2015,
+        "icon_i_d": 2015,
+        "index": 401,
+        "activity_i_d": 2015,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2016,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2025-12-28 23:59:59",
+        "text_i_d": 2016,
+        "icon_i_d": 2016,
+        "index": 402,
+        "activity_i_d": 2016,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2017,
+        "opening_time": "2026-01-01 00:00:00",
+        "closing_time": "2026-01-10 23:59:59",
+        "text_i_d": 2017,
+        "icon_i_d": 2017,
+        "index": 403,
+        "activity_i_d": 2017,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 2018,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-01-08 23:59:59",
+        "text_i_d": 2018,
+        "icon_i_d": 2018,
+        "index": 403,
+        "activity_i_d": 2018,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 3003,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-01-17 23:59:59",
+        "activity_i_d": 3003,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 3004,
+        "opening_time": "2025-12-31 00:00:00",
+        "closing_time": "2026-01-06 23:59:59",
+        "activity_i_d": 3004,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 6002,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-01-31 23:59:59",
+        "text_i_d": 6001,
+        "icon_i_d": 6001,
+        "index": 1402,
+        "activity_i_d": 6002,
+        "new_activity_type": 8
+      },
+      {
+        "i_d": 7009,
+        "opening_time": "2025-09-26 05:00:00",
+        "closing_time": "2025-12-25 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 7009,
+        "index": 92,
+        "activity_i_d": 7009,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7010,
+        "opening_time": "2025-10-24 05:00:00",
+        "closing_time": "2025-12-25 23:59:59",
+        "text_i_d": 7010,
+        "icon_i_d": 7010,
+        "index": 91,
+        "activity_i_d": 7010,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7011,
+        "opening_time": "2025-11-13 05:00:00",
+        "closing_time": "2025-12-25 23:59:59",
+        "text_i_d": 7011,
+        "icon_i_d": 7011,
+        "index": 90,
+        "activity_i_d": 7011,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7012,
+        "opening_time": "2025-11-27 05:00:00",
+        "closing_time": "2025-12-25 23:59:59",
+        "text_i_d": 7012,
+        "icon_i_d": 7012,
+        "index": 89,
+        "activity_i_d": 7012,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7013,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-02-15 23:59:59",
+        "text_i_d": 7013,
+        "icon_i_d": 7013,
+        "index": 88,
+        "activity_i_d": 7013,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 7014,
+        "opening_time": "2025-12-18 00:00:00",
+        "closing_time": "2026-01-16 23:59:59",
+        "text_i_d": 7014,
+        "icon_i_d": 7014,
+        "index": 87,
+        "activity_i_d": 7014,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 10080,
+        "opening_time": "2025-12-01 00:00:00",
+        "closing_time": "2025-12-31 23:59:59",
+        "icon_i_d": 10080,
+        "activity_i_d": 10080,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 10090,
+        "opening_time": "2026-01-01 00:00:00",
+        "closing_time": "2026-01-31 23:59:59",
+        "icon_i_d": 10090,
+        "activity_i_d": 10090,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 12001,
+        "opening_time": "2025-11-13 05:00:00",
+        "closing_time": "2025-12-12 04:59:59",
+        "text_i_d": 12001,
+        "icon_i_d": 12001,
+        "index": 600,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 8011,
+        "opening_time": "2025-12-31 00:00:00",
+        "closing_time": "2026-01-22 23:59:59",
+        "text_i_d": 80111,
+        "icon_i_d": 8011,
+        "index": 1300,
+        "activity_i_d": 8011,
+        "new_activity_type": 9
+      },
+      {
+        "i_d": 26010810,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-02-07 23:59:59",
+        "text_i_d": 26010810,
+        "icon_i_d": 26010810,
+        "index": 1,
+        "activity_i_d": 7016,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 26010840,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-01-21 23:59:59",
+        "text_i_d": 26010840,
+        "icon_i_d": 26010840,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26010830,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-01-28 23:59:59",
+        "text_i_d": 26010830,
+        "icon_i_d": 26010830,
+        "index": 2,
+        "quest_i_d": 3017,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26010860,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-01-21 23:59:59",
+        "text_i_d": 26010860,
+        "icon_i_d": 26010860,
+        "index": 3,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26010880,
+        "opening_time": "2026-01-08 00:00:00",
+        "closing_time": "2026-01-21 23:59:59",
+        "text_i_d": 26010880,
+        "icon_i_d": 26010880,
+        "index": 6,
+        "quest_i_d": 10007,
+        "dialog_i_d": 10007,
+        "activity_i_d": 8,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26012910,
+        "opening_time": "2026-01-29 00:00:00",
+        "closing_time": "2026-02-28 23:59:59",
+        "text_i_d": 26012910,
+        "icon_i_d": 26012910,
+        "index": 1,
+        "activity_i_d": 7017,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 26012940,
+        "opening_time": "2026-01-29 00:00:00",
+        "closing_time": "2026-02-11 23:59:59",
+        "text_i_d": 26012940,
+        "icon_i_d": 26012940,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26012941,
+        "opening_time": "2026-02-05 00:00:00",
+        "closing_time": "2026-02-18 23:59:59",
+        "text_i_d": 26012941,
+        "icon_i_d": 26012941,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26012970,
+        "opening_time": "2026-02-01 00:00:00",
+        "closing_time": "2026-02-28 23:59:59",
+        "text_i_d": 26012970,
+        "icon_i_d": 26012970,
+        "index": 5,
+        "activity_i_d": 10100,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 26012990,
+        "opening_time": "2026-02-01 00:00:00",
+        "closing_time": "2026-02-28 23:59:59",
+        "text_i_d": 26012990,
+        "icon_i_d": 26012990,
+        "index": 5,
+        "activity_i_d": 10100,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 26012930,
+        "opening_time": "2026-01-29 00:00:00",
+        "closing_time": "2026-02-11 23:59:59",
+        "text_i_d": 5048,
+        "icon_i_d": 26012930,
+        "index": 2,
+        "quest_i_d": 3018,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260212010,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-04-15 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 260212010,
+        "index": 100,
+        "activity_i_d": 7018,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260212011,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-04-15 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 260212011,
+        "index": 101,
+        "activity_i_d": 7019,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260212012,
+        "opening_time": "2026-02-26 00:00:00",
+        "closing_time": "2026-03-27 23:59:59",
+        "text_i_d": 7010,
+        "icon_i_d": 260212012,
+        "index": 102,
+        "activity_i_d": 7020,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260212013,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-03-11 23:59:59",
+        "text_i_d": 7001,
+        "icon_i_d": 7001,
+        "index": 103,
+        "activity_i_d": 7001,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260212014,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-03-11 23:59:59",
+        "text_i_d": 7002,
+        "icon_i_d": 7002,
+        "index": 104,
+        "activity_i_d": 7002,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260212100,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-02-21 23:59:59",
+        "text_i_d": 260212100,
+        "icon_i_d": 260212100,
+        "index": 400,
+        "activity_i_d": 2019,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260212101,
+        "opening_time": "2026-02-26 00:00:00",
+        "closing_time": "2026-03-07 23:59:59",
+        "text_i_d": 260212101,
+        "icon_i_d": 260212101,
+        "index": 401,
+        "activity_i_d": 2020,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260212102,
+        "opening_time": "2026-02-16 00:00:00",
+        "closing_time": "2026-02-18 23:59:59",
+        "text_i_d": 260212102,
+        "icon_i_d": 260212102,
+        "index": 402,
+        "activity_i_d": 2021,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260212103,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-03-04 23:59:59",
+        "text_i_d": 260212103,
+        "icon_i_d": 260212103,
+        "index": 403,
+        "activity_i_d": 2022,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260212104,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-02-25 23:59:59",
+        "text_i_d": 260212104,
+        "icon_i_d": 260212104,
+        "index": 403,
+        "activity_i_d": 2023,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260212040,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-08-15 23:59:59",
+        "text_i_d": 260212040,
+        "icon_i_d": 260212040,
+        "index": 202,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260212110,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-03-04 23:59:59",
+        "activity_i_d": 3006,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 260212111,
+        "opening_time": "2026-02-16 00:00:00",
+        "closing_time": "2026-03-04 23:59:59",
+        "activity_i_d": 3005,
+        "new_activity_type": 2
+      },
+      {
+        "i_d": 8012,
+        "opening_time": "2026-02-16 00:00:00",
+        "closing_time": "2026-03-04 23:59:59",
+        "text_i_d": 260212040,
+        "icon_i_d": 260212040,
+        "index": 500,
+        "activity_i_d": 8012,
+        "new_activity_type": 9
+      },
+      {
+        "i_d": 260212030,
+        "opening_time": "2026-02-12 00:00:00",
+        "closing_time": "2026-03-04 23:59:59",
+        "text_i_d": 260212030,
+        "icon_i_d": 260212030,
+        "index": 203,
+        "quest_i_d": 3019,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 4011,
+        "opening_time": "2026-02-26 00:00:00",
+        "closing_time": "2026-03-11 23:59:59",
+        "text_i_d": 260212130,
+        "icon_i_d": 260212130,
+        "index": 200,
+        "activity_i_d": 4011,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260226070,
+        "opening_time": "2026-03-01 00:00:00",
+        "closing_time": "2026-03-31 23:59:59",
+        "text_i_d": 260226070,
+        "icon_i_d": 260226070,
+        "index": 5,
+        "activity_i_d": 10110,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260226090,
+        "opening_time": "2026-03-01 00:00:00",
+        "closing_time": "2026-03-31 23:59:59",
+        "text_i_d": 260226090,
+        "icon_i_d": 260226090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260226040,
+        "opening_time": "2026-02-26 00:00:00",
+        "closing_time": "2026-03-11 23:59:59",
+        "text_i_d": 260226040,
+        "icon_i_d": 260226040,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260311040,
+        "opening_time": "2026-03-12 00:00:00",
+        "closing_time": "2026-03-25 23:59:59",
+        "text_i_d": 260311040,
+        "icon_i_d": 260311040,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260311030,
+        "opening_time": "2026-03-12 00:00:00",
+        "closing_time": "2026-03-25 23:59:59",
+        "text_i_d": 260311030,
+        "icon_i_d": 260311030,
+        "index": 1,
+        "quest_i_d": 3020,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260311140,
+        "opening_time": "2026-03-12 00:00:00",
+        "closing_time": "2026-03-25 23:59:59",
+        "text_i_d": 260311140,
+        "icon_i_d": 260311140,
+        "index": 3,
+        "activity_i_d": 3,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260311060,
+        "opening_time": "2026-03-12 00:00:00",
+        "closing_time": "2026-04-12 23:59:59",
+        "text_i_d": 260311060,
+        "icon_i_d": 260311060,
+        "index": 2,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260311061,
+        "opening_time": "2026-03-12 00:00:00",
+        "closing_time": "2026-03-25 23:59:59",
+        "text_i_d": 260311061,
+        "icon_i_d": 260311061,
+        "index": 4,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326100,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-06 23:59:59",
+        "text_i_d": 260326100,
+        "icon_i_d": 260326100,
+        "index": 101,
+        "activity_i_d": 2024,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260326020,
+        "opening_time": "2026-04-01 00:00:00",
+        "closing_time": "2026-04-06 23:59:59",
+        "text_i_d": 260326020,
+        "icon_i_d": 260326020,
+        "index": 102,
+        "activity_i_d": 260326020,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326021,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-10 23:59:59",
+        "text_i_d": 260326021,
+        "icon_i_d": 260326021,
+        "index": 106,
+        "quest_i_d": 20200,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326022,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-12 23:59:59",
+        "text_i_d": 260326022,
+        "icon_i_d": 260326022,
+        "index": 107,
+        "quest_i_d": 20100,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326023,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-12 23:59:59",
+        "text_i_d": 260326023,
+        "icon_i_d": 260326023,
+        "index": 108,
+        "activity_i_d": 260326023,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260326130,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-10 23:59:59",
+        "text_i_d": 260326130,
+        "icon_i_d": 260326130,
+        "index": 103,
+        "activity_i_d": 260326130,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260326131,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-12-31 23:59:59",
+        "text_i_d": 260326131,
+        "icon_i_d": 260326131,
+        "index": 104,
+        "activity_i_d": 260326131,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260326180,
+        "opening_time": "2026-03-26 05:00:00",
+        "closing_time": "2026-04-11 23:59:59",
+        "text_i_d": 260326180,
+        "icon_i_d": 260326180,
+        "index": 105,
+        "activity_i_d": 260326180,
+        "new_activity_type": 13
+      },
+      {
+        "i_d": 260326150,
+        "opening_time": "2026-03-26 00:00:00",
+        "closing_time": "2026-04-29 23:59:59",
+        "text_i_d": 260326150,
+        "icon_i_d": 260326150,
+        "index": 1,
+        "activity_i_d": 10001,
+        "new_activity_type": 12
+      },
+      {
+        "i_d": 260326160,
+        "opening_time": "2026-03-26 00:00:00",
+        "closing_time": "2026-04-29 23:59:59",
+        "text_i_d": 260326160,
+        "icon_i_d": 260326160,
+        "index": 2,
+        "activity_i_d": 80001,
+        "new_activity_type": 10
+      },
+      {
+        "i_d": 260326170,
+        "opening_time": "2026-03-26 00:00:00",
+        "closing_time": "2026-04-29 23:59:59",
+        "text_i_d": 260326170,
+        "icon_i_d": 260326170,
+        "index": 3,
+        "activity_i_d": 90001,
+        "new_activity_type": 11
+      },
+      {
+        "i_d": 260326070,
+        "opening_time": "2026-04-01 00:00:00",
+        "closing_time": "2026-04-30 23:59:59",
+        "text_i_d": 260326070,
+        "icon_i_d": 260326070,
+        "index": 5,
+        "activity_i_d": 10120,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260326090,
+        "opening_time": "2026-04-01 00:00:00",
+        "closing_time": "2026-04-30 23:59:59",
+        "text_i_d": 260326090,
+        "icon_i_d": 260326090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326040,
+        "opening_time": "2026-03-26 00:00:00",
+        "closing_time": "2026-04-08 23:59:59",
+        "text_i_d": 260326040,
+        "icon_i_d": 260326040,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260326010,
+        "opening_time": "2026-03-26 00:00:00",
+        "closing_time": "2026-04-29 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 260326010,
+        "index": 100,
+        "activity_i_d": 7021,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260430010,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-05-31 23:59:59",
+        "text_i_d": 7012,
+        "icon_i_d": 260430010,
+        "index": 100,
+        "activity_i_d": 7022,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260430070,
+        "opening_time": "2026-05-01 00:00:00",
+        "closing_time": "2026-05-31 23:59:59",
+        "text_i_d": 260430070,
+        "icon_i_d": 260430070,
+        "index": 5,
+        "activity_i_d": 10130,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260430090,
+        "opening_time": "2026-05-01 00:00:00",
+        "closing_time": "2026-05-31 23:59:59",
+        "text_i_d": 260430090,
+        "icon_i_d": 260430090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260430100,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-05-13 23:59:59",
+        "text_i_d": 260430100,
+        "icon_i_d": 260430100,
+        "index": 101,
+        "activity_i_d": 2025,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260430021,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-05-13 23:59:59",
+        "text_i_d": 260430021,
+        "icon_i_d": 260430021,
+        "index": 102,
+        "quest_i_d": 20300,
+        "activity_i_d": 4,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260430022,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-05-13 23:59:59",
+        "text_i_d": 260430022,
+        "icon_i_d": 260430022,
+        "index": 103,
+        "activity_i_d": 260430022,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260430030,
+        "opening_time": "2026-04-30 00:00:00",
+        "closing_time": "2026-05-13 23:59:59",
+        "text_i_d": 260430030,
+        "icon_i_d": 260430030,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260514030,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-06-10 23:59:59",
+        "text_i_d": 260514030,
+        "icon_i_d": 260514030,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260514020,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-06-27 23:59:59",
+        "text_i_d": 260514020,
+        "icon_i_d": 260514020,
+        "index": 204,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260514010,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-06-24 23:59:59",
+        "text_i_d": 7004,
+        "icon_i_d": 7004,
+        "index": 103,
+        "activity_i_d": 7004,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260514011,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-06-24 23:59:59",
+        "text_i_d": 7005,
+        "icon_i_d": 7005,
+        "index": 104,
+        "activity_i_d": 7005,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260514012,
+        "opening_time": "2026-06-03 00:00:00",
+        "closing_time": "2026-07-01 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 7023,
+        "index": 102,
+        "activity_i_d": 7023,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260514013,
+        "opening_time": "2026-06-19 05:00:00",
+        "closing_time": "2026-07-08 23:59:59",
+        "text_i_d": 7007,
+        "icon_i_d": 260514013,
+        "index": 102,
+        "activity_i_d": 7024,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260514040,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-07-08 23:59:59",
+        "text_i_d": 260514040,
+        "icon_i_d": 260514040,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260514041,
+        "opening_time": "2026-05-28 00:00:00",
+        "closing_time": "2026-07-08 23:59:59",
+        "text_i_d": 260514041,
+        "icon_i_d": 260514041,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260514070,
+        "opening_time": "2026-06-01 00:00:00",
+        "closing_time": "2026-06-30 23:59:59",
+        "text_i_d": 260514070,
+        "icon_i_d": 260514070,
+        "index": 5,
+        "activity_i_d": 10140,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260514090,
+        "opening_time": "2026-06-01 00:00:00",
+        "closing_time": "2026-06-30 23:59:59",
+        "text_i_d": 260514090,
+        "icon_i_d": 260514090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260625070,
+        "opening_time": "2026-07-01 00:00:00",
+        "closing_time": "2026-07-31 23:59:59",
+        "text_i_d": 260625070,
+        "icon_i_d": 260625070,
+        "index": 5,
+        "activity_i_d": 10150,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260625090,
+        "opening_time": "2026-07-01 00:00:00",
+        "closing_time": "2026-07-31 23:59:59",
+        "text_i_d": 260625090,
+        "icon_i_d": 260625090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260625010,
+        "opening_time": "2026-06-25 05:00:00",
+        "closing_time": "2026-07-16 23:59:59",
+        "text_i_d": 7006,
+        "icon_i_d": 260625010,
+        "index": 102,
+        "activity_i_d": 7025,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625011,
+        "opening_time": "2026-07-02 05:00:00",
+        "closing_time": "2026-07-30 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 260625011,
+        "index": 102,
+        "activity_i_d": 7026,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625012,
+        "opening_time": "2026-06-25 05:00:00",
+        "closing_time": "2026-07-16 23:59:59",
+        "text_i_d": 7006,
+        "icon_i_d": 7006,
+        "index": 102,
+        "activity_i_d": 7006,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625013,
+        "opening_time": "2026-06-25 05:00:00",
+        "closing_time": "2026-07-16 23:59:59",
+        "text_i_d": 7007,
+        "icon_i_d": 7007,
+        "index": 102,
+        "activity_i_d": 7007,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625014,
+        "opening_time": "2026-06-25 05:00:00",
+        "closing_time": "2026-07-16 23:59:59",
+        "text_i_d": 7008,
+        "icon_i_d": 7008,
+        "index": 102,
+        "activity_i_d": 7008,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625015,
+        "opening_time": "2026-07-02 05:00:00",
+        "closing_time": "2026-07-30 23:59:59",
+        "text_i_d": 7009,
+        "icon_i_d": 7009,
+        "index": 102,
+        "activity_i_d": 7009,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625016,
+        "opening_time": "2026-07-17 05:00:00",
+        "closing_time": "2026-08-14 23:59:59",
+        "text_i_d": 7010,
+        "icon_i_d": 7010,
+        "index": 102,
+        "activity_i_d": 7010,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625017,
+        "opening_time": "2026-07-17 05:00:00",
+        "closing_time": "2026-08-14 23:59:59",
+        "text_i_d": 7011,
+        "icon_i_d": 7011,
+        "index": 102,
+        "activity_i_d": 7011,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260625100,
+        "opening_time": "2026-07-16 00:00:00",
+        "closing_time": "2026-08-05 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260715030,
+        "opening_time": "2026-07-16 00:00:00",
+        "closing_time": "2026-08-13 23:59:59",
+        "text_i_d": 260715030,
+        "icon_i_d": 260715030,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715070,
+        "opening_time": "2026-08-01 00:00:00",
+        "closing_time": "2026-08-31 23:59:59",
+        "text_i_d": 260715070,
+        "icon_i_d": 260715070,
+        "index": 5,
+        "activity_i_d": 10160,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260715090,
+        "opening_time": "2026-08-01 00:00:00",
+        "closing_time": "2026-08-31 23:59:59",
+        "text_i_d": 260715090,
+        "icon_i_d": 260715090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715040,
+        "opening_time": "2026-08-01 00:00:00",
+        "closing_time": "2026-08-31 23:59:59",
+        "text_i_d": 260715040,
+        "icon_i_d": 260715040,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715100,
+        "opening_time": "2026-08-06 00:00:00",
+        "closing_time": "2026-08-19 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260715041,
+        "opening_time": "2026-08-01 00:00:00",
+        "closing_time": "2026-08-14 23:59:59",
+        "text_i_d": 260715041,
+        "icon_i_d": 260715041,
+        "index": 5,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715101,
+        "opening_time": "2026-08-20 05:00:00",
+        "closing_time": "2026-09-02 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260715102,
+        "opening_time": "2026-09-03 00:00:00",
+        "closing_time": "2026-09-16 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260715010,
+        "opening_time": "2026-08-06 00:00:00",
+        "closing_time": "2026-09-02 23:59:59",
+        "text_i_d": 7012,
+        "icon_i_d": 7012,
+        "index": 3,
+        "activity_i_d": 7012,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715011,
+        "opening_time": "2026-08-06 00:00:00",
+        "closing_time": "2026-09-02 23:59:59",
+        "text_i_d": 7013,
+        "icon_i_d": 7013,
+        "index": 3,
+        "activity_i_d": 7013,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715012,
+        "opening_time": "2026-08-27 00:00:00",
+        "closing_time": "2026-09-23 23:59:59",
+        "text_i_d": 26010810,
+        "icon_i_d": 26010810,
+        "index": 3,
+        "activity_i_d": 7016,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715013,
+        "opening_time": "2026-08-27 00:00:00",
+        "closing_time": "2026-09-23 23:59:59",
+        "text_i_d": 26012910,
+        "icon_i_d": 26012910,
+        "index": 3,
+        "activity_i_d": 7017,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715014,
+        "opening_time": "2026-09-17 00:00:00",
+        "closing_time": "2026-10-14 23:59:59",
+        "text_i_d": 260212011,
+        "icon_i_d": 260212011,
+        "index": 3,
+        "activity_i_d": 7019,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715015,
+        "opening_time": "2026-09-17 00:00:00",
+        "closing_time": "2026-10-14 23:59:59",
+        "text_i_d": 260212012,
+        "icon_i_d": 260212012,
+        "index": 3,
+        "activity_i_d": 7020,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715016,
+        "opening_time": "2026-10-08 00:00:00",
+        "closing_time": "2026-11-04 23:59:59",
+        "text_i_d": 260715016,
+        "icon_i_d": 260326010,
+        "index": 3,
+        "activity_i_d": 7021,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715017,
+        "opening_time": "2026-10-08 00:00:00",
+        "closing_time": "2026-11-04 23:59:59",
+        "text_i_d": 260715017,
+        "icon_i_d": 7003,
+        "index": 3,
+        "activity_i_d": 7003,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715018,
+        "opening_time": "2026-10-29 00:00:00",
+        "closing_time": "2026-11-25 23:59:59",
+        "text_i_d": 260715018,
+        "icon_i_d": 260430010,
+        "index": 3,
+        "activity_i_d": 7022,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715019,
+        "opening_time": "2026-10-29 00:00:00",
+        "closing_time": "2026-11-25 23:59:59",
+        "text_i_d": 260715019,
+        "icon_i_d": 7023,
+        "index": 3,
+        "activity_i_d": 7023,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715020,
+        "opening_time": "2026-11-19 00:00:00",
+        "closing_time": "2026-12-16 23:59:59",
+        "text_i_d": 260715020,
+        "icon_i_d": 260625010,
+        "index": 3,
+        "activity_i_d": 7025,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715021,
+        "opening_time": "2026-11-19 00:00:00",
+        "closing_time": "2026-12-16 23:59:59",
+        "text_i_d": 260715021,
+        "icon_i_d": 260625011,
+        "index": 3,
+        "activity_i_d": 7026,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260715031,
+        "opening_time": "2026-08-06 00:00:00",
+        "closing_time": "2026-09-02 23:59:59",
+        "text_i_d": 260715031,
+        "icon_i_d": 260715031,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715032,
+        "opening_time": "2026-08-27 00:00:00",
+        "closing_time": "2026-09-23 23:59:59",
+        "text_i_d": 260715032,
+        "icon_i_d": 260715032,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715033,
+        "opening_time": "2026-09-17 00:00:00",
+        "closing_time": "2026-10-14 23:59:59",
+        "text_i_d": 260715033,
+        "icon_i_d": 260715033,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715034,
+        "opening_time": "2026-10-08 00:00:00",
+        "closing_time": "2026-11-04 23:59:59",
+        "text_i_d": 260715034,
+        "icon_i_d": 260715034,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715035,
+        "opening_time": "2026-10-29 00:00:00",
+        "closing_time": "2026-11-25 23:59:59",
+        "text_i_d": 260715035,
+        "icon_i_d": 260715035,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715036,
+        "opening_time": "2026-11-19 00:00:00",
+        "closing_time": "2026-12-16 23:59:59",
+        "text_i_d": 260715036,
+        "icon_i_d": 260715036,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260715037,
+        "opening_time": "2026-07-16 00:00:00",
+        "closing_time": "2026-08-12 23:59:59",
+        "text_i_d": 260715037,
+        "icon_i_d": 260715037,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730030,
+        "opening_time": "2026-12-10 00:00:00",
+        "closing_time": "2027-01-06 23:59:59",
+        "text_i_d": 260730030,
+        "icon_i_d": 260730030,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730031,
+        "opening_time": "2026-12-31 00:00:00",
+        "closing_time": "2027-01-27 23:59:59",
+        "text_i_d": 260730031,
+        "icon_i_d": 260730031,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730032,
+        "opening_time": "2027-01-21 00:00:00",
+        "closing_time": "2027-02-17 23:59:59",
+        "text_i_d": 260730032,
+        "icon_i_d": 260730032,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730033,
+        "opening_time": "2027-02-11 00:00:00",
+        "closing_time": "2027-03-10 23:59:59",
+        "text_i_d": 260730033,
+        "icon_i_d": 260730033,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730034,
+        "opening_time": "2027-03-04 00:00:00",
+        "closing_time": "2027-03-31 23:59:59",
+        "text_i_d": 260730034,
+        "icon_i_d": 260730034,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730035,
+        "opening_time": "2027-03-25 00:00:00",
+        "closing_time": "2027-04-21 23:59:59",
+        "text_i_d": 260730035,
+        "icon_i_d": 260730035,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730036,
+        "opening_time": "2027-04-15 00:00:00",
+        "closing_time": "2027-05-12 23:59:59",
+        "text_i_d": 260730036,
+        "icon_i_d": 260730036,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730037,
+        "opening_time": "2027-05-06 00:00:00",
+        "closing_time": "2027-06-02 23:59:59",
+        "text_i_d": 260730037,
+        "icon_i_d": 260730037,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730038,
+        "opening_time": "2027-05-27 00:00:00",
+        "closing_time": "2027-06-23 23:59:59",
+        "text_i_d": 260730038,
+        "icon_i_d": 260730038,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730040,
+        "opening_time": "2026-09-01 00:00:00",
+        "closing_time": "2026-09-30 23:59:59",
+        "text_i_d": 260730040,
+        "icon_i_d": 260730040,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730041,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2026-10-31 23:59:59",
+        "text_i_d": 260730041,
+        "icon_i_d": 260730041,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730042,
+        "opening_time": "2026-11-01 00:00:00",
+        "closing_time": "2026-11-30 23:59:59",
+        "text_i_d": 260730042,
+        "icon_i_d": 260730042,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730043,
+        "opening_time": "2026-12-01 00:00:00",
+        "closing_time": "2026-12-31 23:59:59",
+        "text_i_d": 260730043,
+        "icon_i_d": 260730043,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730044,
+        "opening_time": "2027-01-01 00:00:00",
+        "closing_time": "2027-01-31 23:59:59",
+        "text_i_d": 260730044,
+        "icon_i_d": 260730044,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730045,
+        "opening_time": "2027-02-01 00:00:00",
+        "closing_time": "2027-02-28 23:59:59",
+        "text_i_d": 260730045,
+        "icon_i_d": 260730045,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730100,
+        "opening_time": "2026-09-17 00:00:00",
+        "closing_time": "2026-09-30 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730101,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2026-10-14 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730010,
+        "opening_time": "2026-08-13 05:00:00",
+        "closing_time": "2026-09-02 23:59:59",
+        "text_i_d": 260730010,
+        "icon_i_d": 260730010,
+        "index": 102,
+        "activity_i_d": 7027,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260730070,
+        "opening_time": "2026-09-01 00:00:00",
+        "closing_time": "2026-09-30 23:59:59",
+        "text_i_d": 260730070,
+        "icon_i_d": 260730070,
+        "index": 5,
+        "activity_i_d": 10170,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260730090,
+        "opening_time": "2026-09-01 00:00:00",
+        "closing_time": "2026-09-30 23:59:59",
+        "text_i_d": 260730090,
+        "icon_i_d": 260730090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730071,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2026-10-31 23:59:59",
+        "text_i_d": 260730071,
+        "icon_i_d": 260730071,
+        "index": 5,
+        "activity_i_d": 10180,
+        "new_activity_type": 3
+      },
+      {
+        "i_d": 260730091,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2026-10-31 23:59:59",
+        "text_i_d": 260730091,
+        "icon_i_d": 260730091,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260730102,
+        "opening_time": "2026-10-15 00:00:00",
+        "closing_time": "2026-10-28 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730103,
+        "opening_time": "2026-10-29 00:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730104,
+        "opening_time": "2026-11-12 00:00:00",
+        "closing_time": "2026-11-25 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730105,
+        "opening_time": "2026-11-26 00:00:00",
+        "closing_time": "2026-12-09 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730106,
+        "opening_time": "2026-12-10 00:00:00",
+        "closing_time": "2026-12-23 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730107,
+        "opening_time": "2026-12-24 00:00:00",
+        "closing_time": "2027-01-06 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730108,
+        "opening_time": "2027-01-07 00:00:00",
+        "closing_time": "2027-01-20 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260730109,
+        "opening_time": "2027-01-21 00:00:00",
+        "closing_time": "2027-02-03 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815100,
+        "opening_time": "2027-02-04 00:00:00",
+        "closing_time": "2027-02-17 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815101,
+        "opening_time": "2027-02-18 00:00:00",
+        "closing_time": "2027-03-03 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815102,
+        "opening_time": "2027-03-04 00:00:00",
+        "closing_time": "2027-03-17 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815103,
+        "opening_time": "2027-03-18 00:00:00",
+        "closing_time": "2027-03-31 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815104,
+        "opening_time": "2027-04-01 00:00:00",
+        "closing_time": "2027-04-14 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815105,
+        "opening_time": "2027-04-15 00:00:00",
+        "closing_time": "2027-04-28 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815106,
+        "opening_time": "2027-04-29 00:00:00",
+        "closing_time": "2027-05-12 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815107,
+        "opening_time": "2027-05-13 00:00:00",
+        "closing_time": "2027-05-26 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815108,
+        "opening_time": "2027-05-27 00:00:00",
+        "closing_time": "2027-06-09 23:59:59",
+        "text_i_d": 260625100,
+        "icon_i_d": 260625100,
+        "index": 3,
+        "activity_i_d": 2026,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815109,
+        "opening_time": "2027-06-10 00:00:00",
+        "closing_time": "2027-06-23 23:59:59",
+        "text_i_d": 260715100,
+        "icon_i_d": 260715100,
+        "index": 3,
+        "activity_i_d": 2027,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815020,
+        "opening_time": "2026-09-24 05:00:00",
+        "closing_time": "2026-10-08 23:59:59",
+        "text_i_d": 260815020,
+        "icon_i_d": 260815020,
+        "index": 1,
+        "activity_i_d": 260815020,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260815010,
+        "opening_time": "2026-08-27 00:00:00",
+        "closing_time": "2026-09-23 23:59:59",
+        "text_i_d": 260815010,
+        "icon_i_d": 260815010,
+        "index": 1,
+        "activity_i_d": 7028,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260815011,
+        "opening_time": "2026-10-10 00:00:00",
+        "closing_time": "2026-11-06 23:59:59",
+        "text_i_d": 260815011,
+        "icon_i_d": 260815011,
+        "index": 1,
+        "activity_i_d": 7029,
+        "new_activity_type": 6
+      },
+      {
+        "i_d": 260815040,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2027-04-03 23:59:59",
+        "text_i_d": 260815040,
+        "icon_i_d": 260815040,
+        "index": 1,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260815110,
+        "opening_time": "2026-10-01 00:00:00",
+        "closing_time": "2026-10-07 23:59:59",
+        "text_i_d": 260815110,
+        "icon_i_d": 260815110,
+        "index": 3,
+        "activity_i_d": 2028,
+        "new_activity_type": 1
+      },
+      {
+        "i_d": 260815150,
+        "opening_time": "2026-10-05 00:00:00",
+        "closing_time": "2026-10-25 23:59:59",
+        "text_i_d": 260326150,
+        "icon_i_d": 260326150,
+        "index": 1,
+        "activity_i_d": 10001,
+        "new_activity_type": 12
+      },
+      {
+        "i_d": 260815160,
+        "opening_time": "2026-10-05 00:00:00",
+        "closing_time": "2026-10-25 23:59:59",
+        "text_i_d": 260326160,
+        "icon_i_d": 260326160,
+        "index": 2,
+        "activity_i_d": 80001,
+        "new_activity_type": 10
+      },
+      {
+        "i_d": 260815170,
+        "opening_time": "2026-10-05 00:00:00",
+        "closing_time": "2026-10-25 23:59:59",
+        "text_i_d": 260326170,
+        "icon_i_d": 260326170,
+        "index": 3,
+        "activity_i_d": 90001,
+        "new_activity_type": 11
+      },
+      {
+        "i_d": 260815041,
+        "opening_time": "2026-10-15 00:00:00",
+        "closing_time": "2026-10-28 23:59:59",
+        "text_i_d": 260815041,
+        "icon_i_d": 260815041,
+        "index": 1,
+        "activity_i_d": 6,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260815130,
+        "opening_time": "2026-10-29 15:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "text_i_d": 5075,
+        "icon_i_d": 5075,
+        "index": 1,
+        "quest_i_d": 910101,
+        "dialog_i_d": 1011,
+        "activity_i_d": 5075,
+        "new_activity_type": 4
+      },
+      {
+        "i_d": 260815120,
+        "opening_time": "2026-10-29 15:00:00",
+        "closing_time": "2026-11-11 23:59:59",
+        "text_i_d": 260815120,
+        "icon_i_d": 260815120,
+        "index": 1300,
+        "activity_i_d": 260815120,
+        "new_activity_type": 9
+      },
+      {
+        "i_d": 260815090,
+        "opening_time": "2026-11-01 00:00:00",
+        "closing_time": "2026-11-30 23:59:59",
+        "text_i_d": 260815090,
+        "icon_i_d": 260815090,
+        "index": 5,
+        "activity_i_d": 2,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260815030,
+        "opening_time": "2026-11-05 00:00:00",
+        "closing_time": "2026-12-03 23:59:59",
+        "text_i_d": 260815030,
+        "icon_i_d": 260815030,
+        "index": 1,
+        "activity_i_d": 1,
+        "new_activity_type": 5
+      },
+      {
+        "i_d": 260815070,
+        "opening_time": "2026-11-01 00:00:00",
+        "closing_time": "2026-11-30 23:59:59",
+        "text_i_d": 260815070,
+        "icon_i_d": 260815070,
+        "index": 5,
+        "activity_i_d": 10190,
+        "new_activity_type": 3
+      }
+    ]
+  }
+}

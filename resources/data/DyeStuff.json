@@ -1,0 +1,471 @@
+{
+  "dye_data": {
+    "datas": [
+      {
+        "i_d": 401
+      },
+      {
+        "i_d": 402,
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 403,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 404,
+        "color_r": 255,
+        "color_g": 135,
+        "color_b": 182,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 405,
+        "color_r": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 406,
+        "color_r": 255,
+        "color_g": 216,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 407,
+        "color_r": 72,
+        "color_g": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 408,
+        "color_g": 244,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 409,
+        "color_g": 63,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 410,
+        "color_g": 160,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 411,
+        "color_r": 125,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 412,
+        "color_r": 255,
+        "color_g": 153,
+        "color_b": 194,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 413,
+        "color_r": 105,
+        "color_g": 59,
+        "color_b": 43,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 414,
+        "color_r": 202,
+        "color_g": 133,
+        "color_b": 47,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 801,
+        "color_r": 255,
+        "color_g": 179,
+        "color_b": 63,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 802,
+        "color_r": 255,
+        "color_g": 224,
+        "color_b": 200,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 803,
+        "color_r": 255,
+        "color_g": 173,
+        "color_b": 146,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 804,
+        "color_r": 227,
+        "color_g": 121,
+        "color_b": 25,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 805,
+        "color_r": 148,
+        "color_g": 104,
+        "color_b": 63,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 806,
+        "color_r": 198,
+        "color_g": 168,
+        "color_b": 140,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 807,
+        "color_r": 103,
+        "color_g": 87,
+        "color_b": 73,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 808,
+        "color_r": 219,
+        "color_g": 186,
+        "color_b": 156,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 811,
+        "color_r": 243,
+        "color_g": 54,
+        "color_b": 27,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 812,
+        "color_r": 255,
+        "color_g": 168,
+        "color_b": 162,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 813,
+        "color_r": 193,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 814,
+        "color_r": 101,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 815,
+        "color_r": 255,
+        "color_g": 136,
+        "color_b": 113,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 816,
+        "color_r": 186,
+        "color_g": 131,
+        "color_b": 120,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 817,
+        "color_r": 96,
+        "color_g": 60,
+        "color_b": 45,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 818,
+        "color_r": 155,
+        "color_g": 136,
+        "color_b": 128,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 821,
+        "color_r": 108,
+        "color_g": 209,
+        "color_b": 253,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 822,
+        "color_r": 203,
+        "color_g": 243,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 823,
+        "color_r": 91,
+        "color_g": 133,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 824,
+        "color_g": 21,
+        "color_b": 141,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 825,
+        "color_r": 198,
+        "color_g": 203,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 826,
+        "color_r": 51,
+        "color_g": 65,
+        "color_b": 215,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 827,
+        "color_r": 58,
+        "color_g": 115,
+        "color_b": 158,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 828,
+        "color_r": 69,
+        "color_g": 168,
+        "color_b": 191,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 831,
+        "color_r": 253,
+        "color_g": 240,
+        "color_b": 108,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 832,
+        "color_r": 255,
+        "color_g": 236,
+        "color_b": 171,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 833,
+        "color_r": 242,
+        "color_g": 202,
+        "color_b": 129,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 834,
+        "color_r": 250,
+        "color_g": 255,
+        "color_b": 155,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 835,
+        "color_r": 238,
+        "color_g": 229,
+        "color_b": 180,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 836,
+        "color_r": 208,
+        "color_g": 174,
+        "color_b": 112,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 837,
+        "color_r": 94,
+        "color_g": 83,
+        "color_b": 19,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 838,
+        "color_r": 186,
+        "color_g": 178,
+        "color_b": 31,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 841,
+        "color_r": 255,
+        "color_g": 189,
+        "color_b": 229,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 842,
+        "color_r": 255,
+        "color_g": 174,
+        "color_b": 199,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 843,
+        "color_r": 191,
+        "color_g": 107,
+        "color_b": 147,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 844,
+        "color_r": 208,
+        "color_g": 83,
+        "color_b": 133,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 845,
+        "color_r": 255,
+        "color_g": 189,
+        "color_b": 179,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 846,
+        "color_r": 120,
+        "color_b": 76,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 847,
+        "color_r": 184,
+        "color_g": 83,
+        "color_b": 103,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 848,
+        "color_r": 238,
+        "color_g": 103,
+        "color_b": 158,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 851,
+        "color_r": 185,
+        "color_g": 94,
+        "color_b": 238,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 852,
+        "color_r": 247,
+        "color_g": 191,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 853,
+        "color_r": 106,
+        "color_b": 122,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 854,
+        "color_r": 66,
+        "color_b": 125,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 855,
+        "color_r": 224,
+        "color_g": 144,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 856,
+        "color_r": 130,
+        "color_g": 3,
+        "color_b": 172,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 857,
+        "color_r": 196,
+        "color_g": 173,
+        "color_b": 215,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 858,
+        "color_r": 219,
+        "color_g": 210,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 861,
+        "color_r": 167,
+        "color_g": 254,
+        "color_b": 255,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 862,
+        "color_r": 236,
+        "color_g": 255,
+        "color_b": 155,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 863,
+        "color_r": 100,
+        "color_g": 229,
+        "color_b": 189,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 864,
+        "color_r": 53,
+        "color_g": 186,
+        "color_b": 89,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 865,
+        "color_g": 82,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 866,
+        "color_r": 229,
+        "color_g": 243,
+        "color_b": 59,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 867,
+        "color_r": 210,
+        "color_g": 255,
+        "color_b": 228,
+        "new_dye_type": 1
+      },
+      {
+        "i_d": 868,
+        "color_r": 153,
+        "color_g": 177,
+        "color_b": 151,
+        "new_dye_type": 1
+      }
+    ]
+  }
+}

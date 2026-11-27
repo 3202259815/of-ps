@@ -1,0 +1,228 @@
+{
+  "pendant": {
+    "datas": [
+      {
+        "i_d": 7100,
+        "ring_part_name": "K_kouzi_01",
+        "pend_part_name": "L_xiaopaizi",
+        "main_part_name": "B_biandang"
+      },
+      {
+        "i_d": 7101,
+        "ring_part_name": "K_kouzi_02",
+        "pend_part_name": "L_cat_A01",
+        "main_part_name": "B_cat_01"
+      },
+      {
+        "i_d": 7102,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_cat_A04",
+        "main_part_name": "B_cat_04"
+      },
+      {
+        "i_d": 7103,
+        "ring_part_name": "K_kouzi_02",
+        "pend_part_name": "L_cat_A02",
+        "main_part_name": "B_cat_02"
+      },
+      {
+        "i_d": 7104,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_cat_A03",
+        "main_part_name": "B_cat_03"
+      },
+      {
+        "i_d": 7105,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_cat_A05",
+        "main_part_name": "B_cat_05"
+      },
+      {
+        "i_d": 7106,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_silverstar_01",
+        "main_part_name": "B_star_01"
+      },
+      {
+        "i_d": 7107,
+        "ring_part_name": "K_kouzi_06",
+        "pend_part_name": "L_bell_05",
+        "main_part_name": "B_star_02"
+      },
+      {
+        "i_d": 7108,
+        "ring_part_name": "K_kouzi_10",
+        "pend_part_name": "L_bell_06",
+        "main_part_name": "B_star_03"
+      },
+      {
+        "i_d": 7109,
+        "ring_part_name": "K_kouzi_04",
+        "pend_part_name": "L_disc_01",
+        "main_part_name": "B_band_01"
+      },
+      {
+        "i_d": 7110,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_disc_02",
+        "main_part_name": "B_band_04"
+      },
+      {
+        "i_d": 7111,
+        "ring_part_name": "K_kouzi_08",
+        "pend_part_name": "L_disc_03",
+        "main_part_name": "B_band_03"
+      },
+      {
+        "i_d": 7112,
+        "ring_part_name": "K_kouzi_09",
+        "pend_part_name": "L_bell_08",
+        "main_part_name": "B_band_02"
+      },
+      {
+        "i_d": 7113,
+        "ring_part_name": "K_kouzi_02",
+        "pend_part_name": "L_silverstar_01",
+        "main_part_name": "B_band_04"
+      },
+      {
+        "i_d": 7114,
+        "ring_part_name": "K_kouzi_01",
+        "pend_part_name": "L_band2_06",
+        "main_part_name": "B_heart2_01"
+      },
+      {
+        "i_d": 7115,
+        "ring_part_name": "K_kouzi_04",
+        "pend_part_name": "L_star_03",
+        "main_part_name": "B_bead_03"
+      },
+      {
+        "i_d": 7116,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_star_02",
+        "main_part_name": "B_bear_06"
+      },
+      {
+        "i_d": 7117,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_band2_02",
+        "main_part_name": "B_bead_01"
+      },
+      {
+        "i_d": 7118,
+        "ring_part_name": "K_kouzi_08",
+        "pend_part_name": "L_bell_07",
+        "main_part_name": "B_bead_02"
+      },
+      {
+        "i_d": 7119,
+        "ring_part_name": "K_kouzi_07",
+        "pend_part_name": "L_star_04",
+        "main_part_name": "B_bead_04"
+      },
+      {
+        "i_d": 7120,
+        "ring_part_name": "K_kouzi_10",
+        "pend_part_name": "L_disc_05",
+        "main_part_name": "B_bead_05"
+      },
+      {
+        "i_d": 7121,
+        "ring_part_name": "K_kouzi_06",
+        "pend_part_name": "L_star_05",
+        "main_part_name": "B_bead_06"
+      },
+      {
+        "i_d": 7122,
+        "ring_part_name": "K_kouzi_10",
+        "pend_part_name": "L_heart_01",
+        "main_part_name": "B_bear_01"
+      },
+      {
+        "i_d": 7123,
+        "ring_part_name": "K_kouzi_08",
+        "pend_part_name": "L_bell_07",
+        "main_part_name": "B_bear_05"
+      },
+      {
+        "i_d": 7124,
+        "ring_part_name": "K_kouzi_01",
+        "pend_part_name": "L_disc_04",
+        "main_part_name": "B_bear_03"
+      },
+      {
+        "i_d": 7125,
+        "ring_part_name": "K_kouzi_04",
+        "pend_part_name": "L_star_07",
+        "main_part_name": "B_bear_04"
+      },
+      {
+        "i_d": 7126,
+        "ring_part_name": "K_kouzi_04",
+        "pend_part_name": "L_star_06",
+        "main_part_name": "B_bear_02"
+      },
+      {
+        "i_d": 7127,
+        "ring_part_name": "K_kouzi_08",
+        "pend_part_name": "L_bell_07",
+        "main_part_name": "B_heart_04"
+      },
+      {
+        "i_d": 7128,
+        "ring_part_name": "K_kouzi_11",
+        "pend_part_name": "L_bell_04",
+        "main_part_name": "B_heart_05"
+      },
+      {
+        "i_d": 7129,
+        "ring_part_name": "K_kouzi_03",
+        "pend_part_name": "L_bell_02",
+        "main_part_name": "B_heart_06"
+      },
+      {
+        "i_d": 7130,
+        "ring_part_name": "K_kouzi_07",
+        "pend_part_name": "L_bell_03",
+        "main_part_name": "B_heart_07"
+      },
+      {
+        "i_d": 7131,
+        "ring_part_name": "K_kouzi_01",
+        "pend_part_name": "L_band2_03",
+        "main_part_name": "B_stars_01"
+      },
+      {
+        "i_d": 7132,
+        "ring_part_name": "K_kouzi_10",
+        "pend_part_name": "L_band2_01",
+        "main_part_name": "B_stars_05"
+      },
+      {
+        "i_d": 7133,
+        "ring_part_name": "K_kouzi_08",
+        "pend_part_name": "L_band2_04",
+        "main_part_name": "B_stars_02"
+      },
+      {
+        "i_d": 7134,
+        "ring_part_name": "K_kouzi_05",
+        "pend_part_name": "L_band2_06",
+        "main_part_name": "B_stars_03"
+      },
+      {
+        "i_d": 7135,
+        "ring_part_name": "K_kouzi_04",
+        "pend_part_name": "L_band2_05",
+        "main_part_name": "B_stars_04"
+      },
+      {
+        "i_d": 7136
+      },
+      {
+        "i_d": 7137
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "battle_weapon_task": {
+    "datas": [
+      {
+        "i_d": 10010,
+        "text_i_d": 1,
+        "icon_i_d": 100,
+        "virual_weapon_i_d": 1101201,
+        "use_character_pool_i_d": 1,
+        "asset_full_name": "Level/Mission/TestSceneBattle001/MissionBattle_11010",
+        "new_unlock_task_type": 4,
+        "new_task_type": 4
+      },
+      {
+        "i_d": 10011,
+        "text_i_d": 2,
+        "pre_task_i_d": 10010,
+        "virual_weapon_i_d": 1101301,
+        "use_character_pool_i_d": 1,
+        "new_unlock_task_type": 4,
+        "new_task_type": 4
+      }
+    ]
+  },
+  "battle_weapon_character_pool": {
+    "datas": [
+      {
+        "i_d": 1,
+        "battle_weapon_character_pool_group_info": [
+          {
+            "index": 1,
+            "new_weapon_type": 1,
+            "new_character_type": 1
+          },
+          {
+            "index": 2,
+            "new_weapon_type": 3,
+            "new_character_type": 1
+          },
+          {
+            "index": 3,
+            "character_i_d": 401001
+          }
+        ]
+      },
+      {
+        "i_d": 2,
+        "battle_weapon_character_pool_group_info": [
+          {
+            "index": 1,
+            "character_i_d": 101001
+          },
+          {
+            "index": 2,
+            "character_i_d": 101002
+          },
+          {
+            "index": 3,
+            "character_i_d": 101003
+          },
+          {
+            "index": 4,
+            "character_i_d": 102001
+          }
+        ]
+      }
+    ]
+  }
+}

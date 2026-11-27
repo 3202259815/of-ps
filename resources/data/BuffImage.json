@@ -1,0 +1,89 @@
+{
+  "buff_image_info": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "image_i_d": 1001
+      },
+      {
+        "i_d": 1002,
+        "image_i_d": 1002,
+        "new_buff_image_type": 1
+      },
+      {
+        "i_d": 1003,
+        "image_i_d": 1001,
+        "new_buff_image_type": 2
+      },
+      {
+        "i_d": 1004,
+        "image_i_d": 1002,
+        "new_buff_image_type": 3
+      },
+      {
+        "i_d": 1005,
+        "image_i_d": 1001,
+        "new_buff_image_type": 4
+      },
+      {
+        "i_d": 1006,
+        "image_i_d": 1002,
+        "new_buff_image_type": 5
+      },
+      {
+        "i_d": 1007,
+        "image_i_d": 1001,
+        "new_buff_image_type": 6
+      },
+      {
+        "i_d": 1008,
+        "image_i_d": 1002,
+        "new_buff_image_type": 7
+      },
+      {
+        "i_d": 1009,
+        "image_i_d": 1001,
+        "new_buff_image_type": 8
+      },
+      {
+        "i_d": 1010,
+        "image_i_d": 1002,
+        "new_buff_image_type": 9
+      },
+      {
+        "i_d": 1011,
+        "image_i_d": 1001,
+        "new_buff_image_type": 10
+      },
+      {
+        "i_d": 1012,
+        "image_i_d": 1002,
+        "new_buff_image_type": 11
+      },
+      {
+        "i_d": 1013,
+        "image_i_d": 1001,
+        "new_buff_image_type": 12
+      },
+      {
+        "i_d": 1014,
+        "image_i_d": 1002,
+        "new_buff_image_type": 13
+      }
+    ]
+  },
+  "buff_image_resource": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "up_icon": "Texture/Icon/icon_renwuliebiaofenlei_01",
+        "down_icon": "Texture/Icon/icon_renwuliebiaofenlei_03"
+      },
+      {
+        "i_d": 1002,
+        "up_icon": "Texture/Icon/icon_renwuliebiaofenlei_02",
+        "down_icon": "Texture/Icon/icon_renwuliebiaofenlei_04"
+      }
+    ]
+  }
+}

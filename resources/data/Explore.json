@@ -1,0 +1,211 @@
+{
+  "explore_area": {
+    "datas": [
+      {
+        "i_d": 10101,
+        "name_i_d": 10101,
+        "icon_i_d": 10101,
+        "need_time": 600,
+        "quick_need_item": 102,
+        "quick_need_item_count": 1,
+        "need_scene_i_d": 1,
+        "need_player_level": 1,
+        "explore_area_item": [
+          {
+            "rewar_item_i_d": 101
+          },
+          {
+            "rewar_item_i_d": 109
+          }
+        ]
+      },
+      {
+        "i_d": 10102,
+        "name_i_d": 10102,
+        "icon_i_d": 10102,
+        "need_time": 1800,
+        "quick_need_item": 102,
+        "quick_need_item_count": 1,
+        "need_scene_i_d": 1,
+        "need_player_level": 1,
+        "explore_area_item": [
+          {
+            "rewar_item_i_d": 2070
+          },
+          {
+            "rewar_item_i_d": 10
+          },
+          {
+            "rewar_item_i_d": 2020
+          },
+          {
+            "rewar_item_i_d": 101
+          }
+        ]
+      },
+      {
+        "i_d": 10201,
+        "name_i_d": 20101,
+        "icon_i_d": 20101,
+        "need_time": 7200,
+        "quick_need_item": 102,
+        "quick_need_item_count": 1,
+        "need_scene_i_d": 2,
+        "need_player_level": 1,
+        "need_item": 100001502,
+        "need_item_count": 1,
+        "explore_area_item": [
+          {
+            "rewar_item_i_d": 401
+          },
+          {
+            "rewar_item_i_d": 102
+          },
+          {
+            "rewar_item_i_d": 481
+          },
+          {
+            "rewar_item_i_d": 101
+          },
+          {
+            "rewar_item_i_d": 2020
+          }
+        ],
+        "new_explore_difficulty": 1
+      },
+      {
+        "i_d": 10202,
+        "name_i_d": 20102,
+        "icon_i_d": 20102,
+        "need_time": 14400,
+        "quick_need_item": 102,
+        "quick_need_item_count": 1,
+        "need_scene_i_d": 2,
+        "need_player_level": 1,
+        "need_item": 100001502,
+        "need_item_count": 1,
+        "explore_area_item": [
+          {
+            "rewar_item_i_d": 11
+          },
+          {
+            "rewar_item_i_d": 10
+          },
+          {
+            "rewar_item_i_d": 191
+          },
+          {
+            "rewar_item_i_d": 491
+          },
+          {
+            "rewar_item_i_d": 2070
+          }
+        ],
+        "new_explore_difficulty": 1
+      },
+      {
+        "i_d": 10301,
+        "name_i_d": 30101,
+        "icon_i_d": 30101,
+        "need_time": 36000,
+        "quick_need_item": 102,
+        "quick_need_item_count": 1,
+        "need_scene_i_d": 3,
+        "need_player_level": 1,
+        "need_item": 100001503,
+        "need_item_count": 1,
+        "explore_area_item": [
+          {
+            "rewar_item_i_d": 10
+          },
+          {
+            "rewar_item_i_d": 102
+          },
+          {
+            "rewar_item_i_d": 481
+          },
+          {
+            "rewar_item_i_d": 491
+          },
+          {
+            "rewar_item_i_d": 101
+          }
+        ],
+        "new_explore_difficulty": 2
+      }
+    ]
+  },
+  "explore_activity": {
+    "datas": [
+      {
+        "i_d": 901,
+        "name_i_d": 901,
+        "icon_i_d": 901,
+        "start_time": "2022-10-11 00:00:00",
+        "end_time": "2023-10-31 23:59:00",
+        "need_time": 14400,
+        "max_times": 1000,
+        "quick_need_item": 102,
+        "quick_need_item_count": 10,
+        "special_reward_item_i_d": 102,
+        "explore_activity_item": [
+          {
+            "rewar_item_i_d": 101
+          },
+          {
+            "rewar_item_i_d": 101
+          },
+          {
+            "rewar_item_i_d": 191
+          },
+          {
+            "rewar_item_i_d": 101
+          },
+          {
+            "rewar_item_i_d": 101
+          }
+        ]
+      }
+    ]
+  },
+  "explore_interval": {
+    "datas": [
+      {
+        "i_d": 101,
+        "name_i_d": 101,
+        "icon_i_d": 101,
+        "retention_time": 172800,
+        "time": 14400,
+        "need_item_i_d": 10,
+        "captain_count": 20,
+        "member_count": 10,
+        "quick_need_item": 102,
+        "quick_need_item_count": 10
+      },
+      {
+        "i_d": 102,
+        "name_i_d": 102,
+        "icon_i_d": 102,
+        "retention_time": 172800,
+        "time": 21600,
+        "need_item_i_d": 10,
+        "captain_count": 25,
+        "member_count": 12,
+        "quick_need_item": 102,
+        "quick_need_item_count": 10
+      },
+      {
+        "i_d": 103,
+        "name_i_d": 103,
+        "icon_i_d": 103,
+        "retention_time": 172800,
+        "time": 28800,
+        "need_item_i_d": 10,
+        "captain_count": 30,
+        "member_count": 15,
+        "quick_need_item": 102,
+        "quick_need_item_count": 10
+      }
+    ]
+  }
+}

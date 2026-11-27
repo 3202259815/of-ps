@@ -1,0 +1,3583 @@
+{
+  "life_gather": {
+    "datas": [
+      {
+        "i_d": 1,
+        "upgrade_level_by_proficiency": 10000
+      }
+    ]
+  },
+  "life_gather_item": {
+    "datas": [
+      {
+        "i_d": 20200001,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20200001,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 122000011,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 122000012,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 122000013,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 122000014,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 1
+      },
+      {
+        "i_d": 20200002,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20200002,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 122000021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 122000022,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 122000023,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 122000024,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 1
+      },
+      {
+        "i_d": 20300001,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20300001,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 123000011,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 123000012,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 123000013,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 123000014,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 2
+      },
+      {
+        "i_d": 20300002,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20300002,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 123000021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 123000022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 123000023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 123000024,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 2
+      },
+      {
+        "i_d": 20500001,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20500001,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 125000011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 125000012,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 125000013,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 125000014,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 4
+      },
+      {
+        "i_d": 20500002,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20500002,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 125000021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 125000022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 125000023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 125000024,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 4
+      },
+      {
+        "i_d": 20400001,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400001,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000012,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000014,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400002,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400002,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000021,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000024,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400003,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400003,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000032,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000034,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400004,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400004,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000041,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000042,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000043,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000044,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400005,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400005,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000051,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000054,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400006,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400006,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000061,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000062,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000063,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000064,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400007,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400007,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000071,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000072,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000073,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000074,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400008,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400008,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000081,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000082,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000083,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000084,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400009,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400009,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000091,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000092,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000093,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000094,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400010,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400010,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000101,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000102,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000103,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000104,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400011,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400011,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000111,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000112,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000113,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000114,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400012,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400012,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000121,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000122,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000123,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000124,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400013,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400013,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000131,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000132,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000133,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000134,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400014,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400014,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000141,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124000142,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000143,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000144,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400015,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400015,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000151,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000152,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000153,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000154,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400016,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400016,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000161,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000162,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000163,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000164,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400017,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400017,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000171,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000172,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000173,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000174,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400018,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400018,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000181,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000182,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000183,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000184,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400019,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400019,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000191,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000192,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000193,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000194,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400020,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400020,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000201,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000202,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124000203,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000204,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400021,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400021,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000211,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000212,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000213,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000214,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400022,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400022,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000221,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000222,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000223,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124000224,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400023,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400023,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000231,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124000232,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124000233,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124000234,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400024,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400024,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124000241,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124000242,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124000243,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124000244,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20100003,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100003,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000031,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000032,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000034,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100004,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100004,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000041,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000042,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000044,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100005,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100005,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000051,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000052,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000053,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000054,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100006,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100006,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000062,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000063,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000064,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100007,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100007,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000071,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000072,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000073,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000074,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100008,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100008,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000081,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000082,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000083,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000084,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100009,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100009,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000091,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000092,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000093,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000094,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100010,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100010,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000101,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000102,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000103,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000104,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100011,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100011,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000111,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000112,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000113,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000114,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100012,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100012,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000121,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000122,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000123,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000124,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100013,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100013,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000131,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000132,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000133,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000134,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100014,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100014,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000141,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000142,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000143,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000144,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100015,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100015,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000151,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000152,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000153,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000154,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100016,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100016,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000161,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000162,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000163,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000164,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100017,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100017,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000171,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000172,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000173,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000174,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100018,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100018,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000181,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000182,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000183,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000184,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100019,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100019,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000191,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000192,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000193,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000194,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100020,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100020,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000201,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000202,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000203,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000204,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100021,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100021,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000211,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000212,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000213,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000214,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100022,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100022,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000221,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000222,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000223,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000224,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100023,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100023,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000231,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000232,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000233,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000234,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100024,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100024,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000241,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000242,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000243,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000244,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100025,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100025,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000251,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000252,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000253,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000254,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100026,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100026,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000261,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000262,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000263,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000264,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100027,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100027,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000271,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000272,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121000273,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000274,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100028,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100028,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000281,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000282,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000283,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000284,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100029,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100029,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000291,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121000292,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000293,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000294,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100030,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100030,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000301,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000302,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000303,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000304,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100031,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100031,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000311,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000312,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000313,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000314,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100032,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100032,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000321,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121000322,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000323,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121000324,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100033,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100033,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000331,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000332,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121000333,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121000334,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100034,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100034,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121000341,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121000342,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121000343,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121000344,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20600001,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600001,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000011,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000012,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000013,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000014,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600002,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600002,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000023,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000024,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600003,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600003,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000032,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000034,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600004,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600004,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000041,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000042,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000043,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000044,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600005,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600005,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000051,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000052,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000054,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600006,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600006,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000062,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000063,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000064,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600007,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600007,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000071,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000072,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000073,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000074,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600008,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600008,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000081,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000082,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000083,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000084,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600009,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600009,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000091,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000092,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000093,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000094,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600010,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600010,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000101,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000102,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000103,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000104,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600011,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600011,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000111,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000112,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000113,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000114,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600012,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600012,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000121,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000122,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000123,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000124,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600013,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600013,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000131,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000132,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 126000133,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000134,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600014,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600014,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000141,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000142,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000143,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000144,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600015,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600015,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000151,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000152,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000153,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000154,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600016,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600016,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000161,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000162,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000163,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000164,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600017,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600017,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000171,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000172,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000173,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000174,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600018,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600018,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000181,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000182,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000183,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000184,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600019,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600019,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000191,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000192,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 126000193,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000194,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600020,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600020,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000201,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000202,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000203,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000204,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600021,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600021,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000211,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000212,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000213,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000214,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600022,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600022,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000221,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000222,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000223,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000224,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600023,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600023,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000231,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 126000232,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000233,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 126000234,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600024,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600024,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000241,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000242,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 126000243,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 126000244,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600025,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600025,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000251,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000252,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 126000253,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000254,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600026,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600026,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000261,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 126000262,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000263,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000264,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20600027,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20600027,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 126000271,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 126000272,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 126000273,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 126000274,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 5
+      },
+      {
+        "i_d": 20100101,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100101,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121001012,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121001013,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121001014,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100102,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100102,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121001022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121001023,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121001024,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100103,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100103,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001031,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121001032,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121001033,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121001034,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100104,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100104,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001041,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121001042,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121001043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121001044,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100105,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100105,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001051,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121001052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121001053,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121001054,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100106,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100106,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001061,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121001062,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121001063,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121001064,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100107,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100107,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121001071,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121001072,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121001073,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121001074,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100201,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100201,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002011,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121002012,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121002013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121002014,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100202,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100202,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002021,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121002022,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121002023,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121002024,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100203,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100203,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002031,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121002032,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121002033,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121002034,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100204,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100204,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002041,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121002042,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121002043,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121002044,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100205,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100205,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002051,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121002052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121002053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121002054,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100206,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100206,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121002062,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121002063,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121002064,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100207,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100207,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121002071,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121002072,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121002073,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121002074,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100301,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100301,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003011,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121003012,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121003013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121003014,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100302,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100302,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003021,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121003022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121003023,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121003024,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100303,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100303,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121003032,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121003033,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121003034,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100304,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100304,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003041,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121003042,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121003043,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121003044,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100305,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100305,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003051,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121003052,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121003053,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121003054,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100306,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100306,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003061,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121003062,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121003063,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121003064,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100307,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100307,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121003071,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121003072,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121003073,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121003074,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100401,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100401,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004011,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121004012,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121004013,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121004014,
+            "reward_i_d": 10140
+          }
+        ]
+      },
+      {
+        "i_d": 20100402,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100402,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004021,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121004022,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121004023,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121004024,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100403,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100403,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004031,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121004032,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121004033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121004034,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100404,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100404,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004041,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121004042,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 121004043,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121004044,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100405,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100405,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004051,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 121004052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121004053,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 121004054,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20100406,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100406,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004061,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 121004062,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 121004063,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 121004064,
+            "reward_i_d": 10240
+          }
+        ]
+      },
+      {
+        "i_d": 20100407,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20100407,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 121004071,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 121004072,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 121004073,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 121004074,
+            "reward_i_d": 10340
+          }
+        ]
+      },
+      {
+        "i_d": 20400101,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400101,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001011,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124001012,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124001013,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124001014,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400102,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400102,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001021,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124001022,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124001023,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124001024,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400103,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400103,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124001032,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124001033,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124001034,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400104,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400104,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001041,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124001042,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124001043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124001044,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400105,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400105,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001051,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124001052,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124001053,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124001054,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400106,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400106,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001061,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124001062,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124001063,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124001064,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400107,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400107,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124001071,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124001072,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124001073,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124001074,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400201,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400201,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002011,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124002012,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124002013,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124002014,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400202,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400202,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002021,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124002022,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124002023,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124002024,
+            "reward_i_d": 10140
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400203,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400203,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002031,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124002032,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124002033,
+            "reward_i_d": 10330
+          },
+          {
+            "achieve_condition_i_d": 124002034,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400204,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400204,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002041,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124002042,
+            "reward_i_d": 10120
+          },
+          {
+            "achieve_condition_i_d": 124002043,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124002044,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400205,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400205,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002051,
+            "reward_i_d": 10210
+          },
+          {
+            "achieve_condition_i_d": 124002052,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124002053,
+            "reward_i_d": 10130
+          },
+          {
+            "achieve_condition_i_d": 124002054,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400206,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400206,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002061,
+            "reward_i_d": 10110
+          },
+          {
+            "achieve_condition_i_d": 124002062,
+            "reward_i_d": 10220
+          },
+          {
+            "achieve_condition_i_d": 124002063,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124002064,
+            "reward_i_d": 10240
+          }
+        ],
+        "new_gather_type": 3
+      },
+      {
+        "i_d": 20400207,
+        "is_show": true,
+        "gather_level": 1,
+        "need_item_i_d": 11,
+        "need_item_count": 1,
+        "item_i_d": 20400207,
+        "life_gather_achieve_rewards": [
+          {
+            "achieve_condition_i_d": 124002071,
+            "reward_i_d": 10310
+          },
+          {
+            "achieve_condition_i_d": 124002072,
+            "reward_i_d": 10320
+          },
+          {
+            "achieve_condition_i_d": 124002073,
+            "reward_i_d": 10230
+          },
+          {
+            "achieve_condition_i_d": 124002074,
+            "reward_i_d": 10340
+          }
+        ],
+        "new_gather_type": 3
+      }
+    ]
+  },
+  "life_gather_spell": {
+    "datas": [
+      {
+        "i_d": 36100,
+        "life_gather_spell_items": [
+          {
+            "level": 1,
+            "icon_i_d": 36100,
+            "text_i_d": 36101,
+            "need_gather_level": 1,
+            "need_time": 1800,
+            "need_currency_i_d": 101,
+            "need_currency_count": 1000
+          },
+          {
+            "level": 2,
+            "icon_i_d": 36100,
+            "text_i_d": 36102,
+            "need_gather_level": 2,
+            "need_time": 3600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 2000
+          },
+          {
+            "level": 3,
+            "icon_i_d": 36100,
+            "text_i_d": 36103,
+            "need_gather_level": 3,
+            "need_time": 7200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 3000
+          },
+          {
+            "level": 4,
+            "icon_i_d": 36100,
+            "text_i_d": 36104,
+            "need_gather_level": 4,
+            "need_time": 14400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 5000
+          },
+          {
+            "level": 5,
+            "icon_i_d": 36100,
+            "text_i_d": 36105,
+            "need_gather_level": 5,
+            "need_time": 21600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 10000
+          },
+          {
+            "level": 6,
+            "icon_i_d": 36100,
+            "text_i_d": 36106,
+            "need_gather_level": 6,
+            "need_time": 32400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 15000
+          },
+          {
+            "level": 7,
+            "icon_i_d": 36100,
+            "text_i_d": 36107,
+            "need_gather_level": 7,
+            "need_time": 43200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 20000
+          },
+          {
+            "level": 8,
+            "icon_i_d": 36100,
+            "text_i_d": 36108,
+            "need_gather_level": 8,
+            "need_time": 86400,
+            "need_currency_i_d": 101,
+            "need_currency_count": 25000
+          },
+          {
+            "level": 9,
+            "icon_i_d": 36100,
+            "text_i_d": 36109,
+            "need_gather_level": 9,
+            "need_time": 129600,
+            "need_currency_i_d": 101,
+            "need_currency_count": 30000
+          },
+          {
+            "level": 10,
+            "icon_i_d": 36100,
+            "text_i_d": 36110,
+            "need_gather_level": 10,
+            "need_time": 259200,
+            "need_currency_i_d": 101,
+            "need_currency_count": 40000
+          }
+        ]
+      }
+    ]
+  }
+}

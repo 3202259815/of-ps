@@ -1,0 +1,546 @@
+{
+  "battle_defender": {
+    "datas": [
+      {
+        "i_d": 170010,
+        "text_i_d": 1,
+        "icon_i_d": 170010,
+        "asset_full_name": "Level/Defender/TestSceneBattle001/DefenderBattle_170010",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 170020,
+        "text_i_d": 1,
+        "icon_i_d": 170020,
+        "asset_full_name": "Level/Defender/TestSceneBattle001/DefenderBattle_170020",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 170030,
+        "text_i_d": 1,
+        "icon_i_d": 170030,
+        "asset_full_name": "Level/Defender/TestSceneBattle001/DefenderBattle_170030",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 170040,
+        "text_i_d": 1,
+        "icon_i_d": 170040,
+        "asset_full_name": "Level/Defender/TestSceneBattle001/DefenderBattle_170040",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270010,
+        "text_i_d": 1,
+        "icon_i_d": 270010,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270010",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270020,
+        "text_i_d": 1,
+        "icon_i_d": 270020,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270020",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270030,
+        "text_i_d": 1,
+        "icon_i_d": 270030,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270030",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270040,
+        "text_i_d": 1,
+        "icon_i_d": 270040,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270040",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270050,
+        "text_i_d": 1,
+        "icon_i_d": 270050,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270050",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270060,
+        "text_i_d": 1,
+        "icon_i_d": 270060,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270060",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270070,
+        "text_i_d": 1,
+        "icon_i_d": 270070,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270070",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270080,
+        "text_i_d": 1,
+        "icon_i_d": 270080,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270080",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270090,
+        "text_i_d": 1,
+        "icon_i_d": 270090,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270090",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270100,
+        "text_i_d": 1,
+        "icon_i_d": 270100,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270100",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270110,
+        "text_i_d": 1,
+        "icon_i_d": 270110,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270110",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270120,
+        "text_i_d": 1,
+        "icon_i_d": 270120,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270120",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270130,
+        "text_i_d": 1,
+        "icon_i_d": 270130,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270130",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 270140,
+        "text_i_d": 1,
+        "icon_i_d": 270140,
+        "asset_full_name": "Level/Defender/TestSceneBattle002/DefenderBattle_270140",
+        "revise_level": 5,
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370010,
+        "text_i_d": 1,
+        "icon_i_d": 370010,
+        "start_voice_i_d": 370010,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370010",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370020,
+        "text_i_d": 1,
+        "icon_i_d": 370020,
+        "start_voice_i_d": 370020,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370020",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370030,
+        "text_i_d": 1,
+        "icon_i_d": 370030,
+        "start_voice_i_d": 370030,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370030",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370040,
+        "text_i_d": 1,
+        "icon_i_d": 370040,
+        "start_voice_i_d": 370040,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370040",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370050,
+        "text_i_d": 1,
+        "icon_i_d": 370050,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370050",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370060,
+        "text_i_d": 1,
+        "icon_i_d": 370060,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370060",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370070,
+        "text_i_d": 1,
+        "icon_i_d": 370070,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370070",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370080,
+        "text_i_d": 1,
+        "icon_i_d": 370080,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370080",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370090,
+        "text_i_d": 1,
+        "icon_i_d": 370090,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370090",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 370100,
+        "text_i_d": 1,
+        "icon_i_d": 370100,
+        "asset_full_name": "Level/Defender/TestSceneBattle001_Night/DefenderBattle_370100",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470010,
+        "text_i_d": 1,
+        "icon_i_d": 470010,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470010",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470020,
+        "text_i_d": 1,
+        "icon_i_d": 470020,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470020",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470030,
+        "text_i_d": 1,
+        "icon_i_d": 470030,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470030",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470040,
+        "text_i_d": 1,
+        "icon_i_d": 470040,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470040",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470050,
+        "text_i_d": 1,
+        "icon_i_d": 470050,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470050",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470060,
+        "text_i_d": 1,
+        "icon_i_d": 470060,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470060",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470070,
+        "text_i_d": 1,
+        "icon_i_d": 470070,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470070",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470080,
+        "text_i_d": 1,
+        "icon_i_d": 470080,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470080",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470090,
+        "text_i_d": 1,
+        "icon_i_d": 470090,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470090",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470100,
+        "text_i_d": 1,
+        "icon_i_d": 470100,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470100",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 470110,
+        "text_i_d": 1,
+        "icon_i_d": 470110,
+        "asset_full_name": "Level/Defender/TestSceneBattle002_Superstructure/DefenderBattle_470110",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 570010,
+        "text_i_d": 1,
+        "icon_i_d": 570010,
+        "start_voice_i_d": 570010,
+        "asset_full_name": "Level/Defender/TestSceneBattle003/DefenderBattle_570010",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 570020,
+        "text_i_d": 1,
+        "icon_i_d": 570020,
+        "start_voice_i_d": 570020,
+        "asset_full_name": "Level/Defender/TestSceneBattle003/DefenderBattle_570020",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100170010,
+        "text_i_d": 1,
+        "icon_i_d": 100170010,
+        "start_voice_i_d": 100170010,
+        "asset_full_name": "Level/Defender/TestSceneBattle1001/DefenderBattle_100170010",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100170020,
+        "text_i_d": 1,
+        "icon_i_d": 100170020,
+        "start_voice_i_d": 100170020,
+        "asset_full_name": "Level/Defender/TestSceneBattle1001/DefenderBattle_100170020",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100170030,
+        "text_i_d": 1,
+        "icon_i_d": 100170030,
+        "asset_full_name": "Level/Defender/TestSceneBattle1001/DefenderBattle_100170030",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270010,
+        "text_i_d": 1,
+        "icon_i_d": 100270010,
+        "start_voice_i_d": 100270010,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270010",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270020,
+        "text_i_d": 1,
+        "icon_i_d": 100270020,
+        "start_voice_i_d": 100270020,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270020",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270030,
+        "text_i_d": 1,
+        "icon_i_d": 100270030,
+        "start_voice_i_d": 100270030,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270030",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270040,
+        "text_i_d": 1,
+        "icon_i_d": 100270040,
+        "start_voice_i_d": 100270040,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270040",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270050,
+        "text_i_d": 1,
+        "icon_i_d": 100270050,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270050",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270060,
+        "text_i_d": 1,
+        "icon_i_d": 100270060,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270060",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      },
+      {
+        "i_d": 100270070,
+        "text_i_d": 1,
+        "icon_i_d": 100270070,
+        "asset_full_name": "Level/Defender/TestSceneBattle1002/DefenderBattle_100270070",
+        "buff_i_d": 9042,
+        "monster_buff_i_d": 9063,
+        "new_unlock_task_type": -1,
+        "new_task_type": 2
+      }
+    ]
+  }
+}

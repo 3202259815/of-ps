@@ -1,0 +1,12 @@
+{
+  "moon_spot": {
+    "datas": [
+      {
+        "i_d": 1,
+        "path": "Model/Furniture/祈愿石信标/WishPole.prefab",
+        "recycle_seconds": 1209600,
+        "range_radius": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "scenic": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "first_reward_i_d": 201010,
+        "guide_voice": 20101,
+        "asset_full_name": "Scenery/TestSceneBattle001_1/镜头演出_01_扇子"
+      },
+      {
+        "i_d": 1002,
+        "first_reward_i_d": 201020,
+        "guide_voice": 20102,
+        "asset_full_name": "Scenery/TestSceneBattle001_1/镜头演出_02_水车"
+      },
+      {
+        "i_d": 1003,
+        "first_reward_i_d": 201030,
+        "guide_voice": 20103,
+        "asset_full_name": "Scenery/TestSceneBattle001_1/镜头演出_03_秘密基地"
+      },
+      {
+        "i_d": 1004,
+        "first_reward_i_d": 201040,
+        "guide_voice": 20104,
+        "asset_full_name": "Scenery/TestSceneBattle001_1/镜头演出_04_鸟居"
+      },
+      {
+        "i_d": 2001,
+        "first_reward_i_d": 202010,
+        "guide_voice": 20201,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_01_转盘"
+      },
+      {
+        "i_d": 2002,
+        "first_reward_i_d": 202020,
+        "guide_voice": 20202,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_02_齿轮"
+      },
+      {
+        "i_d": 2003,
+        "first_reward_i_d": 202030,
+        "guide_voice": 20203,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_03_书堆"
+      },
+      {
+        "i_d": 2004,
+        "first_reward_i_d": 202040,
+        "guide_voice": 20204,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_04_参道"
+      },
+      {
+        "i_d": 2005,
+        "first_reward_i_d": 202050,
+        "guide_voice": 20205,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_05_钟楼"
+      },
+      {
+        "i_d": 2006,
+        "first_reward_i_d": 202060,
+        "guide_voice": 20206,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_06_书架"
+      },
+      {
+        "i_d": 2007,
+        "first_reward_i_d": 202070,
+        "guide_voice": 20207,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_07_地球仪"
+      },
+      {
+        "i_d": 2008,
+        "first_reward_i_d": 202080,
+        "guide_voice": 20208,
+        "asset_full_name": "Scenery/TestSceneBattle002_1/镜头演出_08_旋转楼梯"
+      },
+      {
+        "i_d": 3001,
+        "first_reward_i_d": 203010,
+        "guide_voice": 20301,
+        "asset_full_name": "Scenery/TestSceneBattle001_2/镜头演出_01_荷塘"
+      },
+      {
+        "i_d": 3002,
+        "first_reward_i_d": 203020,
+        "guide_voice": 20302,
+        "asset_full_name": "Scenery/TestSceneBattle001_2/镜头演出_02_伞群"
+      },
+      {
+        "i_d": 3003,
+        "first_reward_i_d": 203030,
+        "guide_voice": 20303,
+        "asset_full_name": "Scenery/TestSceneBattle001_2/镜头演出_03_水箱"
+      },
+      {
+        "i_d": 3004,
+        "first_reward_i_d": 203040,
+        "guide_voice": 20304,
+        "asset_full_name": "Scenery/TestSceneBattle001_2/镜头演出_04_大树"
+      },
+      {
+        "i_d": 4001,
+        "first_reward_i_d": 204010,
+        "guide_voice": 20401,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_01_庭箱"
+      },
+      {
+        "i_d": 4002,
+        "first_reward_i_d": 204020,
+        "guide_voice": 20402,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_02_灯座"
+      },
+      {
+        "i_d": 4003,
+        "first_reward_i_d": 204030,
+        "guide_voice": 20403,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_03_倒路"
+      },
+      {
+        "i_d": 4004,
+        "first_reward_i_d": 204040,
+        "guide_voice": 20404,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_04_小屋"
+      },
+      {
+        "i_d": 4005,
+        "first_reward_i_d": 204050,
+        "guide_voice": 20405,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_05_蓝色星球"
+      },
+      {
+        "i_d": 4006,
+        "first_reward_i_d": 204060,
+        "guide_voice": 20406,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_06_三重齿轮"
+      },
+      {
+        "i_d": 4007,
+        "first_reward_i_d": 204070,
+        "guide_voice": 20407,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_07_逆转地球"
+      },
+      {
+        "i_d": 4008,
+        "first_reward_i_d": 204080,
+        "guide_voice": 20408,
+        "asset_full_name": "Scenery/TestSceneBattle002_2/镜头演出_08_对称钟"
+      },
+      {
+        "i_d": 5001,
+        "first_reward_i_d": 205010,
+        "guide_voice": 20501,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_01_红丝绒大道"
+      },
+      {
+        "i_d": 5002,
+        "first_reward_i_d": 205020,
+        "guide_voice": 20502,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_02_云上茶会"
+      },
+      {
+        "i_d": 5003,
+        "first_reward_i_d": 205030,
+        "guide_voice": 20503,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_03_甜蜜一角"
+      },
+      {
+        "i_d": 5004,
+        "first_reward_i_d": 205040,
+        "guide_voice": 20504,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_04_小蛋糕"
+      },
+      {
+        "i_d": 5005,
+        "first_reward_i_d": 205050,
+        "guide_voice": 20505,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_05_棉花云"
+      },
+      {
+        "i_d": 5006,
+        "first_reward_i_d": 205060,
+        "guide_voice": 20506,
+        "asset_full_name": "Scenery/TestSceneBattle003_1/镜头演出_06_清凉泉"
+      },
+      {
+        "i_d": 1001001,
+        "first_reward_i_d": 251010,
+        "guide_voice": 25101,
+        "asset_full_name": "Scenery/TestSceneBattle_Chrismas/镜头演出_01_冰屋"
+      },
+      {
+        "i_d": 1001002,
+        "first_reward_i_d": 251020,
+        "guide_voice": 25102,
+        "asset_full_name": "Scenery/TestSceneBattle_Chrismas/镜头演出_02_云朵"
+      },
+      {
+        "i_d": 1001003,
+        "first_reward_i_d": 251030,
+        "guide_voice": 25103,
+        "asset_full_name": "Scenery/TestSceneBattle_Chrismas/镜头演出_03_礼物"
+      },
+      {
+        "i_d": 1002001,
+        "first_reward_i_d": 252010,
+        "guide_voice": 25201,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_01_走廊"
+      },
+      {
+        "i_d": 1002002,
+        "first_reward_i_d": 252020,
+        "guide_voice": 25202,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_02_熊猫"
+      },
+      {
+        "i_d": 1002003,
+        "first_reward_i_d": 252030,
+        "guide_voice": 25203,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_03_烤串"
+      },
+      {
+        "i_d": 1002004,
+        "first_reward_i_d": 252040,
+        "guide_voice": 25204,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_04_包子"
+      },
+      {
+        "i_d": 1002005,
+        "first_reward_i_d": 252050,
+        "guide_voice": 25205,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_05_菜熊"
+      },
+      {
+        "i_d": 1002006,
+        "first_reward_i_d": 252060,
+        "guide_voice": 25206,
+        "asset_full_name": "Scenery/TestSceneBattle_Hotpot/镜头演出_06_料碗"
+      },
+      {
+        "i_d": 1003001,
+        "first_reward_i_d": 253010,
+        "guide_voice": 25301,
+        "asset_full_name": "Scenery/TestSceneBattle_School/镜头演出_01_缤纷庆典"
+      },
+      {
+        "i_d": 1003002,
+        "first_reward_i_d": 253020,
+        "guide_voice": 25302,
+        "asset_full_name": "Scenery/TestSceneBattle_School/镜头演出_02_写生角"
+      },
+      {
+        "i_d": 1003003,
+        "first_reward_i_d": 253030,
+        "guide_voice": 25303,
+        "asset_full_name": "Scenery/TestSceneBattle_School/镜头演出_03_多彩校园"
+      }
+    ]
+  }
+}

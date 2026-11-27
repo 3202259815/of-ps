@@ -1,0 +1,38 @@
+{
+  "fireworks_party": {
+    "datas": [
+      {
+        "i_d": 10000,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10001,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10002,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10003,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10004,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10005,
+        "path": "System/FireworksParty/烟火大会01.prefab"
+      },
+      {
+        "i_d": 10006,
+        "path": "System/FireworksParty/烟火大会马年.prefab"
+      },
+      {
+        "i_d": 10007,
+        "path": "System/FireworksParty/烟火大会周年庆.prefab"
+      }
+    ]
+  }
+}

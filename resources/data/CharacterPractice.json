@@ -1,0 +1,254 @@
+{
+  "character_practice": {
+    "datas": [
+      {
+        "i_d": 101001,
+        "character_practice": 101001,
+        "character_lv": 50,
+        "weapon_i_d": 1101104,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 101002,
+        "character_practice": 101002,
+        "character_lv": 50,
+        "weapon_i_d": 1101101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 101003,
+        "character_practice": 101003,
+        "character_lv": 50,
+        "weapon_i_d": 1101101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 101004,
+        "character_practice": 101004,
+        "character_lv": 50,
+        "weapon_i_d": 1101101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 102001,
+        "character_practice": 102001,
+        "character_lv": 50,
+        "weapon_i_d": 1102101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 102002,
+        "character_practice": 102002,
+        "character_lv": 50,
+        "weapon_i_d": 1102101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 102003,
+        "character_practice": 102003,
+        "character_lv": 50,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 102004,
+        "character_practice": 102004,
+        "character_lv": 50,
+        "weapon_i_d": 1102101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 103001,
+        "character_practice": 103001,
+        "character_lv": 50,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 103002,
+        "character_practice": 103002,
+        "character_lv": 50,
+        "weapon_i_d": 1103101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 201001,
+        "character_practice": 201001,
+        "character_lv": 50,
+        "weapon_i_d": 1201101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 201002,
+        "character_practice": 201002,
+        "character_lv": 50,
+        "weapon_i_d": 1201101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 201003,
+        "character_practice": 201003,
+        "character_lv": 50,
+        "weapon_i_d": 1201101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 202001,
+        "character_practice": 202001,
+        "character_lv": 50,
+        "weapon_i_d": 1202101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 202002,
+        "character_practice": 202002,
+        "character_lv": 50,
+        "weapon_i_d": 1202110,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 202003,
+        "character_practice": 202003,
+        "character_lv": 50,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 202004,
+        "character_practice": 202004,
+        "character_lv": 50,
+        "weapon_i_d": 1202101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 301002,
+        "character_practice": 301002,
+        "character_lv": 50,
+        "weapon_i_d": 1302101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 301003,
+        "character_practice": 301003,
+        "character_lv": 50,
+        "weapon_i_d": 1302101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 301004,
+        "character_practice": 301004,
+        "character_lv": 50,
+        "weapon_i_d": 1302101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 302001,
+        "character_practice": 302001,
+        "character_lv": 50,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 302002,
+        "character_practice": 302002,
+        "character_lv": 50,
+        "weapon_i_d": 1303101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 302003,
+        "character_practice": 302003,
+        "character_lv": 50,
+        "weapon_i_d": 1303101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 302004,
+        "character_practice": 302004,
+        "character_lv": 50,
+        "weapon_i_d": 1303101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 401001,
+        "character_practice": 401001,
+        "character_lv": 50,
+        "weapon_i_d": 1401101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 401002,
+        "character_practice": 401002,
+        "character_lv": 50,
+        "weapon_i_d": 1401101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 401003,
+        "character_practice": 401003,
+        "character_lv": 50,
+        "weapon_i_d": 1401101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 401004,
+        "character_practice": 401004,
+        "character_lv": 50,
+        "weapon_i_d": 1401101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 401005,
+        "character_practice": 401005,
+        "character_lv": 50,
+        "weapon_i_d": 1401101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 402001,
+        "character_practice": 402001,
+        "character_lv": 50,
+        "weapon_i_d": 1402101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 402002,
+        "character_practice": 402002,
+        "character_lv": 50,
+        "weapon_i_d": 1402101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 402003,
+        "character_practice": 402003,
+        "character_lv": 50,
+        "weapon_i_d": 1402101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 403001,
+        "character_practice": 403001,
+        "character_lv": 50,
+        "weapon_i_d": 1403101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 403002,
+        "character_practice": 403002,
+        "character_lv": 50,
+        "weapon_i_d": 1403101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 403003,
+        "character_practice": 403003,
+        "character_lv": 50,
+        "weapon_i_d": 1403101,
+        "dungeon_i_d": 98101001
+      },
+      {
+        "i_d": 403004,
+        "character_practice": 403004,
+        "character_lv": 50,
+        "weapon_i_d": 1403101,
+        "dungeon_i_d": 98101001
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "global_buff": {
+    "datas": [
+      {
+        "i_d": 471,
+        "name_i_d": 471,
+        "icon_i_d": 471,
+        "new_global_buff_define_type": 4
+      },
+      {
+        "i_d": 481,
+        "name_i_d": 481,
+        "icon_i_d": 481,
+        "new_global_buff_define_type": 1
+      },
+      {
+        "i_d": 491,
+        "name_i_d": 491,
+        "icon_i_d": 491,
+        "new_global_buff_define_type": 2
+      },
+      {
+        "i_d": 1000,
+        "name_i_d": 1000,
+        "icon_i_d": 1000,
+        "new_global_buff_define_type": 3
+      },
+      {
+        "i_d": 1001,
+        "name_i_d": 1001,
+        "icon_i_d": 1001,
+        "new_global_buff_define_type": 5
+      }
+    ]
+  }
+}

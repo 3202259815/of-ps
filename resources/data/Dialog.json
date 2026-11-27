@@ -1,0 +1,2974 @@
+{
+  "dialog": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/GUGU_2024_10/Dialog100001_Chat.asset"
+      },
+      {
+        "i_d": 1011,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Halloween_2024_11/Activity100011_Chat.asset"
+      },
+      {
+        "i_d": 1012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Halloween_2024_11/Activity100012_Chat.asset"
+      },
+      {
+        "i_d": 1013,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Christmas_2024/Activity100021_Chat.asset"
+      },
+      {
+        "i_d": 1014,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Sakura_2025_04/Dialog_Sakura_1011_Chat.asset"
+      },
+      {
+        "i_d": 1015,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Sakura_2025_04/Dialog_Sakura_1021_Chat.asset"
+      },
+      {
+        "i_d": 1016,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Sakura_2025_04/Dialog_Sakura_1031_Chat.asset"
+      },
+      {
+        "i_d": 1017,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/HuoGuo_2025_05/Dialog_HuoGuo_1017_Chat.asset"
+      },
+      {
+        "i_d": 1018,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/HuoGuo_2025_05/Dialog_HuoGuo_1018_Chat.asset"
+      },
+      {
+        "i_d": 1019,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Activity/Christmas_2025/Christmas_2025_Begin.asset"
+      },
+      {
+        "i_d": 1000111,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Dialog100011_Begin.asset"
+      },
+      {
+        "i_d": 1000112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Dialog100011_Chat.asset"
+      },
+      {
+        "i_d": 1000122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Dialog100012_Chat.asset"
+      },
+      {
+        "i_d": 1000133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100011/Dialog100013_End.asset"
+      },
+      {
+        "i_d": 1000212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100021_Chat.asset"
+      },
+      {
+        "i_d": 1000223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100022_End.asset"
+      },
+      {
+        "i_d": 1000233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100023_End.asset"
+      },
+      {
+        "i_d": 1000243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100024_End.asset"
+      },
+      {
+        "i_d": 1000253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100025_End.asset"
+      },
+      {
+        "i_d": 1000263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100021/Dialog100026_End.asset"
+      },
+      {
+        "i_d": 1000312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Dialog100031_Chat.asset"
+      },
+      {
+        "i_d": 1000323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Dialog100032_End.asset"
+      },
+      {
+        "i_d": 1000333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Dialog100033_End.asset"
+      },
+      {
+        "i_d": 1000343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Dialog100034_End.asset"
+      },
+      {
+        "i_d": 1000353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100031/Dialog100035_End.asset"
+      },
+      {
+        "i_d": 1000412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Dialog100041_Chat.asset"
+      },
+      {
+        "i_d": 1000423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Dialog100042_End.asset"
+      },
+      {
+        "i_d": 1000433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Dialog100043_End.asset"
+      },
+      {
+        "i_d": 1000443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Dialog100044_End.asset"
+      },
+      {
+        "i_d": 1000453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100041/Dialog100045_End.asset"
+      },
+      {
+        "i_d": 1000512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100051_Chat.asset"
+      },
+      {
+        "i_d": 1000522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100052_Chat.asset"
+      },
+      {
+        "i_d": 1000523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100052_End.asset"
+      },
+      {
+        "i_d": 1000532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100053_Chat.asset"
+      },
+      {
+        "i_d": 1000533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100053_End.asset"
+      },
+      {
+        "i_d": 1000543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100054_End.asset"
+      },
+      {
+        "i_d": 1000552,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100051/Dialog100055_Chat.asset"
+      },
+      {
+        "i_d": 1000612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100061_Chat.asset"
+      },
+      {
+        "i_d": 1000623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100062_End.asset"
+      },
+      {
+        "i_d": 1000641,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100064_Begin.asset"
+      },
+      {
+        "i_d": 1000643,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100064_End.asset"
+      },
+      {
+        "i_d": 1000653,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100065_End.asset"
+      },
+      {
+        "i_d": 1000662,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100061/Dialog100066_Chat.asset"
+      },
+      {
+        "i_d": 1000712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Dialog100071_Chat.asset"
+      },
+      {
+        "i_d": 1000723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Dialog100072_End.asset"
+      },
+      {
+        "i_d": 1000733,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Dialog100073_End.asset"
+      },
+      {
+        "i_d": 1000743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Dialog100074_End.asset"
+      },
+      {
+        "i_d": 1000752,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100071/Dialog100075_Chat.asset"
+      },
+      {
+        "i_d": 1000812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100081_Chat.asset"
+      },
+      {
+        "i_d": 1000822,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100082_Chat.asset"
+      },
+      {
+        "i_d": 1000833,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100083_End.asset"
+      },
+      {
+        "i_d": 1000842,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100084_Chat.asset"
+      },
+      {
+        "i_d": 1000852,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100085_Chat.asset"
+      },
+      {
+        "i_d": 1000872,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100087_Chat.asset"
+      },
+      {
+        "i_d": 1000882,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100088_Chat.asset"
+      },
+      {
+        "i_d": 1000892,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100089_Chat.asset"
+      },
+      {
+        "i_d": 1000903,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100081/Dialog100090_End.asset"
+      },
+      {
+        "i_d": 1000912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100091/Dialog100091_Chat.asset"
+      },
+      {
+        "i_d": 1000923,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100091/Dialog100092_End.asset"
+      },
+      {
+        "i_d": 1000933,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100091/Dialog100093_End.asset"
+      },
+      {
+        "i_d": 1000942,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter00/Quest_100091/Dialog100094_Chat.asset"
+      },
+      {
+        "i_d": 1010112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101011_Chat.asset"
+      },
+      {
+        "i_d": 1010123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101012_End.asset"
+      },
+      {
+        "i_d": 1010133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101013_End.asset"
+      },
+      {
+        "i_d": 1010152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101015_Chat.asset"
+      },
+      {
+        "i_d": 1010163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101016_End.asset"
+      },
+      {
+        "i_d": 1010183,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101011/Dialog101018_End.asset"
+      },
+      {
+        "i_d": 1010212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Dialog101021_Chat.asset"
+      },
+      {
+        "i_d": 1010223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Dialog101022_End.asset"
+      },
+      {
+        "i_d": 1010232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Dialog101023_Chat.asset"
+      },
+      {
+        "i_d": 1010252,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101021/Dialog101025_Chat.asset"
+      },
+      {
+        "i_d": 1010312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Dialog101031_Chat.asset"
+      },
+      {
+        "i_d": 1010323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Dialog101032_End.asset"
+      },
+      {
+        "i_d": 1010342,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Dialog101034_Chat.asset"
+      },
+      {
+        "i_d": 1010362,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101031/Dialog101036_Chat.asset"
+      },
+      {
+        "i_d": 1010412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101041/Dialog101041_Chat.asset"
+      },
+      {
+        "i_d": 1010423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101041/Dialog101042_End.asset"
+      },
+      {
+        "i_d": 1010442,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101041/Dialog101044_Chat.asset"
+      },
+      {
+        "i_d": 1010512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101051_Chat.asset"
+      },
+      {
+        "i_d": 1010523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101052_End.asset"
+      },
+      {
+        "i_d": 1010533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101053_End.asset"
+      },
+      {
+        "i_d": 1010543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101054_End.asset"
+      },
+      {
+        "i_d": 1010553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101055_End.asset"
+      },
+      {
+        "i_d": 1010562,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101056_Chat.asset"
+      },
+      {
+        "i_d": 1010572,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101051/Dialog101057_Chat.asset"
+      },
+      {
+        "i_d": 1010612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101061_Chat.asset"
+      },
+      {
+        "i_d": 1010623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101062_End.asset"
+      },
+      {
+        "i_d": 1010632,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101063_Chat.asset"
+      },
+      {
+        "i_d": 1010642,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101064_Chat.asset"
+      },
+      {
+        "i_d": 1010653,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101065_End.asset"
+      },
+      {
+        "i_d": 1010662,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101061/Dialog101066_Chat.asset"
+      },
+      {
+        "i_d": 1010712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Dialog101071_Chat.asset"
+      },
+      {
+        "i_d": 1010723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Dialog101072_End.asset"
+      },
+      {
+        "i_d": 1010732,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Dialog101073_Chat.asset"
+      },
+      {
+        "i_d": 1010743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Dialog101074_End.asset"
+      },
+      {
+        "i_d": 1010753,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101071/Dialog101075_End.asset"
+      },
+      {
+        "i_d": 1010812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101081/Dialog101081_Chat.asset"
+      },
+      {
+        "i_d": 1010823,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101081/Dialog101082_End.asset"
+      },
+      {
+        "i_d": 1010832,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101081/Dialog101083_Chat.asset"
+      },
+      {
+        "i_d": 1010843,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101081/Dialog101084_End.asset"
+      },
+      {
+        "i_d": 1010912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Dialog101091_Chat.asset"
+      },
+      {
+        "i_d": 1010923,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Dialog101092_End.asset"
+      },
+      {
+        "i_d": 1010932,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Dialog101093_Chat.asset"
+      },
+      {
+        "i_d": 1010952,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Dialog101095_Chat.asset"
+      },
+      {
+        "i_d": 1010962,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101091/Dialog101096_Chat.asset"
+      },
+      {
+        "i_d": 1011012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101101_Chat.asset"
+      },
+      {
+        "i_d": 1011022,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101102_Chat.asset"
+      },
+      {
+        "i_d": 1011033,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101103_End.asset"
+      },
+      {
+        "i_d": 1011042,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101104_Chat.asset"
+      },
+      {
+        "i_d": 1011052,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101105_Chat.asset"
+      },
+      {
+        "i_d": 1011062,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101106_Chat.asset"
+      },
+      {
+        "i_d": 1011073,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101107_End.asset"
+      },
+      {
+        "i_d": 1011082,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101101/Dialog101108_Chat.asset"
+      },
+      {
+        "i_d": 1011112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Dialog101111_Chat.asset"
+      },
+      {
+        "i_d": 1011123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Dialog101112_End.asset"
+      },
+      {
+        "i_d": 1011132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Dialog101113_Chat.asset"
+      },
+      {
+        "i_d": 1011152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Dialog101115_Chat.asset"
+      },
+      {
+        "i_d": 1011163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101111/Dialog101116_End.asset"
+      },
+      {
+        "i_d": 1011212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101121_Chat.asset"
+      },
+      {
+        "i_d": 1011223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101122_End.asset"
+      },
+      {
+        "i_d": 1011232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101123_Chat.asset"
+      },
+      {
+        "i_d": 1011242,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101124_Chat.asset"
+      },
+      {
+        "i_d": 1011253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101125_End.asset"
+      },
+      {
+        "i_d": 1011263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101126_End.asset"
+      },
+      {
+        "i_d": 1011272,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101121/Dialog101127_Chat.asset"
+      },
+      {
+        "i_d": 1011312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101131/Dialog101131_Chat.asset"
+      },
+      {
+        "i_d": 1011322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter01/Quest_101131/Dialog101132_Chat.asset"
+      },
+      {
+        "i_d": 1020112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Dialog102011_Chat.asset"
+      },
+      {
+        "i_d": 1020123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Dialog102012_End.asset"
+      },
+      {
+        "i_d": 1020134,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Dialog102013_Talk.asset"
+      },
+      {
+        "i_d": 1020143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Dialog102014_End.asset"
+      },
+      {
+        "i_d": 1020153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102011/Dialog102015_End.asset"
+      },
+      {
+        "i_d": 1020212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Dialog102021_Chat.asset"
+      },
+      {
+        "i_d": 1020223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Dialog102022_End.asset"
+      },
+      {
+        "i_d": 1020234,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Dialog102023_Talk.asset"
+      },
+      {
+        "i_d": 1020243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102021/Dialog102024_End.asset"
+      },
+      {
+        "i_d": 1020312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102031_Chat.asset"
+      },
+      {
+        "i_d": 1020323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102032_End.asset"
+      },
+      {
+        "i_d": 1020334,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102033_Talk.asset"
+      },
+      {
+        "i_d": 1020344,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102034_Talk.asset"
+      },
+      {
+        "i_d": 1020353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102035_End.asset"
+      },
+      {
+        "i_d": 1020364,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102036_Talk.asset"
+      },
+      {
+        "i_d": 1020372,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102031/Dialog102037_Chat.asset"
+      },
+      {
+        "i_d": 1020412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Dialog102041_Chat.asset"
+      },
+      {
+        "i_d": 1020423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Dialog102042_End.asset"
+      },
+      {
+        "i_d": 1020434,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Dialog102043_Talk.asset"
+      },
+      {
+        "i_d": 1020444,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Dialog102044_Talk.asset"
+      },
+      {
+        "i_d": 1020453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102041/Dialog102045_End.asset"
+      },
+      {
+        "i_d": 1020512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102051_Chat.asset"
+      },
+      {
+        "i_d": 1020523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102052_End.asset"
+      },
+      {
+        "i_d": 1020534,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102053_Talk.asset"
+      },
+      {
+        "i_d": 1020544,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102054_Talk.asset"
+      },
+      {
+        "i_d": 1020553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102055_End.asset"
+      },
+      {
+        "i_d": 1020562,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102051/Dialog102056_Chat.asset"
+      },
+      {
+        "i_d": 1020612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102061_Chat.asset"
+      },
+      {
+        "i_d": 1020623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102062_End.asset"
+      },
+      {
+        "i_d": 1020634,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102063_Talk.asset"
+      },
+      {
+        "i_d": 1020644,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102064_Talk.asset"
+      },
+      {
+        "i_d": 1020653,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102065_End.asset"
+      },
+      {
+        "i_d": 1020663,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102061/Dialog102066_End.asset"
+      },
+      {
+        "i_d": 1020712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102071_Chat.asset"
+      },
+      {
+        "i_d": 1020723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102072_End.asset"
+      },
+      {
+        "i_d": 1020734,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102073_Talk.asset"
+      },
+      {
+        "i_d": 1020743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102074_End.asset"
+      },
+      {
+        "i_d": 1020754,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102075_Talk.asset"
+      },
+      {
+        "i_d": 1020763,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102071/Dialog102076_End.asset"
+      },
+      {
+        "i_d": 1020812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102081/Dialog102081_Chat.asset"
+      },
+      {
+        "i_d": 1020823,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102081/Dialog102082_End.asset"
+      },
+      {
+        "i_d": 1020834,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102081/Dialog102083_Talk.asset"
+      },
+      {
+        "i_d": 1020843,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102081/Dialog102084_End.asset"
+      },
+      {
+        "i_d": 1020912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102091_Chat.asset"
+      },
+      {
+        "i_d": 1020923,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102092_End.asset"
+      },
+      {
+        "i_d": 1020933,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102093_End.asset"
+      },
+      {
+        "i_d": 1020944,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102094_Talk.asset"
+      },
+      {
+        "i_d": 1020954,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102095_Talk.asset"
+      },
+      {
+        "i_d": 1020964,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102096_Talk.asset"
+      },
+      {
+        "i_d": 1020974,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102091/Dialog102097_Talk.asset"
+      },
+      {
+        "i_d": 1021012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102101_Chat.asset"
+      },
+      {
+        "i_d": 1021023,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102102_End.asset"
+      },
+      {
+        "i_d": 1021034,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102103_Talk.asset"
+      },
+      {
+        "i_d": 1021043,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102104_End.asset"
+      },
+      {
+        "i_d": 1021053,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102105_End.asset"
+      },
+      {
+        "i_d": 1021062,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102101/Dialog102106_Chat.asset"
+      },
+      {
+        "i_d": 1021112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Dialog102111_Chat.asset"
+      },
+      {
+        "i_d": 1021123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Dialog102112_End.asset"
+      },
+      {
+        "i_d": 1021134,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Dialog102113_Talk.asset"
+      },
+      {
+        "i_d": 1021143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Dialog102114_End.asset"
+      },
+      {
+        "i_d": 1021152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102111/Dialog102115_Chat.asset"
+      },
+      {
+        "i_d": 1021212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102121_Chat.asset"
+      },
+      {
+        "i_d": 1021223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102122_End.asset"
+      },
+      {
+        "i_d": 1021234,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102123_Talk.asset"
+      },
+      {
+        "i_d": 1021244,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102124_Talk.asset"
+      },
+      {
+        "i_d": 1021254,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102125_Talk.asset"
+      },
+      {
+        "i_d": 1021264,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102126_Talk.asset"
+      },
+      {
+        "i_d": 1021274,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102121/Dialog102127_Talk.asset"
+      },
+      {
+        "i_d": 1021312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Dialog102131_Chat.asset"
+      },
+      {
+        "i_d": 1021323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Dialog102132_End.asset"
+      },
+      {
+        "i_d": 1021333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Dialog102133_End.asset"
+      },
+      {
+        "i_d": 1021343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Dialog102134_End.asset"
+      },
+      {
+        "i_d": 1021352,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102131/Dialog102135_Chat.asset"
+      },
+      {
+        "i_d": 1021412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter02/Quest_102141/Dialog102141_Chat.asset"
+      },
+      {
+        "i_d": 1030112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103011_Chat.asset"
+      },
+      {
+        "i_d": 1030123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103012_End.asset"
+      },
+      {
+        "i_d": 1030132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103013_Chat.asset"
+      },
+      {
+        "i_d": 1030143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103014_End.asset"
+      },
+      {
+        "i_d": 1030153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103015_End.asset"
+      },
+      {
+        "i_d": 1030162,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103011/Dialog103016_Chat.asset"
+      },
+      {
+        "i_d": 1030212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103021_Chat.asset"
+      },
+      {
+        "i_d": 1030223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103022_End.asset"
+      },
+      {
+        "i_d": 1030233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103023_End.asset"
+      },
+      {
+        "i_d": 1030243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103024_End.asset"
+      },
+      {
+        "i_d": 1030253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103025_End.asset"
+      },
+      {
+        "i_d": 1030273,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103027_End.asset"
+      },
+      {
+        "i_d": 1030293,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103021/Dialog103029_End.asset"
+      },
+      {
+        "i_d": 1030312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103031_Chat.asset"
+      },
+      {
+        "i_d": 1030323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103032_End.asset"
+      },
+      {
+        "i_d": 1030333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103033_End.asset"
+      },
+      {
+        "i_d": 1030343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103034_End.asset"
+      },
+      {
+        "i_d": 1030353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103035_End.asset"
+      },
+      {
+        "i_d": 1030363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103031/Dialog103036_End.asset"
+      },
+      {
+        "i_d": 1030412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103041_Chat.asset"
+      },
+      {
+        "i_d": 1030423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103042_End.asset"
+      },
+      {
+        "i_d": 1030433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103043_End.asset"
+      },
+      {
+        "i_d": 1030443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103044_End.asset"
+      },
+      {
+        "i_d": 1030453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103045_End.asset"
+      },
+      {
+        "i_d": 1030473,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103047_End.asset"
+      },
+      {
+        "i_d": 1030493,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103041/Dialog103049_End.asset"
+      },
+      {
+        "i_d": 1030512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103051_Chat.asset"
+      },
+      {
+        "i_d": 1030522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103052_Chat.asset"
+      },
+      {
+        "i_d": 1030533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103053_End.asset"
+      },
+      {
+        "i_d": 1030543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103054_End.asset"
+      },
+      {
+        "i_d": 1030553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103055_End.asset"
+      },
+      {
+        "i_d": 1030573,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103057_End.asset"
+      },
+      {
+        "i_d": 1030583,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103051/Dialog103058_End.asset"
+      },
+      {
+        "i_d": 1030612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103061_Chat.asset"
+      },
+      {
+        "i_d": 1030622,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103062_Chat.asset"
+      },
+      {
+        "i_d": 1030633,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103063_End.asset"
+      },
+      {
+        "i_d": 1030643,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103064_End.asset"
+      },
+      {
+        "i_d": 1030663,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103066_End.asset"
+      },
+      {
+        "i_d": 1030673,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103067_End.asset"
+      },
+      {
+        "i_d": 1030682,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103068_Chat.asset"
+      },
+      {
+        "i_d": 1030693,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103061/Dialog103069_End.asset"
+      },
+      {
+        "i_d": 1030712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103071_Chat.asset"
+      },
+      {
+        "i_d": 1030722,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103072_Chat.asset"
+      },
+      {
+        "i_d": 1030733,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103073_End.asset"
+      },
+      {
+        "i_d": 1030763,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103076_End.asset"
+      },
+      {
+        "i_d": 1030772,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103077_Chat.asset"
+      },
+      {
+        "i_d": 1030783,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103071/Dialog103078_End.asset"
+      },
+      {
+        "i_d": 1030812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103081_Chat.asset"
+      },
+      {
+        "i_d": 1030822,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103082_Chat.asset"
+      },
+      {
+        "i_d": 1030833,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103083_End.asset"
+      },
+      {
+        "i_d": 1030843,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103084_End.asset"
+      },
+      {
+        "i_d": 1030853,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103085_End.asset"
+      },
+      {
+        "i_d": 1030863,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103086_End.asset"
+      },
+      {
+        "i_d": 1030873,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103087_End.asset"
+      },
+      {
+        "i_d": 1030882,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103088_Chat.asset"
+      },
+      {
+        "i_d": 1030893,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103081/Dialog103089_End.asset"
+      },
+      {
+        "i_d": 1030912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103091_Chat.asset"
+      },
+      {
+        "i_d": 1030922,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103092_Chat.asset"
+      },
+      {
+        "i_d": 1030933,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103093_End.asset"
+      },
+      {
+        "i_d": 1030952,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103095_Chat.asset"
+      },
+      {
+        "i_d": 1030963,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103096_End.asset"
+      },
+      {
+        "i_d": 1030972,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103097_Chat.asset"
+      },
+      {
+        "i_d": 1030983,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103091/Dialog103098_End.asset"
+      },
+      {
+        "i_d": 1031012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103101_Chat.asset"
+      },
+      {
+        "i_d": 1031023,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103102_End.asset"
+      },
+      {
+        "i_d": 1031033,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103103_End.asset"
+      },
+      {
+        "i_d": 1031043,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103104_End.asset"
+      },
+      {
+        "i_d": 1031053,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103105_End.asset"
+      },
+      {
+        "i_d": 1031062,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103106_Chat.asset"
+      },
+      {
+        "i_d": 1031072,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103107_Chat.asset"
+      },
+      {
+        "i_d": 1031083,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103101/Dialog103108_End.asset"
+      },
+      {
+        "i_d": 1031112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103111_Chat.asset"
+      },
+      {
+        "i_d": 1031123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103112_End.asset"
+      },
+      {
+        "i_d": 1031133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103113_End.asset"
+      },
+      {
+        "i_d": 1031143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103114_End.asset"
+      },
+      {
+        "i_d": 1031153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103115_End.asset"
+      },
+      {
+        "i_d": 1031163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103116_End.asset"
+      },
+      {
+        "i_d": 1031173,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103117_End.asset"
+      },
+      {
+        "i_d": 1031182,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103111/Dialog103118_Chat.asset"
+      },
+      {
+        "i_d": 1031212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103121_Chat.asset"
+      },
+      {
+        "i_d": 1031222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103122_Chat.asset"
+      },
+      {
+        "i_d": 1031233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103123_End.asset"
+      },
+      {
+        "i_d": 1031243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103124_End.asset"
+      },
+      {
+        "i_d": 1031253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103125_End.asset"
+      },
+      {
+        "i_d": 1031263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103126_End.asset"
+      },
+      {
+        "i_d": 1031273,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103127_End.asset"
+      },
+      {
+        "i_d": 1031283,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103121/Dialog103128_End.asset"
+      },
+      {
+        "i_d": 1031313,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Dialog103131_End.asset"
+      },
+      {
+        "i_d": 1031323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Dialog103132_End.asset"
+      },
+      {
+        "i_d": 1031333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Dialog103133_End.asset"
+      },
+      {
+        "i_d": 1031343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Dialog103134_End.asset"
+      },
+      {
+        "i_d": 1031352,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103131/Dialog103135_Chat.asset"
+      },
+      {
+        "i_d": 1031412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103141_Chat.asset"
+      },
+      {
+        "i_d": 1031423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103142_End.asset"
+      },
+      {
+        "i_d": 1031433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103143_End.asset"
+      },
+      {
+        "i_d": 1031443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103144_End.asset"
+      },
+      {
+        "i_d": 1031452,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103145_Chat.asset"
+      },
+      {
+        "i_d": 1031462,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter03/Quest_103141/Dialog103146_Chat.asset"
+      },
+      {
+        "i_d": 1040112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104011_Chat.asset"
+      },
+      {
+        "i_d": 1040123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104012_End.asset"
+      },
+      {
+        "i_d": 1040133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104013_End.asset"
+      },
+      {
+        "i_d": 1040143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104014_End.asset"
+      },
+      {
+        "i_d": 1040153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104015_End.asset"
+      },
+      {
+        "i_d": 1040172,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104017_Chat.asset"
+      },
+      {
+        "i_d": 1040182,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104011/Dialog104018_Chat.asset"
+      },
+      {
+        "i_d": 1040212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104021_Chat.asset"
+      },
+      {
+        "i_d": 1040223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104022_End.asset"
+      },
+      {
+        "i_d": 1040233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104023_End.asset"
+      },
+      {
+        "i_d": 1040243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104024_End.asset"
+      },
+      {
+        "i_d": 1040253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104025_End.asset"
+      },
+      {
+        "i_d": 1040263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104026_End.asset"
+      },
+      {
+        "i_d": 1040272,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104021/Dialog104027_Chat.asset"
+      },
+      {
+        "i_d": 1040312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104031_Chat.asset"
+      },
+      {
+        "i_d": 1040323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104032_End.asset"
+      },
+      {
+        "i_d": 1040333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104033_End.asset"
+      },
+      {
+        "i_d": 1040343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104034_End.asset"
+      },
+      {
+        "i_d": 1040353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104035_End.asset"
+      },
+      {
+        "i_d": 1040373,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104031/Dialog104037_End.asset"
+      },
+      {
+        "i_d": 1040412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104041_Chat.asset"
+      },
+      {
+        "i_d": 1040423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104042_End.asset"
+      },
+      {
+        "i_d": 1040433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104043_End.asset"
+      },
+      {
+        "i_d": 1040443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104044_End.asset"
+      },
+      {
+        "i_d": 1040453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104045_End.asset"
+      },
+      {
+        "i_d": 1040463,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104046_End.asset"
+      },
+      {
+        "i_d": 1040472,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104041/Dialog104047_Chat.asset"
+      },
+      {
+        "i_d": 1040512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104051_Chat.asset"
+      },
+      {
+        "i_d": 1040523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104052_End.asset"
+      },
+      {
+        "i_d": 1040533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104053_End.asset"
+      },
+      {
+        "i_d": 1040543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104054_End.asset"
+      },
+      {
+        "i_d": 1040553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104055_End.asset"
+      },
+      {
+        "i_d": 1040563,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104056_End.asset"
+      },
+      {
+        "i_d": 1040573,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104057_End.asset"
+      },
+      {
+        "i_d": 1040582,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104051/Dialog104058_Chat.asset"
+      },
+      {
+        "i_d": 1040612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104061_Chat.asset"
+      },
+      {
+        "i_d": 1040623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104062_End.asset"
+      },
+      {
+        "i_d": 1040633,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104063_End.asset"
+      },
+      {
+        "i_d": 1040643,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104064_End.asset"
+      },
+      {
+        "i_d": 1040653,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104065_End.asset"
+      },
+      {
+        "i_d": 1040663,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104066_End.asset"
+      },
+      {
+        "i_d": 1040672,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104067_Chat.asset"
+      },
+      {
+        "i_d": 1040683,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104061/Dialog104068_End.asset"
+      },
+      {
+        "i_d": 1040712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104071_Chat.asset"
+      },
+      {
+        "i_d": 1040723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104072_End.asset"
+      },
+      {
+        "i_d": 1040733,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104073_End.asset"
+      },
+      {
+        "i_d": 1040743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104074_End.asset"
+      },
+      {
+        "i_d": 1040753,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104075_End.asset"
+      },
+      {
+        "i_d": 1040762,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104071/Dialog104076_Chat.asset"
+      },
+      {
+        "i_d": 1040812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104081_Chat.asset"
+      },
+      {
+        "i_d": 1040823,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104082_End.asset"
+      },
+      {
+        "i_d": 1040833,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104083_End.asset"
+      },
+      {
+        "i_d": 1040843,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104084_End.asset"
+      },
+      {
+        "i_d": 1040853,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104085_End.asset"
+      },
+      {
+        "i_d": 1040863,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104086_End.asset"
+      },
+      {
+        "i_d": 1040872,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104081/Dialog104087_Chat.asset"
+      },
+      {
+        "i_d": 1040912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104091_Chat.asset"
+      },
+      {
+        "i_d": 1040923,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104092_End.asset"
+      },
+      {
+        "i_d": 1040933,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104093_End.asset"
+      },
+      {
+        "i_d": 1040943,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104094_End.asset"
+      },
+      {
+        "i_d": 1040953,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104095_End.asset"
+      },
+      {
+        "i_d": 1040962,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104091/Dialog104096_Chat.asset"
+      },
+      {
+        "i_d": 1041012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104101_Chat.asset"
+      },
+      {
+        "i_d": 1041023,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104102_End.asset"
+      },
+      {
+        "i_d": 1041033,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104103_End.asset"
+      },
+      {
+        "i_d": 1041043,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104104_End.asset"
+      },
+      {
+        "i_d": 1041053,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104105_End.asset"
+      },
+      {
+        "i_d": 1041062,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104101/Dialog104106_Chat.asset"
+      },
+      {
+        "i_d": 1041112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104111_Chat.asset"
+      },
+      {
+        "i_d": 1041123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104112_End.asset"
+      },
+      {
+        "i_d": 1041133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104113_End.asset"
+      },
+      {
+        "i_d": 1041143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104114_End.asset"
+      },
+      {
+        "i_d": 1041153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104115_End.asset"
+      },
+      {
+        "i_d": 1041163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104116_End.asset"
+      },
+      {
+        "i_d": 1041173,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104117_End.asset"
+      },
+      {
+        "i_d": 1041183,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104118_End.asset"
+      },
+      {
+        "i_d": 1041192,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104111/Dialog104119_Chat.asset"
+      },
+      {
+        "i_d": 1041212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104121_Chat.asset"
+      },
+      {
+        "i_d": 1041223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104122_End.asset"
+      },
+      {
+        "i_d": 1041233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104123_End.asset"
+      },
+      {
+        "i_d": 1041243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104124_End.asset"
+      },
+      {
+        "i_d": 1041253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104125_End.asset"
+      },
+      {
+        "i_d": 1041263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104126_End.asset"
+      },
+      {
+        "i_d": 1041272,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104121/Dialog104127_Chat.asset"
+      },
+      {
+        "i_d": 1041312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104131_Chat.asset"
+      },
+      {
+        "i_d": 1041322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104132_Chat.asset"
+      },
+      {
+        "i_d": 1041333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104133_End.asset"
+      },
+      {
+        "i_d": 1041343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104134_End.asset"
+      },
+      {
+        "i_d": 1041353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104135_End.asset"
+      },
+      {
+        "i_d": 1041363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104136_End.asset"
+      },
+      {
+        "i_d": 1041373,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104131/Dialog104137_End.asset"
+      },
+      {
+        "i_d": 1041412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104141_Chat.asset"
+      },
+      {
+        "i_d": 1041423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104142_End.asset"
+      },
+      {
+        "i_d": 1041433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104143_End.asset"
+      },
+      {
+        "i_d": 1041443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104144_End.asset"
+      },
+      {
+        "i_d": 1041453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104145_End.asset"
+      },
+      {
+        "i_d": 1041463,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104146_End.asset"
+      },
+      {
+        "i_d": 1041472,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter04/Quest_104141/Dialog104147_Chat.asset"
+      },
+      {
+        "i_d": 1050112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105011_Chat.asset"
+      },
+      {
+        "i_d": 1050123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105012_End.asset"
+      },
+      {
+        "i_d": 1050133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105013_End.asset"
+      },
+      {
+        "i_d": 1050143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105014_End.asset"
+      },
+      {
+        "i_d": 1050153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105015_End.asset"
+      },
+      {
+        "i_d": 1050163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105016_End.asset"
+      },
+      {
+        "i_d": 1050172,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105011/Dialog105017_Chat.asset"
+      },
+      {
+        "i_d": 1050212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105021_Chat.asset"
+      },
+      {
+        "i_d": 1050223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105022_End.asset"
+      },
+      {
+        "i_d": 1050233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105023_End.asset"
+      },
+      {
+        "i_d": 1050243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105024_End.asset"
+      },
+      {
+        "i_d": 1050253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105025_End.asset"
+      },
+      {
+        "i_d": 1050263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105026_End.asset"
+      },
+      {
+        "i_d": 1050273,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105021/Dialog105027_End.asset"
+      },
+      {
+        "i_d": 1050312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105031_Chat.asset"
+      },
+      {
+        "i_d": 1050323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105032_End.asset"
+      },
+      {
+        "i_d": 1050333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105033_End.asset"
+      },
+      {
+        "i_d": 1050343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105034_End.asset"
+      },
+      {
+        "i_d": 1050353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105035_End.asset"
+      },
+      {
+        "i_d": 1050363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105036_End.asset"
+      },
+      {
+        "i_d": 1050373,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105031/Dialog105037_End.asset"
+      },
+      {
+        "i_d": 1050412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105041_Chat.asset"
+      },
+      {
+        "i_d": 1050423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105042_End.asset"
+      },
+      {
+        "i_d": 1050433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105043_End.asset"
+      },
+      {
+        "i_d": 1050443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105044_End.asset"
+      },
+      {
+        "i_d": 1050453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105045_End.asset"
+      },
+      {
+        "i_d": 1050463,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105041/Dialog105046_End.asset"
+      },
+      {
+        "i_d": 1050512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105051_Chat.asset"
+      },
+      {
+        "i_d": 1050523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105052_End.asset"
+      },
+      {
+        "i_d": 1050533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105053_End.asset"
+      },
+      {
+        "i_d": 1050543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105054_End.asset"
+      },
+      {
+        "i_d": 1050553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105055_End.asset"
+      },
+      {
+        "i_d": 1050563,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105051/Dialog105056_End.asset"
+      },
+      {
+        "i_d": 1050612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105061_Chat.asset"
+      },
+      {
+        "i_d": 1050623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105062_End.asset"
+      },
+      {
+        "i_d": 1050633,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105063_End.asset"
+      },
+      {
+        "i_d": 1050653,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105065_End.asset"
+      },
+      {
+        "i_d": 1050663,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105066_End.asset"
+      },
+      {
+        "i_d": 1050673,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105067_End.asset"
+      },
+      {
+        "i_d": 1050683,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105068_End.asset"
+      },
+      {
+        "i_d": 1050692,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105061/Dialog105069_Chat.asset"
+      },
+      {
+        "i_d": 1050712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105071_Chat.asset"
+      },
+      {
+        "i_d": 1050723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105072_End.asset"
+      },
+      {
+        "i_d": 1050733,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105073_End.asset"
+      },
+      {
+        "i_d": 1050753,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105075_End.asset"
+      },
+      {
+        "i_d": 1050763,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105076_End.asset"
+      },
+      {
+        "i_d": 1050773,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105077_End.asset"
+      },
+      {
+        "i_d": 1050783,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105071/Dialog105078_End.asset"
+      },
+      {
+        "i_d": 1050812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105081_Chat.asset"
+      },
+      {
+        "i_d": 1050822,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105082_Chat.asset"
+      },
+      {
+        "i_d": 1050833,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105083_End.asset"
+      },
+      {
+        "i_d": 1050843,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105084_End.asset"
+      },
+      {
+        "i_d": 1050853,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105085_End.asset"
+      },
+      {
+        "i_d": 1050863,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105086_End.asset"
+      },
+      {
+        "i_d": 1050873,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105087_End.asset"
+      },
+      {
+        "i_d": 1050883,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105081/Dialog105088_End.asset"
+      },
+      {
+        "i_d": 1050912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Dialog105091_Chat.asset"
+      },
+      {
+        "i_d": 1050923,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Dialog105092_End.asset"
+      },
+      {
+        "i_d": 1050943,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Dialog105094_End.asset"
+      },
+      {
+        "i_d": 1050953,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Dialog105095_End.asset"
+      },
+      {
+        "i_d": 1050962,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105091/Dialog105096_Chat.asset"
+      },
+      {
+        "i_d": 1051012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105101_Chat.asset"
+      },
+      {
+        "i_d": 1051023,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105102_End.asset"
+      },
+      {
+        "i_d": 1051033,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105103_End.asset"
+      },
+      {
+        "i_d": 1051043,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105104_End.asset"
+      },
+      {
+        "i_d": 1051053,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105105_End.asset"
+      },
+      {
+        "i_d": 1051062,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105101/Dialog105106_Chat.asset"
+      },
+      {
+        "i_d": 1051112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105111_Chat.asset"
+      },
+      {
+        "i_d": 1051123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105112_End.asset"
+      },
+      {
+        "i_d": 1051133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105113_End.asset"
+      },
+      {
+        "i_d": 1051143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105114_End.asset"
+      },
+      {
+        "i_d": 1051153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105115_End.asset"
+      },
+      {
+        "i_d": 1051163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105116_End.asset"
+      },
+      {
+        "i_d": 1051173,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105117_End.asset"
+      },
+      {
+        "i_d": 1051183,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105111/Dialog105118_End.asset"
+      },
+      {
+        "i_d": 1051212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105121_Chat.asset"
+      },
+      {
+        "i_d": 1051223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105122_End.asset"
+      },
+      {
+        "i_d": 1051233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105123_End.asset"
+      },
+      {
+        "i_d": 1051243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105124_End.asset"
+      },
+      {
+        "i_d": 1051253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105125_End.asset"
+      },
+      {
+        "i_d": 1051262,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter05/Quest_105121/Dialog105126_Chat.asset"
+      },
+      {
+        "i_d": 1060112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106011_Chat.asset"
+      },
+      {
+        "i_d": 1060122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106012_Chat.asset"
+      },
+      {
+        "i_d": 1060133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106013_End.asset"
+      },
+      {
+        "i_d": 1060142,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106014_Chat.asset"
+      },
+      {
+        "i_d": 1060152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106015_Chat.asset"
+      },
+      {
+        "i_d": 1060162,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106016_Chat.asset"
+      },
+      {
+        "i_d": 1060172,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106011/Dialog106017_Chat.asset"
+      },
+      {
+        "i_d": 1060212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106021_Chat.asset"
+      },
+      {
+        "i_d": 1060222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106022_Chat.asset"
+      },
+      {
+        "i_d": 1060233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106023_End.asset"
+      },
+      {
+        "i_d": 1060243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106024_End.asset"
+      },
+      {
+        "i_d": 1060253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106025_End.asset"
+      },
+      {
+        "i_d": 1060263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106026_End.asset"
+      },
+      {
+        "i_d": 1060273,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106021/Dialog106027_End.asset"
+      },
+      {
+        "i_d": 1060312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106031_Chat.asset"
+      },
+      {
+        "i_d": 1060323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106032_End.asset"
+      },
+      {
+        "i_d": 1060333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106033_End.asset"
+      },
+      {
+        "i_d": 1060343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106034_End.asset"
+      },
+      {
+        "i_d": 1060353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106035_End.asset"
+      },
+      {
+        "i_d": 1060363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106036_End.asset"
+      },
+      {
+        "i_d": 1060373,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106037_End.asset"
+      },
+      {
+        "i_d": 1060383,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106031/Dialog106038_End.asset"
+      },
+      {
+        "i_d": 1060412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106041_Chat.asset"
+      },
+      {
+        "i_d": 1060423,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106042_End.asset"
+      },
+      {
+        "i_d": 1060433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106043_End.asset"
+      },
+      {
+        "i_d": 1060443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106044_End.asset"
+      },
+      {
+        "i_d": 1060453,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106045_End.asset"
+      },
+      {
+        "i_d": 1060463,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106046_End.asset"
+      },
+      {
+        "i_d": 1060473,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106041/Dialog106047_End.asset"
+      },
+      {
+        "i_d": 1060512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106051_Chat.asset"
+      },
+      {
+        "i_d": 1060523,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106052_End.asset"
+      },
+      {
+        "i_d": 1060533,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106053_End.asset"
+      },
+      {
+        "i_d": 1060543,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106054_End.asset"
+      },
+      {
+        "i_d": 1060553,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106055_End.asset"
+      },
+      {
+        "i_d": 1060563,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106056_End.asset"
+      },
+      {
+        "i_d": 1060573,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106057_End.asset"
+      },
+      {
+        "i_d": 1060583,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106058_End.asset"
+      },
+      {
+        "i_d": 1060593,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106051/Dialog106059_End.asset"
+      },
+      {
+        "i_d": 1060612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106061/Dialog106061_Chat.asset"
+      },
+      {
+        "i_d": 1060622,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106061/Dialog106062_Chat.asset"
+      },
+      {
+        "i_d": 1060712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106071_Chat.asset"
+      },
+      {
+        "i_d": 1060723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106072_End.asset"
+      },
+      {
+        "i_d": 1060733,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106073_End.asset"
+      },
+      {
+        "i_d": 1060743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106074_End.asset"
+      },
+      {
+        "i_d": 1060753,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106075_End.asset"
+      },
+      {
+        "i_d": 1060763,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106071/Dialog106076_End.asset"
+      },
+      {
+        "i_d": 1060812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter06/Quest_106081/Dialog106081_Chat.asset"
+      },
+      {
+        "i_d": 1070112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107011/Dialog107011_Chat.asset"
+      },
+      {
+        "i_d": 1070122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107011/Dialog107012_Chat.asset"
+      },
+      {
+        "i_d": 1070132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107011/Dialog107013_Chat.asset"
+      },
+      {
+        "i_d": 1070142,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107011/Dialog107014_Chat.asset"
+      },
+      {
+        "i_d": 1070153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107011/Dialog107015_End.asset"
+      },
+      {
+        "i_d": 1070213,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Dialog107021_End.asset"
+      },
+      {
+        "i_d": 1070223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Dialog107022_End.asset"
+      },
+      {
+        "i_d": 1070233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107021/Dialog107023_End.asset"
+      },
+      {
+        "i_d": 1070313,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107031_End.asset"
+      },
+      {
+        "i_d": 1070323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107032_End.asset"
+      },
+      {
+        "i_d": 1070333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107033_End.asset"
+      },
+      {
+        "i_d": 1070343,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107034_End.asset"
+      },
+      {
+        "i_d": 1070353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107035_End.asset"
+      },
+      {
+        "i_d": 1070363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107031/Dialog107036_End.asset"
+      },
+      {
+        "i_d": 1070413,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/Dialog107041_End.asset"
+      },
+      {
+        "i_d": 1070433,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/Dialog107043_End.asset"
+      },
+      {
+        "i_d": 1070443,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107041/Dialog107044_End.asset"
+      },
+      {
+        "i_d": 1070512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107051/Dialog107051_Chat.asset"
+      },
+      {
+        "i_d": 1070522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107051/Dialog107052_Chat.asset"
+      },
+      {
+        "i_d": 1070532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107051/Dialog107053_Chat.asset"
+      },
+      {
+        "i_d": 1070613,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Dialog107061_End.asset"
+      },
+      {
+        "i_d": 1070623,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Dialog107062_End.asset"
+      },
+      {
+        "i_d": 1070633,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Dialog107063_End.asset"
+      },
+      {
+        "i_d": 1070643,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107061/Dialog107064_End.asset"
+      },
+      {
+        "i_d": 1070713,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Dialog107071_End.asset"
+      },
+      {
+        "i_d": 1070723,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Dialog107072_End.asset"
+      },
+      {
+        "i_d": 1070743,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107071/Dialog107074_End.asset"
+      },
+      {
+        "i_d": 1070813,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107081/Dialog107081_End.asset"
+      },
+      {
+        "i_d": 1070823,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter07/Quest_107081/Dialog107082_End.asset"
+      },
+      {
+        "i_d": 1080112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Dialog108011_Chat.asset"
+      },
+      {
+        "i_d": 1080122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Dialog108012_Chat.asset"
+      },
+      {
+        "i_d": 1080132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Dialog108013_Chat.asset"
+      },
+      {
+        "i_d": 1080142,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Dialog108014_Chat.asset"
+      },
+      {
+        "i_d": 1080152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108011/Dialog108015_Chat.asset"
+      },
+      {
+        "i_d": 1080212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108021_Chat.asset"
+      },
+      {
+        "i_d": 1080222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108022_Chat.asset"
+      },
+      {
+        "i_d": 1080232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108023_Chat.asset"
+      },
+      {
+        "i_d": 1080242,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108024_Chat.asset"
+      },
+      {
+        "i_d": 1080252,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108025_Chat.asset"
+      },
+      {
+        "i_d": 1080262,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108021/Dialog108026_Chat.asset"
+      },
+      {
+        "i_d": 1080312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108031/Dialog108031_Chat.asset"
+      },
+      {
+        "i_d": 1080322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108031/Dialog108032_Chat.asset"
+      },
+      {
+        "i_d": 1080332,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108031/Dialog108033_Chat.asset"
+      },
+      {
+        "i_d": 1080342,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108031/Dialog108034_Chat.asset"
+      },
+      {
+        "i_d": 1080412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Dialog108041_Chat.asset"
+      },
+      {
+        "i_d": 1080422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Dialog108042_Chat.asset"
+      },
+      {
+        "i_d": 1080432,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Dialog108043_Chat.asset"
+      },
+      {
+        "i_d": 1080442,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Dialog108044_Chat.asset"
+      },
+      {
+        "i_d": 1080452,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108041/Dialog108045_Chat.asset"
+      },
+      {
+        "i_d": 1080512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Dialog108051_Chat.asset"
+      },
+      {
+        "i_d": 1080522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Dialog108052_Chat.asset"
+      },
+      {
+        "i_d": 1080532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Dialog108053_Chat.asset"
+      },
+      {
+        "i_d": 1080542,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Dialog108054_Chat.asset"
+      },
+      {
+        "i_d": 1080552,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108051/Dialog108055_Chat.asset"
+      },
+      {
+        "i_d": 1080612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108061_Chat.asset"
+      },
+      {
+        "i_d": 1080622,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108062_Chat.asset"
+      },
+      {
+        "i_d": 1080632,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108063_Chat.asset"
+      },
+      {
+        "i_d": 1080642,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108064_Chat.asset"
+      },
+      {
+        "i_d": 1080652,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108065_Chat.asset"
+      },
+      {
+        "i_d": 1080662,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108066_Chat.asset"
+      },
+      {
+        "i_d": 1080672,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108061/Dialog108067_Chat.asset"
+      },
+      {
+        "i_d": 1080712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108071/Dialog108071_Chat.asset"
+      },
+      {
+        "i_d": 1080722,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108071/Dialog108072_Chat.asset"
+      },
+      {
+        "i_d": 1080732,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108071/Dialog108073_Chat.asset"
+      },
+      {
+        "i_d": 1080742,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108071/Dialog108074_Chat.asset"
+      },
+      {
+        "i_d": 1080812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Dialog108081_Chat.asset"
+      },
+      {
+        "i_d": 1080822,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Dialog108082_Chat.asset"
+      },
+      {
+        "i_d": 1080832,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Dialog108083_Chat.asset"
+      },
+      {
+        "i_d": 1080842,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108081/Dialog108084_Chat.asset"
+      },
+      {
+        "i_d": 1080912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Dialog108091_Chat.asset"
+      },
+      {
+        "i_d": 1080922,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Dialog108092_Chat.asset"
+      },
+      {
+        "i_d": 1080932,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Dialog108093_Chat.asset"
+      },
+      {
+        "i_d": 1080942,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Dialog108094_Chat.asset"
+      },
+      {
+        "i_d": 1080952,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108091/Dialog108095_Chat.asset"
+      },
+      {
+        "i_d": 1081012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Dialog108101_Chat.asset"
+      },
+      {
+        "i_d": 1081022,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Dialog108102_Chat.asset"
+      },
+      {
+        "i_d": 1081032,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Dialog108103_Chat.asset"
+      },
+      {
+        "i_d": 1081042,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108101/Dialog108104_Chat.asset"
+      },
+      {
+        "i_d": 1081112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108111/Dialog108111_Chat.asset"
+      },
+      {
+        "i_d": 1081122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108111/Dialog108112_Chat.asset"
+      },
+      {
+        "i_d": 1081132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter08/Quest_108111/Dialog108113_Chat.asset"
+      },
+      {
+        "i_d": 1090112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Dialog109011_Chat.asset"
+      },
+      {
+        "i_d": 1090122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Dialog109012_Chat.asset"
+      },
+      {
+        "i_d": 1090132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109011/Dialog109013_Chat.asset"
+      },
+      {
+        "i_d": 1090212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Dialog109021_Chat.asset"
+      },
+      {
+        "i_d": 1090222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Dialog109022_Chat.asset"
+      },
+      {
+        "i_d": 1090232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Dialog109023_Chat.asset"
+      },
+      {
+        "i_d": 1090242,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109021/Dialog109024_Chat.asset"
+      },
+      {
+        "i_d": 1090312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Dialog109031_Chat.asset"
+      },
+      {
+        "i_d": 1090322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Dialog109032_Chat.asset"
+      },
+      {
+        "i_d": 1090332,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Dialog109033_Chat.asset"
+      },
+      {
+        "i_d": 1090342,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Dialog109034_Chat.asset"
+      },
+      {
+        "i_d": 1090352,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109031/Dialog109035_Chat.asset"
+      },
+      {
+        "i_d": 1090412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Dialog109041_Chat.asset"
+      },
+      {
+        "i_d": 1090422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Dialog109042_Chat.asset"
+      },
+      {
+        "i_d": 1090432,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Dialog109043_Chat.asset"
+      },
+      {
+        "i_d": 1090442,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Dialog109044_Chat.asset"
+      },
+      {
+        "i_d": 1090452,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109041/Dialog109045_Chat.asset"
+      },
+      {
+        "i_d": 1090512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Dialog109051_Chat.asset"
+      },
+      {
+        "i_d": 1090522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Dialog109052_Chat.asset"
+      },
+      {
+        "i_d": 1090532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Dialog109053_Chat.asset"
+      },
+      {
+        "i_d": 1090542,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Dialog109054_Chat.asset"
+      },
+      {
+        "i_d": 1090552,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109051/Dialog109055_Chat.asset"
+      },
+      {
+        "i_d": 1090612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Dialog109061_Chat.asset"
+      },
+      {
+        "i_d": 1090622,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Dialog109062_Chat.asset"
+      },
+      {
+        "i_d": 1090632,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Dialog109063_Chat.asset"
+      },
+      {
+        "i_d": 1090642,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Dialog109064_Chat.asset"
+      },
+      {
+        "i_d": 1090652,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109061/Dialog109065_Chat.asset"
+      },
+      {
+        "i_d": 1090712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Dialog109071_Chat.asset"
+      },
+      {
+        "i_d": 1090722,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Dialog109072_Chat.asset"
+      },
+      {
+        "i_d": 1090732,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Dialog109073_Chat.asset"
+      },
+      {
+        "i_d": 1090742,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Dialog109074_Chat.asset"
+      },
+      {
+        "i_d": 1090752,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_Chapter09/Quest_109071/Dialog109075_Chat.asset"
+      },
+      {
+        "i_d": 2000012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200001_Chat.asset"
+      },
+      {
+        "i_d": 2000023,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200002_End.asset"
+      },
+      {
+        "i_d": 2000033,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200003_End.asset"
+      },
+      {
+        "i_d": 2000043,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200004_End.asset"
+      },
+      {
+        "i_d": 2000053,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200005_End.asset"
+      },
+      {
+        "i_d": 2000063,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200006_End.asset"
+      },
+      {
+        "i_d": 2000072,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200001/Dialog200007_Chat.asset"
+      },
+      {
+        "i_d": 2000112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Dialog200011_Chat.asset"
+      },
+      {
+        "i_d": 2000122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Dialog200012_Chat.asset"
+      },
+      {
+        "i_d": 2000123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Dialog200012_End.asset"
+      },
+      {
+        "i_d": 2000133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200011/Dialog200013_End.asset"
+      },
+      {
+        "i_d": 2000212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200021/Dialog200021_Chat.asset"
+      },
+      {
+        "i_d": 2000222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200021/Dialog200022_Chat.asset"
+      },
+      {
+        "i_d": 2000312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200031/Dialog200031_Chat.asset"
+      },
+      {
+        "i_d": 2001212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200121/Dialog200121_Chat.asset"
+      },
+      {
+        "i_d": 2001222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200121/Dialog200122_Chat.asset"
+      },
+      {
+        "i_d": 2001312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Dialog200131_Chat.asset"
+      },
+      {
+        "i_d": 2001322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Dialog200132_Chat.asset"
+      },
+      {
+        "i_d": 2001332,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200131/Dialog200133_Chat.asset"
+      },
+      {
+        "i_d": 2001412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200141/Dialog200141_Chat.asset"
+      },
+      {
+        "i_d": 2001422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter01/Quest_200141/Dialog200142_Chat.asset"
+      },
+      {
+        "i_d": 2200112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220011/Dialog220011_Chat.asset"
+      },
+      {
+        "i_d": 2200122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220011/Dialog220012_Chat.asset"
+      },
+      {
+        "i_d": 2200212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Dialog220021_Chat.asset"
+      },
+      {
+        "i_d": 2200222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Dialog220022_Chat.asset"
+      },
+      {
+        "i_d": 2200232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220021/Dialog220023_Chat.asset"
+      },
+      {
+        "i_d": 2200312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220031/Dialog220031_Chat.asset"
+      },
+      {
+        "i_d": 2200322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220031/Dialog220032_Chat.asset"
+      },
+      {
+        "i_d": 2200412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220041_Chat.asset"
+      },
+      {
+        "i_d": 2200422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220042_Chat.asset"
+      },
+      {
+        "i_d": 2200432,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220043_Chat.asset"
+      },
+      {
+        "i_d": 2200442,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220044_Chat.asset"
+      },
+      {
+        "i_d": 2200452,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220045_Chat.asset"
+      },
+      {
+        "i_d": 2200462,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220046_Chat.asset"
+      },
+      {
+        "i_d": 2200472,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220041/Dialog220047_Chat.asset"
+      },
+      {
+        "i_d": 2200512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220051_Chat.asset"
+      },
+      {
+        "i_d": 2200522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220052_Chat.asset"
+      },
+      {
+        "i_d": 2200532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220053_Chat.asset"
+      },
+      {
+        "i_d": 2200542,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220054_Chat.asset"
+      },
+      {
+        "i_d": 2200552,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220055_Chat.asset"
+      },
+      {
+        "i_d": 2200562,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220051/Dialog220056_Chat.asset"
+      },
+      {
+        "i_d": 2200612,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220061/Dialog220061_Chat.asset"
+      },
+      {
+        "i_d": 2200712,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220071/Dialog220071_Chat.asset"
+      },
+      {
+        "i_d": 2200812,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220081/Dialog220081_Chat.asset"
+      },
+      {
+        "i_d": 2200822,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220081/Dialog220082_Chat.asset"
+      },
+      {
+        "i_d": 2200912,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220091/Dialog220091_Chat.asset"
+      },
+      {
+        "i_d": 2200922,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220091/Dialog220092_Chat.asset"
+      },
+      {
+        "i_d": 2200932,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220091/Dialog220093_Chat.asset"
+      },
+      {
+        "i_d": 2201012,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220101/Dialog220101_Chat.asset"
+      },
+      {
+        "i_d": 2201022,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter02/Quest_220101/Dialog220102_Chat.asset"
+      },
+      {
+        "i_d": 2300113,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230011_End.asset"
+      },
+      {
+        "i_d": 2300123,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230012_End.asset"
+      },
+      {
+        "i_d": 2300133,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230013_End.asset"
+      },
+      {
+        "i_d": 2300143,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230014_End.asset"
+      },
+      {
+        "i_d": 2300153,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230015_End.asset"
+      },
+      {
+        "i_d": 2300163,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230016_End.asset"
+      },
+      {
+        "i_d": 2300173,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230017_End.asset"
+      },
+      {
+        "i_d": 2300183,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230018_End.asset"
+      },
+      {
+        "i_d": 2300193,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230011/Dialog230019_End.asset"
+      },
+      {
+        "i_d": 2300213,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230021_End.asset"
+      },
+      {
+        "i_d": 2300223,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230022_End.asset"
+      },
+      {
+        "i_d": 2300233,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230023_End.asset"
+      },
+      {
+        "i_d": 2300243,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230024_End.asset"
+      },
+      {
+        "i_d": 2300253,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230025_End.asset"
+      },
+      {
+        "i_d": 2300263,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230026_End.asset"
+      },
+      {
+        "i_d": 2300273,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230027_End.asset"
+      },
+      {
+        "i_d": 2300283,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230021/Dialog230028_End.asset"
+      },
+      {
+        "i_d": 2300313,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230031_End.asset"
+      },
+      {
+        "i_d": 2300323,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230032_End.asset"
+      },
+      {
+        "i_d": 2300333,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230033_End.asset"
+      },
+      {
+        "i_d": 2300342,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230034_Chat.asset"
+      },
+      {
+        "i_d": 2300353,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230035_End.asset"
+      },
+      {
+        "i_d": 2300363,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230031/Dialog230036_End.asset"
+      },
+      {
+        "i_d": 2300412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230041_Chat.asset"
+      },
+      {
+        "i_d": 2300422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230042_Chat.asset"
+      },
+      {
+        "i_d": 2300432,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230043_Chat.asset"
+      },
+      {
+        "i_d": 2300442,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230044_Chat.asset"
+      },
+      {
+        "i_d": 2300452,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230045_Chat.asset"
+      },
+      {
+        "i_d": 2300462,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter03/Quest_230041/Dialog230046_Chat.asset"
+      },
+      {
+        "i_d": 2400112,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240011_Chat.asset"
+      },
+      {
+        "i_d": 2400122,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240012_Chat.asset"
+      },
+      {
+        "i_d": 2400132,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240013_Chat.asset"
+      },
+      {
+        "i_d": 2400142,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240014_Chat.asset"
+      },
+      {
+        "i_d": 2400152,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240015_Chat.asset"
+      },
+      {
+        "i_d": 2400162,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240016_Chat.asset"
+      },
+      {
+        "i_d": 2400172,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240011/Dialog240017_Chat.asset"
+      },
+      {
+        "i_d": 2400212,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Dialog240021_Chat.asset"
+      },
+      {
+        "i_d": 2400222,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Dialog240022_Chat.asset"
+      },
+      {
+        "i_d": 2400232,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Dialog240023_Chat.asset"
+      },
+      {
+        "i_d": 2400242,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Dialog240024_Chat.asset"
+      },
+      {
+        "i_d": 2400252,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240021/Dialog240025_Chat.asset"
+      },
+      {
+        "i_d": 2400312,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Dialog240031_Chat.asset"
+      },
+      {
+        "i_d": 2400322,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Dialog240032_Chat.asset"
+      },
+      {
+        "i_d": 2400332,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Dialog240033_Chat.asset"
+      },
+      {
+        "i_d": 2400342,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Dialog240034_Chat.asset"
+      },
+      {
+        "i_d": 2400352,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240031/Dialog240035_Chat.asset"
+      },
+      {
+        "i_d": 2400412,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Dialog240041_Chat.asset"
+      },
+      {
+        "i_d": 2400422,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Dialog240042_Chat.asset"
+      },
+      {
+        "i_d": 2400432,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240041/Dialog240043_Chat.asset"
+      },
+      {
+        "i_d": 2400512,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Dialog240051_Chat.asset"
+      },
+      {
+        "i_d": 2400522,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Dialog240052_Chat.asset"
+      },
+      {
+        "i_d": 2400532,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Dialog240053_Chat.asset"
+      },
+      {
+        "i_d": 2400542,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Dialog240054_Chat.asset"
+      },
+      {
+        "i_d": 2400552,
+        "asset_full_name": "Assets/ResBundle/QuestAssets/Story_OutSideChapter04/Quest_240051/Dialog240055_Chat.asset"
+      }
+    ]
+  }
+}

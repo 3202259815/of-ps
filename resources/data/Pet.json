@@ -1,0 +1,1763 @@
+{
+  "pet": {
+    "datas": [
+      {
+        "i_d": 200001001,
+        "monster_i_d": 1001,
+        "hp": 50,
+        "pow": 75,
+        "str": 35,
+        "int": 70,
+        "dex": 40,
+        "luc": 30,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001002,
+        "monster_i_d": 1002,
+        "hp": 25,
+        "pow": 20,
+        "str": 15,
+        "int": 105,
+        "dex": 90,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001003,
+        "monster_i_d": 1003,
+        "hp": 44,
+        "pow": 50,
+        "str": 45,
+        "int": 62,
+        "dex": 55,
+        "luc": 52,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001004,
+        "monster_i_d": 1004,
+        "decision_capture": true,
+        "hp": 70,
+        "pow": 110,
+        "str": 80,
+        "int": 55,
+        "dex": 105,
+        "luc": 80,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          500
+        ],
+        "new_special_feature": 1
+      },
+      {
+        "i_d": 200001005,
+        "monster_i_d": 1005,
+        "decision_capture": true,
+        "hp": 50,
+        "pow": 85,
+        "str": 85,
+        "int": 55,
+        "dex": 50,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          1000,
+          1
+        ],
+        "new_special_feature": 52
+      },
+      {
+        "i_d": 200001006,
+        "monster_i_d": 1006,
+        "decision_capture": true,
+        "hp": 50,
+        "pow": 50,
+        "str": 62,
+        "int": 40,
+        "dex": 65,
+        "luc": 62,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          3000
+        ],
+        "new_special_feature": 6
+      },
+      {
+        "i_d": 200001007,
+        "monster_i_d": 1007,
+        "decision_capture": true,
+        "hp": 75,
+        "pow": 80,
+        "str": 95,
+        "int": 90,
+        "dex": 50,
+        "luc": 100,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          1
+        ],
+        "new_special_feature": 4
+      },
+      {
+        "i_d": 200001008,
+        "monster_i_d": 1008,
+        "decision_capture": true,
+        "hp": 65,
+        "pow": 50,
+        "str": 35,
+        "int": 115,
+        "dex": 95,
+        "luc": 95,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          2000,
+          1
+        ],
+        "new_special_feature": 56
+      },
+      {
+        "i_d": 200001009,
+        "monster_i_d": 1009,
+        "decision_capture": true,
+        "hp": 90,
+        "pow": 50,
+        "str": 34,
+        "int": 60,
+        "dex": 70,
+        "luc": 44,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          2000,
+          1
+        ],
+        "new_special_feature": 50
+      },
+      {
+        "i_d": 200001010,
+        "monster_i_d": 1010,
+        "decision_capture": true,
+        "hp": 100,
+        "pow": 130,
+        "str": 100,
+        "int": 63,
+        "dex": 97,
+        "luc": 60,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          1000
+        ],
+        "new_special_feature": 9
+      },
+      {
+        "i_d": 200001011,
+        "monster_i_d": 1011,
+        "decision_capture": true,
+        "hp": 75,
+        "pow": 105,
+        "str": 75,
+        "int": 105,
+        "dex": 45,
+        "luc": 75,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          1000
+        ],
+        "new_special_feature": 7
+      },
+      {
+        "i_d": 200001012,
+        "monster_i_d": 1012,
+        "decision_capture": true,
+        "hp": 39,
+        "pow": 52,
+        "str": 43,
+        "int": 60,
+        "dex": 65,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          2000,
+          3
+        ],
+        "new_special_feature": 50
+      },
+      {
+        "i_d": 200001013,
+        "monster_i_d": 1013,
+        "decision_capture": true,
+        "hp": 60,
+        "pow": 55,
+        "str": 90,
+        "int": 145,
+        "dex": 80,
+        "luc": 90,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          1000,
+          1
+        ],
+        "new_special_feature": 51
+      },
+      {
+        "i_d": 200001014,
+        "monster_i_d": 1014,
+        "decision_capture": true,
+        "hp": 35,
+        "pow": 65,
+        "str": 85,
+        "int": 25,
+        "dex": 85,
+        "luc": 25,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          1500,
+          1
+        ],
+        "new_special_feature": 53
+      },
+      {
+        "i_d": 200001015,
+        "monster_i_d": 1015,
+        "hp": 72,
+        "pow": 95,
+        "str": 67,
+        "int": 103,
+        "dex": 122,
+        "luc": 71,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001016,
+        "monster_i_d": 1016,
+        "hp": 89,
+        "pow": 145,
+        "str": 90,
+        "int": 105,
+        "dex": 91,
+        "luc": 80,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001017,
+        "monster_i_d": 1017,
+        "hp": 55,
+        "pow": 85,
+        "str": 55,
+        "int": 35,
+        "dex": 60,
+        "luc": 35,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001018,
+        "monster_i_d": 1018,
+        "hp": 75,
+        "pow": 95,
+        "str": 60,
+        "int": 95,
+        "dex": 115,
+        "luc": 60,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          500
+        ],
+        "new_special_feature": 3
+      },
+      {
+        "i_d": 200001019,
+        "monster_i_d": 1019,
+        "decision_capture": true,
+        "hp": 80,
+        "pow": 45,
+        "str": 65,
+        "int": 90,
+        "dex": 80,
+        "luc": 110,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          2000,
+          1
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001020,
+        "monster_i_d": 1020,
+        "hp": 75,
+        "pow": 105,
+        "str": 75,
+        "int": 105,
+        "dex": 45,
+        "luc": 75,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001021,
+        "monster_i_d": 1021,
+        "hp": 75,
+        "pow": 115,
+        "str": 65,
+        "int": 55,
+        "dex": 112,
+        "luc": 65,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001022,
+        "monster_i_d": 1022,
+        "hp": 59,
+        "pow": 40,
+        "str": 60,
+        "int": 65,
+        "dex": 55,
+        "luc": 60,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ]
+      },
+      {
+        "i_d": 200001101,
+        "monster_i_d": 1101,
+        "hp": 72,
+        "pow": 80,
+        "str": 49,
+        "int": 40,
+        "dex": 40,
+        "luc": 49,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001102,
+        "monster_i_d": 1102,
+        "hp": 50,
+        "pow": 60,
+        "str": 95,
+        "int": 120,
+        "dex": 70,
+        "luc": 70,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001103,
+        "monster_i_d": 1103,
+        "hp": 62,
+        "pow": 55,
+        "str": 50,
+        "int": 58,
+        "dex": 55,
+        "luc": 62,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001104,
+        "monster_i_d": 1104,
+        "hp": 49,
+        "pow": 55,
+        "str": 42,
+        "int": 40,
+        "dex": 90,
+        "luc": 40,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001105,
+        "monster_i_d": 1105,
+        "hp": 50,
+        "pow": 75,
+        "str": 35,
+        "int": 40,
+        "dex": 84,
+        "luc": 40,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001106,
+        "monster_i_d": 1106,
+        "hp": 70,
+        "pow": 75,
+        "str": 60,
+        "int": 105,
+        "dex": 50,
+        "luc": 60,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001107,
+        "monster_i_d": 1107,
+        "hp": 100,
+        "pow": 134,
+        "str": 110,
+        "int": 95,
+        "dex": 61,
+        "luc": 100,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001108,
+        "monster_i_d": 1108,
+        "hp": 67,
+        "pow": 89,
+        "str": 116,
+        "int": 79,
+        "dex": 33,
+        "luc": 116,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001109,
+        "monster_i_d": 1109,
+        "hp": 60,
+        "pow": 55,
+        "str": 90,
+        "int": 145,
+        "dex": 80,
+        "luc": 90,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001110,
+        "monster_i_d": 1110,
+        "hp": 105,
+        "pow": 105,
+        "str": 75,
+        "int": 65,
+        "dex": 50,
+        "luc": 100,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001111,
+        "monster_i_d": 1111,
+        "hp": 55,
+        "pow": 90,
+        "str": 80,
+        "int": 50,
+        "dex": 96,
+        "luc": 105,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001112,
+        "monster_i_d": 1112,
+        "hp": 70,
+        "pow": 75,
+        "str": 60,
+        "int": 105,
+        "dex": 50,
+        "luc": 60,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001113,
+        "monster_i_d": 1113,
+        "hp": 40,
+        "pow": 30,
+        "str": 50,
+        "int": 55,
+        "dex": 100,
+        "luc": 55,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001114,
+        "monster_i_d": 1114,
+        "hp": 45,
+        "pow": 60,
+        "str": 45,
+        "int": 35,
+        "dex": 35,
+        "luc": 45,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001115,
+        "monster_i_d": 1115,
+        "hp": 85,
+        "pow": 80,
+        "str": 90,
+        "int": 105,
+        "dex": 60,
+        "luc": 95,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001116,
+        "monster_i_d": 1116,
+        "hp": 50,
+        "pow": 105,
+        "str": 125,
+        "int": 55,
+        "dex": 50,
+        "luc": 95,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001201,
+        "monster_i_d": 1201,
+        "hp": 40,
+        "pow": 30,
+        "str": 50,
+        "int": 55,
+        "dex": 100,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001202,
+        "monster_i_d": 1202,
+        "hp": 59,
+        "pow": 74,
+        "str": 50,
+        "int": 35,
+        "dex": 35,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001203,
+        "monster_i_d": 1203,
+        "hp": 105,
+        "pow": 140,
+        "str": 95,
+        "int": 55,
+        "dex": 45,
+        "luc": 65,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001204,
+        "monster_i_d": 1204,
+        "hp": 160,
+        "pow": 110,
+        "str": 65,
+        "int": 65,
+        "dex": 30,
+        "luc": 110,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001205,
+        "monster_i_d": 1205,
+        "decision_capture": true,
+        "hp": 135,
+        "pow": 85,
+        "str": 40,
+        "int": 40,
+        "dex": 5,
+        "luc": 85,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          30
+        ],
+        "new_special_feature": 6
+      },
+      {
+        "i_d": 200001206,
+        "monster_i_d": 1206,
+        "hp": 135,
+        "pow": 85,
+        "str": 40,
+        "int": 40,
+        "dex": 5,
+        "luc": 85,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001207,
+        "monster_i_d": 1207,
+        "hp": 64,
+        "pow": 76,
+        "str": 48,
+        "int": 81,
+        "dex": 112,
+        "luc": 90,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001208,
+        "monster_i_d": 1208,
+        "hp": 90,
+        "pow": 85,
+        "str": 100,
+        "int": 95,
+        "dex": 85,
+        "luc": 125,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001209,
+        "monster_i_d": 1209,
+        "hp": 45,
+        "pow": 55,
+        "str": 45,
+        "int": 65,
+        "dex": 75,
+        "luc": 45,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001210,
+        "monster_i_d": 1210,
+        "hp": 50,
+        "pow": 70,
+        "str": 55,
+        "int": 45,
+        "dex": 75,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001211,
+        "monster_i_d": 1211,
+        "hp": 40,
+        "pow": 30,
+        "str": 50,
+        "int": 55,
+        "dex": 100,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001212,
+        "monster_i_d": 1212,
+        "hp": 50,
+        "pow": 50,
+        "str": 50,
+        "int": 50,
+        "dex": 50,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001213,
+        "monster_i_d": 1213,
+        "hp": 107,
+        "pow": 139,
+        "str": 139,
+        "int": 53,
+        "dex": 79,
+        "luc": 53,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001214,
+        "monster_i_d": 1214,
+        "hp": 25,
+        "pow": 35,
+        "str": 70,
+        "int": 95,
+        "dex": 45,
+        "luc": 55,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001215,
+        "monster_i_d": 1215,
+        "hp": 45,
+        "pow": 80,
+        "str": 100,
+        "int": 35,
+        "dex": 28,
+        "luc": 37,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001216,
+        "monster_i_d": 1216,
+        "hp": 70,
+        "pow": 90,
+        "str": 70,
+        "int": 60,
+        "dex": 40,
+        "luc": 70,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001217,
+        "monster_i_d": 1217,
+        "hp": 100,
+        "pow": 100,
+        "str": 100,
+        "int": 100,
+        "dex": 100,
+        "luc": 100,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001301,
+        "monster_i_d": 1301,
+        "hp": 65,
+        "pow": 76,
+        "str": 84,
+        "int": 54,
+        "dex": 105,
+        "luc": 96,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001302,
+        "monster_i_d": 1302,
+        "hp": 68,
+        "pow": 105,
+        "str": 65,
+        "int": 65,
+        "dex": 92,
+        "luc": 70,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001303,
+        "monster_i_d": 1303,
+        "hp": 90,
+        "pow": 50,
+        "str": 34,
+        "int": 60,
+        "dex": 70,
+        "luc": 44,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001304,
+        "monster_i_d": 1304,
+        "hp": 75,
+        "pow": 100,
+        "str": 95,
+        "int": 40,
+        "dex": 110,
+        "luc": 70,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001305,
+        "monster_i_d": 1305,
+        "hp": 65,
+        "pow": 80,
+        "str": 140,
+        "int": 40,
+        "dex": 70,
+        "luc": 70,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001306,
+        "monster_i_d": 1306,
+        "hp": 120,
+        "pow": 70,
+        "str": 120,
+        "int": 75,
+        "dex": 85,
+        "luc": 130,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001307,
+        "monster_i_d": 1307,
+        "hp": 75,
+        "pow": 90,
+        "str": 50,
+        "int": 110,
+        "dex": 95,
+        "luc": 80,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200002051,
+        "monster_i_d": 912051,
+        "release_reward": [
+          0
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001401,
+        "monster_i_d": 1401,
+        "hp": 60,
+        "pow": 90,
+        "str": 55,
+        "int": 90,
+        "dex": 110,
+        "luc": 80,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001402,
+        "monster_i_d": 1402,
+        "hp": 70,
+        "pow": 40,
+        "str": 50,
+        "int": 40,
+        "dex": 75,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001403,
+        "monster_i_d": 1403,
+        "hp": 70,
+        "pow": 90,
+        "str": 90,
+        "int": 135,
+        "dex": 125,
+        "luc": 90,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001404,
+        "monster_i_d": 1404,
+        "hp": 80,
+        "pow": 100,
+        "str": 200,
+        "int": 50,
+        "dex": 50,
+        "luc": 100,
+        "rarity": 4,
+        "release_reward": [
+          10000,
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001405,
+        "monster_i_d": 1405,
+        "hp": 41,
+        "pow": 64,
+        "str": 45,
+        "int": 50,
+        "dex": 50,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001406,
+        "monster_i_d": 1406,
+        "hp": 106,
+        "pow": 75,
+        "str": 65,
+        "int": 65,
+        "dex": 90,
+        "luc": 121,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001407,
+        "monster_i_d": 1407,
+        "hp": 60,
+        "pow": 100,
+        "str": 85,
+        "int": 80,
+        "dex": 100,
+        "luc": 85,
+        "rarity": 3,
+        "release_reward": [
+          10001,
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001408,
+        "monster_i_d": 1408,
+        "hp": 250,
+        "pow": 5,
+        "str": 5,
+        "int": 35,
+        "dex": 50,
+        "luc": 105,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      },
+      {
+        "i_d": 200001409,
+        "monster_i_d": 1409,
+        "hp": 70,
+        "pow": 40,
+        "str": 50,
+        "int": 40,
+        "dex": 75,
+        "luc": 50,
+        "rarity": 2,
+        "release_reward": [
+          10002,
+          10003
+        ],
+        "parma": [
+          20,
+          0,
+          0
+        ],
+        "new_special_feature": 8
+      }
+    ]
+  },
+  "nature": {
+    "datas": [
+      {
+        "i_d": 110,
+        "new_pet_nature_type": 5,
+        "new_skilled_buff_type": 5,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 6,
+        "lack_buff_value": [
+          2000
+        ]
+      },
+      {
+        "i_d": 111,
+        "new_pet_nature_type": 6,
+        "new_skilled_buff_type": 5,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 7,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 112,
+        "new_pet_nature_type": 7,
+        "new_skilled_buff_type": 5,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 8,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 113,
+        "new_pet_nature_type": 8,
+        "new_skilled_buff_type": 5,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 9,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 120,
+        "new_pet_nature_type": 9,
+        "new_skilled_buff_type": 6,
+        "skilled_buff_value": [
+          2000
+        ],
+        "new_lack_buff_type": 5,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 121,
+        "new_pet_nature_type": 10,
+        "new_skilled_buff_type": 6,
+        "skilled_buff_value": [
+          2000
+        ],
+        "new_lack_buff_type": 7,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 122,
+        "new_pet_nature_type": 11,
+        "new_skilled_buff_type": 6,
+        "skilled_buff_value": [
+          2000
+        ],
+        "new_lack_buff_type": 8,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 123,
+        "new_pet_nature_type": 12,
+        "new_skilled_buff_type": 6,
+        "skilled_buff_value": [
+          2000
+        ],
+        "new_lack_buff_type": 9,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 130,
+        "new_pet_nature_type": 13,
+        "new_skilled_buff_type": 7,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 5,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 131,
+        "new_pet_nature_type": 14,
+        "new_skilled_buff_type": 7,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 6,
+        "lack_buff_value": [
+          2000
+        ]
+      },
+      {
+        "i_d": 132,
+        "new_pet_nature_type": 15,
+        "new_skilled_buff_type": 7,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 8,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 133,
+        "new_pet_nature_type": 16,
+        "new_skilled_buff_type": 7,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 9,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 140,
+        "new_pet_nature_type": 17,
+        "new_skilled_buff_type": 8,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 5,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 141,
+        "new_pet_nature_type": 18,
+        "new_skilled_buff_type": 8,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 6,
+        "lack_buff_value": [
+          2000
+        ]
+      },
+      {
+        "i_d": 142,
+        "new_pet_nature_type": 19,
+        "new_skilled_buff_type": 8,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 7,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 143,
+        "new_pet_nature_type": 20,
+        "new_skilled_buff_type": 8,
+        "skilled_buff_value": [
+          1000
+        ],
+        "new_lack_buff_type": 9,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 150,
+        "new_pet_nature_type": 21,
+        "new_skilled_buff_type": 9,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 5,
+        "lack_buff_value": [
+          1000
+        ]
+      },
+      {
+        "i_d": 151,
+        "new_pet_nature_type": 22,
+        "new_skilled_buff_type": 9,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 6,
+        "lack_buff_value": [
+          2000
+        ]
+      },
+      {
+        "i_d": 152,
+        "new_pet_nature_type": 23,
+        "new_skilled_buff_type": 9,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 7,
+        "lack_buff_value": [
+          500
+        ]
+      },
+      {
+        "i_d": 153,
+        "new_pet_nature_type": 24,
+        "new_skilled_buff_type": 9,
+        "skilled_buff_value": [
+          500
+        ],
+        "new_lack_buff_type": 8,
+        "lack_buff_value": [
+          1000
+        ]
+      }
+    ]
+  },
+  "release_reward": {
+    "datas": [
+      {
+        "i_d": 10000,
+        "release_reward_item": [
+          {
+            "release_reward_i_d": 200101000,
+            "release_reward_count": 1
+          },
+          {
+            "release_reward_i_d": 200101000,
+            "release_reward_count": 2
+          },
+          {
+            "release_reward_i_d": 200101000,
+            "release_reward_count": 3
+          },
+          {
+            "release_reward_i_d": 200101000,
+            "release_reward_count": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10001,
+        "release_reward_item": [
+          {
+            "release_reward_i_d": 200101001,
+            "release_reward_count": 1
+          },
+          {
+            "release_reward_i_d": 200101001,
+            "release_reward_count": 2
+          },
+          {
+            "release_reward_i_d": 200101001,
+            "release_reward_count": 3
+          },
+          {
+            "release_reward_i_d": 200101001,
+            "release_reward_count": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10002,
+        "release_reward_item": [
+          {
+            "release_reward_i_d": 200101002,
+            "release_reward_count": 1
+          },
+          {
+            "release_reward_i_d": 200101002,
+            "release_reward_count": 2
+          },
+          {
+            "release_reward_i_d": 200101002,
+            "release_reward_count": 3
+          },
+          {
+            "release_reward_i_d": 200101002,
+            "release_reward_count": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10003,
+        "release_reward_item": [
+          {
+            "release_reward_i_d": 200101003,
+            "release_reward_count": 1
+          },
+          {
+            "release_reward_i_d": 200101003,
+            "release_reward_count": 2
+          },
+          {
+            "release_reward_i_d": 200101003,
+            "release_reward_count": 3
+          },
+          {
+            "release_reward_i_d": 200101003,
+            "release_reward_count": 4
+          }
+        ]
+      }
+    ]
+  },
+  "completeness": {
+    "datas": [
+      {
+        "i_d": 100000,
+        "positive_effect": 10000,
+        "reverse_effect": 10000,
+        "text_i_d": 100000
+      },
+      {
+        "i_d": 100010,
+        "positive_effect": 8000,
+        "reverse_effect": 8000,
+        "text_i_d": 100010
+      },
+      {
+        "i_d": 100020,
+        "positive_effect": 6000,
+        "reverse_effect": 6000,
+        "text_i_d": 100020
+      },
+      {
+        "i_d": 100030,
+        "positive_effect": 4000,
+        "reverse_effect": 4000,
+        "text_i_d": 100030
+      },
+      {
+        "i_d": 100040,
+        "positive_effect": 2000,
+        "reverse_effect": 2000,
+        "text_i_d": 100040
+      },
+      {
+        "i_d": 100050,
+        "text_i_d": 100050
+      }
+    ]
+  }
+}

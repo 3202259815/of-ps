@@ -1,0 +1,6800 @@
+{
+  "spell_card": {
+    "datas": [
+      {
+        "i_d": 3101001,
+        "item_i_d": 3101001,
+        "property_i_d": 3101001,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101002,
+        "item_i_d": 3101002,
+        "property_i_d": 3101002,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101003,
+        "item_i_d": 3101003,
+        "property_i_d": 3101003,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101004,
+        "item_i_d": 3101004,
+        "property_i_d": 3101004,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101005,
+        "item_i_d": 3101005,
+        "property_i_d": 3101005,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101006,
+        "item_i_d": 3101006,
+        "property_i_d": 3101006,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101007,
+        "item_i_d": 3101007,
+        "property_i_d": 3101007,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101008,
+        "item_i_d": 3101008,
+        "property_i_d": 3101008,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101009,
+        "item_i_d": 3101009,
+        "property_i_d": 3101009,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101010,
+        "item_i_d": 3101010,
+        "property_i_d": 3101010,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101011,
+        "item_i_d": 3101011,
+        "property_i_d": 3101011,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101012,
+        "item_i_d": 3101012,
+        "property_i_d": 3101012,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101013,
+        "item_i_d": 3101013,
+        "property_i_d": 3101013,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101014,
+        "item_i_d": 3101014,
+        "property_i_d": 3101014,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101015,
+        "item_i_d": 3101015,
+        "property_i_d": 3101015,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101016,
+        "item_i_d": 3101016,
+        "property_i_d": 3101016,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3101017,
+        "item_i_d": 3101017,
+        "property_i_d": 3101017,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3101018,
+        "item_i_d": 3101018,
+        "property_i_d": 3101018,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101019,
+        "item_i_d": 3101019,
+        "property_i_d": 3101019,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101020,
+        "item_i_d": 3101020,
+        "property_i_d": 3101020,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101021,
+        "item_i_d": 3101021,
+        "property_i_d": 3101021,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101022,
+        "item_i_d": 3101022,
+        "property_i_d": 3101022,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101023,
+        "item_i_d": 3101023,
+        "property_i_d": 3101023,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101024,
+        "item_i_d": 3101024,
+        "property_i_d": 3101024,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101025,
+        "item_i_d": 3101025,
+        "property_i_d": 3101025,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101026,
+        "item_i_d": 3101026,
+        "property_i_d": 3101026,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101027,
+        "item_i_d": 3101027,
+        "property_i_d": 3101027,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101028,
+        "item_i_d": 3101028,
+        "property_i_d": 3101028,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101029,
+        "item_i_d": 3101029,
+        "property_i_d": 3101029,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101030,
+        "item_i_d": 3101030,
+        "property_i_d": 3101030,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101031,
+        "item_i_d": 3101031,
+        "property_i_d": 3101031,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101032,
+        "item_i_d": 3101032,
+        "property_i_d": 3101032,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101033,
+        "item_i_d": 3101033,
+        "property_i_d": 3101033,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101034,
+        "item_i_d": 3101034,
+        "property_i_d": 3101034,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101035,
+        "item_i_d": 3101035,
+        "property_i_d": 3101035,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101036,
+        "item_i_d": 3101036,
+        "property_i_d": 3101036,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101037,
+        "item_i_d": 3101037,
+        "property_i_d": 3101037,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101038,
+        "item_i_d": 3101038,
+        "property_i_d": 3101038,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101039,
+        "item_i_d": 3101039,
+        "property_i_d": 3101039,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3101040,
+        "item_i_d": 3101040,
+        "property_i_d": 3101040,
+        "new_weapon_type": 1,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102001,
+        "item_i_d": 3102001,
+        "property_i_d": 3102001,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102002,
+        "item_i_d": 3102002,
+        "property_i_d": 3102002,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102003,
+        "item_i_d": 3102003,
+        "property_i_d": 3102003,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3102004,
+        "item_i_d": 3102004,
+        "property_i_d": 3102004,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102005,
+        "item_i_d": 3102005,
+        "property_i_d": 3102005,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102006,
+        "item_i_d": 3102006,
+        "property_i_d": 3102006,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102007,
+        "item_i_d": 3102007,
+        "property_i_d": 3102007,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102008,
+        "item_i_d": 3102008,
+        "property_i_d": 3102008,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102009,
+        "item_i_d": 3102009,
+        "property_i_d": 3102009,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102010,
+        "item_i_d": 3102010,
+        "property_i_d": 3102010,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102011,
+        "item_i_d": 3102011,
+        "property_i_d": 3102011,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102012,
+        "item_i_d": 3102012,
+        "property_i_d": 3102012,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102013,
+        "item_i_d": 3102013,
+        "property_i_d": 3102013,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102014,
+        "item_i_d": 3102014,
+        "property_i_d": 3102014,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102015,
+        "item_i_d": 3102015,
+        "property_i_d": 3102015,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102016,
+        "item_i_d": 3102016,
+        "property_i_d": 3102016,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102017,
+        "item_i_d": 3102017,
+        "property_i_d": 3102017,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102018,
+        "item_i_d": 3102018,
+        "property_i_d": 3102018,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102019,
+        "item_i_d": 3102019,
+        "property_i_d": 3102019,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102020,
+        "item_i_d": 3102020,
+        "property_i_d": 3102020,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102021,
+        "item_i_d": 3102021,
+        "property_i_d": 3102021,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102022,
+        "item_i_d": 3102022,
+        "property_i_d": 3102022,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102023,
+        "item_i_d": 3102023,
+        "property_i_d": 3102023,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102024,
+        "item_i_d": 3102024,
+        "property_i_d": 3102024,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102025,
+        "item_i_d": 3102025,
+        "property_i_d": 3102025,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102026,
+        "item_i_d": 3102026,
+        "property_i_d": 3102026,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102027,
+        "item_i_d": 3102027,
+        "property_i_d": 3102027,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102028,
+        "item_i_d": 3102028,
+        "property_i_d": 3102028,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102029,
+        "item_i_d": 3102029,
+        "property_i_d": 3102029,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102030,
+        "item_i_d": 3102030,
+        "property_i_d": 3102030,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102031,
+        "item_i_d": 3102031,
+        "property_i_d": 3102031,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102032,
+        "item_i_d": 3102032,
+        "property_i_d": 3102032,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102033,
+        "item_i_d": 3102033,
+        "property_i_d": 3102033,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102034,
+        "item_i_d": 3102034,
+        "property_i_d": 3102034,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102035,
+        "item_i_d": 3102035,
+        "property_i_d": 3102035,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102036,
+        "item_i_d": 3102036,
+        "property_i_d": 3102036,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102037,
+        "item_i_d": 3102037,
+        "property_i_d": 3102037,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102038,
+        "item_i_d": 3102038,
+        "property_i_d": 3102038,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102039,
+        "item_i_d": 3102039,
+        "property_i_d": 3102039,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3102040,
+        "item_i_d": 3102040,
+        "property_i_d": 3102040,
+        "new_weapon_type": 3,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103001,
+        "item_i_d": 3103001,
+        "property_i_d": 3103001,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103002,
+        "item_i_d": 3103002,
+        "property_i_d": 3103002,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103003,
+        "item_i_d": 3103003,
+        "property_i_d": 3103003,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103004,
+        "item_i_d": 3103004,
+        "property_i_d": 3103004,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103005,
+        "item_i_d": 3103005,
+        "property_i_d": 3103005,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103006,
+        "item_i_d": 3103006,
+        "property_i_d": 3103006,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103007,
+        "item_i_d": 3103007,
+        "property_i_d": 3103007,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103008,
+        "item_i_d": 3103008,
+        "property_i_d": 3103008,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103009,
+        "item_i_d": 3103009,
+        "property_i_d": 3103009,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103010,
+        "item_i_d": 3103010,
+        "property_i_d": 3103010,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103011,
+        "item_i_d": 3103011,
+        "property_i_d": 3103011,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103012,
+        "item_i_d": 3103012,
+        "property_i_d": 3103012,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103013,
+        "item_i_d": 3103013,
+        "property_i_d": 3103013,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103014,
+        "item_i_d": 3103014,
+        "property_i_d": 3103014,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103015,
+        "item_i_d": 3103015,
+        "property_i_d": 3103015,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103016,
+        "item_i_d": 3103016,
+        "property_i_d": 3103016,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103017,
+        "item_i_d": 3103017,
+        "property_i_d": 3103017,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103018,
+        "item_i_d": 3103018,
+        "property_i_d": 3103018,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103019,
+        "item_i_d": 3103019,
+        "property_i_d": 3103019,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103020,
+        "item_i_d": 3103020,
+        "property_i_d": 3103020,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103021,
+        "item_i_d": 3103021,
+        "property_i_d": 3103021,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103022,
+        "item_i_d": 3103022,
+        "property_i_d": 3103022,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103023,
+        "item_i_d": 3103023,
+        "property_i_d": 3103023,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103024,
+        "item_i_d": 3103024,
+        "property_i_d": 3103024,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103025,
+        "item_i_d": 3103025,
+        "property_i_d": 3103025,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103026,
+        "item_i_d": 3103026,
+        "property_i_d": 3103026,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103027,
+        "item_i_d": 3103027,
+        "property_i_d": 3103027,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103028,
+        "item_i_d": 3103028,
+        "property_i_d": 3103028,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103029,
+        "item_i_d": 3103029,
+        "property_i_d": 3103029,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103030,
+        "item_i_d": 3103030,
+        "property_i_d": 3103030,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103031,
+        "item_i_d": 3103031,
+        "property_i_d": 3103031,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103032,
+        "item_i_d": 3103032,
+        "property_i_d": 3103032,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103033,
+        "item_i_d": 3103033,
+        "property_i_d": 3103033,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103034,
+        "item_i_d": 3103034,
+        "property_i_d": 3103034,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103035,
+        "item_i_d": 3103035,
+        "property_i_d": 3103035,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103036,
+        "item_i_d": 3103036,
+        "property_i_d": 3103036,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103037,
+        "item_i_d": 3103037,
+        "property_i_d": 3103037,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103038,
+        "item_i_d": 3103038,
+        "property_i_d": 3103038,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103039,
+        "item_i_d": 3103039,
+        "property_i_d": 3103039,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3103040,
+        "item_i_d": 3103040,
+        "property_i_d": 3103040,
+        "new_weapon_type": 10,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104001,
+        "item_i_d": 3104001,
+        "property_i_d": 3104001,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104002,
+        "item_i_d": 3104002,
+        "property_i_d": 3104002,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104003,
+        "item_i_d": 3104003,
+        "property_i_d": 3104003,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104004,
+        "item_i_d": 3104004,
+        "property_i_d": 3104004,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104005,
+        "item_i_d": 3104005,
+        "property_i_d": 3104005,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104006,
+        "item_i_d": 3104006,
+        "property_i_d": 3104006,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3104007,
+        "item_i_d": 3104007,
+        "property_i_d": 3104007,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104008,
+        "item_i_d": 3104008,
+        "property_i_d": 3104008,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3104009,
+        "item_i_d": 3104009,
+        "property_i_d": 3104009,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104010,
+        "item_i_d": 3104010,
+        "property_i_d": 3104010,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104011,
+        "item_i_d": 3104011,
+        "property_i_d": 3104011,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104012,
+        "item_i_d": 3104012,
+        "property_i_d": 3104012,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104013,
+        "item_i_d": 3104013,
+        "property_i_d": 3104013,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104014,
+        "item_i_d": 3104014,
+        "property_i_d": 3104014,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104015,
+        "item_i_d": 3104015,
+        "property_i_d": 3104015,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104016,
+        "item_i_d": 3104016,
+        "property_i_d": 3104016,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104017,
+        "item_i_d": 3104017,
+        "property_i_d": 3104017,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104018,
+        "item_i_d": 3104018,
+        "property_i_d": 3104018,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104019,
+        "item_i_d": 3104019,
+        "property_i_d": 3104019,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104020,
+        "item_i_d": 3104020,
+        "property_i_d": 3104020,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104021,
+        "item_i_d": 3104021,
+        "property_i_d": 3104021,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104022,
+        "item_i_d": 3104022,
+        "property_i_d": 3104022,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104023,
+        "item_i_d": 3104023,
+        "property_i_d": 3104023,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104024,
+        "item_i_d": 3104024,
+        "property_i_d": 3104024,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104025,
+        "item_i_d": 3104025,
+        "property_i_d": 3104025,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104026,
+        "item_i_d": 3104026,
+        "property_i_d": 3104026,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104027,
+        "item_i_d": 3104027,
+        "property_i_d": 3104027,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104028,
+        "item_i_d": 3104028,
+        "property_i_d": 3104028,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104029,
+        "item_i_d": 3104029,
+        "property_i_d": 3104029,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104030,
+        "item_i_d": 3104030,
+        "property_i_d": 3104030,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104031,
+        "item_i_d": 3104031,
+        "property_i_d": 3104031,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104032,
+        "item_i_d": 3104032,
+        "property_i_d": 3104032,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104033,
+        "item_i_d": 3104033,
+        "property_i_d": 3104033,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104034,
+        "item_i_d": 3104034,
+        "property_i_d": 3104034,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104035,
+        "item_i_d": 3104035,
+        "property_i_d": 3104035,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104036,
+        "item_i_d": 3104036,
+        "property_i_d": 3104036,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104037,
+        "item_i_d": 3104037,
+        "property_i_d": 3104037,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104038,
+        "item_i_d": 3104038,
+        "property_i_d": 3104038,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104039,
+        "item_i_d": 3104039,
+        "property_i_d": 3104039,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3104040,
+        "item_i_d": 3104040,
+        "property_i_d": 3104040,
+        "new_weapon_type": 13,
+        "new_weapon_system_type": 1,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201001,
+        "item_i_d": 3201001,
+        "property_i_d": 3201001,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201002,
+        "item_i_d": 3201002,
+        "property_i_d": 3201002,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201003,
+        "item_i_d": 3201003,
+        "property_i_d": 3201003,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201004,
+        "item_i_d": 3201004,
+        "property_i_d": 3201004,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201005,
+        "item_i_d": 3201005,
+        "property_i_d": 3201005,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201006,
+        "item_i_d": 3201006,
+        "property_i_d": 3201006,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201007,
+        "item_i_d": 3201007,
+        "property_i_d": 3201007,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201008,
+        "item_i_d": 3201008,
+        "property_i_d": 3201008,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201009,
+        "item_i_d": 3201009,
+        "property_i_d": 3201009,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201010,
+        "item_i_d": 3201010,
+        "property_i_d": 3201010,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201011,
+        "item_i_d": 3201011,
+        "property_i_d": 3201011,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201012,
+        "item_i_d": 3201012,
+        "property_i_d": 3201012,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201013,
+        "item_i_d": 3201013,
+        "property_i_d": 3201013,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201014,
+        "item_i_d": 3201014,
+        "property_i_d": 3201014,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201015,
+        "item_i_d": 3201015,
+        "property_i_d": 3201015,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201016,
+        "item_i_d": 3201016,
+        "property_i_d": 3201016,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201017,
+        "item_i_d": 3201017,
+        "property_i_d": 3201017,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201018,
+        "item_i_d": 3201018,
+        "property_i_d": 3201018,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201019,
+        "item_i_d": 3201019,
+        "property_i_d": 3201019,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201020,
+        "item_i_d": 3201020,
+        "property_i_d": 3201020,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201021,
+        "item_i_d": 3201021,
+        "property_i_d": 3201021,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201022,
+        "item_i_d": 3201022,
+        "property_i_d": 3201022,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201023,
+        "item_i_d": 3201023,
+        "property_i_d": 3201023,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201024,
+        "item_i_d": 3201024,
+        "property_i_d": 3201024,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201025,
+        "item_i_d": 3201025,
+        "property_i_d": 3201025,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201026,
+        "item_i_d": 3201026,
+        "property_i_d": 3201026,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201027,
+        "item_i_d": 3201027,
+        "property_i_d": 3201027,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201028,
+        "item_i_d": 3201028,
+        "property_i_d": 3201028,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201029,
+        "item_i_d": 3201029,
+        "property_i_d": 3201029,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201030,
+        "item_i_d": 3201030,
+        "property_i_d": 3201030,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201031,
+        "item_i_d": 3201031,
+        "property_i_d": 3201031,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201032,
+        "item_i_d": 3201032,
+        "property_i_d": 3201032,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201033,
+        "item_i_d": 3201033,
+        "property_i_d": 3201033,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201034,
+        "item_i_d": 3201034,
+        "property_i_d": 3201034,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201035,
+        "item_i_d": 3201035,
+        "property_i_d": 3201035,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201036,
+        "item_i_d": 3201036,
+        "property_i_d": 3201036,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201037,
+        "item_i_d": 3201037,
+        "property_i_d": 3201037,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201038,
+        "item_i_d": 3201038,
+        "property_i_d": 3201038,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201039,
+        "item_i_d": 3201039,
+        "property_i_d": 3201039,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3201040,
+        "item_i_d": 3201040,
+        "property_i_d": 3201040,
+        "new_weapon_type": 11,
+        "new_weapon_system_type": 2,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301001,
+        "item_i_d": 3301001,
+        "property_i_d": 3301001,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301002,
+        "item_i_d": 3301002,
+        "property_i_d": 3301002,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301003,
+        "item_i_d": 3301003,
+        "property_i_d": 3301003,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301004,
+        "item_i_d": 3301004,
+        "property_i_d": 3301004,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301005,
+        "item_i_d": 3301005,
+        "property_i_d": 3301005,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3301006,
+        "item_i_d": 3301006,
+        "property_i_d": 3301006,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 2
+      },
+      {
+        "i_d": 3301007,
+        "item_i_d": 3301007,
+        "property_i_d": 3301007,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301008,
+        "item_i_d": 3301008,
+        "property_i_d": 3301008,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301009,
+        "item_i_d": 3301009,
+        "property_i_d": 3301009,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301010,
+        "item_i_d": 3301010,
+        "property_i_d": 3301010,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301011,
+        "item_i_d": 3301011,
+        "property_i_d": 3301011,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301012,
+        "item_i_d": 3301012,
+        "property_i_d": 3301012,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301013,
+        "item_i_d": 3301013,
+        "property_i_d": 3301013,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301014,
+        "item_i_d": 3301014,
+        "property_i_d": 3301014,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301015,
+        "item_i_d": 3301015,
+        "property_i_d": 3301015,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301016,
+        "item_i_d": 3301016,
+        "property_i_d": 3301016,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301017,
+        "item_i_d": 3301017,
+        "property_i_d": 3301017,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301018,
+        "item_i_d": 3301018,
+        "property_i_d": 3301018,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301019,
+        "item_i_d": 3301019,
+        "property_i_d": 3301019,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301020,
+        "item_i_d": 3301020,
+        "property_i_d": 3301020,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301021,
+        "item_i_d": 3301021,
+        "property_i_d": 3301021,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301022,
+        "item_i_d": 3301022,
+        "property_i_d": 3301022,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301023,
+        "item_i_d": 3301023,
+        "property_i_d": 3301023,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301024,
+        "item_i_d": 3301024,
+        "property_i_d": 3301024,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301025,
+        "item_i_d": 3301025,
+        "property_i_d": 3301025,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301026,
+        "item_i_d": 3301026,
+        "property_i_d": 3301026,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301027,
+        "item_i_d": 3301027,
+        "property_i_d": 3301027,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301028,
+        "item_i_d": 3301028,
+        "property_i_d": 3301028,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301029,
+        "item_i_d": 3301029,
+        "property_i_d": 3301029,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301030,
+        "item_i_d": 3301030,
+        "property_i_d": 3301030,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301031,
+        "item_i_d": 3301031,
+        "property_i_d": 3301031,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301032,
+        "item_i_d": 3301032,
+        "property_i_d": 3301032,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301033,
+        "item_i_d": 3301033,
+        "property_i_d": 3301033,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301034,
+        "item_i_d": 3301034,
+        "property_i_d": 3301034,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301035,
+        "item_i_d": 3301035,
+        "property_i_d": 3301035,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301036,
+        "item_i_d": 3301036,
+        "property_i_d": 3301036,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301037,
+        "item_i_d": 3301037,
+        "property_i_d": 3301037,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301038,
+        "item_i_d": 3301038,
+        "property_i_d": 3301038,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301039,
+        "item_i_d": 3301039,
+        "property_i_d": 3301039,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3301040,
+        "item_i_d": 3301040,
+        "property_i_d": 3301040,
+        "new_weapon_type": 12,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303001,
+        "item_i_d": 3303001,
+        "property_i_d": 3303001,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303002,
+        "item_i_d": 3303002,
+        "property_i_d": 3303002,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303003,
+        "item_i_d": 3303003,
+        "property_i_d": 3303003,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303004,
+        "item_i_d": 3303004,
+        "property_i_d": 3303004,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303005,
+        "item_i_d": 3303005,
+        "property_i_d": 3303005,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303006,
+        "item_i_d": 3303006,
+        "property_i_d": 3303006,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303007,
+        "item_i_d": 3303007,
+        "property_i_d": 3303007,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303008,
+        "item_i_d": 3303008,
+        "property_i_d": 3303008,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303009,
+        "item_i_d": 3303009,
+        "property_i_d": 3303009,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303010,
+        "item_i_d": 3303010,
+        "property_i_d": 3303010,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303011,
+        "item_i_d": 3303011,
+        "property_i_d": 3303011,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303012,
+        "item_i_d": 3303012,
+        "property_i_d": 3303012,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303013,
+        "item_i_d": 3303013,
+        "property_i_d": 3303013,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303014,
+        "item_i_d": 3303014,
+        "property_i_d": 3303014,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303015,
+        "item_i_d": 3303015,
+        "property_i_d": 3303015,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303016,
+        "item_i_d": 3303016,
+        "property_i_d": 3303016,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303017,
+        "item_i_d": 3303017,
+        "property_i_d": 3303017,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303018,
+        "item_i_d": 3303018,
+        "property_i_d": 3303018,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303019,
+        "item_i_d": 3303019,
+        "property_i_d": 3303019,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303020,
+        "item_i_d": 3303020,
+        "property_i_d": 3303020,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303021,
+        "item_i_d": 3303021,
+        "property_i_d": 3303021,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303022,
+        "item_i_d": 3303022,
+        "property_i_d": 3303022,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303023,
+        "item_i_d": 3303023,
+        "property_i_d": 3303023,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303024,
+        "item_i_d": 3303024,
+        "property_i_d": 3303024,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303025,
+        "item_i_d": 3303025,
+        "property_i_d": 3303025,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303026,
+        "item_i_d": 3303026,
+        "property_i_d": 3303026,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303027,
+        "item_i_d": 3303027,
+        "property_i_d": 3303027,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303028,
+        "item_i_d": 3303028,
+        "property_i_d": 3303028,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303029,
+        "item_i_d": 3303029,
+        "property_i_d": 3303029,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303030,
+        "item_i_d": 3303030,
+        "property_i_d": 3303030,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303031,
+        "item_i_d": 3303031,
+        "property_i_d": 3303031,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303032,
+        "item_i_d": 3303032,
+        "property_i_d": 3303032,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303033,
+        "item_i_d": 3303033,
+        "property_i_d": 3303033,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303034,
+        "item_i_d": 3303034,
+        "property_i_d": 3303034,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303035,
+        "item_i_d": 3303035,
+        "property_i_d": 3303035,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303036,
+        "item_i_d": 3303036,
+        "property_i_d": 3303036,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303037,
+        "item_i_d": 3303037,
+        "property_i_d": 3303037,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303038,
+        "item_i_d": 3303038,
+        "property_i_d": 3303038,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303039,
+        "item_i_d": 3303039,
+        "property_i_d": 3303039,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3303040,
+        "item_i_d": 3303040,
+        "property_i_d": 3303040,
+        "new_weapon_type": 16,
+        "new_weapon_system_type": 3,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401001,
+        "item_i_d": 3401001,
+        "property_i_d": 3401001,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401002,
+        "item_i_d": 3401002,
+        "property_i_d": 3401002,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401003,
+        "item_i_d": 3401003,
+        "property_i_d": 3401003,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401004,
+        "item_i_d": 3401004,
+        "property_i_d": 3401004,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401005,
+        "item_i_d": 3401005,
+        "property_i_d": 3401005,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401006,
+        "item_i_d": 3401006,
+        "property_i_d": 3401006,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401007,
+        "item_i_d": 3401007,
+        "property_i_d": 3401007,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401008,
+        "item_i_d": 3401008,
+        "property_i_d": 3401008,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401009,
+        "item_i_d": 3401009,
+        "property_i_d": 3401009,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401010,
+        "item_i_d": 3401010,
+        "property_i_d": 3401010,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401011,
+        "item_i_d": 3401011,
+        "property_i_d": 3401011,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401012,
+        "item_i_d": 3401012,
+        "property_i_d": 3401012,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401013,
+        "item_i_d": 3401013,
+        "property_i_d": 3401013,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401014,
+        "item_i_d": 3401014,
+        "property_i_d": 3401014,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401015,
+        "item_i_d": 3401015,
+        "property_i_d": 3401015,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401016,
+        "item_i_d": 3401016,
+        "property_i_d": 3401016,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401017,
+        "item_i_d": 3401017,
+        "property_i_d": 3401017,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401018,
+        "item_i_d": 3401018,
+        "property_i_d": 3401018,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401019,
+        "item_i_d": 3401019,
+        "property_i_d": 3401019,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401020,
+        "item_i_d": 3401020,
+        "property_i_d": 3401020,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401021,
+        "item_i_d": 3401021,
+        "property_i_d": 3401021,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401022,
+        "item_i_d": 3401022,
+        "property_i_d": 3401022,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401023,
+        "item_i_d": 3401023,
+        "property_i_d": 3401023,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401024,
+        "item_i_d": 3401024,
+        "property_i_d": 3401024,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401025,
+        "item_i_d": 3401025,
+        "property_i_d": 3401025,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401026,
+        "item_i_d": 3401026,
+        "property_i_d": 3401026,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401027,
+        "item_i_d": 3401027,
+        "property_i_d": 3401027,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401028,
+        "item_i_d": 3401028,
+        "property_i_d": 3401028,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401029,
+        "item_i_d": 3401029,
+        "property_i_d": 3401029,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401030,
+        "item_i_d": 3401030,
+        "property_i_d": 3401030,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401031,
+        "item_i_d": 3401031,
+        "property_i_d": 3401031,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401032,
+        "item_i_d": 3401032,
+        "property_i_d": 3401032,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401033,
+        "item_i_d": 3401033,
+        "property_i_d": 3401033,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401034,
+        "item_i_d": 3401034,
+        "property_i_d": 3401034,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401035,
+        "item_i_d": 3401035,
+        "property_i_d": 3401035,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401036,
+        "item_i_d": 3401036,
+        "property_i_d": 3401036,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401037,
+        "item_i_d": 3401037,
+        "property_i_d": 3401037,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401038,
+        "item_i_d": 3401038,
+        "property_i_d": 3401038,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401039,
+        "item_i_d": 3401039,
+        "property_i_d": 3401039,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3401040,
+        "item_i_d": 3401040,
+        "property_i_d": 3401040,
+        "new_weapon_type": 2,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402001,
+        "item_i_d": 3402001,
+        "property_i_d": 3402001,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402002,
+        "item_i_d": 3402002,
+        "property_i_d": 3402002,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402003,
+        "item_i_d": 3402003,
+        "property_i_d": 3402003,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402004,
+        "item_i_d": 3402004,
+        "property_i_d": 3402004,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402005,
+        "item_i_d": 3402005,
+        "property_i_d": 3402005,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402006,
+        "item_i_d": 3402006,
+        "property_i_d": 3402006,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402007,
+        "item_i_d": 3402007,
+        "property_i_d": 3402007,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402008,
+        "item_i_d": 3402008,
+        "property_i_d": 3402008,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402009,
+        "item_i_d": 3402009,
+        "property_i_d": 3402009,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402010,
+        "item_i_d": 3402010,
+        "property_i_d": 3402010,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402011,
+        "item_i_d": 3402011,
+        "property_i_d": 3402011,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402012,
+        "item_i_d": 3402012,
+        "property_i_d": 3402012,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402013,
+        "item_i_d": 3402013,
+        "property_i_d": 3402013,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402014,
+        "item_i_d": 3402014,
+        "property_i_d": 3402014,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402015,
+        "item_i_d": 3402015,
+        "property_i_d": 3402015,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402016,
+        "item_i_d": 3402016,
+        "property_i_d": 3402016,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402017,
+        "item_i_d": 3402017,
+        "property_i_d": 3402017,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402018,
+        "item_i_d": 3402018,
+        "property_i_d": 3402018,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402019,
+        "item_i_d": 3402019,
+        "property_i_d": 3402019,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402020,
+        "item_i_d": 3402020,
+        "property_i_d": 3402020,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402021,
+        "item_i_d": 3402021,
+        "property_i_d": 3402021,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402022,
+        "item_i_d": 3402022,
+        "property_i_d": 3402022,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402023,
+        "item_i_d": 3402023,
+        "property_i_d": 3402023,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402024,
+        "item_i_d": 3402024,
+        "property_i_d": 3402024,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402025,
+        "item_i_d": 3402025,
+        "property_i_d": 3402025,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402026,
+        "item_i_d": 3402026,
+        "property_i_d": 3402026,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402027,
+        "item_i_d": 3402027,
+        "property_i_d": 3402027,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402028,
+        "item_i_d": 3402028,
+        "property_i_d": 3402028,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402029,
+        "item_i_d": 3402029,
+        "property_i_d": 3402029,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402030,
+        "item_i_d": 3402030,
+        "property_i_d": 3402030,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402031,
+        "item_i_d": 3402031,
+        "property_i_d": 3402031,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402032,
+        "item_i_d": 3402032,
+        "property_i_d": 3402032,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402033,
+        "item_i_d": 3402033,
+        "property_i_d": 3402033,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402034,
+        "item_i_d": 3402034,
+        "property_i_d": 3402034,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402035,
+        "item_i_d": 3402035,
+        "property_i_d": 3402035,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402036,
+        "item_i_d": 3402036,
+        "property_i_d": 3402036,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402037,
+        "item_i_d": 3402037,
+        "property_i_d": 3402037,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402038,
+        "item_i_d": 3402038,
+        "property_i_d": 3402038,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402039,
+        "item_i_d": 3402039,
+        "property_i_d": 3402039,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3402040,
+        "item_i_d": 3402040,
+        "property_i_d": 3402040,
+        "new_weapon_type": 17,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403001,
+        "item_i_d": 3403001,
+        "property_i_d": 3403001,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403002,
+        "item_i_d": 3403002,
+        "property_i_d": 3403002,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403003,
+        "item_i_d": 3403003,
+        "property_i_d": 3403003,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403004,
+        "item_i_d": 3403004,
+        "property_i_d": 3403004,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403005,
+        "item_i_d": 3403005,
+        "property_i_d": 3403005,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403006,
+        "item_i_d": 3403006,
+        "property_i_d": 3403006,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403007,
+        "item_i_d": 3403007,
+        "property_i_d": 3403007,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403008,
+        "item_i_d": 3403008,
+        "property_i_d": 3403008,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403009,
+        "item_i_d": 3403009,
+        "property_i_d": 3403009,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403010,
+        "item_i_d": 3403010,
+        "property_i_d": 3403010,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403011,
+        "item_i_d": 3403011,
+        "property_i_d": 3403011,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403012,
+        "item_i_d": 3403012,
+        "property_i_d": 3403012,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403013,
+        "item_i_d": 3403013,
+        "property_i_d": 3403013,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403014,
+        "item_i_d": 3403014,
+        "property_i_d": 3403014,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403015,
+        "item_i_d": 3403015,
+        "property_i_d": 3403015,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403016,
+        "item_i_d": 3403016,
+        "property_i_d": 3403016,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403017,
+        "item_i_d": 3403017,
+        "property_i_d": 3403017,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403018,
+        "item_i_d": 3403018,
+        "property_i_d": 3403018,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403019,
+        "item_i_d": 3403019,
+        "property_i_d": 3403019,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403020,
+        "item_i_d": 3403020,
+        "property_i_d": 3403020,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403021,
+        "item_i_d": 3403021,
+        "property_i_d": 3403021,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403022,
+        "item_i_d": 3403022,
+        "property_i_d": 3403022,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403023,
+        "item_i_d": 3403023,
+        "property_i_d": 3403023,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403024,
+        "item_i_d": 3403024,
+        "property_i_d": 3403024,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403025,
+        "item_i_d": 3403025,
+        "property_i_d": 3403025,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403026,
+        "item_i_d": 3403026,
+        "property_i_d": 3403026,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403027,
+        "item_i_d": 3403027,
+        "property_i_d": 3403027,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403028,
+        "item_i_d": 3403028,
+        "property_i_d": 3403028,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403029,
+        "item_i_d": 3403029,
+        "property_i_d": 3403029,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403030,
+        "item_i_d": 3403030,
+        "property_i_d": 3403030,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403031,
+        "item_i_d": 3403031,
+        "property_i_d": 3403031,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403032,
+        "item_i_d": 3403032,
+        "property_i_d": 3403032,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403033,
+        "item_i_d": 3403033,
+        "property_i_d": 3403033,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403034,
+        "item_i_d": 3403034,
+        "property_i_d": 3403034,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403035,
+        "item_i_d": 3403035,
+        "property_i_d": 3403035,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403036,
+        "item_i_d": 3403036,
+        "property_i_d": 3403036,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403037,
+        "item_i_d": 3403037,
+        "property_i_d": 3403037,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403038,
+        "item_i_d": 3403038,
+        "property_i_d": 3403038,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403039,
+        "item_i_d": 3403039,
+        "property_i_d": 3403039,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      },
+      {
+        "i_d": 3403040,
+        "item_i_d": 3403040,
+        "property_i_d": 3403040,
+        "new_weapon_type": 14,
+        "new_weapon_system_type": 4,
+        "new_spell_form_type": 1
+      }
+    ]
+  },
+  "spell_card_property": {
+    "datas": [
+      {
+        "i_d": 3101001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "spell_i_d": 1010110,
+            "spell_level": 1,
+            "spell_card_up_item": [
+              {
+                "need_item_i_d": 3001,
+                "need_item_count": 1
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "spell_i_d": 1010110,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010120,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010121,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010125,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010132,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010133,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010135,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010137,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010139,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010145,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010160,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010165,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010250,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1010260,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3101040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020121,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020122,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020132,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020134,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020135,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020137,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040121,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020210,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020220,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020310,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020320,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020330,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1020340,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3102040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030121,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030126,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030133,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030135,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030150,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030230,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030240,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030137,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030160,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030260,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030350,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1030370,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3103040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040130,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040200,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040210,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040220,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040221,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040230,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040245,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040260,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040150,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040160,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040300,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040310,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040320,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040330,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040340,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 1040350,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3104040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 2010110,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 2010120,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 2010123,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 2010131,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3201040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010130,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010135,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010200,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010251,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010260,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010270,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010221,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010231,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010141,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010151,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3010161,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3301040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030120,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030130,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030150,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030160,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 3030170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3303040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010100,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010122,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010123,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010200,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010201,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010202,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010300,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010301,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010302,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010310,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010330,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010331,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010340,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3401040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010120,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010130,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010210,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010220,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010230,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010240,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010241,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010250,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010251,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010260,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010350,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010360,
+            "spell_level": 1
+          },
+          {
+            "level": 2,
+            "spell_i_d": 4010360,
+            "spell_level": 2
+          },
+          {
+            "level": 3,
+            "spell_i_d": 4010360,
+            "spell_level": 3
+          },
+          {
+            "level": 4,
+            "spell_i_d": 4010360,
+            "spell_level": 4
+          },
+          {
+            "level": 5,
+            "spell_i_d": 4010360,
+            "spell_level": 5
+          },
+          {
+            "level": 6,
+            "spell_i_d": 4010360,
+            "spell_level": 6
+          },
+          {
+            "level": 7,
+            "spell_i_d": 4010360,
+            "spell_level": 7
+          },
+          {
+            "level": 8,
+            "spell_i_d": 4010360,
+            "spell_level": 8
+          },
+          {
+            "level": 9,
+            "spell_i_d": 4010360,
+            "spell_level": 9
+          },
+          {
+            "level": 10,
+            "spell_i_d": 4010360,
+            "spell_level": 10
+          }
+        ]
+      },
+      {
+        "i_d": 3402013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010350,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010360,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3402040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403001,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4010140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403002,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030132,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403003,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030133,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403004,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030134,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403005,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030135,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403006,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030137,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403007,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030150,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403008,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030250,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403009,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030140,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403010,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030170,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403011,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403012,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403013,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403014,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403015,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403016,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403017,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403018,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403019,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403020,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403021,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030300,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403022,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030310,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403023,
+        "spell_card_property_group_info": [
+          {
+            "level": 1,
+            "spell_i_d": 4030320,
+            "spell_level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403024,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403025,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403026,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403027,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403028,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403029,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403030,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403031,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403032,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403033,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403034,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403035,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403036,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403037,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403038,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403039,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 3403040,
+        "spell_card_property_group_info": [
+          {
+            "level": 1
+          }
+        ]
+      }
+    ]
+  }
+}

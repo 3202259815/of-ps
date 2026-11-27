@@ -1,0 +1,116 @@
+{
+  "furniture": {
+    "datas": [
+      {
+        "i_d": 1,
+        "item_i_d": 5043114,
+        "collection_i_d": 7000140,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060001,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 2,
+        "item_i_d": 5043133,
+        "collection_i_d": 7000150,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060002,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 3,
+        "item_i_d": 5043134,
+        "collection_i_d": 7000160,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060003,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 4,
+        "item_i_d": 5043135,
+        "collection_i_d": 7000170,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060004,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 5,
+        "item_i_d": 5043206,
+        "collection_i_d": 7000180,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060005,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 6,
+        "item_i_d": 5043210,
+        "collection_i_d": 7000190,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060006,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 7,
+        "item_i_d": 5043413,
+        "collection_i_d": 7000200,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060007,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 8,
+        "item_i_d": 5043417,
+        "collection_i_d": 7000210,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060008,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 9,
+        "item_i_d": 5043515,
+        "collection_i_d": 7000220,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060009,
+            "need_item_count": 50
+          }
+        ]
+      },
+      {
+        "i_d": 10,
+        "item_i_d": 5044208,
+        "collection_i_d": 7000230,
+        "items": [
+          {
+            "furniture_fragment_i_d": 5060010,
+            "need_item_count": 50
+          }
+        ]
+      }
+    ]
+  }
+}

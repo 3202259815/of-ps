@@ -1,0 +1,1517 @@
+{
+  "msg_code_tips": {
+    "datas": [
+      {
+        "key": "StatusCode_NONE"
+      },
+      {
+        "i_d": 1,
+        "key": "StatusCode_OK",
+        "chinese_simplified": "成功"
+      },
+      {
+        "i_d": 2,
+        "key": "StatusCode_FAIL",
+        "chinese_simplified": "失败"
+      },
+      {
+        "i_d": 3,
+        "key": "StatusCode_BAD_REQ",
+        "chinese_simplified": "错误请求或参数错误"
+      },
+      {
+        "i_d": 4,
+        "key": "StatusCode_SYS_ERR",
+        "chinese_simplified": "服务器内部错误"
+      },
+      {
+        "i_d": 5,
+        "key": "StatusCode_ACCOUNT_UNAUTH",
+        "chinese_simplified": "账号未验证"
+      },
+      {
+        "i_d": 6,
+        "key": "StatusCode_ILLEGAL_LEN",
+        "chinese_simplified": "长度错误"
+      },
+      {
+        "i_d": 7,
+        "key": "StatusCode_ILLEGAL_CHAR",
+        "chinese_simplified": "字符格式错误"
+      },
+      {
+        "i_d": 8,
+        "key": "StatusCode_BAD_WORD",
+        "chinese_simplified": "不允许输入敏感词汇"
+      },
+      {
+        "i_d": 9,
+        "key": "StatusCode_DUPLICATED_NAME",
+        "chinese_simplified": "重复的名字"
+      },
+      {
+        "i_d": 10,
+        "key": "StatusCode_SERVER_IS_FULL",
+        "chinese_simplified": "服务器人数已满"
+      },
+      {
+        "i_d": 11,
+        "key": "StatusCode_PLAYER_NOT_FOUND",
+        "chinese_simplified": "玩家不存在"
+      },
+      {
+        "i_d": 12,
+        "key": "StatusCode_CFG_NOT_FOUND",
+        "chinese_simplified": "配置不存在"
+      },
+      {
+        "i_d": 13,
+        "key": "StatusCode_ITEM_NOT_ENOUGH",
+        "chinese_simplified": "道具数量不足"
+      },
+      {
+        "i_d": 14,
+        "key": "StatusCode_ACCOUNT_BANNED",
+        "chinese_simplified": "账号封禁中"
+      },
+      {
+        "i_d": 15,
+        "key": "StatusCode_REGISTER_LIMIT",
+        "chinese_simplified": "注册限制"
+      },
+      {
+        "i_d": 16,
+        "key": "StatusCode_PLAYER_NOT_IN_CHANNEL_WAIT",
+        "chinese_simplified": "玩家不在该场景频道的等待加入列表中"
+      },
+      {
+        "i_d": 17,
+        "key": "StatusCode_PLAYER_NOT_IN_CHANNEL",
+        "chinese_simplified": "玩家不在该场景频道中"
+      },
+      {
+        "i_d": 20,
+        "key": "StatusCode_QUICK_CHECK_FAIL",
+        "chinese_simplified": "SDK登录校验失败"
+      },
+      {
+        "i_d": 21,
+        "key": "StatusCode_INVALID_TOKEN",
+        "chinese_simplified": "无效的token"
+      },
+      {
+        "i_d": 22,
+        "key": "StatusCode_ACCOUNT_NAME_NOT_BIND",
+        "chinese_simplified": "账号未绑定"
+      },
+      {
+        "i_d": 23,
+        "key": "StatusCode_ACCOUNT_NAME_REPEAT_BIND",
+        "chinese_simplified": "账号重复绑定"
+      },
+      {
+        "i_d": 24,
+        "key": "StatusCode_ACCOUNT_NAME_BIND_FAIL",
+        "chinese_simplified": "账号绑定失败"
+      },
+      {
+        "i_d": 30,
+        "key": " StatusCode_MODULE_CLOSE",
+        "chinese_simplified": " 功能已关闭"
+      },
+      {
+        "i_d": 205,
+        "key": "StatusCode_SERVERUNDERMAINTENANCE",
+        "chinese_simplified": "目前服务器维护中请关注官方公告~(ˇωˇ」∠)_"
+      },
+      {
+        "i_d": 207,
+        "key": "StatusCode_REPEAT_GET_REWARD",
+        "chinese_simplified": "重复领奖"
+      },
+      {
+        "i_d": 210,
+        "key": "StatusCode_MUTED_PLAYER_CHAT_FAIL",
+        "chinese_simplified": "玩家已被禁言"
+      },
+      {
+        "i_d": 211,
+        "key": "StatusCode_FRIEND_SEARCH_FAIL",
+        "chinese_simplified": "玩家已被禁止搜索好友"
+      },
+      {
+        "i_d": 212,
+        "key": "StatusCode_FRIEND_ADD_FAIL",
+        "chinese_simplified": "玩家已被禁止添加好友"
+      },
+      {
+        "i_d": 220,
+        "key": "StatusCode_PLAYER_LEVEL_LIMIT",
+        "chinese_simplified": "玩家等级限制"
+      },
+      {
+        "i_d": 226,
+        "key": "StatusCode_SCENE_CHANNEL_IS_FULL",
+        "chinese_simplified": "频道玩家数已满"
+      },
+      {
+        "i_d": 227,
+        "key": "StatusCode_StatusCode_SCENE_CHANNEL_NEED_PASSWORD",
+        "chinese_simplified": "频道需要密码"
+      },
+      {
+        "i_d": 228,
+        "key": "StatusCode_StatusCode_SCENE_CHANNEL_WRONG_PASSWORD",
+        "chinese_simplified": "频道密码错误"
+      },
+      {
+        "i_d": 229,
+        "key": "StatusCode_CANT_JOIN_PLAYER_CURRENT_SCENE_CHANNEL",
+        "chinese_simplified": "无法传送到玩家的场景频道"
+      },
+      {
+        "i_d": 234,
+        "key": "StatusCode_SCENE_NOT_UNLOCK",
+        "chinese_simplified": "场景未解锁"
+      },
+      {
+        "i_d": 235,
+        "key": "StatusCode_SCENE_CHANNEL_PRIVATE",
+        "chinese_simplified": "场景频道是私密的"
+      },
+      {
+        "i_d": 236,
+        "key": "StatusCode_SCENE_CHANNEL_NOT_EXIST",
+        "chinese_simplified": "场景频道不存在"
+      },
+      {
+        "i_d": 237,
+        "key": "StatusCode_SCENE_PUBLIC_CHANNEL_NOT_UNLOCK",
+        "chinese_simplified": "完成初入空间任务后解锁频道切换"
+      },
+      {
+        "i_d": 238,
+        "key": "StatusCode_CHAT_CHANNEL_NOT_EXIST",
+        "chinese_simplified": "频道不存在"
+      },
+      {
+        "i_d": 240,
+        "key": "StatusCode_REQUESTS_TOO_FREQUENT",
+        "chinese_simplified": "请求过于频繁，请{0}后尝试"
+      },
+      {
+        "i_d": 250,
+        "key": "StatusCode_PlayerLifeSkillNotExist",
+        "chinese_simplified": "玩家生活技能不存在"
+      },
+      {
+        "i_d": 251,
+        "key": "StatusCode_LifeLvNotEnough",
+        "chinese_simplified": "玩家生活等级不够"
+      },
+      {
+        "i_d": 282,
+        "key": "StatusCode_AreaUnlock",
+        "chinese_simplified": "区域未解锁"
+      },
+      {
+        "i_d": 302,
+        "key": "StatusCode_DungeonUnlock",
+        "chinese_simplified": "区域未解锁"
+      },
+      {
+        "i_d": 305,
+        "key": "StatusCode_PlayerNotInDungeon",
+        "chinese_simplified": "玩家不在副本中"
+      },
+      {
+        "i_d": 303,
+        "key": "StatusCode_DungeonTeamFull",
+        "chinese_simplified": "副本队伍已满"
+      },
+      {
+        "i_d": 304,
+        "key": "StatusCode_DungeonTeamError",
+        "chinese_simplified": "副本队伍信息错误"
+      },
+      {
+        "i_d": 308,
+        "key": "StatusCode_DungeonCantReward",
+        "chinese_simplified": "副本完成奖励未满足领取条件"
+      },
+      {
+        "i_d": 309,
+        "key": "StatusCode_DungeonCheat",
+        "chinese_simplified": "副本作弊"
+      },
+      {
+        "i_d": 310,
+        "key": "StatusCode_Activity_Close",
+        "chinese_simplified": "活动已结束"
+      },
+      {
+        "i_d": 380,
+        "key": "StatusCode_POSTER_MAX_STAR",
+        "chinese_simplified": "礼装已到达最大星级"
+      },
+      {
+        "i_d": 381,
+        "key": "StatusCode_POSTER_ILLUSTRATION_NOT_ACTIVE",
+        "chinese_simplified": "礼装图鉴未激活"
+      },
+      {
+        "i_d": 382,
+        "key": "StatusCode_POSTER_ILLUSTRATION_REWARDED",
+        "chinese_simplified": "礼装图鉴奖励已领取"
+      },
+      {
+        "i_d": 421,
+        "key": "StatusCode_MAIL_NO_REWARD",
+        "chinese_simplified": "邮件无可领取的奖励"
+      },
+      {
+        "i_d": 422,
+        "key": "StatusCode_MAIL_NOT_EXIST",
+        "chinese_simplified": "邮件不存在"
+      },
+      {
+        "i_d": 423,
+        "key": "StatusCode_MAIL_COLLECT_NUM_LIMIT",
+        "chinese_simplified": "邮件收藏数量已达上限"
+      },
+      {
+        "i_d": 430,
+        "key": "StatusCode_CharNotExist",
+        "chinese_simplified": "角色不存在"
+      },
+      {
+        "i_d": 470,
+        "key": "StatusCode_ChallengeNotEnd",
+        "chinese_simplified": "挑战未结束"
+      },
+      {
+        "i_d": 471,
+        "key": "StatusCode_ChallengeNotStart",
+        "chinese_simplified": "挑战未开启"
+      },
+      {
+        "i_d": 491,
+        "key": "StatusCode_SHOP_ITEM_ALREADY_IN_BAG",
+        "chinese_simplified": "当前商品已在背包中"
+      },
+      {
+        "i_d": 493,
+        "key": "StatusCode_SHOP_SINGLE_BUY_NUM_LIMIT",
+        "chinese_simplified": "商品单次购买数量超过上限"
+      },
+      {
+        "i_d": 494,
+        "key": "StatusCode_SHOP_GRID_BUY_NUM_LIMIT",
+        "chinese_simplified": "商品购买次数已达到上限"
+      },
+      {
+        "i_d": 510,
+        "key": "StatusCode_GamePlayRewardLimit",
+        "chinese_simplified": "奖励已领取"
+      },
+      {
+        "i_d": 515,
+        "key": "StatusCode_RiddleNotEnd",
+        "chinese_simplified": "解谜未结束"
+      },
+      {
+        "i_d": 516,
+        "key": "StatusCode_RiddleNotStart",
+        "chinese_simplified": "解谜未开启"
+      },
+      {
+        "i_d": 570,
+        "key": "StatusCode_HasUnlocked",
+        "chinese_simplified": "已解锁"
+      },
+      {
+        "i_d": 581,
+        "key": "StatusCode_ChairSeatTaken",
+        "chinese_simplified": "该座位已有人"
+      },
+      {
+        "i_d": 582,
+        "key": "StatusCode_PlayerSitOtherChair",
+        "chinese_simplified": "玩家已经坐在其他座位"
+      },
+      {
+        "i_d": 583,
+        "key": "StatusCode_PlayerChairRemoved",
+        "chinese_simplified": "该座位已移除"
+      },
+      {
+        "i_d": 641,
+        "key": "StatusCode_WORLD_LEVEL_NOW_IN",
+        "chinese_simplified": "世界等级已激活"
+      },
+      {
+        "i_d": 642,
+        "key": "StatusCode_WORLD_LEVEL_LOCKED",
+        "chinese_simplified": "世界等级未解锁"
+      },
+      {
+        "i_d": 643,
+        "key": "StatusCode_WORLD_SWITCH_FAIL",
+        "chinese_simplified": "世界等级激活失败"
+      },
+      {
+        "i_d": 644,
+        "key": "StatusCode_WORLD_LEVEL_ALREADY_UNLOCK",
+        "chinese_simplified": "世界等级已解锁"
+      },
+      {
+        "i_d": 645,
+        "key": "StatusCode_WORLD_LEVEL_ACHIEVE_NOT_FINISH",
+        "chinese_simplified": "世界等级成就未完成"
+      },
+      {
+        "i_d": 646,
+        "key": "StatusCode_WORLD_LEVEL_UNLOCK_FAIL",
+        "chinese_simplified": "世界等级解锁失败"
+      },
+      {
+        "i_d": 660,
+        "key": "StatusCode_NotFinishAllTask",
+        "chinese_simplified": "任务未完成"
+      },
+      {
+        "i_d": 661,
+        "key": "StatusCode_AlreadyGotReward",
+        "chinese_simplified": "奖励已领取过"
+      },
+      {
+        "i_d": 693,
+        "key": "StatusCode_EXPLORE_IN_PROGRESS",
+        "chinese_simplified": "探索已经存在"
+      },
+      {
+        "i_d": 692,
+        "key": "StatusCode_EXPLORE_NUM_LIMIT",
+        "chinese_simplified": "探索数量达到最大限制"
+      },
+      {
+        "i_d": 695,
+        "key": "StatusCode_EXPLORE_NOT_EXISTS",
+        "chinese_simplified": "探索不存在"
+      },
+      {
+        "i_d": 697,
+        "key": "StatusCode_EXPLORE_MAX_TIMES",
+        "chinese_simplified": "探索最次数上限"
+      },
+      {
+        "i_d": 698,
+        "key": "StatusCode_EXPLORE_NOT_FINISH",
+        "chinese_simplified": "探索未结束"
+      },
+      {
+        "i_d": 699,
+        "key": "StatusCode_EXPLORE_COLLECT_NOT_FINISH",
+        "chinese_simplified": "探索收集完美奖励未达成"
+      },
+      {
+        "i_d": 711,
+        "key": "StatusCode_INTERVAL_OVERDUE",
+        "chinese_simplified": "间隙存在时间已经过期"
+      },
+      {
+        "i_d": 717,
+        "key": "StatusCode_INTERVAL_NOT_EXISTS",
+        "chinese_simplified": "间隙不存在"
+      },
+      {
+        "i_d": 718,
+        "key": "StatusCode_INTERVAL_FINISH",
+        "chinese_simplified": "间隙已经结束"
+      },
+      {
+        "i_d": 719,
+        "key": "StatusCode_INTERVAL_NOT_FINISH",
+        "chinese_simplified": "间隙未结束"
+      },
+      {
+        "i_d": 780,
+        "key": "StatusCode_FRIEND_NOT_EXISI",
+        "chinese_simplified": "不存在该好友"
+      },
+      {
+        "i_d": 782,
+        "key": "StatusCode_FRIEND_EXIST",
+        "chinese_simplified": "已存在该好友，不允许重复添加"
+      },
+      {
+        "i_d": 783,
+        "key": "StatusCode_FRIEND_LIMIT",
+        "chinese_simplified": "好友已达上限"
+      },
+      {
+        "i_d": 784,
+        "key": "StatusCode_FRIEND_APPLY_LIMIT",
+        "chinese_simplified": "对方好友申请已达上限"
+      },
+      {
+        "i_d": 786,
+        "key": "StatusCode_FRIEND_OTHER_LIMIT",
+        "chinese_simplified": "对方的好友数量已达上限"
+      },
+      {
+        "i_d": 789,
+        "key": "StatusCode_FRIEND_NOT_APPLY",
+        "chinese_simplified": "申请列表没有该玩家"
+      },
+      {
+        "i_d": 790,
+        "key": "StatusCode_FRIEND_BLACK",
+        "chinese_simplified": "你已经在对方黑名单里"
+      },
+      {
+        "i_d": 791,
+        "key": "StatusCode_FRIEND_APPLY_EXIST",
+        "chinese_simplified": "已经申请过该好友"
+      },
+      {
+        "i_d": 827,
+        "key": "StatusCode_EnergyNotEnough",
+        "chinese_simplified": "精力不足"
+      },
+      {
+        "i_d": 828,
+        "key": "StatusCode_IS_FISHING",
+        "chinese_simplified": "钓鱼中,不可再次钓鱼"
+      },
+      {
+        "i_d": 841,
+        "key": "StatusCode_TREASURE_BOX_NOT_EXIST",
+        "chinese_simplified": "宝箱不存在"
+      },
+      {
+        "i_d": 853,
+        "key": "StatusCode_CharacterSkillLvIsMax",
+        "chinese_simplified": "生活技能已达最高等级"
+      },
+      {
+        "i_d": 865,
+        "key": "StatusCode_EnergyBuyTimesLimit",
+        "chinese_simplified": "精力购买达到上限哈哈哈"
+      },
+      {
+        "i_d": 890,
+        "key": "StatusCode_REDEMPTION_CODE_NOT_EXIST",
+        "chinese_simplified": "兑换码不存在"
+      },
+      {
+        "i_d": 891,
+        "key": "StatusCode_REDEMPTION_CODE_USED",
+        "chinese_simplified": "兑换码已被使用"
+      },
+      {
+        "i_d": 892,
+        "key": "StatusCode_REDEMPTION_CODE_NUM_IS_MAX",
+        "chinese_simplified": "兑换码可使用数量已达上限"
+      },
+      {
+        "i_d": 893,
+        "key": "StatusCode_REDEMPTION_CODE_FAIL",
+        "chinese_simplified": "兑换码使用失败"
+      },
+      {
+        "i_d": 902,
+        "key": "StatusCode_FurnitureNumLimit",
+        "chinese_simplified": "家具顶点数量达到上限"
+      },
+      {
+        "i_d": 903,
+        "key": "StatusCode_TIPS_LIKES_NUM_LIMIT",
+        "chinese_simplified": "点赞数达到上限"
+      },
+      {
+        "i_d": 904,
+        "key": "StatusCode_COLLECT_MOON_NOT_MATCH",
+        "chinese_simplified": "月亮配置不匹配"
+      },
+      {
+        "i_d": 1310,
+        "key": "StatusCode_FunctionUnlock",
+        "chinese_simplified": "功能未解锁"
+      },
+      {
+        "i_d": 1318,
+        "key": "StatusCode_GACHA_CARD_POOL_FAIL",
+        "chinese_simplified": "卡池权重失败"
+      },
+      {
+        "i_d": 1319,
+        "key": "StatusCode_GACHA_CARD_REWARD_FAIL",
+        "chinese_simplified": "卡池权重物品失败"
+      },
+      {
+        "i_d": 1320,
+        "key": "StatusCode_GACHA_ERR",
+        "chinese_simplified": "卡池错误"
+      },
+      {
+        "i_d": 1321,
+        "key": "StatusCode_GACHA_UNLOCK",
+        "chinese_simplified": "抽卡未解锁"
+      },
+      {
+        "i_d": 1322,
+        "key": "StatusCode_GACHA_FREE_TIME_NOT_READY",
+        "chinese_simplified": "抽卡免费时间未到"
+      },
+      {
+        "i_d": 1323,
+        "key": "StatusCode_GACHA_TYPE_NOT_EXIST",
+        "chinese_simplified": "卡池已结束"
+      },
+      {
+        "i_d": 1324,
+        "key": "StatusCode_GACHA_NOT_FREE",
+        "chinese_simplified": "卡池没有每日免费"
+      },
+      {
+        "i_d": 1325,
+        "key": "StatusCode_GACHA_NUM_MAX",
+        "chinese_simplified": "卡池抽卡次数达到上限"
+      },
+      {
+        "i_d": 1326,
+        "key": "StatusCode_GACHA_ALREADY_FULL_PICK",
+        "chinese_simplified": "卡池已满选"
+      },
+      {
+        "i_d": 1327,
+        "key": "StatusCode_GACHA_FULL_PICK_NOT_EXIST",
+        "chinese_simplified": "卡池满选不存在"
+      },
+      {
+        "i_d": 1329,
+        "key": "StatusCode_GACHA_ITEM_NOT_EXIST",
+        "chinese_simplified": "卡池奖池道具不存在"
+      },
+      {
+        "i_d": 1330,
+        "key": "StatusCode_HEAD_NOT_UNLOCK",
+        "chinese_simplified": "头像未解锁"
+      },
+      {
+        "i_d": 1331,
+        "key": "StatusCode_ACTION_NOT_UNLOCK",
+        "chinese_simplified": "动作未解锁"
+      },
+      {
+        "i_d": 1332,
+        "key": "StatusCode_PHONE_BACKGROUND_NOT_UNLOCK",
+        "chinese_simplified": "手机背景未解锁"
+      },
+      {
+        "i_d": 1340,
+        "key": "StatusCode_ABILITY_NOT_UNLOCK",
+        "chinese_simplified": "玩家能力未解锁"
+      },
+      {
+        "i_d": 1341,
+        "key": "StatusCode_ABILITY_LEVEL_LIMIT",
+        "chinese_simplified": "玩家能力已到达最大等级"
+      },
+      {
+        "i_d": 1350,
+        "key": "StatusCode_Item_Get_Fail",
+        "chinese_simplified": "获得道具失败"
+      },
+      {
+        "i_d": 1360,
+        "key": "StatusCode_VITALITY_FULL",
+        "chinese_simplified": "体力值已满"
+      },
+      {
+        "i_d": 1361,
+        "key": "StatusCode_VITALITY_BUY_NUM_LIMIT",
+        "chinese_simplified": "体力值今日购买次数已达到上限"
+      },
+      {
+        "i_d": 1373,
+        "key": "StatusCode_IsLearning",
+        "chinese_simplified": "技能学习中"
+      },
+      {
+        "i_d": 1374,
+        "key": "StatusCode_CantLearningTwoSkill",
+        "chinese_simplified": "不能同时学习两个同种类型技能"
+      },
+      {
+        "i_d": 1375,
+        "key": "StatusCode_SkillAlreadyStudy",
+        "chinese_simplified": "技能已经学习完成"
+      },
+      {
+        "i_d": 1376,
+        "key": "StatusCode_ProficiencyNotEnough",
+        "chinese_simplified": "生活熟练度不够"
+      },
+      {
+        "i_d": 1377,
+        "key": "StatusCode_LifeSkillMaxLv",
+        "chinese_simplified": "生活技能等级已达最大"
+      },
+      {
+        "i_d": 1378,
+        "key": "StatusCode_LifeMaxLv",
+        "chinese_simplified": "生活等级已达最大"
+      },
+      {
+        "i_d": 1390,
+        "key": "StatusCode_ABILITY_BADGE_NOT_UNLOCK",
+        "chinese_simplified": "能力徽章未解锁"
+      },
+      {
+        "i_d": 1391,
+        "key": "StatusCode_ABILITY_BADGE_BOX_ALREADY_ACTIVE",
+        "chinese_simplified": "能力徽章格子已激活"
+      },
+      {
+        "i_d": 1392,
+        "key": "StatusCode_ABILITY_BADGE_ACTIVE_PRE_CONDITION_NOT_FINISH",
+        "chinese_simplified": "能力徽章格子解锁前置条件未完成"
+      },
+      {
+        "i_d": 1393,
+        "key": "StatusCode_ABILITY_BADGE_PAGE_REWARDED",
+        "chinese_simplified": "能力徽章页奖励已领取"
+      },
+      {
+        "i_d": 1394,
+        "key": "StatusCode_ABILITY_BADGE_PAGE_BOX_ACTIVE_LIMIT",
+        "chinese_simplified": "能力徽章页激活格子数量不足无法领奖"
+      },
+      {
+        "i_d": 1395,
+        "key": "StatusCode_ABILITY_BADGE_ACHIEVE_NOT_COMPLETE",
+        "chinese_simplified": "能力徽章成就未完成"
+      },
+      {
+        "i_d": 1396,
+        "key": "StatusCode_ABILITY_BADGE_ACHIEVE_REWARDED",
+        "chinese_simplified": "能力徽章成就已领取"
+      },
+      {
+        "i_d": 1400,
+        "key": "StatusCode_RANDOM_DYE_STUFF_NOT_RANDOM_COLOR",
+        "chinese_simplified": "未选择随机染色剂随机颜色"
+      },
+      {
+        "i_d": 1401,
+        "key": "StatusCode_OUTFIT_SCHEME_INDEX_NOT_UNLOCK",
+        "chinese_simplified": "时装染色方案未解锁"
+      },
+      {
+        "i_d": 1402,
+        "key": "StatusCode_OUTFIT_TYPE_DIFFER",
+        "chinese_simplified": "时装类型不同"
+      },
+      {
+        "i_d": 1403,
+        "key": "StatusCode_OUTFIT_SEX_TYPE_DIFFER",
+        "chinese_simplified": "时装性别类型不同"
+      },
+      {
+        "i_d": 1404,
+        "key": "StatusCode_NOT_DYE",
+        "chinese_simplified": "未使用染色剂染色"
+      },
+      {
+        "i_d": 1405,
+        "key": "StatusCode_OUTFIT_SCHEME_INDEX_HAS_UNLOCKED",
+        "chinese_simplified": "时装染色方案重复解锁"
+      },
+      {
+        "i_d": 1410,
+        "key": "StatusCode_Temp_Pack_Is_Full",
+        "chinese_simplified": "探索背包已满,返回罗塔花园广场可将背包道具存放"
+      },
+      {
+        "i_d": 1420,
+        "key": "StatusCode_AREA_NOT_UNLOCK",
+        "chinese_simplified": "区域水晶未解锁"
+      },
+      {
+        "i_d": 1421,
+        "key": "StatusCode_AREA_ALREADY_UNLOCK",
+        "chinese_simplified": "区域水晶已解锁"
+      },
+      {
+        "i_d": 1422,
+        "key": "StatusCode_AREA_LEVEL_LIMIT",
+        "chinese_simplified": "区域水晶已达到最大等级"
+      },
+      {
+        "i_d": 1423,
+        "key": "StatusCode_AREA_LEVEL_QUEST_NOT_FINISH",
+        "chinese_simplified": "区域水晶等级任务未完成"
+      },
+      {
+        "i_d": 1424,
+        "key": "StatusCode_REGION_VOICE_COLLECTED",
+        "chinese_simplified": "区域语音已收集"
+      },
+      {
+        "i_d": 1430,
+        "key": "StatusCode_Map_Completeness_Not_Enough",
+        "chinese_simplified": "地图完成度不足"
+      },
+      {
+        "i_d": 1431,
+        "key": "StatusCode_PreChapter_Not_Finish",
+        "chinese_simplified": "前置章节未完成"
+      },
+      {
+        "i_d": 1432,
+        "key": "StatusCode_PreStory_Not_Finish",
+        "chinese_simplified": "前置剧情未完成"
+      },
+      {
+        "i_d": 1433,
+        "key": "StatusCode_Lv_Not_Enough",
+        "chinese_simplified": "等级不足"
+      },
+      {
+        "i_d": 1440,
+        "key": "StatusCode_NOT_COLLECTED",
+        "chinese_simplified": "收集物未收集"
+      },
+      {
+        "i_d": 1441,
+        "key": "StatusCode_ALREADY_COLLECTED",
+        "chinese_simplified": "收集物已收集"
+      },
+      {
+        "i_d": 1442,
+        "key": "StatusCode_COLLECTION_ALREADY_REWARDED",
+        "chinese_simplified": "收集物奖励已领取"
+      },
+      {
+        "i_d": 1443,
+        "key": "StatusCode_GATHER_WEAPON_NOT_WEAR",
+        "chinese_simplified": "未穿戴采集武器"
+      },
+      {
+        "i_d": 1444,
+        "key": "StatusCode_GATHER_WEAPON_TYPE_DIFFER",
+        "chinese_simplified": "穿戴的采集武器类型不对"
+      },
+      {
+        "i_d": 1445,
+        "key": "StatusCode_GATHER_LIMIT",
+        "chinese_simplified": "采集已达到上限"
+      },
+      {
+        "i_d": 1450,
+        "key": "StatusCode_Quest_Not_Finish",
+        "chinese_simplified": "任务未完成"
+      },
+      {
+        "i_d": 1451,
+        "key": "StatusCode_Not_Payment",
+        "chinese_simplified": "未付费购买"
+      },
+      {
+        "i_d": 1452,
+        "key": "StatusCode_Already_Accept_Quest",
+        "chinese_simplified": "任务已接取"
+      },
+      {
+        "i_d": 1460,
+        "key": "StatusCode_MANUAL_NOT_UNLOCK",
+        "chinese_simplified": "指导旗子未解锁"
+      },
+      {
+        "i_d": 1461,
+        "key": "StatusCode_MANUAL_ALREADY_UNLOCK",
+        "chinese_simplified": "指导旗子已解锁"
+      },
+      {
+        "i_d": 1462,
+        "key": "StatusCode_MANUAL_REWARDED",
+        "chinese_simplified": "指导旗子奖励已领取"
+      },
+      {
+        "i_d": 1470,
+        "key": "StatusCode_CAMP_FIRE_TOO_CLOSE",
+        "chinese_simplified": "营火太近"
+      },
+      {
+        "i_d": 1471,
+        "key": "StatusCode_PARTIAL_EQUIP_DISASSEMBLE_FAILED",
+        "chinese_simplified": "部分装备分解失败"
+      },
+      {
+        "i_d": 1480,
+        "key": "StatusCode_WEAPON_MAX_STRENGTH_LEVEL",
+        "chinese_simplified": "武器已经达到最大强化等级"
+      },
+      {
+        "i_d": 1481,
+        "key": "StatusCode_ARMOR_MAX_STRENGTH_LEVEL",
+        "chinese_simplified": "防具已经达到最大强化等级"
+      },
+      {
+        "i_d": 1490,
+        "key": "StatusCode_CREATE_ORDER_SPEED_ERROR",
+        "chinese_simplified": "创建订单时间过快"
+      },
+      {
+        "i_d": 1500,
+        "key": "StatusCode_BattlePass_Not_Buy",
+        "chinese_simplified": "通行证任务奖励已领取"
+      },
+      {
+        "i_d": 1501,
+        "key": "StatusCode_BattlePass_QuestRewarded",
+        "chinese_simplified": "通行证已达到最大等级"
+      },
+      {
+        "i_d": 1502,
+        "key": "StatusCode_BattlePass_MaxLevel",
+        "chinese_simplified": "通行证已达到最大等级"
+      },
+      {
+        "i_d": 1503,
+        "key": "StatusCode_BattlePass_LevelLimit",
+        "chinese_simplified": "通行证等级不足"
+      },
+      {
+        "i_d": 1504,
+        "key": "StatusCode_BattlePass_LvRewarded",
+        "chinese_simplified": "通行证任务奖励已领取"
+      },
+      {
+        "i_d": 1505,
+        "key": "StatusCode_BattlePass_HasBuy",
+        "chinese_simplified": "通行证任务重复购买"
+      },
+      {
+        "i_d": 1506,
+        "key": "StatusCode_ActivityGift_Rewarded",
+        "chinese_simplified": "礼包已领取"
+      },
+      {
+        "i_d": 1507,
+        "key": "StatusCode_ActivityGift_HasBuy",
+        "chinese_simplified": "礼包重复购买"
+      },
+      {
+        "i_d": 1510,
+        "key": "StatusCode_ACTIVITY_INVITE_NOT_OPEN",
+        "chinese_simplified": "邀请活动未开启"
+      },
+      {
+        "i_d": 1511,
+        "key": "StatusCode_INVITE_CODE_ALREADY_FILLED",
+        "chinese_simplified": "已填写过邀请码"
+      },
+      {
+        "i_d": 1512,
+        "key": "StatusCode_INVITE_CODE_NOT_EXIST",
+        "chinese_simplified": "邀请码不存在"
+      },
+      {
+        "i_d": 1513,
+        "key": "StatusCode_ACTIVITY_INVITE_TASK_CLAIMED",
+        "chinese_simplified": "邀请任务奖励已领取"
+      },
+      {
+        "i_d": 1514,
+        "key": "StatusCode_ACTIVITY_INVITE_TASK_NOT_COMPLETED",
+        "chinese_simplified": "邀请任务状态非完成"
+      },
+      {
+        "i_d": 1515,
+        "key": "StatusCode_INVITE_CODE_IS_SELF",
+        "chinese_simplified": "不能填写自己的邀请码"
+      },
+      {
+        "i_d": 1520,
+        "key": "StatusCode_CANT_REPEATED_PLACED_IN_OTHER_CHANNEL",
+        "chinese_simplified": "非自己的家园,家具不可重复放置"
+      },
+      {
+        "i_d": 1601,
+        "key": "StatusCode_GAME_CARD_CANT_GACHA",
+        "chinese_simplified": "游戏卡带达到抽卡可获得上限"
+      },
+      {
+        "i_d": 1602,
+        "key": "StatusCode_MP_TEAM_NAME_EMPTY",
+        "chinese_simplified": "队伍名称为空"
+      },
+      {
+        "i_d": 1603,
+        "key": "StatusCode_MP_TEAM_NAME_TOO_LONG",
+        "chinese_simplified": "队伍名称过长"
+      },
+      {
+        "i_d": 1604,
+        "key": "StatusCode_MP_TEAM_NAME_PURE_DIGIT",
+        "chinese_simplified": "队伍名称全数字"
+      },
+      {
+        "i_d": 1605,
+        "key": "StatusCode_MP_TEAM_NAME_INVALID",
+        "chinese_simplified": "队伍名称包含非法字符"
+      },
+      {
+        "i_d": 1606,
+        "key": "StatusCode_TEAM_RAID_CARD_INVALID",
+        "chinese_simplified": "卡带无效"
+      },
+      {
+        "i_d": 1607,
+        "key": "StatusCode_MP_CHARACTER_INVALID",
+        "chinese_simplified": "角色无效"
+      },
+      {
+        "i_d": 1608,
+        "key": "StatusCode_MP_NOT_IN_TEAM",
+        "chinese_simplified": "未在队伍中"
+      },
+      {
+        "i_d": 1609,
+        "key": "StatusCode_MP_TEAM_NOT_LEADER",
+        "chinese_simplified": "不是队长"
+      },
+      {
+        "i_d": 1610,
+        "key": "StatusCode_MP_TEAM_FULL = 1610",
+        "chinese_simplified": "队伍已满"
+      },
+      {
+        "i_d": 1611,
+        "key": "StatusCode_MP_INVALID_TEAM_TYPE",
+        "chinese_simplified": "队伍类型无效"
+      },
+      {
+        "i_d": 1612,
+        "key": "StatusCode_MP_PLAY_INFO_UNCHANGED",
+        "chinese_simplified": "玩法信息未变更"
+      },
+      {
+        "i_d": 1613,
+        "key": "StatusCode_MP_ALREADY_IN_TEAM",
+        "chinese_simplified": "已加入了其他游戏厅"
+      },
+      {
+        "i_d": 1614,
+        "key": "StatusCode_MP_TEAM_NAME_UNCHANGED",
+        "chinese_simplified": "名称未变化"
+      },
+      {
+        "i_d": 1615,
+        "key": "StatusCode_MP_TEAM_NOT_EXIST",
+        "chinese_simplified": "游戏厅不存在"
+      },
+      {
+        "i_d": 1616,
+        "key": "StatusCode_MP_IN_TEAM_KICK_CD",
+        "chinese_simplified": "被移除过此游戏厅，暂时无法加入"
+      },
+      {
+        "i_d": 1617,
+        "key": "StatusCode_MP_CHARACTER_UNCHANGED",
+        "chinese_simplified": " 角色未变化"
+      },
+      {
+        "i_d": 1618,
+        "key": "StatusCode_MP_INVITER_NOT_IN_TEAM",
+        "chinese_simplified": "邀请人不在队伍中"
+      },
+      {
+        "i_d": 1619,
+        "key": "StatusCode_MP_INVITEE_IN_TEAM",
+        "chinese_simplified": "被邀请人已经在队伍中"
+      },
+      {
+        "i_d": 1620,
+        "key": "StatusCode_MP_INVITEE_NOT_SAME_CHANNEL",
+        "chinese_simplified": "被邀请人不在同一频道"
+      },
+      {
+        "i_d": 1621,
+        "key": "StatusCode_MP_TEAM_UNCHANGED = 1621",
+        "chinese_simplified": "游戏厅未变更"
+      },
+      {
+        "i_d": 1622,
+        "key": "StatusCode_MP_PLAYER_ALREADY_IN_TEAM",
+        "chinese_simplified": "已经加入了游戏厅"
+      },
+      {
+        "i_d": 1623,
+        "key": "StatusCode_TEAM_RAID_BEACON_NOT_PLACED",
+        "chinese_simplified": "信标未放置"
+      },
+      {
+        "i_d": 1624,
+        "key": "StatusCode_TEAM_RAID_BEACON_DUPLICATED",
+        "chinese_simplified": "信标已存在"
+      },
+      {
+        "i_d": 1625,
+        "key": "StatusCode_TEAM_RAID_MEMBERS_NOT_AROUND",
+        "chinese_simplified": "尚有成员未就位"
+      },
+      {
+        "i_d": 1626,
+        "key": "StatusCode_TEAM_RAID_MEMBERS_NOT_ENOUGH",
+        "chinese_simplified": "当前成员数低于游戏最低要求"
+      },
+      {
+        "i_d": 1627,
+        "key": "StatusCode_TEAM_RAID_NOT_STARTING",
+        "chinese_simplified": "副本信标未启动"
+      },
+      {
+        "i_d": 1628,
+        "key": "StatusCode_PLAYER_NOT_IN_MP_ROOM",
+        "chinese_simplified": "玩家不在该多人房间中"
+      },
+      {
+        "i_d": 1629,
+        "key": "StatusCode_PLAYER_NOT_IN_MP_TEAM",
+        "chinese_simplified": "玩家不在该多人队伍中"
+      },
+      {
+        "i_d": 1630,
+        "key": "StatusCode_GAME_CARD_NOT_EXISTS",
+        "chinese_simplified": "游戏卡带不存在"
+      },
+      {
+        "i_d": 1631,
+        "key": "StatusCode_MP_LEADER_CANNOT_QUIT",
+        "chinese_simplified": "无法退出，需解散游戏厅"
+      },
+      {
+        "i_d": 1632,
+        "key": "StatusCode_NOT_IN_MAIN_CITY",
+        "chinese_simplified": "玩家不在主城"
+      },
+      {
+        "i_d": 1633,
+        "key": "StatusCode_MP_TEAM_RAID_NO_CARD",
+        "chinese_simplified": "由于在游戏中异常离队，300秒内无法再次创建或加入游戏厅"
+      },
+      {
+        "i_d": 1634,
+        "key": "StatusCode_MP_ROOM_ID_DUPLICATED",
+        "chinese_simplified": "多人房间 ID 重复"
+      },
+      {
+        "i_d": 1635,
+        "key": "StatusCode_MP_TEAM_ID_DUPLICATED",
+        "chinese_simplified": "多人队伍 ID 重复"
+      },
+      {
+        "i_d": 1636,
+        "key": "StatusCode_MP_ALREADY_IN_ROOM",
+        "chinese_simplified": "已经在房间中"
+      },
+      {
+        "i_d": 1637,
+        "key": "StatusCode_MP_TEAM_CANNOT_JOIN",
+        "chinese_simplified": "该游戏厅正在集合中无法加入"
+      },
+      {
+        "i_d": 1638,
+        "key": "StatusCode_MP_BEACON_CANNOT_MOVE",
+        "chinese_simplified": "信标不允许移动"
+      },
+      {
+        "i_d": 1639,
+        "key": "StatusCode_MP_BEACON_NOT_EXIST",
+        "chinese_simplified": "信标不存在"
+      },
+      {
+        "i_d": 1640,
+        "key": "StatusCode_MP_BEACON_CANNOT_PLACE",
+        "chinese_simplified": "信标不允许放置"
+      },
+      {
+        "i_d": 1641,
+        "key": "StatusCode_MP_BEACON_CANNOT_RETRIEVE",
+        "chinese_simplified": "信标不允许收回"
+      },
+      {
+        "i_d": 1642,
+        "key": "StatusCode_MP_BEACON_CANNOT_CALL_IN",
+        "chinese_simplified": "信标不允许召集"
+      },
+      {
+        "i_d": 1643,
+        "key": "StatusCode_MP_BEACON_CANNOT_START",
+        "chinese_simplified": "信标不允许启动"
+      },
+      {
+        "i_d": 1644,
+        "key": "StatusCode_MP_TEAM_MEMBER_NOT_ENOUGH",
+        "chinese_simplified": "当前成员数低于游戏最低要求"
+      },
+      {
+        "i_d": 1645,
+        "key": "StatusCode_MP_TEAM_NOT_READY = 1645",
+        "chinese_simplified": "游戏厅未就绪"
+      },
+      {
+        "i_d": 1646,
+        "key": "StatusCode_MP_CANNOT_CHANGE_MODE",
+        "chinese_simplified": "无法切换至指定模式"
+      },
+      {
+        "i_d": 1647,
+        "key": "StatusCode_MP_TEAM_GAME_STARTED",
+        "chinese_simplified": "所在的游戏厅游戏已开始，需等待游戏结束才能进行此操作"
+      },
+      {
+        "i_d": 1648,
+        "key": "StatusCode_MP_MODE_LOCKED",
+        "chinese_simplified": "多人玩法锁定中"
+      },
+      {
+        "i_d": 1649,
+        "key": "StatusCode_MP_LEADER_BLOCKED",
+        "chinese_simplified": "已被房主屏蔽"
+      },
+      {
+        "i_d": 1650,
+        "key": "StatusCode_MP_PLAYER_NOT_IN_ROOM",
+        "chinese_simplified": "玩家不在多人房间中"
+      },
+      {
+        "i_d": 1660,
+        "key": "StatusCode_PLAYER_OPERATION_LOCKED",
+        "chinese_simplified": "玩家操作已被锁定，请输入验证码"
+      },
+      {
+        "i_d": 1669,
+        "key": "StatusCode_PS_MOVE_NORMAL_ERR",
+        "chinese_simplified": "照片分享无法移动普通照片 "
+      },
+      {
+        "i_d": 1670,
+        "key": "StatusCode_PS_UPLOAD_LIMIT",
+        "chinese_simplified": "照片分享上传数量已达上限"
+      },
+      {
+        "i_d": 1671,
+        "key": "StatusCode_PS_NOT_EXIST",
+        "chinese_simplified": "照片分享数据不存在"
+      },
+      {
+        "i_d": 1672,
+        "key": "StatusCode_PS_LIKE_FAIL",
+        "chinese_simplified": "点赞失败"
+      },
+      {
+        "i_d": 1673,
+        "key": "StatusCode_PS_FAVORITE_LIMIT",
+        "chinese_simplified": "照片分享收藏数量已达上限"
+      },
+      {
+        "i_d": 1674,
+        "key": "StatusCode_PS_SEARCH_FAIL",
+        "chinese_simplified": "照片分享查询失败"
+      },
+      {
+        "i_d": 1675,
+        "key": "StatusCode_StatusCode_PS_SEARCH_SPEED_ERROR",
+        "chinese_simplified": "照片分享查询速度过快"
+      },
+      {
+        "i_d": 1676,
+        "key": "StatusCode_PS_TODAY_UPLOAD_LIMIT",
+        "chinese_simplified": "照片分享今日上传数量已达上限"
+      },
+      {
+        "i_d": 1677,
+        "key": "StatusCode_PS_ACTIVITY_NOT_OPEN",
+        "chinese_simplified": "照片分享活动未开启"
+      },
+      {
+        "i_d": 1678,
+        "key": "StatusCode_PS_ACTIVITY_UPLOAD_END",
+        "chinese_simplified": "照片分享活动已截止上传图片"
+      },
+      {
+        "i_d": 1679,
+        "key": "StatusCode_PS_ACTIVITY_UPLOAD_LIMIT",
+        "chinese_simplified": "照片分享活动照片已达到上限"
+      },
+      {
+        "i_d": 1691,
+        "key": "StatusCode_SHOP_EXPRESS_NOT_START",
+        "chinese_simplified": "道具发货未开启"
+      },
+      {
+        "i_d": 1692,
+        "key": "StatusCode_SHOP_EXPRESS_REPEAT_UPLOAD",
+        "chinese_simplified": "不能重复上报发货信息"
+      },
+      {
+        "i_d": 1693,
+        "key": "StatusCode_SHOP_EXPRESS_PHONE_ILLEGAL",
+        "chinese_simplified": "手机号格式错误"
+      },
+      {
+        "i_d": 1694,
+        "key": "StatusCode_SHOP_EXPRESS_ITEM_NOT_ENOUGH",
+        "chinese_simplified": "没有可发放货物"
+      },
+      {
+        "i_d": 1701,
+        "key": "StatusCode_StatusCode_DAILY_WISH_TIMES_NOT_ENOUGH",
+        "chinese_simplified": "没有足够的碎片"
+      },
+      {
+        "i_d": 1702,
+        "key": "StatusCode_TURNTABLE_NO_REWARD_REMAIN",
+        "chinese_simplified": "转盘没有剩余奖品了"
+      },
+      {
+        "i_d": 1703,
+        "key": "StatusCode_GARDEN_PLACE_CHARACTER_CONDITION_NOT_MET",
+        "chinese_simplified": "需要在纪念日中获取5个角色纪念章"
+      },
+      {
+        "i_d": 1704,
+        "key": "StatusCode_CHARACTER_IN_TEAM",
+        "chinese_simplified": "角色在队伍中"
+      },
+      {
+        "i_d": 1705,
+        "key": "StatusCode_GARDEN_PLACE_CHARACTER_ALREADY",
+        "chinese_simplified": "角色已经放置"
+      },
+      {
+        "i_d": 1706,
+        "key": "StatusCode_FURNITURE_NOT_EXIST",
+        "chinese_simplified": "家具不存在"
+      },
+      {
+        "i_d": 1707,
+        "key": "StatusCode_CHARACTER_PLACED",
+        "chinese_simplified": "角色被放置"
+      },
+      {
+        "i_d": 1708,
+        "key": "StatusCode_MULTIPLE_ACTION_INVALID",
+        "chinese_simplified": "多人动作已经失效"
+      },
+      {
+        "i_d": 1709,
+        "key": "StatusCode_FURNITURE_OCCUPY",
+        "chinese_simplified": "家具已被占用"
+      },
+      {
+        "i_d": 1710
+      },
+      {
+        "i_d": 1711,
+        "key": "StatusCode_OTHER_CHALLENGE_STARTED",
+        "chinese_simplified": "已经开启一个挑战"
+      },
+      {
+        "i_d": 1720,
+        "key": "StatusCode_WISH_LIST_SHOP_ERR",
+        "chinese_simplified": "商品不可以设置为心愿单"
+      },
+      {
+        "i_d": 1721,
+        "key": "StatusCode_WISH_LIST_EXIST",
+        "chinese_simplified": "该商品已存在心愿单中"
+      },
+      {
+        "i_d": 1722,
+        "key": "StatusCode_WISH_LIST_LIMIT",
+        "chinese_simplified": "心愿单数量已达上限"
+      },
+      {
+        "i_d": 1723,
+        "key": "StatusCode_WISH_LIST_NOT_EXIST",
+        "chinese_simplified": "心愿单不存在"
+      },
+      {
+        "i_d": 1724,
+        "key": "StatusCode_FRIEND_INTIMACY_NOT_ENOUGH",
+        "chinese_simplified": "亲密度不足!"
+      },
+      {
+        "i_d": 1725,
+        "key": "StatusCode_FRIEND_DAYS_NOT_ENOUGH",
+        "chinese_simplified": "成为好友天数不足"
+      },
+      {
+        "i_d": 1726,
+        "key": "StatusCode_CHAIR_LOOP",
+        "chinese_simplified": "不能循环坐椅子"
+      },
+      {
+        "i_d": 1727,
+        "key": "StatusCode_CHARACTER_ENTER_BOSS_RUSH",
+        "chinese_simplified": "需等BossRush行动结束后才可更换装备(击杀boss或主动停止行动后解除)"
+      },
+      {
+        "i_d": 1751,
+        "key": "StatusCode_WISH_LIST_SEND_LIMIT",
+        "chinese_simplified": "本周菱石商品赠送次数已达上限"
+      },
+      {
+        "i_d": 1760,
+        "key": "StatusCode_MOON_CARD_DAYS_LIMIT",
+        "chinese_simplified": "月卡天数已达上限"
+      },
+      {
+        "i_d": 1801,
+        "key": "StatusCode_SHOP_GRID_UNLOCKED",
+        "chinese_simplified": "购买商品未解锁"
+      },
+      {
+        "i_d": 1811,
+        "key": "StatusCode_PET_NOT_FOUND",
+        "chinese_simplified": "宠物不存在"
+      },
+      {
+        "i_d": 1812,
+        "key": "StatusCode_PET_GRID_FULL",
+        "chinese_simplified": "宠物仓库已满"
+      }
+    ]
+  },
+  "net_close_reason_tips": {
+    "datas": [
+      {
+        "i_d": -1,
+        "key": "Invalid",
+        "chinese_simplified": "非法参数"
+      },
+      {},
+      {
+        "i_d": 1,
+        "key": "PlayerOfflineReason_DISCONNECT",
+        "chinese_simplified": "服务器连接中断！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 2,
+        "key": "PlayerOfflineReason_SERVER_SHUTDOWN",
+        "chinese_simplified": "服务器维护中...(ˇωˇ」∠)_"
+      },
+      {
+        "i_d": 3,
+        "key": "PlayerOfflineReason_KICK",
+        "chinese_simplified": "_(:3⌒ﾞ)_被踢掉了！"
+      },
+      {
+        "i_d": 4,
+        "key": "PlayerOfflineReason_ANOTHER_LOGIN",
+        "chinese_simplified": "账号似乎在别的地方登录了！_(°ω°｣∠)_"
+      },
+      {
+        "i_d": 5,
+        "key": "PlayerOfflineReason_ANTI_ADDICTION",
+        "chinese_simplified": "防沉迷ing...[]~(￣▽￣)~*"
+      },
+      {
+        "i_d": 6,
+        "key": "PlayerOfflineReason_LOGOUT",
+        "chinese_simplified": "客户端登出"
+      },
+      {
+        "i_d": 7,
+        "key": "PlayerOfflineReason_ACCOUNTCANCLEBIND",
+        "chinese_simplified": "您的账号已经解除绑定"
+      },
+      {
+        "i_d": 700002,
+        "key": "ConnectFailed",
+        "chinese_simplified": "服务器连接失败！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 700003,
+        "key": "ServerReconnectFailed",
+        "chinese_simplified": "服务器重连失败！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 700004,
+        "key": "TooMuchClientReconnectPack",
+        "chinese_simplified": "重连次数过多"
+      },
+      {
+        "i_d": 700005,
+        "key": "ServerReconnectFullPack",
+        "chinese_simplified": "服务器重连所有包"
+      },
+      {
+        "i_d": 700006,
+        "key": "ServerLoginFail",
+        "chinese_simplified": "服务器登录失败！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 700007,
+        "key": "ServerKick",
+        "chinese_simplified": "服务器断开连接"
+      },
+      {
+        "i_d": 700010,
+        "key": "ClientShutDown",
+        "chinese_simplified": "客户端关闭"
+      },
+      {
+        "i_d": 700011,
+        "key": "ClientLaunch",
+        "chinese_simplified": "客户端启动"
+      },
+      {
+        "i_d": 700013,
+        "key": "ClientReconnectTooMuchTimes",
+        "chinese_simplified": "客户端重连次数过多"
+      },
+      {
+        "i_d": 700014,
+        "key": "ClientLogout",
+        "chinese_simplified": "客户端登出"
+      },
+      {
+        "i_d": 700015,
+        "key": "ClientCheat",
+        "chinese_simplified": "客户端作弊"
+      },
+      {
+        "i_d": 700016,
+        "key": "ClientDISCONNECT",
+        "chinese_simplified": "连接中断"
+      },
+      {
+        "i_d": 700017,
+        "key": "ClientLogout_SDK",
+        "chinese_simplified": "客户端登出"
+      },
+      {
+        "i_d": 700018,
+        "key": "ClientReLoginFail",
+        "chinese_simplified": "登录失败！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 800001,
+        "key": "ConnectError",
+        "chinese_simplified": "服务器登录连接失败！Σ(ﾟдﾟlll)"
+      },
+      {
+        "i_d": 800002,
+        "key": "TimeOut",
+        "chinese_simplified": "服务器登录连接超时！Σ(ﾟдﾟlll)"
+      }
+    ]
+  }
+}

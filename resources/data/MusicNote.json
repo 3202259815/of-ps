@@ -1,0 +1,176 @@
+{
+  "music_note": {
+    "datas": [
+      {
+        "i_d": 10010011,
+        "path": "MusicNote/心中的光芒/心中的光芒_键盘.txt",
+        "new_music_category": 1,
+        "group_i_d": 10010010,
+        "gameplay_path": "MusicNote/心中的光芒/心中的光芒_键盘_Gameplay.txt"
+      },
+      {
+        "i_d": 10010012,
+        "path": "MusicNote/心中的光芒/心中的光芒_吉他.txt",
+        "group_i_d": 10010010,
+        "gameplay_path": "MusicNote/心中的光芒/心中的光芒_吉他_Gameplay.txt"
+      },
+      {
+        "i_d": 10010013,
+        "path": "MusicNote/心中的光芒/心中的光芒_贝斯.txt",
+        "new_music_category": 2,
+        "group_i_d": 10010010,
+        "gameplay_path": "MusicNote/心中的光芒/心中的光芒_贝斯_Gameplay.txt"
+      },
+      {
+        "i_d": 10010014,
+        "path": "MusicNote/心中的光芒/心中的光芒_鼓.txt",
+        "new_music_category": 3,
+        "group_i_d": 10010010,
+        "gameplay_path": "MusicNote/心中的光芒/心中的光芒_鼓_Gameplay.txt"
+      },
+      {
+        "i_d": 10010015,
+        "path": "MusicNote/心中的光芒/心中的光芒_人声.txt",
+        "new_music_category": 4,
+        "group_i_d": 10010010,
+        "gameplay_path": "MusicNote/心中的光芒/心中的光芒_人声_Gameplay.txt"
+      },
+      {
+        "i_d": 10010021,
+        "path": "MusicNote/梦之城/梦之城_键盘.txt",
+        "new_music_category": 1,
+        "group_i_d": 10010020,
+        "gameplay_path": "MusicNote/梦之城/梦之城_键盘_Gameplay.txt"
+      },
+      {
+        "i_d": 10010022,
+        "path": "MusicNote/梦之城/梦之城_吉他.txt",
+        "group_i_d": 10010020,
+        "gameplay_path": "MusicNote/梦之城/梦之城_吉他_Gameplay.txt"
+      },
+      {
+        "i_d": 10010023,
+        "path": "MusicNote/梦之城/梦之城_贝斯.txt",
+        "new_music_category": 2,
+        "group_i_d": 10010020,
+        "gameplay_path": "MusicNote/梦之城/梦之城_贝斯_Gameplay.txt"
+      },
+      {
+        "i_d": 10010024,
+        "path": "MusicNote/梦之城/梦之城_鼓.txt",
+        "new_music_category": 3,
+        "group_i_d": 10010020,
+        "gameplay_path": "MusicNote/梦之城/梦之城_鼓_Gameplay.txt"
+      },
+      {
+        "i_d": 10010025,
+        "path": "MusicNote/梦之城/梦之城_人声.txt",
+        "new_music_category": 4,
+        "group_i_d": 10010020,
+        "gameplay_path": "MusicNote/梦之城/梦之城_人声_Gameplay.txt"
+      },
+      {
+        "i_d": 10010031,
+        "path": "MusicNote/夜与思念/夜与思念_键盘.txt",
+        "new_music_category": 1,
+        "group_i_d": 10010030,
+        "gameplay_path": "MusicNote/夜与思念/夜与思念_键盘_Gameplay.txt"
+      },
+      {
+        "i_d": 10010032,
+        "path": "MusicNote/夜与思念/夜与思念_吉他.txt",
+        "group_i_d": 10010030,
+        "gameplay_path": "MusicNote/夜与思念/夜与思念_吉他_Gameplay.txt"
+      },
+      {
+        "i_d": 10010033,
+        "path": "MusicNote/夜与思念/夜与思念_贝斯.txt",
+        "new_music_category": 2,
+        "group_i_d": 10010030,
+        "gameplay_path": "MusicNote/夜与思念/夜与思念_贝斯_Gameplay.txt"
+      },
+      {
+        "i_d": 10010034,
+        "path": "MusicNote/夜与思念/夜与思念_鼓.txt",
+        "new_music_category": 3,
+        "group_i_d": 10010030,
+        "gameplay_path": "MusicNote/夜与思念/夜与思念_鼓_Gameplay.txt"
+      },
+      {
+        "i_d": 10010035,
+        "path": "MusicNote/夜与思念/夜与思念_人声.txt",
+        "new_music_category": 4,
+        "group_i_d": 10010030,
+        "gameplay_path": "MusicNote/夜与思念/夜与思念_人声_Gameplay.txt"
+      },
+      {
+        "i_d": 10010041,
+        "path": "MusicNote/记忆的涟漪/记忆的涟漪_键盘.txt",
+        "new_music_category": 1,
+        "group_i_d": 10010040,
+        "gameplay_path": "MusicNote/记忆的涟漪/记忆的涟漪_键盘_Gameplay.txt"
+      },
+      {
+        "i_d": 10010042,
+        "path": "MusicNote/记忆的涟漪/记忆的涟漪_吉他.txt",
+        "group_i_d": 10010040,
+        "gameplay_path": "MusicNote/记忆的涟漪/记忆的涟漪_吉他_Gameplay.txt"
+      },
+      {
+        "i_d": 10010043,
+        "path": "MusicNote/记忆的涟漪/记忆的涟漪_贝斯.txt",
+        "new_music_category": 2,
+        "group_i_d": 10010040,
+        "gameplay_path": "MusicNote/记忆的涟漪/记忆的涟漪_贝斯_Gameplay.txt"
+      },
+      {
+        "i_d": 10010044,
+        "path": "MusicNote/记忆的涟漪/记忆的涟漪_鼓.txt",
+        "new_music_category": 3,
+        "group_i_d": 10010040,
+        "gameplay_path": "MusicNote/记忆的涟漪/记忆的涟漪_鼓_Gameplay.txt"
+      },
+      {
+        "i_d": 10010045,
+        "path": "MusicNote/记忆的涟漪/记忆的涟漪_人声.txt",
+        "new_music_category": 4,
+        "group_i_d": 10010040,
+        "gameplay_path": "MusicNote/记忆的涟漪/记忆的涟漪_人声_Gameplay.txt"
+      },
+      {
+        "i_d": 10010051,
+        "path": "MusicNote/繁星似你/繁星似你_键盘.txt",
+        "new_music_category": 1,
+        "group_i_d": 10010050,
+        "gameplay_path": "MusicNote/繁星似你/繁星似你_键盘_Gameplay.txt"
+      },
+      {
+        "i_d": 10010052,
+        "path": "MusicNote/繁星似你/繁星似你_吉他.txt",
+        "group_i_d": 10010050,
+        "gameplay_path": "MusicNote/繁星似你/繁星似你_吉他_Gameplay.txt"
+      },
+      {
+        "i_d": 10010053,
+        "path": "MusicNote/繁星似你/繁星似你_贝斯.txt",
+        "new_music_category": 2,
+        "group_i_d": 10010050,
+        "gameplay_path": "MusicNote/繁星似你/繁星似你_贝斯_Gameplay.txt"
+      },
+      {
+        "i_d": 10010054,
+        "path": "MusicNote/繁星似你/繁星似你_鼓.txt",
+        "new_music_category": 3,
+        "group_i_d": 10010050,
+        "gameplay_path": "MusicNote/繁星似你/繁星似你_鼓_Gameplay.txt"
+      },
+      {
+        "i_d": 10010055,
+        "path": "MusicNote/繁星似你/繁星似你_人声.txt",
+        "new_music_category": 4,
+        "group_i_d": 10010050,
+        "gameplay_path": "MusicNote/繁星似你/繁星似你_人声_Gameplay.txt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "archaeology_achieve": {
+    "datas": [
+      {
+        "i_d": 1,
+        "new_archaeology_type": 1,
+        "items": [
+          {
+            "achieve_i_d": 150000101,
+            "reward_i_d": 7000260
+          },
+          {
+            "achieve_i_d": 150000102,
+            "reward_i_d": 7000270
+          },
+          {
+            "achieve_i_d": 150000103,
+            "reward_i_d": 7000280
+          }
+        ]
+      },
+      {
+        "i_d": 2,
+        "new_archaeology_type": 4,
+        "items": [
+          {
+            "achieve_i_d": 150000201,
+            "reward_i_d": 7000290
+          },
+          {
+            "achieve_i_d": 150000202,
+            "reward_i_d": 7000300
+          },
+          {
+            "achieve_i_d": 150000203,
+            "reward_i_d": 7000310
+          }
+        ]
+      },
+      {
+        "i_d": 3,
+        "new_archaeology_type": 3,
+        "items": [
+          {
+            "achieve_i_d": 150000301,
+            "reward_i_d": 7000320
+          },
+          {
+            "achieve_i_d": 150000302,
+            "reward_i_d": 7000330
+          },
+          {
+            "achieve_i_d": 150000303,
+            "reward_i_d": 7000340
+          }
+        ]
+      },
+      {
+        "i_d": 4,
+        "new_archaeology_type": 2,
+        "items": [
+          {
+            "achieve_i_d": 150000401,
+            "reward_i_d": 7000350
+          },
+          {
+            "achieve_i_d": 150000402,
+            "reward_i_d": 7000360
+          },
+          {
+            "achieve_i_d": 150000403,
+            "reward_i_d": 7000370
+          }
+        ]
+      },
+      {
+        "i_d": 5,
+        "items": [
+          {
+            "achieve_i_d": 150000501,
+            "reward_i_d": 7000380
+          },
+          {
+            "achieve_i_d": 150000502,
+            "reward_i_d": 7000390
+          },
+          {
+            "achieve_i_d": 150000503,
+            "reward_i_d": 7000400
+          }
+        ]
+      }
+    ]
+  }
+}

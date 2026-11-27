@@ -1,0 +1,77 @@
+{
+  "teleport_key": {
+    "datas": [
+      {
+        "i_d": 700,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 1
+          },
+          {
+            "need_unlock_scene_i_d": 1
+          },
+          {
+            "need_unlock_scene_i_d": 1
+          },
+          {
+            "need_unlock_scene_i_d": 1
+          },
+          {
+            "need_unlock_scene_i_d": 6
+          },
+          {
+            "need_unlock_scene_i_d": 6
+          }
+        ]
+      },
+      {
+        "i_d": 711,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 1
+          }
+        ]
+      },
+      {
+        "i_d": 712,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 1
+          }
+        ]
+      },
+      {
+        "i_d": 713,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 1
+          }
+        ]
+      },
+      {
+        "i_d": 714,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 1
+          }
+        ]
+      },
+      {
+        "i_d": 715,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 6
+          }
+        ]
+      },
+      {
+        "i_d": 716,
+        "teleport_key_item": [
+          {
+            "need_unlock_scene_i_d": 6
+          }
+        ]
+      }
+    ]
+  }
+}

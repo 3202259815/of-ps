@@ -1,0 +1,360 @@
+{
+  "activity_interaction": {
+    "datas": [
+      {
+        "i_d": 10001,
+        "object_i_d": 10301,
+        "activity_interaction_item": [
+          {
+            "index": 1,
+            "reward_pool_group_i_d": 5040701,
+            "output_ceiling": 20,
+            "reset_type": 1
+          },
+          {
+            "index": 2,
+            "reward_pool_group_i_d": 5040702,
+            "output_ceiling": 20,
+            "reset_type": 1
+          },
+          {
+            "index": 3,
+            "reward_pool_group_i_d": 5040703,
+            "output_ceiling": 10,
+            "reset_type": 1
+          },
+          {
+            "index": 4,
+            "reward_pool_group_i_d": 5040704,
+            "output_ceiling": 3,
+            "reset_type": 1
+          },
+          {
+            "index": 5,
+            "reward_pool_group_i_d": 5040705,
+            "output_ceiling": 10,
+            "reset_type": 1
+          },
+          {
+            "index": 6,
+            "reward_pool_group_i_d": 5040706,
+            "output_ceiling": 10,
+            "reset_type": 1
+          },
+          {
+            "index": 7,
+            "reward_pool_group_i_d": 5040707,
+            "output_ceiling": 3,
+            "reset_type": 1
+          },
+          {
+            "index": 8,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040708,
+            "output_ceiling": 3
+          },
+          {
+            "index": 9,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040709,
+            "output_ceiling": 3
+          },
+          {
+            "index": 10,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040710,
+            "output_ceiling": 3
+          },
+          {
+            "index": 11,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040711,
+            "output_ceiling": 1
+          },
+          {
+            "index": 12,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040712,
+            "output_ceiling": 1
+          },
+          {
+            "index": 13,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040713,
+            "output_ceiling": 2
+          },
+          {
+            "index": 14,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040714,
+            "output_ceiling": 1
+          },
+          {
+            "index": 15,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040715,
+            "output_ceiling": 2
+          },
+          {
+            "index": 16,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040716,
+            "output_ceiling": 2
+          },
+          {
+            "index": 17,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040717,
+            "output_ceiling": 1
+          },
+          {
+            "index": 18,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040718,
+            "output_ceiling": 2
+          },
+          {
+            "index": 19,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040719,
+            "output_ceiling": 1
+          },
+          {
+            "index": 20,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040720,
+            "output_ceiling": 1
+          },
+          {
+            "index": 21,
+            "special_type": 1,
+            "reward_pool_group_i_d": 5040721,
+            "output_ceiling": 1
+          }
+        ]
+      }
+    ]
+  },
+  "full_server_activity": {
+    "datas": [
+      {
+        "i_d": 10001,
+        "full_server_activity_item": [
+          {
+            "index": 1,
+            "full_server_activity_reward_item": [
+              {
+                "item_i_d": 11020,
+                "item_num": 5
+              },
+              {
+                "item_i_d": 109,
+                "item_num": 20000
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "completion_count": 1000000,
+            "full_server_activity_reward_item": [
+              {
+                "item_i_d": 110,
+                "item_num": 2
+              },
+              {
+                "item_i_d": 1502,
+                "item_num": 5
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "completion_count": 5000000,
+            "full_server_activity_reward_item": [
+              {
+                "item_i_d": 104,
+                "item_num": 8
+              },
+              {
+                "item_i_d": 1104,
+                "item_num": 1
+              }
+            ]
+          },
+          {
+            "index": 4,
+            "completion_count": 8000000,
+            "full_server_activity_reward_item": [
+              {
+                "item_i_d": 5044009,
+                "item_num": 1
+              },
+              {
+                "item_i_d": 1204,
+                "item_num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "recall_activity": {
+    "datas": [
+      {
+        "i_d": 80001,
+        "relation_i_d": 90001,
+        "recall_activity_item": [
+          {
+            "index": 1,
+            "achieve_condition_i_d": 80509001,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 5173,
+                "item_num": 1
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "achieve_condition_i_d": 80509002,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 110,
+                "item_num": 1
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "achieve_condition_i_d": 80509003,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 110,
+                "item_num": 2
+              }
+            ]
+          },
+          {
+            "index": 4,
+            "achieve_condition_i_d": 80509004,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 118,
+                "item_num": 3
+              }
+            ]
+          },
+          {
+            "index": 5,
+            "achieve_condition_i_d": 80509005,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 118,
+                "item_num": 7
+              }
+            ]
+          },
+          {
+            "index": 6,
+            "achieve_condition_i_d": 80509006,
+            "hidden_state": true
+          },
+          {
+            "index": 7,
+            "achieve_condition_i_d": 80509000,
+            "hidden_state": true
+          }
+        ]
+      },
+      {
+        "i_d": 90001,
+        "relation_i_d": 80001,
+        "recall_activity_item": [
+          {
+            "index": 1,
+            "achieve_condition_i_d": 80509011,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 109,
+                "item_num": 50000
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "achieve_condition_i_d": 80509012,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 118,
+                "item_num": 7
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "achieve_condition_i_d": 80509013,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 125,
+                "item_num": 50
+              }
+            ]
+          },
+          {
+            "index": 4,
+            "achieve_condition_i_d": 80509014,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 1502,
+                "item_num": 10
+              }
+            ]
+          },
+          {
+            "index": 5,
+            "achieve_condition_i_d": 80509015,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 107,
+                "item_num": 3600
+              }
+            ]
+          },
+          {
+            "index": 6,
+            "achieve_condition_i_d": 80509016,
+            "recall_activity_reward_item": [
+              {
+                "item_i_d": 102,
+                "item_num": 500
+              }
+            ]
+          },
+          {
+            "index": 7,
+            "achieve_condition_i_d": 80509017,
+            "hidden_state": true
+          }
+        ]
+      }
+    ]
+  },
+  "homecoming_reward": {
+    "datas": [
+      {
+        "i_d": 90001,
+        "homecoming_reward_item": [
+          {
+            "item_i_d": 102,
+            "item_num": 500
+          },
+          {
+            "item_i_d": 125,
+            "item_num": 50
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,6350 @@
+{
+  "abyss_season": {
+    "datas": [
+      {
+        "i_d": 1,
+        "start_time": "2025-02-03 08:00:00",
+        "end_time": "2025-04-30 22:00:00",
+        "season_stage": 10001,
+        "season_achieve": 10001,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 2,
+        "start_time": "2025-05-01 08:00:00",
+        "end_time": "2025-05-15 22:00:00",
+        "season_stage": 10002,
+        "season_achieve": 10002,
+        "npc_i_d": 10006,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 3,
+        "start_time": "2025-05-16 08:00:00",
+        "end_time": "2025-06-06 22:00:00",
+        "season_stage": 10003,
+        "season_achieve": 10003,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 4,
+        "start_time": "2025-06-14 08:00:00",
+        "end_time": "2025-07-04 22:00:00",
+        "season_stage": 10004,
+        "season_achieve": 10004,
+        "npc_i_d": 10006,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 5,
+        "start_time": "2025-07-05 08:00:00",
+        "end_time": "2025-07-25 22:00:00",
+        "season_stage": 10005,
+        "season_achieve": 10005,
+        "npc_i_d": 10006,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 6,
+        "start_time": "2025-07-26 08:00:00",
+        "end_time": "2025-08-15 22:00:00",
+        "season_stage": 10006,
+        "season_achieve": 10006,
+        "npc_i_d": 10007,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 7,
+        "start_time": "2025-08-16 08:00:00",
+        "end_time": "2025-09-05 22:00:00",
+        "season_stage": 10007,
+        "season_achieve": 10007,
+        "npc_i_d": 10008,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 8,
+        "start_time": "2025-09-06 08:00:00",
+        "end_time": "2025-09-26 22:00:00",
+        "season_stage": 10008,
+        "season_achieve": 10008,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 9,
+        "start_time": "2025-09-27 08:00:00",
+        "end_time": "2025-10-17 22:00:00",
+        "season_stage": 10009,
+        "season_achieve": 10009,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 10,
+        "start_time": "2025-10-18 08:00:00",
+        "end_time": "2025-11-07 22:00:00",
+        "season_stage": 10010,
+        "season_achieve": 10010,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 11,
+        "start_time": "2025-11-08 08:00:00",
+        "end_time": "2025-11-28 22:00:00",
+        "season_stage": 10011,
+        "season_achieve": 10011,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 12,
+        "start_time": "2025-11-29 08:00:00",
+        "end_time": "2025-12-19 22:00:00",
+        "season_stage": 10012,
+        "season_achieve": 10012,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 13,
+        "start_time": "2025-12-20 08:00:00",
+        "end_time": "2026-01-09 22:00:00",
+        "season_stage": 10013,
+        "season_achieve": 10013,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 14,
+        "start_time": "2026-01-10 08:00:00",
+        "end_time": "2026-01-30 22:00:00",
+        "season_stage": 10014,
+        "season_achieve": 10014,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 15,
+        "start_time": "2026-01-31 08:00:00",
+        "end_time": "2026-02-20 22:00:00",
+        "season_stage": 10015,
+        "season_achieve": 10015,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 16,
+        "start_time": "2026-02-21 08:00:00",
+        "end_time": "2026-03-13 22:00:00",
+        "season_stage": 10016,
+        "season_achieve": 10016,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 17,
+        "start_time": "2026-03-14 08:00:00",
+        "end_time": "2026-04-03 22:00:00",
+        "season_stage": 10017,
+        "season_achieve": 10017,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 18,
+        "start_time": "2026-04-04 08:00:00",
+        "end_time": "2026-04-24 22:00:00",
+        "season_stage": 10018,
+        "season_achieve": 10018,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 19,
+        "start_time": "2026-04-25 08:00:00",
+        "end_time": "2026-05-15 22:00:00",
+        "season_stage": 10019,
+        "season_achieve": 10019,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 20,
+        "start_time": "2026-05-16 08:00:00",
+        "end_time": "2026-06-05 22:00:00",
+        "season_stage": 10020,
+        "season_achieve": 10020,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 21,
+        "start_time": "2026-06-06 08:00:00",
+        "end_time": "2026-06-26 22:00:00",
+        "season_stage": 10021,
+        "season_achieve": 10021,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 22,
+        "start_time": "2026-06-27 08:00:00",
+        "end_time": "2026-07-17 22:00:00",
+        "season_stage": 10022,
+        "season_achieve": 10022,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 23,
+        "start_time": "2026-07-18 08:00:00",
+        "end_time": "2026-08-07 22:00:00",
+        "season_stage": 10023,
+        "season_achieve": 10023,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 24,
+        "start_time": "2026-08-08 08:00:00",
+        "end_time": "2026-08-28 22:00:00",
+        "season_stage": 10024,
+        "season_achieve": 10024,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 25,
+        "start_time": "2026-08-29 08:00:00",
+        "end_time": "2026-09-18 22:00:00",
+        "season_stage": 10025,
+        "season_achieve": 10025,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 26,
+        "start_time": "2026-09-19 08:00:00",
+        "end_time": "2026-10-09 22:00:00",
+        "season_stage": 10026,
+        "season_achieve": 10026,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 27,
+        "start_time": "2026-10-10 08:00:00",
+        "end_time": "2026-10-30 22:00:00",
+        "season_stage": 10027,
+        "season_achieve": 10027,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 28,
+        "start_time": "2026-10-31 08:00:00",
+        "end_time": "2026-11-20 22:00:00",
+        "season_stage": 10028,
+        "season_achieve": 10028,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 29,
+        "start_time": "2026-11-21 08:00:00",
+        "end_time": "2026-12-11 22:00:00",
+        "season_stage": 10029,
+        "season_achieve": 10029,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 30,
+        "start_time": "2026-12-12 08:00:00",
+        "end_time": "2027-01-01 22:00:00",
+        "season_stage": 10030,
+        "season_achieve": 10030,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 31,
+        "start_time": "2027-01-02 08:00:00",
+        "end_time": "2027-01-22 22:00:00",
+        "season_stage": 10031,
+        "season_achieve": 10031,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 32,
+        "start_time": "2027-01-23 08:00:00",
+        "end_time": "2027-02-12 22:00:00",
+        "season_stage": 10032,
+        "season_achieve": 10032,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 33,
+        "start_time": "2027-02-13 08:00:00",
+        "end_time": "2027-03-05 22:00:00",
+        "season_stage": 10033,
+        "season_achieve": 10033,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 34,
+        "start_time": "2027-03-06 08:00:00",
+        "end_time": "2027-03-26 22:00:00",
+        "season_stage": 10034,
+        "season_achieve": 10034,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 35,
+        "start_time": "2027-03-27 08:00:00",
+        "end_time": "2027-04-16 22:00:00",
+        "season_stage": 10035,
+        "season_achieve": 10035,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 36,
+        "start_time": "2027-04-17 08:00:00",
+        "end_time": "2027-05-07 22:00:00",
+        "season_stage": 10036,
+        "season_achieve": 10036,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 37,
+        "start_time": "2027-05-08 08:00:00",
+        "end_time": "2027-05-28 22:00:00",
+        "season_stage": 10037,
+        "season_achieve": 10037,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 38,
+        "start_time": "2027-05-29 08:00:00",
+        "end_time": "2027-06-18 22:00:00",
+        "season_stage": 10038,
+        "season_achieve": 10038,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 39,
+        "start_time": "2027-06-19 08:00:00",
+        "end_time": "2027-07-09 22:00:00",
+        "season_stage": 10039,
+        "season_achieve": 10039,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 40,
+        "start_time": "2027-07-10 08:00:00",
+        "end_time": "2027-07-30 22:00:00",
+        "season_stage": 10040,
+        "season_achieve": 10040,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 41,
+        "start_time": "2027-07-31 08:00:00",
+        "end_time": "2027-08-20 22:00:00",
+        "season_stage": 10041,
+        "season_achieve": 10041,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 42,
+        "start_time": "2027-08-21 08:00:00",
+        "end_time": "2027-09-10 22:00:00",
+        "season_stage": 10042,
+        "season_achieve": 10042,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 43,
+        "start_time": "2027-09-11 08:00:00",
+        "end_time": "2027-10-01 22:00:00",
+        "season_stage": 10043,
+        "season_achieve": 10043,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 44,
+        "start_time": "2027-10-02 08:00:00",
+        "end_time": "2027-10-22 22:00:00",
+        "season_stage": 10044,
+        "season_achieve": 10044,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 45,
+        "start_time": "2027-10-23 08:00:00",
+        "end_time": "2027-11-12 22:00:00",
+        "season_stage": 10045,
+        "season_achieve": 10045,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 46,
+        "start_time": "2027-11-13 08:00:00",
+        "end_time": "2027-12-03 22:00:00",
+        "season_stage": 10046,
+        "season_achieve": 10046,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 47,
+        "start_time": "2027-12-04 08:00:00",
+        "end_time": "2027-12-24 22:00:00",
+        "season_stage": 10047,
+        "season_achieve": 10047,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 48,
+        "start_time": "2027-12-25 08:00:00",
+        "end_time": "2028-01-14 22:00:00",
+        "season_stage": 10048,
+        "season_achieve": 10048,
+        "npc_i_d": 10005,
+        "unlock_dungeon_i_d": 99030012
+      },
+      {
+        "i_d": 9000001,
+        "season_stage": 1000,
+        "season_achieve": 1000,
+        "npc_i_d": 10006
+      }
+    ]
+  },
+  "abyss_stage": {
+    "datas": [
+      {
+        "i_d": 1000,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 1001,
+            "icon_i_d": 1001,
+            "dungeon_i_d": 99030001,
+            "new_element_type1": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1002,
+            "icon_i_d": 1002,
+            "dungeon_i_d": 99030002,
+            "new_element_type1": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1003,
+            "icon_i_d": 1003,
+            "dungeon_i_d": 99030003,
+            "new_element_type1": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1004,
+            "icon_i_d": 1004,
+            "dungeon_i_d": 99030004,
+            "new_element_type1": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1005,
+            "icon_i_d": 1005,
+            "dungeon_i_d": 99030005,
+            "new_element_type1": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1006,
+            "icon_i_d": 1006,
+            "dungeon_i_d": 99030006,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1007,
+            "icon_i_d": 1007,
+            "dungeon_i_d": 99030007,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1008,
+            "icon_i_d": 1008,
+            "dungeon_i_d": 99030008,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1009,
+            "icon_i_d": 1009,
+            "dungeon_i_d": 99030009,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1010,
+            "icon_i_d": 1010,
+            "dungeon_i_d": 99030010,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1011,
+            "icon_i_d": 1011,
+            "dungeon_i_d": 99030011,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 1012,
+            "icon_i_d": 1012,
+            "dungeon_i_d": 99030012,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10001,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10011,
+            "icon_i_d": 10011,
+            "dungeon_i_d": 99030101,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10012,
+            "icon_i_d": 10012,
+            "dungeon_i_d": 99030102,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10013,
+            "icon_i_d": 10013,
+            "dungeon_i_d": 99030103,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10002,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10021,
+            "icon_i_d": 10021,
+            "dungeon_i_d": 99030201,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10022,
+            "icon_i_d": 10022,
+            "dungeon_i_d": 99030202,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10023,
+            "icon_i_d": 10023,
+            "dungeon_i_d": 99030203,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10003,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10031,
+            "icon_i_d": 10031,
+            "dungeon_i_d": 99030301,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10032,
+            "icon_i_d": 10032,
+            "dungeon_i_d": 99030302,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10033,
+            "icon_i_d": 10033,
+            "dungeon_i_d": 99030303,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10004,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10041,
+            "icon_i_d": 10041,
+            "dungeon_i_d": 99030401,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10042,
+            "icon_i_d": 10042,
+            "dungeon_i_d": 99030402,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10043,
+            "icon_i_d": 10043,
+            "dungeon_i_d": 99030403,
+            "is_double_team": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10044,
+            "icon_i_d": 10044,
+            "dungeon_i_d": 99030404,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10005,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10051,
+            "icon_i_d": 10051,
+            "dungeon_i_d": 99030501,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10052,
+            "icon_i_d": 10052,
+            "dungeon_i_d": 99030502,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10053,
+            "icon_i_d": 10053,
+            "dungeon_i_d": 99030503,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10054,
+            "icon_i_d": 10054,
+            "dungeon_i_d": 99030504,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10006,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10061,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99030601,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10062,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99030602,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10063,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99030603,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10064,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99030604,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10007,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10071,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99030701,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10072,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99030702,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10073,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99030703,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10074,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99030704,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10008,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10081,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99030801,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10082,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99030802,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10083,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99030803,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10084,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99030804,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10009,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99030901,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99030902,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99030903,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99030904,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10010,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031001,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031002,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031003,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031004,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10011,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031101,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031102,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031103,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031104,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10012,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031201,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031202,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031203,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031204,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10013,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031301,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031302,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031303,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031304,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10014,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031401,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031402,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031403,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031404,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10015,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031501,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031502,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031503,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031504,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10016,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031601,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031602,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031603,
+            "is_double_team": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031604,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10017,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031701,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031702,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031703,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031704,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10018,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031801,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031802,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031803,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031804,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10019,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99031901,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99031902,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99031903,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99031904,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10020,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032001,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032002,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032003,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032004,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10021,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032101,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032102,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032103,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032104,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10022,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032201,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032202,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032203,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032204,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10023,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032301,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032302,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032303,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032304,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10024,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032401,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032402,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032403,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032404,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10025,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032501,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032502,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032503,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032504,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10026,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032601,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032602,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032603,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032604,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10027,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032701,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032702,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032703,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032704,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10028,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032801,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032802,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032803,
+            "is_double_team": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032804,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10029,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99032901,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99032902,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99032903,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99032904,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10030,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033001,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033002,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033003,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033004,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10031,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033101,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033102,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033103,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033104,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10032,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033201,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033202,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033203,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033204,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10033,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033301,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033302,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033303,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033304,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10034,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033401,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033402,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033403,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033404,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10035,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033501,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033502,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033503,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033504,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10036,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033601,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033602,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033603,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033604,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10037,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033701,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033702,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033703,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033704,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 1,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10038,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033801,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033802,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033803,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033804,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10039,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99033901,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99033902,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99033903,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99033904,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10040,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034001,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034002,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034003,
+            "is_double_team": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034004,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 5,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10041,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034101,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034102,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034103,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034104,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10042,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034201,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034202,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034203,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034204,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 4,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10043,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034301,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034302,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034303,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034304,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10044,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034401,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034402,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034403,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034404,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10045,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034501,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034502,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034503,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034504,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10046,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034601,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034602,
+            "is_double_team": true,
+            "new_element_type1": 2,
+            "new_element_type2": 3,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034603,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034604,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 4,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10047,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034701,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034702,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034703,
+            "is_double_team": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034704,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 1,
+            "new_element_type2": 5,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      },
+      {
+        "i_d": 10048,
+        "abyss_stage_group_info": [
+          {
+            "text_i_d": 10091,
+            "icon_i_d": 10061,
+            "dungeon_i_d": 99034801,
+            "is_double_team": true,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10092,
+            "icon_i_d": 10062,
+            "dungeon_i_d": 99034802,
+            "is_double_team": true,
+            "new_element_type1": 4,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10093,
+            "icon_i_d": 10063,
+            "dungeon_i_d": 99034803,
+            "is_double_team": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          },
+          {
+            "text_i_d": 10094,
+            "icon_i_d": 10064,
+            "dungeon_i_d": 99034804,
+            "is_double_team": true,
+            "is_challenge_dungeon": true,
+            "new_element_type1": 3,
+            "new_element_type2": 2,
+            "new_up_tag1": 1,
+            "new_up_tag2": 2,
+            "new_up_tag3": 3,
+            "new_up_tag4": 4,
+            "new_down_tag1": 1,
+            "new_down_tag2": 2,
+            "new_down_tag3": 3,
+            "new_down_tag4": 4
+          }
+        ]
+      }
+    ]
+  },
+  "season_achieve": {
+    "datas": [
+      {
+        "i_d": 1000,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17010001,
+            "reward_i_d": 5010010,
+            "icon_i_d": 17010001
+          },
+          {
+            "achieve_i_d": 17010002,
+            "reward_i_d": 5010020,
+            "icon_i_d": 17010002
+          },
+          {
+            "achieve_i_d": 17010003,
+            "reward_i_d": 5010030,
+            "icon_i_d": 17010003
+          },
+          {
+            "achieve_i_d": 17010004,
+            "reward_i_d": 5010040,
+            "icon_i_d": 17010004
+          },
+          {
+            "achieve_i_d": 17010005,
+            "reward_i_d": 5010050,
+            "icon_i_d": 17010005
+          },
+          {
+            "achieve_i_d": 17010006,
+            "reward_i_d": 5010060,
+            "icon_i_d": 17010006
+          },
+          {
+            "achieve_i_d": 17010007,
+            "reward_i_d": 5010070,
+            "icon_i_d": 17010007
+          },
+          {
+            "achieve_i_d": 17010008,
+            "reward_i_d": 5010080,
+            "icon_i_d": 17010008
+          },
+          {
+            "achieve_i_d": 17010009,
+            "reward_i_d": 5010090,
+            "icon_i_d": 17010009
+          },
+          {
+            "achieve_i_d": 17010010,
+            "reward_i_d": 5010100,
+            "icon_i_d": 17010010
+          },
+          {
+            "achieve_i_d": 17010011,
+            "reward_i_d": 5010110,
+            "icon_i_d": 17010011
+          },
+          {
+            "achieve_i_d": 17010012,
+            "reward_i_d": 5010120,
+            "icon_i_d": 17010012
+          },
+          {
+            "achieve_i_d": 17020001,
+            "reward_i_d": 5020010,
+            "icon_i_d": 17020001
+          },
+          {
+            "achieve_i_d": 17020002,
+            "reward_i_d": 5020020,
+            "icon_i_d": 17020002
+          },
+          {
+            "achieve_i_d": 17020003,
+            "reward_i_d": 5020030,
+            "icon_i_d": 17020003
+          },
+          {
+            "achieve_i_d": 17020004,
+            "reward_i_d": 5020040,
+            "icon_i_d": 17020004
+          },
+          {
+            "achieve_i_d": 17020005,
+            "reward_i_d": 5020050,
+            "icon_i_d": 17020005
+          },
+          {
+            "achieve_i_d": 17020006,
+            "reward_i_d": 5020060,
+            "icon_i_d": 17020006
+          },
+          {
+            "achieve_i_d": 17020007,
+            "reward_i_d": 5020070,
+            "icon_i_d": 17020007
+          },
+          {
+            "achieve_i_d": 17020008,
+            "reward_i_d": 5020080,
+            "icon_i_d": 17020008
+          },
+          {
+            "achieve_i_d": 17020009,
+            "reward_i_d": 5020090,
+            "icon_i_d": 17020009
+          },
+          {
+            "achieve_i_d": 17020010,
+            "reward_i_d": 5020100,
+            "icon_i_d": 17020010
+          },
+          {
+            "achieve_i_d": 17020011,
+            "reward_i_d": 5020110,
+            "icon_i_d": 17020011
+          },
+          {
+            "achieve_i_d": 17020012,
+            "reward_i_d": 5020120,
+            "icon_i_d": 17020012
+          }
+        ]
+      },
+      {
+        "i_d": 10001,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030110,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030120,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030130,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030140,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030150,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030160,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030170,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030180,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10002,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030210,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030220,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030230,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030240,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030250,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030260,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030270,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030280,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10003,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030310,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030320,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030330,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030340,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030350,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030360,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030370,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030380,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10004,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030410,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030420,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030430,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030440,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030450,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030460,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030470,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030480,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200401,
+            "reward_i_d": 5030490,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10005,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030510,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030520,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030530,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030540,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030550,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030560,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030570,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030580,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200501,
+            "reward_i_d": 5030590,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10006,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030610,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030620,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030630,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030640,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030650,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030660,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030670,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030680,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200601,
+            "reward_i_d": 5030690,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10007,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030710,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030720,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030730,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030740,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030750,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030760,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030770,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030780,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200701,
+            "reward_i_d": 5030790,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10008,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030810,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030820,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030830,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030840,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030850,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030860,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030870,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030880,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200801,
+            "reward_i_d": 5030890,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10009,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5030910,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5030920,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5030930,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5030940,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5030950,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5030960,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5030970,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5030980,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17200901,
+            "reward_i_d": 5030990,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10010,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031010,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031020,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031030,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031040,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031050,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031060,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031070,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031080,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201001,
+            "reward_i_d": 5031090,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10011,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031110,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031120,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031130,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031140,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031150,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031160,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031170,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031180,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201101,
+            "reward_i_d": 5031190,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10012,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031210,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031220,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031230,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031240,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031250,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031260,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031270,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031280,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201201,
+            "reward_i_d": 5031290,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10013,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031310,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031320,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031330,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031340,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031350,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031360,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031370,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031380,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201301,
+            "reward_i_d": 5031390,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10014,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031410,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031420,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031430,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031440,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031450,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031460,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031470,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031480,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201401,
+            "reward_i_d": 5031490,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10015,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031510,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031520,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031530,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031540,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031550,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031560,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031570,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031580,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201501,
+            "reward_i_d": 5031590,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10016,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031610,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031620,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031630,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031640,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031650,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031660,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031670,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031680,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201601,
+            "reward_i_d": 5031690,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10017,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031710,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031720,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031730,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031740,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031750,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031760,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031770,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031780,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201701,
+            "reward_i_d": 5031790,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10018,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031810,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031820,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031830,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031840,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031850,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031860,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031870,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031880,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201801,
+            "reward_i_d": 5031890,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10019,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5031910,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5031920,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5031930,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5031940,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5031950,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5031960,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5031970,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5031980,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17201901,
+            "reward_i_d": 5031990,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10020,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032010,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032020,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032030,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032040,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032050,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032060,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032070,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032080,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202001,
+            "reward_i_d": 5032090,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10021,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032110,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032120,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032130,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032140,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032150,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032160,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032170,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032180,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202101,
+            "reward_i_d": 5032190,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10022,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032210,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032220,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032230,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032240,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032250,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032260,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032270,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032280,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202201,
+            "reward_i_d": 5032290,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10023,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032310,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032320,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032330,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032340,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032350,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032360,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032370,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032380,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202301,
+            "reward_i_d": 5032390,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10024,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032410,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032420,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032430,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032440,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032450,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032460,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032470,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032480,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202401,
+            "reward_i_d": 5032490,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10025,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032510,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032520,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032530,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032540,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032550,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032560,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032570,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032580,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202501,
+            "reward_i_d": 5032590,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10026,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032610,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032620,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032630,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032640,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032650,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032660,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032670,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032680,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202601,
+            "reward_i_d": 5032690,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10027,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032710,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032720,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032730,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032740,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032750,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032760,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032770,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032780,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202701,
+            "reward_i_d": 5032790,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10028,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032810,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032820,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032830,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032840,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032850,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032860,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032870,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032880,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202801,
+            "reward_i_d": 5032890,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10029,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5032910,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5032920,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5032930,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5032940,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5032950,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5032960,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5032970,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5032980,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17202901,
+            "reward_i_d": 5032990,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10030,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033010,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033020,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033030,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033040,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033050,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033060,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033070,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033080,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203001,
+            "reward_i_d": 5033090,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10031,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033110,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033120,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033130,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033140,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033150,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033160,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033170,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033180,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203101,
+            "reward_i_d": 5033190,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10032,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033210,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033220,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033230,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033240,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033250,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033260,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033270,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033280,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203201,
+            "reward_i_d": 5033290,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10033,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033310,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033320,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033330,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033340,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033350,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033360,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033370,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033380,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203301,
+            "reward_i_d": 5033390,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10034,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033410,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033420,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033430,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033440,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033450,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033460,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033470,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033480,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203401,
+            "reward_i_d": 5033490,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10035,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033510,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033520,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033530,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033540,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033550,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033560,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033570,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033580,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203501,
+            "reward_i_d": 5033590,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10036,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033610,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033620,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033630,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033640,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033650,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033660,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033670,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033680,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203601,
+            "reward_i_d": 5033690,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10037,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033710,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033720,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033730,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033740,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033750,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033760,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033770,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033780,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203701,
+            "reward_i_d": 5033790,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10038,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033810,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033820,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033830,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033840,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033850,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033860,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033870,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033880,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203801,
+            "reward_i_d": 5033890,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10039,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5033910,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5033920,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5033930,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5033940,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5033950,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5033960,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5033970,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5033980,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17203901,
+            "reward_i_d": 5033990,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10040,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034010,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034020,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034030,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034040,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034050,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034060,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034070,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034080,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204001,
+            "reward_i_d": 5034090,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10041,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034110,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034120,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034130,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034140,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034150,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034160,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034170,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034180,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204101,
+            "reward_i_d": 5034190,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10042,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034210,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034220,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034230,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034240,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034250,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034260,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034270,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034280,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204201,
+            "reward_i_d": 5034290,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10043,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034310,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034320,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034330,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034340,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034350,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034360,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034370,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034380,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204301,
+            "reward_i_d": 5034390,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10044,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034410,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034420,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034430,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034440,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034450,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034460,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034470,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034480,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204401,
+            "reward_i_d": 5034490,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10045,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034510,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034520,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034530,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034540,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034550,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034560,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034570,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034580,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204501,
+            "reward_i_d": 5034590,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10046,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034610,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034620,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034630,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034640,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034650,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034660,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034670,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034680,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204601,
+            "reward_i_d": 5034690,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10047,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034710,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034720,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034730,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034740,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034750,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034760,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034770,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034780,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204701,
+            "reward_i_d": 5034790,
+            "icon_i_d": 17100108
+          }
+        ]
+      },
+      {
+        "i_d": 10048,
+        "season_achieve_group_info": [
+          {
+            "achieve_i_d": 17100101,
+            "reward_i_d": 5034810,
+            "icon_i_d": 17100101
+          },
+          {
+            "achieve_i_d": 17100102,
+            "reward_i_d": 5034820,
+            "icon_i_d": 17100102
+          },
+          {
+            "achieve_i_d": 17100103,
+            "reward_i_d": 5034830,
+            "icon_i_d": 17100103
+          },
+          {
+            "achieve_i_d": 17100104,
+            "reward_i_d": 5034840,
+            "icon_i_d": 17100104
+          },
+          {
+            "achieve_i_d": 17100105,
+            "reward_i_d": 5034850,
+            "icon_i_d": 17100105
+          },
+          {
+            "achieve_i_d": 17100106,
+            "reward_i_d": 5034860,
+            "icon_i_d": 17100106
+          },
+          {
+            "achieve_i_d": 17100107,
+            "reward_i_d": 5034870,
+            "icon_i_d": 17100107
+          },
+          {
+            "achieve_i_d": 17100108,
+            "reward_i_d": 5034880,
+            "icon_i_d": 17100108
+          },
+          {
+            "achieve_i_d": 17204801,
+            "reward_i_d": 5034890,
+            "icon_i_d": 17100108
+          }
+        ]
+      }
+    ]
+  }
+}

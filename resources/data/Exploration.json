@@ -1,0 +1,67 @@
+{
+  "exploration": {
+    "datas": [
+      {
+        "i_d": 1,
+        "dungeon_id": 2000,
+        "quest_achieve_i_d": 10000
+      }
+    ]
+  },
+  "exploration_achieve": {
+    "datas": [
+      {
+        "i_d": 10000,
+        "exploration_achieve_group_info": [
+          {
+            "index": 1
+          },
+          {
+            "index": 2
+          },
+          {
+            "index": 3
+          },
+          {
+            "index": 4
+          },
+          {
+            "index": 5
+          },
+          {
+            "index": 6
+          },
+          {
+            "index": 7
+          },
+          {
+            "index": 8
+          }
+        ]
+      }
+    ]
+  },
+  "exploration_item": {
+    "datas": [
+      {
+        "i_d": 300000000,
+        "special_drop_id": 700089,
+        "quantity": 2,
+        "exploration_items": [
+          {
+            "item_i_d": 101,
+            "value": 100000
+          },
+          {
+            "item_i_d": 108,
+            "value": 50000
+          },
+          {
+            "item_i_d": 1999,
+            "value": 888
+          }
+        ]
+      }
+    ]
+  }
+}

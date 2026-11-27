@@ -1,0 +1,318 @@
+{
+  "random_event": {
+    "datas": [
+      {
+        "i_d": 120111,
+        "group": 1,
+        "lv": 1,
+        "npc_i_d": 1211
+      },
+      {
+        "i_d": 120112,
+        "group": 1,
+        "lv": 3,
+        "npc_i_d": 1212
+      },
+      {
+        "i_d": 120121,
+        "group": 2,
+        "lv": 1,
+        "npc_i_d": 1221,
+        "resource_i_d": 120121
+      },
+      {
+        "i_d": 120131,
+        "group": 3,
+        "lv": 1,
+        "npc_i_d": 1231,
+        "resource_i_d": 120131
+      },
+      {
+        "i_d": 120141,
+        "group": 4,
+        "lv": 1,
+        "npc_i_d": 1241
+      },
+      {
+        "i_d": 120151,
+        "group": 5,
+        "lv": 1,
+        "npc_i_d": 1251,
+        "resource_i_d": 120151
+      },
+      {
+        "i_d": 320111,
+        "group": 1,
+        "lv": 1,
+        "npc_i_d": 3211
+      },
+      {
+        "i_d": 320112,
+        "group": 1,
+        "lv": 3,
+        "npc_i_d": 3212
+      },
+      {
+        "i_d": 320121,
+        "group": 2,
+        "lv": 1,
+        "npc_i_d": 3221,
+        "resource_i_d": 320121
+      },
+      {
+        "i_d": 320131,
+        "group": 3,
+        "lv": 1,
+        "npc_i_d": 3231,
+        "resource_i_d": 320131
+      },
+      {
+        "i_d": 320141,
+        "group": 4,
+        "lv": 1,
+        "npc_i_d": 3241
+      },
+      {
+        "i_d": 320151,
+        "group": 5,
+        "lv": 1,
+        "npc_i_d": 3251,
+        "resource_i_d": 320151
+      }
+    ]
+  },
+  "random_event_resource": {
+    "datas": [
+      {
+        "i_d": 120121,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_1"
+          },
+          {
+            "index": 2,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_2"
+          },
+          {
+            "index": 3,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_3"
+          },
+          {
+            "index": 4,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_4"
+          },
+          {
+            "index": 5,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_5"
+          },
+          {
+            "index": 6,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_6"
+          },
+          {
+            "index": 7,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_7"
+          },
+          {
+            "index": 8,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_8"
+          },
+          {
+            "index": 9,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_9"
+          },
+          {
+            "index": 10,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_10"
+          }
+        ]
+      },
+      {
+        "i_d": 120131,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_1"
+          },
+          {
+            "index": 2,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_2"
+          },
+          {
+            "index": 3,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_3"
+          },
+          {
+            "index": 4,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_4"
+          },
+          {
+            "index": 5,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_5"
+          },
+          {
+            "index": 6,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_6"
+          },
+          {
+            "index": 7,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_7"
+          },
+          {
+            "index": 8,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_8"
+          },
+          {
+            "index": 9,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_9"
+          }
+        ]
+      },
+      {
+        "i_d": 120151,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_对话_120151_1"
+          }
+        ]
+      },
+      {
+        "i_d": 320121,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_1"
+          },
+          {
+            "index": 2,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_2"
+          },
+          {
+            "index": 3,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_3"
+          },
+          {
+            "index": 4,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_4"
+          },
+          {
+            "index": 5,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_5"
+          },
+          {
+            "index": 6,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_6"
+          },
+          {
+            "index": 7,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_7"
+          },
+          {
+            "index": 8,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_8"
+          },
+          {
+            "index": 9,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_9"
+          },
+          {
+            "index": 10,
+            "path": "RandomEvent/",
+            "name": "随机事件_扫垃圾_120121_10"
+          }
+        ]
+      },
+      {
+        "i_d": 320131,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_1"
+          },
+          {
+            "index": 2,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_2"
+          },
+          {
+            "index": 3,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_3"
+          },
+          {
+            "index": 4,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_4"
+          },
+          {
+            "index": 5,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_5"
+          },
+          {
+            "index": 6,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_6"
+          },
+          {
+            "index": 7,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_7"
+          },
+          {
+            "index": 8,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_8"
+          },
+          {
+            "index": 9,
+            "path": "RandomEvent/",
+            "name": "随机事件_浇水_120131_9"
+          }
+        ]
+      },
+      {
+        "i_d": 320151,
+        "random_event_resource_items": [
+          {
+            "index": 1,
+            "path": "RandomEvent/",
+            "name": "随机事件_对话_120151_1"
+          }
+        ]
+      }
+    ]
+  }
+}

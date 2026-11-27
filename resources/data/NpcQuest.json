@@ -1,0 +1,144 @@
+{
+  "npc_quest_info": {
+    "datas": [
+      {
+        "i_d": 101,
+        "refresh_time": 28800,
+        "refresh_currency": 102,
+        "refresh_cost": 100,
+        "quest_pool_i_d": 1,
+        "opened_dialog": 10101,
+        "normal_donate_dialog": 20101
+      }
+    ]
+  },
+  "npc_quest_pool": {
+    "datas": [
+      {
+        "i_d": 1,
+        "npc_quest_pools": [
+          {
+            "quest_i_d": 1,
+            "need_item_i_d": 3001,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 1,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 200
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 1
+              }
+            ]
+          },
+          {
+            "quest_i_d": 2,
+            "need_item_i_d": 3002,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 1,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 300
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 2
+              }
+            ]
+          },
+          {
+            "quest_i_d": 3,
+            "need_item_i_d": 3003,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 1,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 400
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 3
+              }
+            ]
+          },
+          {
+            "quest_i_d": 4,
+            "need_item_i_d": 3004,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 1,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 500
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 1
+              }
+            ]
+          },
+          {
+            "quest_i_d": 5,
+            "need_item_i_d": 3005,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 1,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 600
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 2
+              }
+            ]
+          },
+          {
+            "quest_i_d": 6,
+            "need_item_i_d": 3006,
+            "need_item_min_count": 1,
+            "need_item_max_count": 3,
+            "amity_add": 1,
+            "weight": 1,
+            "need_min_level": 2,
+            "need_max_level": 10,
+            "npc_quest_pool_reward_item": [
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 700
+              },
+              {
+                "reward_item_i_d": 101,
+                "reward_item_count": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

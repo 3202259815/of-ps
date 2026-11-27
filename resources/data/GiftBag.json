@@ -1,0 +1,2717 @@
+{
+  "gift_bag": {
+    "datas": [
+      {
+        "i_d": 6000010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000010
+          }
+        ]
+      },
+      {
+        "i_d": 6000020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000020
+          }
+        ]
+      },
+      {
+        "i_d": 6000030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000030
+          }
+        ]
+      },
+      {
+        "i_d": 6000040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000040
+          }
+        ]
+      },
+      {
+        "i_d": 6000050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000050
+          }
+        ]
+      },
+      {
+        "i_d": 6000060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000060
+          }
+        ]
+      },
+      {
+        "i_d": 6000070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000070
+          }
+        ]
+      },
+      {
+        "i_d": 6000080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000080
+          }
+        ]
+      },
+      {
+        "i_d": 6000090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000090
+          }
+        ]
+      },
+      {
+        "i_d": 6000100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000100
+          }
+        ]
+      },
+      {
+        "i_d": 6000110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000110
+          }
+        ]
+      },
+      {
+        "i_d": 6000120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000120
+          }
+        ]
+      },
+      {
+        "i_d": 6000130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000130
+          }
+        ]
+      },
+      {
+        "i_d": 6000140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000140
+          }
+        ]
+      },
+      {
+        "i_d": 6000150,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000150
+          }
+        ]
+      },
+      {
+        "i_d": 6000160,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000160
+          }
+        ]
+      },
+      {
+        "i_d": 6000170,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000170
+          }
+        ]
+      },
+      {
+        "i_d": 6000180,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000180
+          }
+        ]
+      },
+      {
+        "i_d": 6000190,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000190
+          }
+        ]
+      },
+      {
+        "i_d": 6000200,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000200
+          }
+        ]
+      },
+      {
+        "i_d": 6000210,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000210
+          }
+        ]
+      },
+      {
+        "i_d": 6000220,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000220
+          }
+        ]
+      },
+      {
+        "i_d": 6000230,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000230
+          }
+        ]
+      },
+      {
+        "i_d": 6000240,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000240
+          }
+        ]
+      },
+      {
+        "i_d": 6000250,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000250
+          }
+        ]
+      },
+      {
+        "i_d": 6000260,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000260
+          }
+        ]
+      },
+      {
+        "i_d": 6000270,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000270
+          }
+        ]
+      },
+      {
+        "i_d": 6000280,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000280
+          }
+        ]
+      },
+      {
+        "i_d": 6000290,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000290
+          }
+        ]
+      },
+      {
+        "i_d": 6000300,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000300
+          }
+        ]
+      },
+      {
+        "i_d": 6000310,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000310
+          }
+        ]
+      },
+      {
+        "i_d": 6000320,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000320
+          }
+        ]
+      },
+      {
+        "i_d": 6000330,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000330
+          }
+        ]
+      },
+      {
+        "i_d": 6000340,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000340
+          }
+        ]
+      },
+      {
+        "i_d": 6000350,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6000350
+          }
+        ]
+      },
+      {
+        "i_d": 6010010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010010
+          }
+        ]
+      },
+      {
+        "i_d": 6010020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010020
+          }
+        ]
+      },
+      {
+        "i_d": 6010030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010030
+          }
+        ]
+      },
+      {
+        "i_d": 6010040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010040
+          }
+        ]
+      },
+      {
+        "i_d": 6010050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010050
+          }
+        ]
+      },
+      {
+        "i_d": 6010060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010060
+          }
+        ]
+      },
+      {
+        "i_d": 6010070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010070
+          }
+        ]
+      },
+      {
+        "i_d": 6010080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010080
+          }
+        ]
+      },
+      {
+        "i_d": 6010090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010090
+          }
+        ]
+      },
+      {
+        "i_d": 6010100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010100
+          }
+        ]
+      },
+      {
+        "i_d": 6010110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6010110
+          }
+        ]
+      },
+      {
+        "i_d": 6020010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020010
+          }
+        ]
+      },
+      {
+        "i_d": 6020020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020020
+          }
+        ]
+      },
+      {
+        "i_d": 6020030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020030
+          }
+        ]
+      },
+      {
+        "i_d": 6020040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020040
+          }
+        ]
+      },
+      {
+        "i_d": 6020050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020050
+          }
+        ]
+      },
+      {
+        "i_d": 6020060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020060
+          }
+        ]
+      },
+      {
+        "i_d": 6020070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020070
+          }
+        ]
+      },
+      {
+        "i_d": 6020080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020080
+          }
+        ]
+      },
+      {
+        "i_d": 6020090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020090
+          }
+        ]
+      },
+      {
+        "i_d": 6020100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020100
+          }
+        ]
+      },
+      {
+        "i_d": 6020110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020110
+          }
+        ]
+      },
+      {
+        "i_d": 6020120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020120
+          }
+        ]
+      },
+      {
+        "i_d": 6020130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020130
+          }
+        ]
+      },
+      {
+        "i_d": 6020140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020140
+          }
+        ]
+      },
+      {
+        "i_d": 6020150,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020150
+          }
+        ]
+      },
+      {
+        "i_d": 6020170,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020170
+          }
+        ]
+      },
+      {
+        "i_d": 6020180,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020180
+          }
+        ]
+      },
+      {
+        "i_d": 6020190,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020190
+          }
+        ]
+      },
+      {
+        "i_d": 6020200,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020200
+          }
+        ]
+      },
+      {
+        "i_d": 6020210,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020210
+          }
+        ]
+      },
+      {
+        "i_d": 6020220,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020220
+          }
+        ]
+      },
+      {
+        "i_d": 6020230,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020230
+          }
+        ]
+      },
+      {
+        "i_d": 6020240,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020240
+          }
+        ]
+      },
+      {
+        "i_d": 6020250,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020250
+          }
+        ]
+      },
+      {
+        "i_d": 6020260,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020260
+          }
+        ]
+      },
+      {
+        "i_d": 6020270,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020270
+          }
+        ]
+      },
+      {
+        "i_d": 6020280,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020280
+          }
+        ]
+      },
+      {
+        "i_d": 6020290,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020290
+          }
+        ]
+      },
+      {
+        "i_d": 6020300,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020300
+          }
+        ]
+      },
+      {
+        "i_d": 6020310,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020310
+          }
+        ]
+      },
+      {
+        "i_d": 6020320,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020320
+          }
+        ]
+      },
+      {
+        "i_d": 6020330,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020330
+          }
+        ]
+      },
+      {
+        "i_d": 6020340,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020340
+          }
+        ]
+      },
+      {
+        "i_d": 6020350,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020350
+          }
+        ]
+      },
+      {
+        "i_d": 6020360,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020360
+          }
+        ]
+      },
+      {
+        "i_d": 6020370,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020370
+          }
+        ]
+      },
+      {
+        "i_d": 6020380,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020380
+          }
+        ]
+      },
+      {
+        "i_d": 6020390,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020390
+          }
+        ]
+      },
+      {
+        "i_d": 6020400,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020400
+          }
+        ]
+      },
+      {
+        "i_d": 6020410,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020410
+          }
+        ]
+      },
+      {
+        "i_d": 6020420,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020420
+          }
+        ]
+      },
+      {
+        "i_d": 6020430,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020430
+          }
+        ]
+      },
+      {
+        "i_d": 6020440,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020440
+          }
+        ]
+      },
+      {
+        "i_d": 6020450,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020450
+          }
+        ]
+      },
+      {
+        "i_d": 6020460,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020460
+          }
+        ]
+      },
+      {
+        "i_d": 6020470,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020470
+          }
+        ]
+      },
+      {
+        "i_d": 6020480,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020480
+          }
+        ]
+      },
+      {
+        "i_d": 6020500,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020500
+          }
+        ]
+      },
+      {
+        "i_d": 6020510,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020510
+          }
+        ]
+      },
+      {
+        "i_d": 6020520,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020520
+          }
+        ]
+      },
+      {
+        "i_d": 6020530,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020530
+          }
+        ]
+      },
+      {
+        "i_d": 6020540,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020540
+          }
+        ]
+      },
+      {
+        "i_d": 6020550,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020550
+          }
+        ]
+      },
+      {
+        "i_d": 6020560,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020560
+          }
+        ]
+      },
+      {
+        "i_d": 6020570,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020570
+          }
+        ]
+      },
+      {
+        "i_d": 6020580,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020580
+          }
+        ]
+      },
+      {
+        "i_d": 6020590,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020590
+          }
+        ]
+      },
+      {
+        "i_d": 6020600,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020600
+          }
+        ]
+      },
+      {
+        "i_d": 6020610,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020610
+          }
+        ]
+      },
+      {
+        "i_d": 6020620,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020620
+          }
+        ]
+      },
+      {
+        "i_d": 6020630,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020630
+          }
+        ]
+      },
+      {
+        "i_d": 6020640,
+        "player_lv": 1,
+        "asset_path": "Assets/ResBundle/Video/时装演示/牛仔.mp4",
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020640
+          }
+        ]
+      },
+      {
+        "i_d": 6020650,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020650
+          }
+        ]
+      },
+      {
+        "i_d": 6020660,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020660
+          }
+        ]
+      },
+      {
+        "i_d": 6020670,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020670
+          }
+        ]
+      },
+      {
+        "i_d": 6020680,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020680
+          }
+        ]
+      },
+      {
+        "i_d": 6020690,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020690
+          }
+        ]
+      },
+      {
+        "i_d": 6020700,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020700
+          }
+        ]
+      },
+      {
+        "i_d": 6020710,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020710
+          }
+        ]
+      },
+      {
+        "i_d": 6020720,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020720
+          }
+        ]
+      },
+      {
+        "i_d": 6020730,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020730
+          }
+        ]
+      },
+      {
+        "i_d": 6020740,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020740
+          }
+        ]
+      },
+      {
+        "i_d": 6020750,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020750
+          }
+        ]
+      },
+      {
+        "i_d": 6020760,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020760
+          }
+        ]
+      },
+      {
+        "i_d": 6020770,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020770
+          }
+        ]
+      },
+      {
+        "i_d": 6020780,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020780
+          }
+        ]
+      },
+      {
+        "i_d": 6020790,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020790
+          }
+        ]
+      },
+      {
+        "i_d": 6020800,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020430
+          }
+        ]
+      },
+      {
+        "i_d": 6020810,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020810
+          }
+        ]
+      },
+      {
+        "i_d": 6020820,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020820
+          }
+        ]
+      },
+      {
+        "i_d": 6020830,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020830
+          }
+        ]
+      },
+      {
+        "i_d": 6020840,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020840
+          }
+        ]
+      },
+      {
+        "i_d": 6020850,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020850
+          }
+        ]
+      },
+      {
+        "i_d": 6020860,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020860
+          }
+        ]
+      },
+      {
+        "i_d": 6020870,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020870
+          }
+        ]
+      },
+      {
+        "i_d": 6020880,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020880
+          }
+        ]
+      },
+      {
+        "i_d": 6020890,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020890
+          }
+        ]
+      },
+      {
+        "i_d": 6020900,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020900
+          }
+        ]
+      },
+      {
+        "i_d": 6020910,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020910
+          }
+        ]
+      },
+      {
+        "i_d": 6020920,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020920
+          }
+        ]
+      },
+      {
+        "i_d": 6020930,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020930
+          }
+        ]
+      },
+      {
+        "i_d": 6020940,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020940
+          }
+        ]
+      },
+      {
+        "i_d": 6020950,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020950
+          }
+        ]
+      },
+      {
+        "i_d": 6020960,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020960
+          }
+        ]
+      },
+      {
+        "i_d": 6020970,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020970
+          }
+        ]
+      },
+      {
+        "i_d": 6020980,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020980
+          }
+        ]
+      },
+      {
+        "i_d": 6020990,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6020990
+          }
+        ]
+      },
+      {
+        "i_d": 6021000,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021000
+          }
+        ]
+      },
+      {
+        "i_d": 6021010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021010
+          }
+        ]
+      },
+      {
+        "i_d": 6021020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021020
+          }
+        ]
+      },
+      {
+        "i_d": 6021030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021030
+          }
+        ]
+      },
+      {
+        "i_d": 6021040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021040
+          }
+        ]
+      },
+      {
+        "i_d": 6021050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021050
+          }
+        ]
+      },
+      {
+        "i_d": 6021060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021060
+          }
+        ]
+      },
+      {
+        "i_d": 6021070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021070
+          }
+        ]
+      },
+      {
+        "i_d": 6021080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021080
+          }
+        ]
+      },
+      {
+        "i_d": 6021090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021090
+          }
+        ]
+      },
+      {
+        "i_d": 6021100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021100
+          }
+        ]
+      },
+      {
+        "i_d": 6021110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021110
+          }
+        ]
+      },
+      {
+        "i_d": 6021120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021120
+          }
+        ]
+      },
+      {
+        "i_d": 6021130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021130
+          }
+        ]
+      },
+      {
+        "i_d": 6021140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021140
+          }
+        ]
+      },
+      {
+        "i_d": 6022000,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022000
+          }
+        ]
+      },
+      {
+        "i_d": 6022010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022010
+          }
+        ]
+      },
+      {
+        "i_d": 6022020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022020
+          }
+        ]
+      },
+      {
+        "i_d": 6022030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022030
+          }
+        ]
+      },
+      {
+        "i_d": 6022040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022040
+          }
+        ]
+      },
+      {
+        "i_d": 6022050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022050
+          }
+        ]
+      },
+      {
+        "i_d": 6022060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022060
+          }
+        ]
+      },
+      {
+        "i_d": 6022070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6022070
+          }
+        ]
+      },
+      {
+        "i_d": 6023010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023010
+          }
+        ]
+      },
+      {
+        "i_d": 6023020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023020
+          }
+        ]
+      },
+      {
+        "i_d": 6023030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023030
+          }
+        ]
+      },
+      {
+        "i_d": 6023040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023040
+          }
+        ]
+      },
+      {
+        "i_d": 6023050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023050
+          }
+        ]
+      },
+      {
+        "i_d": 6023060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023060
+          }
+        ]
+      },
+      {
+        "i_d": 6023070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023070
+          }
+        ]
+      },
+      {
+        "i_d": 6023080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023080
+          }
+        ]
+      },
+      {
+        "i_d": 6023090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023090
+          }
+        ]
+      },
+      {
+        "i_d": 6023100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023100
+          }
+        ]
+      },
+      {
+        "i_d": 6023110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023110
+          }
+        ]
+      },
+      {
+        "i_d": 6023120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023120
+          }
+        ]
+      },
+      {
+        "i_d": 6023130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023130
+          }
+        ]
+      },
+      {
+        "i_d": 6023140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023140
+          }
+        ]
+      },
+      {
+        "i_d": 6023150,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023150
+          }
+        ]
+      },
+      {
+        "i_d": 6023160,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023160
+          }
+        ]
+      },
+      {
+        "i_d": 6023170,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023170
+          }
+        ]
+      },
+      {
+        "i_d": 6023180,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023180
+          }
+        ]
+      },
+      {
+        "i_d": 6023190,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023190
+          }
+        ]
+      },
+      {
+        "i_d": 6023200,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023200
+          }
+        ]
+      },
+      {
+        "i_d": 6023210,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023210
+          }
+        ]
+      },
+      {
+        "i_d": 6023220,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023220
+          }
+        ]
+      },
+      {
+        "i_d": 6023230,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021040
+          }
+        ]
+      },
+      {
+        "i_d": 6023240,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021050
+          }
+        ]
+      },
+      {
+        "i_d": 6023250,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021060
+          }
+        ]
+      },
+      {
+        "i_d": 6023260,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021070
+          }
+        ]
+      },
+      {
+        "i_d": 6023270,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021080
+          }
+        ]
+      },
+      {
+        "i_d": 6023280,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021090
+          }
+        ]
+      },
+      {
+        "i_d": 6023290,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021100
+          }
+        ]
+      },
+      {
+        "i_d": 6023300,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021110
+          }
+        ]
+      },
+      {
+        "i_d": 6023310,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021120
+          }
+        ]
+      },
+      {
+        "i_d": 6023320,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021130
+          }
+        ]
+      },
+      {
+        "i_d": 6023330,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021140
+          }
+        ]
+      },
+      {
+        "i_d": 6025000,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025000
+          }
+        ]
+      },
+      {
+        "i_d": 6025010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025010
+          }
+        ]
+      },
+      {
+        "i_d": 6025020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025020
+          }
+        ]
+      },
+      {
+        "i_d": 6025030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025030
+          }
+        ]
+      },
+      {
+        "i_d": 6025040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025040
+          }
+        ]
+      },
+      {
+        "i_d": 6025050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025050
+          }
+        ]
+      },
+      {
+        "i_d": 6025060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025060
+          }
+        ]
+      },
+      {
+        "i_d": 6025070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025070
+          }
+        ]
+      },
+      {
+        "i_d": 6025080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025080
+          }
+        ]
+      },
+      {
+        "i_d": 6025090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025090
+          }
+        ]
+      },
+      {
+        "i_d": 6025100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025100
+          }
+        ]
+      },
+      {
+        "i_d": 6025110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025110
+          }
+        ]
+      },
+      {
+        "i_d": 6025120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021040
+          }
+        ]
+      },
+      {
+        "i_d": 6025130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021050
+          }
+        ]
+      },
+      {
+        "i_d": 6025140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021060
+          }
+        ]
+      },
+      {
+        "i_d": 6025150,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023060
+          }
+        ]
+      },
+      {
+        "i_d": 6025160,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023070
+          }
+        ]
+      },
+      {
+        "i_d": 6025170,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023080
+          }
+        ]
+      },
+      {
+        "i_d": 6025180,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021090
+          }
+        ]
+      },
+      {
+        "i_d": 6025190,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021100
+          }
+        ]
+      },
+      {
+        "i_d": 6025200,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021110
+          }
+        ]
+      },
+      {
+        "i_d": 6025210,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021120
+          }
+        ]
+      },
+      {
+        "i_d": 6025220,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6023200
+          }
+        ]
+      },
+      {
+        "i_d": 6025230,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6021140
+          }
+        ]
+      },
+      {
+        "i_d": 6025240,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025240
+          }
+        ]
+      },
+      {
+        "i_d": 6025250,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025250
+          }
+        ]
+      },
+      {
+        "i_d": 6025260,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025260
+          }
+        ]
+      },
+      {
+        "i_d": 6025270,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025270
+          }
+        ]
+      },
+      {
+        "i_d": 6025280,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025280
+          }
+        ]
+      },
+      {
+        "i_d": 6025290,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025290
+          }
+        ]
+      },
+      {
+        "i_d": 6025300,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025300
+          }
+        ]
+      },
+      {
+        "i_d": 6025310,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025310
+          }
+        ]
+      },
+      {
+        "i_d": 6025320,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025320
+          }
+        ]
+      },
+      {
+        "i_d": 6025330,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025330
+          }
+        ]
+      },
+      {
+        "i_d": 6025340,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025340
+          }
+        ]
+      },
+      {
+        "i_d": 6025350,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025350
+          }
+        ]
+      },
+      {
+        "i_d": 6025360,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025360
+          }
+        ]
+      },
+      {
+        "i_d": 6025370,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025370
+          }
+        ]
+      },
+      {
+        "i_d": 6025380,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025380
+          }
+        ]
+      },
+      {
+        "i_d": 6025390,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025390
+          }
+        ]
+      },
+      {
+        "i_d": 6025400,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025400
+          }
+        ]
+      },
+      {
+        "i_d": 6025410,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025410
+          }
+        ]
+      },
+      {
+        "i_d": 6025420,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025420
+          }
+        ]
+      },
+      {
+        "i_d": 6025430,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025430
+          }
+        ]
+      },
+      {
+        "i_d": 6025440,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025440
+          }
+        ]
+      },
+      {
+        "i_d": 6025450,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025450
+          }
+        ]
+      },
+      {
+        "i_d": 6025460,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025460
+          }
+        ]
+      },
+      {
+        "i_d": 6025470,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025470
+          }
+        ]
+      },
+      {
+        "i_d": 6025480,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025480
+          }
+        ]
+      },
+      {
+        "i_d": 6025490,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025490
+          }
+        ]
+      },
+      {
+        "i_d": 6025500,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025500
+          }
+        ]
+      },
+      {
+        "i_d": 6025510,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025510
+          }
+        ]
+      },
+      {
+        "i_d": 6025520,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025520
+          }
+        ]
+      },
+      {
+        "i_d": 6025530,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025530
+          }
+        ]
+      },
+      {
+        "i_d": 6025540,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025540
+          }
+        ]
+      },
+      {
+        "i_d": 6025550,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025550
+          }
+        ]
+      },
+      {
+        "i_d": 6025560,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025560
+          }
+        ]
+      },
+      {
+        "i_d": 6025570,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025570
+          }
+        ]
+      },
+      {
+        "i_d": 6025580,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025580
+          }
+        ]
+      },
+      {
+        "i_d": 6025590,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6025590
+          }
+        ]
+      },
+      {
+        "i_d": 6026000,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026000
+          }
+        ]
+      },
+      {
+        "i_d": 6026010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026010
+          }
+        ]
+      },
+      {
+        "i_d": 6026020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026020
+          }
+        ]
+      },
+      {
+        "i_d": 6026030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026030
+          }
+        ]
+      },
+      {
+        "i_d": 6026040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026040
+          }
+        ]
+      },
+      {
+        "i_d": 6026050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026050
+          }
+        ]
+      },
+      {
+        "i_d": 6026060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6026060
+          }
+        ]
+      },
+      {
+        "i_d": 6027000,
+        "player_lv": 1,
+        "asset_path": "Assets/ResBundle/Video/时装演示/晨昏纪念礼包.mp4",
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027000
+          }
+        ]
+      },
+      {
+        "i_d": 6027010,
+        "player_lv": 1,
+        "asset_path": "Assets/ResBundle/Video/时装演示/天使.mp4",
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027010
+          }
+        ]
+      },
+      {
+        "i_d": 6027020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027020
+          }
+        ]
+      },
+      {
+        "i_d": 6027030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027030
+          }
+        ]
+      },
+      {
+        "i_d": 6027040,
+        "player_lv": 1,
+        "asset_path": "Assets/ResBundle/Video/时装演示/夜色堇.mp4",
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027040
+          }
+        ]
+      },
+      {
+        "i_d": 6027050,
+        "player_lv": 1,
+        "asset_path": "Assets/ResBundle/Video/时装演示/华丽魔术.mp4",
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027050
+          }
+        ]
+      },
+      {
+        "i_d": 6027060,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027060
+          }
+        ]
+      },
+      {
+        "i_d": 6027070,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027070
+          }
+        ]
+      },
+      {
+        "i_d": 6027080,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027080
+          }
+        ]
+      },
+      {
+        "i_d": 6027090,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027090
+          }
+        ]
+      },
+      {
+        "i_d": 6027100,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027100
+          }
+        ]
+      },
+      {
+        "i_d": 6027110,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027110
+          }
+        ]
+      },
+      {
+        "i_d": 6027120,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027120
+          }
+        ]
+      },
+      {
+        "i_d": 6027130,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027130
+          }
+        ]
+      },
+      {
+        "i_d": 6027140,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027140
+          }
+        ]
+      },
+      {
+        "i_d": 6027150,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027150
+          }
+        ]
+      },
+      {
+        "i_d": 6027160,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027160
+          }
+        ]
+      },
+      {
+        "i_d": 6027170,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027170
+          }
+        ]
+      },
+      {
+        "i_d": 6027180,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027180
+          }
+        ]
+      },
+      {
+        "i_d": 6027190,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027190
+          }
+        ]
+      },
+      {
+        "i_d": 6027210,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027210
+          }
+        ]
+      },
+      {
+        "i_d": 6027220,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027220
+          }
+        ]
+      },
+      {
+        "i_d": 6027230,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027230
+          }
+        ]
+      },
+      {
+        "i_d": 6027240,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027240
+          }
+        ]
+      },
+      {
+        "i_d": 6027250,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027250
+          }
+        ]
+      },
+      {
+        "i_d": 6027260,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6027260
+          }
+        ]
+      },
+      {
+        "i_d": 6100000,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100000
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 6100010,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100010
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 6100020,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100020
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 6100030,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100030
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 6100040,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100040
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 6100050,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 6100050
+          }
+        ],
+        "new_special_gift_bag": 1
+      },
+      {
+        "i_d": 9000001,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 7000410
+          }
+        ]
+      },
+      {
+        "i_d": 9000002,
+        "player_lv": 1,
+        "gift_bag_group": [
+          {
+            "reward_pool_group_i_d": 7000420
+          }
+        ]
+      }
+    ]
+  }
+}

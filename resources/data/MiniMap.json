@@ -1,0 +1,1147 @@
+{
+  "scene_mini_map": {
+    "datas": [
+      {
+        "i_d": 1,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneBattle001_1/MiniMap.prefab",
+        "mini_map_type_i_d": 1
+      },
+      {
+        "i_d": 2,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneBattle002_1/MiniMap.prefab",
+        "mini_map_type_i_d": 2
+      },
+      {
+        "i_d": 3,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneBattle001_2/MiniMap.prefab",
+        "mini_map_type_i_d": 3
+      },
+      {
+        "i_d": 4,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneBattle002_2/MiniMap.prefab",
+        "mini_map_type_i_d": 4
+      },
+      {
+        "i_d": 5,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneBattle003_1/MiniMap.prefab",
+        "mini_map_type_i_d": 5
+      },
+      {
+        "i_d": 6,
+        "mini_map_type_i_d": 6
+      },
+      {
+        "i_d": 100,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneGuide/MiniMap.prefab",
+        "mini_map_type_i_d": 100
+      },
+      {
+        "i_d": 1001,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneChristmas/MiniMap.prefab",
+        "mini_map_type_i_d": 1001
+      },
+      {
+        "i_d": 1002,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneHotpot/MiniMap.prefab",
+        "mini_map_type_i_d": 1002
+      },
+      {
+        "i_d": 1003,
+        "mini_map_name": "Assets/ResBundle/MiniMap/SceneSchool/MiniMap.prefab",
+        "mini_map_type_i_d": 1003
+      },
+      {
+        "i_d": 9999,
+        "mini_map_type_i_d": 9999
+      }
+    ]
+  },
+  "minimap_type": {
+    "datas": [
+      {
+        "i_d": 1,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100002112,
+            "text_i_d": 100002112,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100002101,
+            "text_i_d": 100002101,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100002102,
+            "text_i_d": 100002102,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100002103,
+            "text_i_d": 100002103,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100002104,
+            "text_i_d": 100002104,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100002105,
+            "text_i_d": 100002105,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100002107,
+            "text_i_d": 100002107,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100002108,
+            "text_i_d": 100002108,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100002114,
+            "text_i_d": 100002114,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100002114,
+            "text_i_d": 100002114,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100002114,
+            "text_i_d": 100002114,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100002114,
+            "text_i_d": 100002114,
+            "new_mini_map_type": 204
+          },
+          {
+            "item_i_d": 100002113,
+            "text_i_d": 100002113,
+            "new_mini_map_type": 301
+          },
+          {
+            "item_i_d": 100002113,
+            "text_i_d": 100002113,
+            "new_mini_map_type": 302
+          },
+          {
+            "item_i_d": 100002113,
+            "text_i_d": 100002113,
+            "new_mini_map_type": 303
+          },
+          {
+            "item_i_d": 100002113,
+            "text_i_d": 100002113,
+            "new_mini_map_type": 304
+          },
+          {
+            "item_i_d": 100002113,
+            "text_i_d": 100002113,
+            "new_mini_map_type": 305
+          }
+        ]
+      },
+      {
+        "i_d": 2,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100002212,
+            "text_i_d": 100002212,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100002201,
+            "text_i_d": 100002201,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100002202,
+            "text_i_d": 100002202,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100002203,
+            "text_i_d": 100002203,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100002204,
+            "text_i_d": 100002204,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100002205,
+            "text_i_d": 100002205,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100002207,
+            "text_i_d": 100002207,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100002208,
+            "text_i_d": 100002208,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100002214,
+            "text_i_d": 100002214,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100002214,
+            "text_i_d": 100002214,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100002214,
+            "text_i_d": 100002214,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100002214,
+            "text_i_d": 100002214,
+            "new_mini_map_type": 205
+          },
+          {
+            "item_i_d": 100002214,
+            "text_i_d": 100002214,
+            "new_mini_map_type": 206
+          },
+          {
+            "item_i_d": 100002213,
+            "text_i_d": 100002213,
+            "new_mini_map_type": 306
+          },
+          {
+            "item_i_d": 100002213,
+            "text_i_d": 100002213,
+            "new_mini_map_type": 307
+          },
+          {
+            "item_i_d": 100002213,
+            "text_i_d": 100002213,
+            "new_mini_map_type": 308
+          },
+          {
+            "item_i_d": 100002213,
+            "text_i_d": 100002213,
+            "new_mini_map_type": 309
+          },
+          {
+            "item_i_d": 100002213,
+            "text_i_d": 100002213,
+            "new_mini_map_type": 310
+          }
+        ]
+      },
+      {
+        "i_d": 3,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100002312,
+            "text_i_d": 100002312,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100002301,
+            "text_i_d": 100002301,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100002302,
+            "text_i_d": 100002302,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100002303,
+            "text_i_d": 100002303,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100002304,
+            "text_i_d": 100002304,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100002305,
+            "text_i_d": 100002305,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100002307,
+            "text_i_d": 100002307,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100002308,
+            "text_i_d": 100002308,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100002314,
+            "text_i_d": 100002314,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100002314,
+            "text_i_d": 100002314,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100002314,
+            "text_i_d": 100002314,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100002314,
+            "text_i_d": 100002314,
+            "new_mini_map_type": 207
+          },
+          {
+            "item_i_d": 100002313,
+            "text_i_d": 100002313,
+            "new_mini_map_type": 302
+          },
+          {
+            "item_i_d": 100002313,
+            "text_i_d": 100002313,
+            "new_mini_map_type": 303
+          },
+          {
+            "item_i_d": 100002313,
+            "text_i_d": 100002313,
+            "new_mini_map_type": 311
+          },
+          {
+            "item_i_d": 100002313,
+            "text_i_d": 100002313,
+            "new_mini_map_type": 312
+          },
+          {
+            "item_i_d": 100002313,
+            "text_i_d": 100002313,
+            "new_mini_map_type": 313
+          }
+        ]
+      },
+      {
+        "i_d": 4,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100002412,
+            "text_i_d": 100002412,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100002401,
+            "text_i_d": 100002401,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100002402,
+            "text_i_d": 100002402,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100002403,
+            "text_i_d": 100002403,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100002404,
+            "text_i_d": 100002404,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100002405,
+            "text_i_d": 100002405,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100002407,
+            "text_i_d": 100002407,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100002408,
+            "text_i_d": 100002408,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 204
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 205
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 206
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 208
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 301
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 302
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 303
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 304
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 305
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 306
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 307
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 308
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 309
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 310
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 322
+          },
+          {
+            "item_i_d": 100002414,
+            "text_i_d": 100002414,
+            "new_mini_map_type": 209
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 311
+          },
+          {
+            "item_i_d": 100002413,
+            "text_i_d": 100002413,
+            "new_mini_map_type": 315
+          }
+        ]
+      },
+      {
+        "i_d": 5,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100002512,
+            "text_i_d": 100002512,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100002501,
+            "text_i_d": 100002501,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100002502,
+            "text_i_d": 100002502,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100002503,
+            "text_i_d": 100002503,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100002504,
+            "text_i_d": 100002504,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100002505,
+            "text_i_d": 100002505,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100002507,
+            "text_i_d": 100002507,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100002508,
+            "text_i_d": 100002508,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 211
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 212
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 213
+          },
+          {
+            "item_i_d": 100002514,
+            "text_i_d": 100002514,
+            "new_mini_map_type": 206
+          },
+          {
+            "item_i_d": 100002513,
+            "text_i_d": 100002513,
+            "new_mini_map_type": 320
+          },
+          {
+            "item_i_d": 100002513,
+            "text_i_d": 100002513,
+            "new_mini_map_type": 321
+          },
+          {
+            "item_i_d": 100002513,
+            "text_i_d": 100002513,
+            "new_mini_map_type": 304
+          }
+        ]
+      },
+      {
+        "i_d": 6,
+        "mini_map_type_info": [
+          {
+            "new_mini_map_type": 5
+          },
+          {
+            "new_mini_map_type": 101
+          },
+          {
+            "new_mini_map_type": 102
+          },
+          {
+            "new_mini_map_type": 106
+          },
+          {
+            "new_mini_map_type": 103
+          },
+          {
+            "new_mini_map_type": 104
+          },
+          {
+            "new_mini_map_type": 105
+          },
+          {
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "new_mini_map_type": 110
+          },
+          {
+            "new_mini_map_type": 201
+          },
+          {
+            "new_mini_map_type": 202
+          },
+          {
+            "new_mini_map_type": 203
+          },
+          {
+            "new_mini_map_type": 204
+          },
+          {
+            "new_mini_map_type": 205
+          },
+          {
+            "new_mini_map_type": 206
+          },
+          {
+            "new_mini_map_type": 301
+          },
+          {
+            "new_mini_map_type": 302
+          },
+          {
+            "new_mini_map_type": 303
+          },
+          {
+            "new_mini_map_type": 304
+          },
+          {
+            "new_mini_map_type": 305
+          },
+          {
+            "new_mini_map_type": 306
+          },
+          {
+            "new_mini_map_type": 307
+          },
+          {
+            "new_mini_map_type": 308
+          },
+          {
+            "new_mini_map_type": 309
+          },
+          {
+            "new_mini_map_type": 310
+          }
+        ]
+      },
+      {
+        "i_d": 100,
+        "mini_map_type_info": [
+          {
+            "new_mini_map_type": 5
+          },
+          {
+            "new_mini_map_type": 101
+          },
+          {
+            "new_mini_map_type": 102
+          },
+          {
+            "new_mini_map_type": 106
+          },
+          {
+            "new_mini_map_type": 103
+          },
+          {
+            "new_mini_map_type": 104
+          },
+          {
+            "new_mini_map_type": 105
+          },
+          {
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "new_mini_map_type": 110
+          },
+          {
+            "new_mini_map_type": 201
+          },
+          {
+            "new_mini_map_type": 202
+          },
+          {
+            "new_mini_map_type": 203
+          },
+          {
+            "new_mini_map_type": 204
+          },
+          {
+            "new_mini_map_type": 205
+          },
+          {
+            "new_mini_map_type": 206
+          },
+          {
+            "new_mini_map_type": 301
+          },
+          {
+            "new_mini_map_type": 302
+          },
+          {
+            "new_mini_map_type": 303
+          },
+          {
+            "new_mini_map_type": 304
+          },
+          {
+            "new_mini_map_type": 305
+          },
+          {
+            "new_mini_map_type": 306
+          },
+          {
+            "new_mini_map_type": 307
+          },
+          {
+            "new_mini_map_type": 308
+          },
+          {
+            "new_mini_map_type": 309
+          },
+          {
+            "new_mini_map_type": 310
+          }
+        ]
+      },
+      {
+        "i_d": 1001,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100010112,
+            "text_i_d": 100010112,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100010101,
+            "text_i_d": 100010101,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100010102,
+            "text_i_d": 100010102,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100010103,
+            "text_i_d": 100010103,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100010104,
+            "text_i_d": 100010104,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100010105,
+            "text_i_d": 100010105,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100010107,
+            "text_i_d": 100010107,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100010108,
+            "text_i_d": 100010108,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100010114,
+            "text_i_d": 100010114,
+            "new_mini_map_type": 110
+          },
+          {
+            "item_i_d": 100010114,
+            "text_i_d": 100010114,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100010114,
+            "text_i_d": 100010114,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100010114,
+            "text_i_d": 100010114,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100010113,
+            "text_i_d": 100010113,
+            "new_mini_map_type": 204
+          },
+          {
+            "item_i_d": 100010113,
+            "text_i_d": 100010113,
+            "new_mini_map_type": 314
+          },
+          {
+            "item_i_d": 100010113,
+            "text_i_d": 100010113,
+            "new_mini_map_type": 315
+          }
+        ]
+      },
+      {
+        "i_d": 1002,
+        "mini_map_type_info": [
+          {
+            "item_i_d": 100010212,
+            "text_i_d": 100010212,
+            "new_mini_map_type": 5
+          },
+          {
+            "item_i_d": 100010201,
+            "text_i_d": 100010201,
+            "new_mini_map_type": 101
+          },
+          {
+            "item_i_d": 100010202,
+            "text_i_d": 100010202,
+            "new_mini_map_type": 102
+          },
+          {
+            "item_i_d": 100010203,
+            "text_i_d": 100010203,
+            "new_mini_map_type": 106
+          },
+          {
+            "item_i_d": 100010204,
+            "text_i_d": 100010204,
+            "new_mini_map_type": 103
+          },
+          {
+            "item_i_d": 100010205,
+            "text_i_d": 100010205,
+            "new_mini_map_type": 104
+          },
+          {
+            "item_i_d": 100010207,
+            "text_i_d": 100010207,
+            "new_mini_map_type": 105
+          },
+          {
+            "item_i_d": 100010208,
+            "text_i_d": 100010208,
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 110
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 201
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 202
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 203
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 209
+          },
+          {
+            "item_i_d": 100010214,
+            "text_i_d": 100010214,
+            "new_mini_map_type": 210
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 204
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 314
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 315
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 316
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 317
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 318
+          },
+          {
+            "item_i_d": 100010213,
+            "text_i_d": 100010213,
+            "new_mini_map_type": 319
+          }
+        ]
+      },
+      {
+        "i_d": 1003,
+        "mini_map_type_info": [
+          {
+            "new_mini_map_type": 5
+          },
+          {
+            "new_mini_map_type": 101
+          },
+          {
+            "new_mini_map_type": 102
+          },
+          {
+            "new_mini_map_type": 106
+          },
+          {
+            "new_mini_map_type": 103
+          },
+          {
+            "new_mini_map_type": 104
+          },
+          {
+            "new_mini_map_type": 105
+          },
+          {
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "new_mini_map_type": 110
+          },
+          {
+            "new_mini_map_type": 201
+          },
+          {
+            "new_mini_map_type": 202
+          },
+          {
+            "new_mini_map_type": 203
+          },
+          {
+            "new_mini_map_type": 209
+          },
+          {
+            "new_mini_map_type": 210
+          },
+          {
+            "new_mini_map_type": 204
+          },
+          {
+            "new_mini_map_type": 314
+          },
+          {
+            "new_mini_map_type": 315
+          },
+          {
+            "new_mini_map_type": 316
+          },
+          {
+            "new_mini_map_type": 317
+          },
+          {
+            "new_mini_map_type": 318
+          },
+          {
+            "new_mini_map_type": 319
+          }
+        ]
+      },
+      {
+        "i_d": 9999,
+        "mini_map_type_info": [
+          {
+            "new_mini_map_type": 5
+          },
+          {
+            "new_mini_map_type": 101
+          },
+          {
+            "new_mini_map_type": 102
+          },
+          {
+            "new_mini_map_type": 106
+          },
+          {
+            "new_mini_map_type": 103
+          },
+          {
+            "new_mini_map_type": 104
+          },
+          {
+            "new_mini_map_type": 105
+          },
+          {
+            "new_mini_map_type": 108
+          },
+          {
+            "new_mini_map_type": 109
+          },
+          {
+            "new_mini_map_type": 107
+          },
+          {
+            "new_mini_map_type": 110
+          },
+          {
+            "new_mini_map_type": 201
+          },
+          {
+            "new_mini_map_type": 202
+          },
+          {
+            "new_mini_map_type": 203
+          },
+          {
+            "new_mini_map_type": 204
+          },
+          {
+            "new_mini_map_type": 205
+          },
+          {
+            "new_mini_map_type": 206
+          },
+          {
+            "new_mini_map_type": 301
+          },
+          {
+            "new_mini_map_type": 302
+          },
+          {
+            "new_mini_map_type": 303
+          },
+          {
+            "new_mini_map_type": 304
+          },
+          {
+            "new_mini_map_type": 305
+          },
+          {
+            "new_mini_map_type": 306
+          },
+          {
+            "new_mini_map_type": 307
+          },
+          {
+            "new_mini_map_type": 308
+          },
+          {
+            "new_mini_map_type": 309
+          },
+          {
+            "new_mini_map_type": 310
+          }
+        ]
+      }
+    ]
+  }
+}

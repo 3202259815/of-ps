@@ -1,0 +1,191 @@
+{
+  "intimacy_stage": {
+    "datas": [
+      {
+        "i_d": 1,
+        "intimacy_level": 1
+      },
+      {
+        "i_d": 2,
+        "intimacy_level": 2,
+        "intimacy_condition_value": 100
+      },
+      {
+        "i_d": 3,
+        "intimacy_level": 3,
+        "intimacy_condition_value": 600
+      },
+      {
+        "i_d": 4,
+        "intimacy_level": 4,
+        "intimacy_condition_value": 1200
+      }
+    ]
+  },
+  "intimacy_label": {
+    "datas": [
+      {
+        "i_d": 1,
+        "intimacy_level": 1,
+        "label_text_i_d": 1001,
+        "icon_i_d": 1001
+      },
+      {
+        "i_d": 2,
+        "intimacy_level": 1,
+        "label_text_i_d": 1002,
+        "icon_i_d": 1002
+      },
+      {
+        "i_d": 3,
+        "intimacy_level": 1,
+        "label_text_i_d": 1003
+      },
+      {
+        "i_d": 4,
+        "intimacy_level": 1,
+        "label_text_i_d": 1004
+      },
+      {
+        "i_d": 5,
+        "intimacy_level": 1,
+        "label_text_i_d": 1005
+      },
+      {
+        "i_d": 6,
+        "intimacy_level": 1,
+        "label_text_i_d": 1006
+      },
+      {
+        "i_d": 7,
+        "intimacy_level": 1,
+        "label_text_i_d": 1007
+      },
+      {
+        "i_d": 8,
+        "intimacy_level": 1,
+        "label_text_i_d": 1008
+      },
+      {
+        "i_d": 9,
+        "intimacy_level": 1,
+        "label_text_i_d": 1009
+      },
+      {
+        "i_d": 10,
+        "intimacy_level": 1,
+        "label_text_i_d": 1010
+      },
+      {
+        "i_d": 2001,
+        "intimacy_level": 2,
+        "label_text_i_d": 2001,
+        "icon_i_d": 2001
+      },
+      {
+        "i_d": 2002,
+        "intimacy_level": 2,
+        "label_text_i_d": 2002,
+        "icon_i_d": 2002
+      },
+      {
+        "i_d": 2003,
+        "intimacy_level": 2,
+        "label_text_i_d": 2003
+      },
+      {
+        "i_d": 2004,
+        "intimacy_level": 2,
+        "label_text_i_d": 2004
+      },
+      {
+        "i_d": 2005,
+        "intimacy_level": 2,
+        "label_text_i_d": 2005
+      },
+      {
+        "i_d": 2006,
+        "intimacy_level": 2,
+        "label_text_i_d": 2006
+      },
+      {
+        "i_d": 2007,
+        "intimacy_level": 2,
+        "label_text_i_d": 2007
+      },
+      {
+        "i_d": 2008,
+        "intimacy_level": 2,
+        "label_text_i_d": 2008
+      },
+      {
+        "i_d": 2009,
+        "intimacy_level": 2,
+        "label_text_i_d": 2009
+      },
+      {
+        "i_d": 2010,
+        "intimacy_level": 2,
+        "label_text_i_d": 2010
+      },
+      {
+        "i_d": 3001,
+        "intimacy_level": 3,
+        "label_text_i_d": 3001,
+        "icon_i_d": 3001
+      },
+      {
+        "i_d": 3002,
+        "intimacy_level": 3,
+        "label_text_i_d": 3002,
+        "icon_i_d": 3002
+      },
+      {
+        "i_d": 3003,
+        "intimacy_level": 3,
+        "label_text_i_d": 3003,
+        "icon_i_d": 3003
+      },
+      {
+        "i_d": 3004,
+        "intimacy_level": 3,
+        "label_text_i_d": 3004
+      },
+      {
+        "i_d": 3005,
+        "intimacy_level": 3,
+        "label_text_i_d": 3005
+      },
+      {
+        "i_d": 3006,
+        "intimacy_level": 3,
+        "label_text_i_d": 3006
+      },
+      {
+        "i_d": 3007,
+        "intimacy_level": 3,
+        "label_text_i_d": 3007
+      },
+      {
+        "i_d": 3008,
+        "intimacy_level": 3,
+        "label_text_i_d": 3008
+      },
+      {
+        "i_d": 3009,
+        "intimacy_level": 3,
+        "label_text_i_d": 3009
+      },
+      {
+        "i_d": 3010,
+        "intimacy_level": 3,
+        "label_text_i_d": 3010
+      },
+      {
+        "i_d": 3011,
+        "intimacy_level": 3,
+        "label_text_i_d": 3011
+      }
+    ]
+  }
+}

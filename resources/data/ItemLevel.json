@@ -1,0 +1,1665 @@
+{
+  "item_level": {
+    "datas": [
+      {
+        "i_d": 20100003,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010000301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010000302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010000303
+          }
+        ]
+      },
+      {
+        "i_d": 20100004,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100005,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010000501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010000502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010000503
+          }
+        ]
+      },
+      {
+        "i_d": 20100006,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100007,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010000701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010000702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010000703
+          }
+        ]
+      },
+      {
+        "i_d": 20100008,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100009,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010000901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010000902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010000903
+          }
+        ]
+      },
+      {
+        "i_d": 20100010,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100011,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010001101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010001102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010001103
+          }
+        ]
+      },
+      {
+        "i_d": 20100012,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100013,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010001301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010001302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010001303
+          }
+        ]
+      },
+      {
+        "i_d": 20100014,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100015,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010001501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010001502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010001503
+          }
+        ]
+      },
+      {
+        "i_d": 20100016,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100017,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010001701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010001702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010001703
+          }
+        ]
+      },
+      {
+        "i_d": 20100018,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100019,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010001901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010001902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010001903
+          }
+        ]
+      },
+      {
+        "i_d": 20100020,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100021,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010002101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010002102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010002103
+          }
+        ]
+      },
+      {
+        "i_d": 20100022,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100023,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010002301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010002302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010002303
+          }
+        ]
+      },
+      {
+        "i_d": 20100024,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100025,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010002501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010002502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010002503
+          }
+        ]
+      },
+      {
+        "i_d": 20100026,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100027,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010002701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010002702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010002703
+          }
+        ]
+      },
+      {
+        "i_d": 20100028,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100029,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010002901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010002902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010002903
+          }
+        ]
+      },
+      {
+        "i_d": 20100030,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100031,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010003101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010003102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010003103
+          }
+        ]
+      },
+      {
+        "i_d": 20100032,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100033,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2010003301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2010003302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2010003303
+          }
+        ]
+      },
+      {
+        "i_d": 20100034,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400001,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000103
+          }
+        ]
+      },
+      {
+        "i_d": 20400002,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000203
+          }
+        ]
+      },
+      {
+        "i_d": 20400003,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000303
+          }
+        ]
+      },
+      {
+        "i_d": 20400004,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000403
+          }
+        ]
+      },
+      {
+        "i_d": 20400005,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000503
+          }
+        ]
+      },
+      {
+        "i_d": 20400006,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000601
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000602
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000603
+          }
+        ]
+      },
+      {
+        "i_d": 20400007,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000703
+          }
+        ]
+      },
+      {
+        "i_d": 20400008,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000801
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000802
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000803
+          }
+        ]
+      },
+      {
+        "i_d": 20400009,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040000901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040000902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040000903
+          }
+        ]
+      },
+      {
+        "i_d": 20400010,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001001
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001002
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001003
+          }
+        ]
+      },
+      {
+        "i_d": 20400011,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001103
+          }
+        ]
+      },
+      {
+        "i_d": 20400012,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001203
+          }
+        ]
+      },
+      {
+        "i_d": 20400013,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001303
+          }
+        ]
+      },
+      {
+        "i_d": 20400014,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001403
+          }
+        ]
+      },
+      {
+        "i_d": 20400015,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001503
+          }
+        ]
+      },
+      {
+        "i_d": 20400016,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001601
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001602
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001603
+          }
+        ]
+      },
+      {
+        "i_d": 20400017,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001703
+          }
+        ]
+      },
+      {
+        "i_d": 20400018,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001801
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001802
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001803
+          }
+        ]
+      },
+      {
+        "i_d": 20400019,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040001901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040001902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040001903
+          }
+        ]
+      },
+      {
+        "i_d": 20400020,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040002001
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040002002
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040002003
+          }
+        ]
+      },
+      {
+        "i_d": 20400021,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040002101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040002102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040002103
+          }
+        ]
+      },
+      {
+        "i_d": 20400022,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040002201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040002202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040002203
+          }
+        ]
+      },
+      {
+        "i_d": 20400023,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040002301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040002302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040002303
+          }
+        ]
+      },
+      {
+        "i_d": 20400024,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2040002401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2040002402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2040002403
+          }
+        ]
+      },
+      {
+        "i_d": 20600001,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000103
+          }
+        ]
+      },
+      {
+        "i_d": 20600002,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000203
+          }
+        ]
+      },
+      {
+        "i_d": 20600003,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000303
+          }
+        ]
+      },
+      {
+        "i_d": 20600004,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000403
+          }
+        ]
+      },
+      {
+        "i_d": 20600005,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000503
+          }
+        ]
+      },
+      {
+        "i_d": 20600006,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000601
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000602
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000603
+          }
+        ]
+      },
+      {
+        "i_d": 20600007,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000703
+          }
+        ]
+      },
+      {
+        "i_d": 20600008,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000801
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000802
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000803
+          }
+        ]
+      },
+      {
+        "i_d": 20600009,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060000901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060000902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060000903
+          }
+        ]
+      },
+      {
+        "i_d": 20600010,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001001
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001002
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001003
+          }
+        ]
+      },
+      {
+        "i_d": 20600011,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001103
+          }
+        ]
+      },
+      {
+        "i_d": 20600012,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001203
+          }
+        ]
+      },
+      {
+        "i_d": 20600013,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001303
+          }
+        ]
+      },
+      {
+        "i_d": 20600014,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001403
+          }
+        ]
+      },
+      {
+        "i_d": 20600015,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001503
+          }
+        ]
+      },
+      {
+        "i_d": 20600016,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001601
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001602
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001603
+          }
+        ]
+      },
+      {
+        "i_d": 20600017,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001703
+          }
+        ]
+      },
+      {
+        "i_d": 20600018,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001801
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001802
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001803
+          }
+        ]
+      },
+      {
+        "i_d": 20600019,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060001901
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060001902
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060001903
+          }
+        ]
+      },
+      {
+        "i_d": 20600020,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002001
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002002
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002003
+          }
+        ]
+      },
+      {
+        "i_d": 20600021,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002101
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002102
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002103
+          }
+        ]
+      },
+      {
+        "i_d": 20600022,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002201
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002202
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002203
+          }
+        ]
+      },
+      {
+        "i_d": 20600023,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002301
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002302
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002303
+          }
+        ]
+      },
+      {
+        "i_d": 20600024,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002401
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002402
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002403
+          }
+        ]
+      },
+      {
+        "i_d": 20600025,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002501
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002502
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002503
+          }
+        ]
+      },
+      {
+        "i_d": 20600026,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002601
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002602
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002603
+          }
+        ]
+      },
+      {
+        "i_d": 20600027,
+        "item_level_item": [
+          {
+            "level": 1,
+            "voice_i_d": 2060002701
+          },
+          {
+            "level": 2,
+            "voice_i_d": 2060002702
+          },
+          {
+            "level": 3,
+            "voice_i_d": 2060002703
+          }
+        ]
+      },
+      {
+        "i_d": 20100101,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100102,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100103,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100104,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100105,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100106,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100107,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100201,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100202,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100203,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100204,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100205,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100206,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100207,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100301,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100302,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100303,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100304,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100305,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100306,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100307,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100401,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100402,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100403,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100404,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100405,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100406,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20100407,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20200001,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20200002,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20300001,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20300002,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400101,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400102,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400103,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400104,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400105,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400106,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400107,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400201,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400202,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400203,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400204,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400205,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400206,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20400207,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20500001,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20500002,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      },
+      {
+        "i_d": 20501001,
+        "item_level_item": [
+          {
+            "level": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "quick_obtaining": {
+    "datas": [
+      {
+        "i_d": 101,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 360,
+            "need_vitality": 3,
+            "need_specialcurrency": 3
+          },
+          {
+            "player_level": 10,
+            "num": 432,
+            "need_vitality": 3,
+            "need_specialcurrency": 3
+          },
+          {
+            "player_level": 15,
+            "num": 501,
+            "need_vitality": 3,
+            "need_specialcurrency": 4
+          },
+          {
+            "player_level": 20,
+            "num": 570,
+            "need_vitality": 3,
+            "need_specialcurrency": 4
+          },
+          {
+            "player_level": 25,
+            "num": 642,
+            "need_vitality": 3,
+            "need_specialcurrency": 5
+          },
+          {
+            "player_level": 30,
+            "num": 720,
+            "need_vitality": 3,
+            "need_specialcurrency": 6
+          },
+          {
+            "player_level": 35,
+            "num": 801,
+            "need_vitality": 3,
+            "need_specialcurrency": 6
+          }
+        ]
+      },
+      {
+        "i_d": 190,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 1,
+            "need_specialcurrency": 1
+          },
+          {
+            "player_level": 10,
+            "num": 2,
+            "need_vitality": 1,
+            "need_specialcurrency": 1
+          },
+          {
+            "player_level": 15,
+            "num": 3,
+            "need_vitality": 1,
+            "need_specialcurrency": 1
+          },
+          {
+            "player_level": 20,
+            "num": 4,
+            "need_vitality": 1,
+            "need_specialcurrency": 2
+          },
+          {
+            "player_level": 25,
+            "num": 5,
+            "need_vitality": 1,
+            "need_specialcurrency": 2
+          },
+          {
+            "player_level": 30,
+            "num": 6,
+            "need_vitality": 1,
+            "need_specialcurrency": 2
+          },
+          {
+            "player_level": 35,
+            "num": 9,
+            "need_vitality": 1,
+            "need_specialcurrency": 3
+          }
+        ]
+      },
+      {
+        "i_d": 1000,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 8,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 4,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 2,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 1,
+            "need_specialcurrency": 10
+          }
+        ]
+      },
+      {
+        "i_d": 1001,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 24,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 6,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 5,
+            "need_specialcurrency": 30
+          }
+        ]
+      },
+      {
+        "i_d": 1002,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 72,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 31,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 18,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 90
+          }
+        ]
+      },
+      {
+        "i_d": 1003,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 216,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 93,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 54,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 47,
+            "need_specialcurrency": 270
+          }
+        ]
+      },
+      {
+        "i_d": 1010,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 8,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 4,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 2,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 1,
+            "need_specialcurrency": 10
+          }
+        ]
+      },
+      {
+        "i_d": 1011,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 24,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 6,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 5,
+            "need_specialcurrency": 30
+          }
+        ]
+      },
+      {
+        "i_d": 1012,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 72,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 31,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 18,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 90
+          }
+        ]
+      },
+      {
+        "i_d": 1013,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 216,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 93,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 54,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 47,
+            "need_specialcurrency": 270
+          }
+        ]
+      },
+      {
+        "i_d": 1020,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 8,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 4,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 2,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 1,
+            "need_specialcurrency": 10
+          }
+        ]
+      },
+      {
+        "i_d": 1021,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 24,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 6,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 5,
+            "need_specialcurrency": 30
+          }
+        ]
+      },
+      {
+        "i_d": 1022,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 72,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 31,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 18,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 90
+          }
+        ]
+      },
+      {
+        "i_d": 1023,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 216,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 93,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 54,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 47,
+            "need_specialcurrency": 270
+          }
+        ]
+      },
+      {
+        "i_d": 1030,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 8,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 4,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 2,
+            "need_specialcurrency": 10
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 1,
+            "need_specialcurrency": 10
+          }
+        ]
+      },
+      {
+        "i_d": 1031,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 24,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 6,
+            "need_specialcurrency": 30
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 5,
+            "need_specialcurrency": 30
+          }
+        ]
+      },
+      {
+        "i_d": 1032,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 72,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 31,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 18,
+            "need_specialcurrency": 90
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 90
+          }
+        ]
+      },
+      {
+        "i_d": 1033,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 216,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 93,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 54,
+            "need_specialcurrency": 270
+          },
+          {
+            "player_level": 35,
+            "num": 1,
+            "need_vitality": 47,
+            "need_specialcurrency": 270
+          }
+        ]
+      },
+      {
+        "i_d": 1101,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 20,
+            "need_specialcurrency": 25
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 25
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 5,
+            "need_specialcurrency": 25
+          }
+        ]
+      },
+      {
+        "i_d": 1102,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 40,
+            "need_specialcurrency": 50
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 20,
+            "need_specialcurrency": 50
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 10,
+            "need_specialcurrency": 50
+          }
+        ]
+      },
+      {
+        "i_d": 1103,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 80,
+            "need_specialcurrency": 100
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 40,
+            "need_specialcurrency": 100
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 20,
+            "need_specialcurrency": 100
+          }
+        ]
+      },
+      {
+        "i_d": 1201,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 30,
+            "need_specialcurrency": 36
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 36
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 7,
+            "need_specialcurrency": 36
+          }
+        ]
+      },
+      {
+        "i_d": 1202,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 60,
+            "need_specialcurrency": 75
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 30,
+            "need_specialcurrency": 75
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 15,
+            "need_specialcurrency": 75
+          }
+        ]
+      },
+      {
+        "i_d": 1203,
+        "quick_obtaining_item": [
+          {
+            "player_level": 1,
+            "num": 1,
+            "need_vitality": 120,
+            "need_specialcurrency": 150
+          },
+          {
+            "player_level": 20,
+            "num": 1,
+            "need_vitality": 60,
+            "need_specialcurrency": 150
+          },
+          {
+            "player_level": 30,
+            "num": 1,
+            "need_vitality": 30,
+            "need_specialcurrency": 150
+          }
+        ]
+      }
+    ]
+  }
+}

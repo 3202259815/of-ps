@@ -1,0 +1,3592 @@
+{
+  "ability": {
+    "datas": [
+      {
+        "i_d": 1010,
+        "need_item_i_d": 102000001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 10,
+            "reward_item_i_d": 110001011,
+            "text_i_d": 1011,
+            "icon_i_d": 1010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 20,
+            "reward_item_i_d": 110001012,
+            "text_i_d": 1012,
+            "icon_i_d": 1010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 30,
+            "reward_item_i_d": 110001013,
+            "text_i_d": 1013,
+            "icon_i_d": 1010
+          }
+        ]
+      },
+      {
+        "i_d": 1020,
+        "need_item_i_d": 102000002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 10,
+            "reward_item_i_d": 110001021,
+            "text_i_d": 1021,
+            "icon_i_d": 1020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 20,
+            "reward_item_i_d": 110001022,
+            "text_i_d": 1022,
+            "icon_i_d": 1020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 30,
+            "reward_item_i_d": 110001023,
+            "text_i_d": 1023,
+            "icon_i_d": 1020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 40,
+            "reward_item_i_d": 110001024,
+            "text_i_d": 1024,
+            "icon_i_d": 1020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 50,
+            "reward_item_i_d": 110001025,
+            "text_i_d": 1025,
+            "icon_i_d": 1020
+          }
+        ]
+      },
+      {
+        "i_d": 1030,
+        "need_item_i_d": 102000003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 10,
+            "reward_item_i_d": 110001030,
+            "text_i_d": 1031,
+            "icon_i_d": 1030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 20,
+            "reward_item_i_d": 110001031,
+            "text_i_d": 1032,
+            "icon_i_d": 1030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 30,
+            "reward_item_i_d": 110001032,
+            "text_i_d": 1033,
+            "icon_i_d": 1030
+          }
+        ]
+      },
+      {
+        "i_d": 1040,
+        "need_item_i_d": 102000004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 10,
+            "reward_item_i_d": 110001041,
+            "text_i_d": 1041,
+            "icon_i_d": 1040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 20,
+            "reward_item_i_d": 110001042,
+            "text_i_d": 1042,
+            "icon_i_d": 1040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 30,
+            "reward_item_i_d": 110001043,
+            "text_i_d": 1043,
+            "icon_i_d": 1040
+          }
+        ]
+      },
+      {
+        "i_d": 10010,
+        "need_item_i_d": 120010001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110010101,
+            "text_i_d": 10011,
+            "icon_i_d": 10010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110010102,
+            "text_i_d": 10012,
+            "icon_i_d": 10010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010103,
+            "text_i_d": 10013,
+            "icon_i_d": 10010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110010104,
+            "text_i_d": 10014,
+            "icon_i_d": 10010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110010105,
+            "text_i_d": 10015,
+            "icon_i_d": 10010
+          }
+        ]
+      },
+      {
+        "i_d": 10020,
+        "need_item_i_d": 120010002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010201,
+            "text_i_d": 10021,
+            "icon_i_d": 10020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110010202,
+            "text_i_d": 10022,
+            "icon_i_d": 10020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110010203,
+            "text_i_d": 10023,
+            "icon_i_d": 10020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110010204,
+            "text_i_d": 10024,
+            "icon_i_d": 10020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110010205,
+            "text_i_d": 10025,
+            "icon_i_d": 10020
+          }
+        ]
+      },
+      {
+        "i_d": 10030,
+        "need_item_i_d": 120010003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110010301,
+            "text_i_d": 10031,
+            "icon_i_d": 10030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110010302,
+            "text_i_d": 10032,
+            "icon_i_d": 10030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010303,
+            "text_i_d": 10033,
+            "icon_i_d": 10030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110010304,
+            "text_i_d": 10034,
+            "icon_i_d": 10030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110010305,
+            "text_i_d": 10035,
+            "icon_i_d": 10030
+          }
+        ]
+      },
+      {
+        "i_d": 10040,
+        "need_item_i_d": 120010004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010401,
+            "text_i_d": 10041,
+            "icon_i_d": 10040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110010402,
+            "text_i_d": 10042,
+            "icon_i_d": 10040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110010403,
+            "text_i_d": 10043,
+            "icon_i_d": 10040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110010404,
+            "text_i_d": 10044,
+            "icon_i_d": 10040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110010405,
+            "text_i_d": 10045,
+            "icon_i_d": 10040
+          }
+        ]
+      },
+      {
+        "i_d": 10050,
+        "need_item_i_d": 120010005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110010501,
+            "text_i_d": 10051,
+            "icon_i_d": 10050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110010502,
+            "text_i_d": 10052,
+            "icon_i_d": 10050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010503,
+            "text_i_d": 10053,
+            "icon_i_d": 10050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110010504,
+            "text_i_d": 10054,
+            "icon_i_d": 10050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110010505,
+            "text_i_d": 10055,
+            "icon_i_d": 10050
+          }
+        ]
+      },
+      {
+        "i_d": 10060,
+        "need_item_i_d": 120010006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110010601,
+            "text_i_d": 10061,
+            "icon_i_d": 10060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110010602,
+            "text_i_d": 10062,
+            "icon_i_d": 10060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110010603,
+            "text_i_d": 10063,
+            "icon_i_d": 10060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110010604,
+            "text_i_d": 10064,
+            "icon_i_d": 10060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110010605,
+            "text_i_d": 10065,
+            "icon_i_d": 10060
+          }
+        ]
+      },
+      {
+        "i_d": 20010,
+        "need_item_i_d": 120020001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110020101,
+            "text_i_d": 20011,
+            "icon_i_d": 20010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110020102,
+            "text_i_d": 20012,
+            "icon_i_d": 20010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020103,
+            "text_i_d": 20013,
+            "icon_i_d": 20010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110020104,
+            "text_i_d": 20014,
+            "icon_i_d": 20010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110020105,
+            "text_i_d": 20015,
+            "icon_i_d": 20010
+          }
+        ]
+      },
+      {
+        "i_d": 20020,
+        "need_item_i_d": 120020002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020201,
+            "text_i_d": 20021,
+            "icon_i_d": 20020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110020202,
+            "text_i_d": 20022,
+            "icon_i_d": 20020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110020203,
+            "text_i_d": 20023,
+            "icon_i_d": 20020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110020204,
+            "text_i_d": 20024,
+            "icon_i_d": 20020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110020205,
+            "text_i_d": 20025,
+            "icon_i_d": 20020
+          }
+        ]
+      },
+      {
+        "i_d": 20030,
+        "need_item_i_d": 120020003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110020301,
+            "text_i_d": 20031,
+            "icon_i_d": 20030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110020302,
+            "text_i_d": 20032,
+            "icon_i_d": 20030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020303,
+            "text_i_d": 20033,
+            "icon_i_d": 20030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110020304,
+            "text_i_d": 20034,
+            "icon_i_d": 20030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110020305,
+            "text_i_d": 20035,
+            "icon_i_d": 20030
+          }
+        ]
+      },
+      {
+        "i_d": 20040,
+        "need_item_i_d": 120020004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020401,
+            "text_i_d": 20041,
+            "icon_i_d": 20040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110020402,
+            "text_i_d": 20042,
+            "icon_i_d": 20040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110020403,
+            "text_i_d": 20043,
+            "icon_i_d": 20040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110020404,
+            "text_i_d": 20044,
+            "icon_i_d": 20040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110020405,
+            "text_i_d": 20045,
+            "icon_i_d": 20040
+          }
+        ]
+      },
+      {
+        "i_d": 20050,
+        "need_item_i_d": 120020005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110020501,
+            "text_i_d": 20051,
+            "icon_i_d": 20050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110020502,
+            "text_i_d": 20052,
+            "icon_i_d": 20050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020503,
+            "text_i_d": 20053,
+            "icon_i_d": 20050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110020504,
+            "text_i_d": 20054,
+            "icon_i_d": 20050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110020505,
+            "text_i_d": 20055,
+            "icon_i_d": 20050
+          }
+        ]
+      },
+      {
+        "i_d": 20060,
+        "need_item_i_d": 120020006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110020601,
+            "text_i_d": 20061,
+            "icon_i_d": 20060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110020602,
+            "text_i_d": 20062,
+            "icon_i_d": 20060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110020603,
+            "text_i_d": 20063,
+            "icon_i_d": 20060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110020604,
+            "text_i_d": 20064,
+            "icon_i_d": 20060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110020605,
+            "text_i_d": 20065,
+            "icon_i_d": 20060
+          }
+        ]
+      },
+      {
+        "i_d": 30010,
+        "need_item_i_d": 120030001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110030101,
+            "text_i_d": 30011,
+            "icon_i_d": 30010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110030102,
+            "text_i_d": 30012,
+            "icon_i_d": 30010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030103,
+            "text_i_d": 30013,
+            "icon_i_d": 30010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110030104,
+            "text_i_d": 30014,
+            "icon_i_d": 30010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110030105,
+            "text_i_d": 30015,
+            "icon_i_d": 30010
+          }
+        ]
+      },
+      {
+        "i_d": 30020,
+        "need_item_i_d": 120030002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030201,
+            "text_i_d": 30021,
+            "icon_i_d": 30020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110030202,
+            "text_i_d": 30022,
+            "icon_i_d": 30020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110030203,
+            "text_i_d": 30023,
+            "icon_i_d": 30020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110030204,
+            "text_i_d": 30024,
+            "icon_i_d": 30020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110030205,
+            "text_i_d": 30025,
+            "icon_i_d": 30020
+          }
+        ]
+      },
+      {
+        "i_d": 30030,
+        "need_item_i_d": 120030003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110030301,
+            "text_i_d": 30031,
+            "icon_i_d": 30030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110030302,
+            "text_i_d": 30032,
+            "icon_i_d": 30030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030303,
+            "text_i_d": 30033,
+            "icon_i_d": 30030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110030304,
+            "text_i_d": 30034,
+            "icon_i_d": 30030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110030305,
+            "text_i_d": 30035,
+            "icon_i_d": 30030
+          }
+        ]
+      },
+      {
+        "i_d": 30040,
+        "need_item_i_d": 120030004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030401,
+            "text_i_d": 30041,
+            "icon_i_d": 30040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110030402,
+            "text_i_d": 30042,
+            "icon_i_d": 30040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110030403,
+            "text_i_d": 30043,
+            "icon_i_d": 30040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110030404,
+            "text_i_d": 30044,
+            "icon_i_d": 30040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110030405,
+            "text_i_d": 30045,
+            "icon_i_d": 30040
+          }
+        ]
+      },
+      {
+        "i_d": 30050,
+        "need_item_i_d": 120030005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110030501,
+            "text_i_d": 30051,
+            "icon_i_d": 30050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110030502,
+            "text_i_d": 30052,
+            "icon_i_d": 30050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030503,
+            "text_i_d": 30053,
+            "icon_i_d": 30050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110030504,
+            "text_i_d": 30054,
+            "icon_i_d": 30050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110030505,
+            "text_i_d": 30055,
+            "icon_i_d": 30050
+          }
+        ]
+      },
+      {
+        "i_d": 30060,
+        "need_item_i_d": 120030006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030601,
+            "text_i_d": 30061,
+            "icon_i_d": 30060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110030602,
+            "text_i_d": 30062,
+            "icon_i_d": 30060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110030603,
+            "text_i_d": 30063,
+            "icon_i_d": 30060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110030604,
+            "text_i_d": 30064,
+            "icon_i_d": 30060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110030605,
+            "text_i_d": 30065,
+            "icon_i_d": 30060
+          }
+        ]
+      },
+      {
+        "i_d": 30070,
+        "need_item_i_d": 120030007,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110030701,
+            "text_i_d": 30071,
+            "icon_i_d": 30070
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110030702,
+            "text_i_d": 30072,
+            "icon_i_d": 30070
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030703,
+            "text_i_d": 30073,
+            "icon_i_d": 30070
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110030704,
+            "text_i_d": 30074,
+            "icon_i_d": 30070
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110030705,
+            "text_i_d": 30075,
+            "icon_i_d": 30070
+          }
+        ]
+      },
+      {
+        "i_d": 30080,
+        "need_item_i_d": 120030008,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030801,
+            "text_i_d": 30081,
+            "icon_i_d": 30080
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110030802,
+            "text_i_d": 30082,
+            "icon_i_d": 30080
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110030803,
+            "text_i_d": 30083,
+            "icon_i_d": 30080
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110030804,
+            "text_i_d": 30084,
+            "icon_i_d": 30080
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110030805,
+            "text_i_d": 30085,
+            "icon_i_d": 30080
+          }
+        ]
+      },
+      {
+        "i_d": 30090,
+        "need_item_i_d": 120030009,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110030901,
+            "text_i_d": 30091,
+            "icon_i_d": 30090
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110030902,
+            "text_i_d": 30092,
+            "icon_i_d": 30090
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110030903,
+            "text_i_d": 30093,
+            "icon_i_d": 30090
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110030904,
+            "text_i_d": 30094,
+            "icon_i_d": 30090
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110030905,
+            "text_i_d": 30095,
+            "icon_i_d": 30090
+          }
+        ]
+      },
+      {
+        "i_d": 30100,
+        "need_item_i_d": 120030010,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110031001,
+            "text_i_d": 30101,
+            "icon_i_d": 30100
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110031002,
+            "text_i_d": 30102,
+            "icon_i_d": 30100
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110031003,
+            "text_i_d": 30103,
+            "icon_i_d": 30100
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110031004,
+            "text_i_d": 30104,
+            "icon_i_d": 30100
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110031005,
+            "text_i_d": 30105,
+            "icon_i_d": 30100
+          }
+        ]
+      },
+      {
+        "i_d": 30110,
+        "need_item_i_d": 120030011,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110031101,
+            "text_i_d": 30111,
+            "icon_i_d": 30110
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110031102,
+            "text_i_d": 30112,
+            "icon_i_d": 30110
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110031103,
+            "text_i_d": 30113,
+            "icon_i_d": 30110
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110031104,
+            "text_i_d": 30114,
+            "icon_i_d": 30110
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110031105,
+            "text_i_d": 30115,
+            "icon_i_d": 30110
+          }
+        ]
+      },
+      {
+        "i_d": 30120,
+        "need_item_i_d": 120030012,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110031201,
+            "text_i_d": 30121,
+            "icon_i_d": 30120
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110031202,
+            "text_i_d": 30122,
+            "icon_i_d": 30120
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110031203,
+            "text_i_d": 30123,
+            "icon_i_d": 30120
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110031204,
+            "text_i_d": 30124,
+            "icon_i_d": 30120
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110031205,
+            "text_i_d": 30125,
+            "icon_i_d": 30120
+          }
+        ]
+      },
+      {
+        "i_d": 40010,
+        "need_item_i_d": 120040001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110040101,
+            "text_i_d": 40011,
+            "icon_i_d": 40010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110040102,
+            "text_i_d": 40012,
+            "icon_i_d": 40010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040103,
+            "text_i_d": 40013,
+            "icon_i_d": 40010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110040104,
+            "text_i_d": 40014,
+            "icon_i_d": 40010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110040105,
+            "text_i_d": 40015,
+            "icon_i_d": 40010
+          }
+        ]
+      },
+      {
+        "i_d": 40020,
+        "need_item_i_d": 120040002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040201,
+            "text_i_d": 40021,
+            "icon_i_d": 40020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110040202,
+            "text_i_d": 40022,
+            "icon_i_d": 40020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110040203,
+            "text_i_d": 40023,
+            "icon_i_d": 40020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110040204,
+            "text_i_d": 40024,
+            "icon_i_d": 40020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110040205,
+            "text_i_d": 40025,
+            "icon_i_d": 40020
+          }
+        ]
+      },
+      {
+        "i_d": 40030,
+        "need_item_i_d": 120040003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110040301,
+            "text_i_d": 40031,
+            "icon_i_d": 40030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110040302,
+            "text_i_d": 40032,
+            "icon_i_d": 40030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040303,
+            "text_i_d": 40033,
+            "icon_i_d": 40030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110040304,
+            "text_i_d": 40034,
+            "icon_i_d": 40030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110040305,
+            "text_i_d": 40035,
+            "icon_i_d": 40030
+          }
+        ]
+      },
+      {
+        "i_d": 40040,
+        "need_item_i_d": 120040004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040401,
+            "text_i_d": 40041,
+            "icon_i_d": 40040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110040402,
+            "text_i_d": 40042,
+            "icon_i_d": 40040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110040403,
+            "text_i_d": 40043,
+            "icon_i_d": 40040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110040404,
+            "text_i_d": 40044,
+            "icon_i_d": 40040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110040405,
+            "text_i_d": 40045,
+            "icon_i_d": 40040
+          }
+        ]
+      },
+      {
+        "i_d": 40050,
+        "need_item_i_d": 120040005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110040501,
+            "text_i_d": 40051,
+            "icon_i_d": 40050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110040502,
+            "text_i_d": 40052,
+            "icon_i_d": 40050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040503,
+            "text_i_d": 40053,
+            "icon_i_d": 40050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110040504,
+            "text_i_d": 40054,
+            "icon_i_d": 40050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110040505,
+            "text_i_d": 40055,
+            "icon_i_d": 40050
+          }
+        ]
+      },
+      {
+        "i_d": 40060,
+        "need_item_i_d": 120040006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040601,
+            "text_i_d": 40061,
+            "icon_i_d": 40060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110040602,
+            "text_i_d": 40062,
+            "icon_i_d": 40060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110040603,
+            "text_i_d": 40063,
+            "icon_i_d": 40060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110040604,
+            "text_i_d": 40064,
+            "icon_i_d": 40060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110040605,
+            "text_i_d": 40065,
+            "icon_i_d": 40060
+          }
+        ]
+      },
+      {
+        "i_d": 40070,
+        "need_item_i_d": 120040007,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110040701,
+            "text_i_d": 40071,
+            "icon_i_d": 40070
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110040702,
+            "text_i_d": 40072,
+            "icon_i_d": 40070
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040703,
+            "text_i_d": 40073,
+            "icon_i_d": 40070
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110040704,
+            "text_i_d": 40074,
+            "icon_i_d": 40070
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110040705,
+            "text_i_d": 40075,
+            "icon_i_d": 40070
+          }
+        ]
+      },
+      {
+        "i_d": 40080,
+        "need_item_i_d": 120040008,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040801,
+            "text_i_d": 40081,
+            "icon_i_d": 40080
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110040802,
+            "text_i_d": 40082,
+            "icon_i_d": 40080
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110040803,
+            "text_i_d": 40083,
+            "icon_i_d": 40080
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110040804,
+            "text_i_d": 40084,
+            "icon_i_d": 40080
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110040805,
+            "text_i_d": 40085,
+            "icon_i_d": 40080
+          }
+        ]
+      },
+      {
+        "i_d": 40090,
+        "need_item_i_d": 120040009,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110040901,
+            "text_i_d": 40091,
+            "icon_i_d": 40090
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110040902,
+            "text_i_d": 40092,
+            "icon_i_d": 40090
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110040903,
+            "text_i_d": 40093,
+            "icon_i_d": 40090
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110040904,
+            "text_i_d": 40094,
+            "icon_i_d": 40090
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110040905,
+            "text_i_d": 40095,
+            "icon_i_d": 40090
+          }
+        ]
+      },
+      {
+        "i_d": 40100,
+        "need_item_i_d": 120040010,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110041001,
+            "text_i_d": 40101,
+            "icon_i_d": 40100
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110041002,
+            "text_i_d": 40102,
+            "icon_i_d": 40100
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110041003,
+            "text_i_d": 40103,
+            "icon_i_d": 40100
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110041004,
+            "text_i_d": 40104,
+            "icon_i_d": 40100
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110041005,
+            "text_i_d": 40105,
+            "icon_i_d": 40100
+          }
+        ]
+      },
+      {
+        "i_d": 40110,
+        "need_item_i_d": 120040011,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110041101,
+            "text_i_d": 40111,
+            "icon_i_d": 40110
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110041102,
+            "text_i_d": 40112,
+            "icon_i_d": 40110
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110041103,
+            "text_i_d": 40113,
+            "icon_i_d": 40110
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110041104,
+            "text_i_d": 40114,
+            "icon_i_d": 40110
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110041105,
+            "text_i_d": 40115,
+            "icon_i_d": 40110
+          }
+        ]
+      },
+      {
+        "i_d": 40120,
+        "need_item_i_d": 120040012,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110041201,
+            "text_i_d": 40121,
+            "icon_i_d": 40120
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110041202,
+            "text_i_d": 40122,
+            "icon_i_d": 40120
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110041203,
+            "text_i_d": 40123,
+            "icon_i_d": 40120
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110041204,
+            "text_i_d": 40124,
+            "icon_i_d": 40120
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110041205,
+            "text_i_d": 40125,
+            "icon_i_d": 40120
+          }
+        ]
+      },
+      {
+        "i_d": 50010,
+        "need_item_i_d": 120050001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110050101,
+            "text_i_d": 50011,
+            "icon_i_d": 50010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110050102,
+            "text_i_d": 50012,
+            "icon_i_d": 50010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050103,
+            "text_i_d": 50013,
+            "icon_i_d": 50010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110050104,
+            "text_i_d": 50014,
+            "icon_i_d": 50010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110050105,
+            "text_i_d": 50015,
+            "icon_i_d": 50010
+          }
+        ]
+      },
+      {
+        "i_d": 50020,
+        "need_item_i_d": 120050002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050201,
+            "text_i_d": 50021,
+            "icon_i_d": 50020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110050202,
+            "text_i_d": 50022,
+            "icon_i_d": 50020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110050203,
+            "text_i_d": 50023,
+            "icon_i_d": 50020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110050204,
+            "text_i_d": 50024,
+            "icon_i_d": 50020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110050205,
+            "text_i_d": 50025,
+            "icon_i_d": 50020
+          }
+        ]
+      },
+      {
+        "i_d": 50030,
+        "need_item_i_d": 120050003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110050301,
+            "text_i_d": 50031,
+            "icon_i_d": 50030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110050302,
+            "text_i_d": 50032,
+            "icon_i_d": 50030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050303,
+            "text_i_d": 50033,
+            "icon_i_d": 50030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110050304,
+            "text_i_d": 50034,
+            "icon_i_d": 50030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110050305,
+            "text_i_d": 50035,
+            "icon_i_d": 50030
+          }
+        ]
+      },
+      {
+        "i_d": 50040,
+        "need_item_i_d": 120050004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050401,
+            "text_i_d": 50041,
+            "icon_i_d": 50040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110050402,
+            "text_i_d": 50042,
+            "icon_i_d": 50040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110050403,
+            "text_i_d": 50043,
+            "icon_i_d": 50040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110050404,
+            "text_i_d": 50044,
+            "icon_i_d": 50040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110050405,
+            "text_i_d": 50045,
+            "icon_i_d": 50040
+          }
+        ]
+      },
+      {
+        "i_d": 50050,
+        "need_item_i_d": 120050005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110050501,
+            "text_i_d": 50051,
+            "icon_i_d": 50050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110050502,
+            "text_i_d": 50052,
+            "icon_i_d": 50050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050503,
+            "text_i_d": 50053,
+            "icon_i_d": 50050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110050504,
+            "text_i_d": 50054,
+            "icon_i_d": 50050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110050505,
+            "text_i_d": 50055,
+            "icon_i_d": 50050
+          }
+        ]
+      },
+      {
+        "i_d": 50060,
+        "need_item_i_d": 120050006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050601,
+            "text_i_d": 50061,
+            "icon_i_d": 50060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110050602,
+            "text_i_d": 50062,
+            "icon_i_d": 50060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110050603,
+            "text_i_d": 50063,
+            "icon_i_d": 50060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110050604,
+            "text_i_d": 50064,
+            "icon_i_d": 50060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110050605,
+            "text_i_d": 50065,
+            "icon_i_d": 50060
+          }
+        ]
+      },
+      {
+        "i_d": 50070,
+        "need_item_i_d": 120050007,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110050701,
+            "text_i_d": 50071,
+            "icon_i_d": 50070
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110050702,
+            "text_i_d": 50072,
+            "icon_i_d": 50070
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050703,
+            "text_i_d": 50073,
+            "icon_i_d": 50070
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110050704,
+            "text_i_d": 50074,
+            "icon_i_d": 50070
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110050705,
+            "text_i_d": 50075,
+            "icon_i_d": 50070
+          }
+        ]
+      },
+      {
+        "i_d": 50080,
+        "need_item_i_d": 120050008,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050801,
+            "text_i_d": 50081,
+            "icon_i_d": 50080
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110050802,
+            "text_i_d": 50082,
+            "icon_i_d": 50080
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110050803,
+            "text_i_d": 50083,
+            "icon_i_d": 50080
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110050804,
+            "text_i_d": 50084,
+            "icon_i_d": 50080
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110050805,
+            "text_i_d": 50085,
+            "icon_i_d": 50080
+          }
+        ]
+      },
+      {
+        "i_d": 50090,
+        "need_item_i_d": 120050009,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110050901,
+            "text_i_d": 50091,
+            "icon_i_d": 50090
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110050902,
+            "text_i_d": 50092,
+            "icon_i_d": 50090
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110050903,
+            "text_i_d": 50093,
+            "icon_i_d": 50090
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110050904,
+            "text_i_d": 50094,
+            "icon_i_d": 50090
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110050905,
+            "text_i_d": 50095,
+            "icon_i_d": 50090
+          }
+        ]
+      },
+      {
+        "i_d": 50100,
+        "need_item_i_d": 120050010,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051001,
+            "text_i_d": 50101,
+            "icon_i_d": 50100
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110051002,
+            "text_i_d": 50102,
+            "icon_i_d": 50100
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110051003,
+            "text_i_d": 50103,
+            "icon_i_d": 50100
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110051004,
+            "text_i_d": 50104,
+            "icon_i_d": 50100
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110051005,
+            "text_i_d": 50105,
+            "icon_i_d": 50100
+          }
+        ]
+      },
+      {
+        "i_d": 50110,
+        "need_item_i_d": 120050011,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110051101,
+            "text_i_d": 50111,
+            "icon_i_d": 50110
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110051102,
+            "text_i_d": 50112,
+            "icon_i_d": 50110
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051103,
+            "text_i_d": 50113,
+            "icon_i_d": 50110
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110051104,
+            "text_i_d": 50114,
+            "icon_i_d": 50110
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110051105,
+            "text_i_d": 50115,
+            "icon_i_d": 50110
+          }
+        ]
+      },
+      {
+        "i_d": 50120,
+        "need_item_i_d": 120050012,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051201,
+            "text_i_d": 50121,
+            "icon_i_d": 50120
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110051202,
+            "text_i_d": 50122,
+            "icon_i_d": 50120
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110051203,
+            "text_i_d": 50123,
+            "icon_i_d": 50120
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110051204,
+            "text_i_d": 50124,
+            "icon_i_d": 50120
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110051205,
+            "text_i_d": 50125,
+            "icon_i_d": 50120
+          }
+        ]
+      },
+      {
+        "i_d": 50130,
+        "need_item_i_d": 120050013,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110051301,
+            "text_i_d": 50131,
+            "icon_i_d": 50130
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110051302,
+            "text_i_d": 50132,
+            "icon_i_d": 50130
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051303,
+            "text_i_d": 50133,
+            "icon_i_d": 50130
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110051304,
+            "text_i_d": 50134,
+            "icon_i_d": 50130
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110051305,
+            "text_i_d": 50135,
+            "icon_i_d": 50130
+          }
+        ]
+      },
+      {
+        "i_d": 50140,
+        "need_item_i_d": 120050014,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051401,
+            "text_i_d": 50141,
+            "icon_i_d": 50140
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110051402,
+            "text_i_d": 50142,
+            "icon_i_d": 50140
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110051403,
+            "text_i_d": 50143,
+            "icon_i_d": 50140
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 12,
+            "reward_item_i_d": 110051404,
+            "text_i_d": 50144,
+            "icon_i_d": 50140
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 15,
+            "reward_item_i_d": 110051405,
+            "text_i_d": 50145,
+            "icon_i_d": 50140
+          }
+        ]
+      },
+      {
+        "i_d": 50150,
+        "need_item_i_d": 120050015,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110051501,
+            "text_i_d": 50151,
+            "icon_i_d": 50150
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110051502,
+            "text_i_d": 50152,
+            "icon_i_d": 50150
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110051503,
+            "text_i_d": 50153,
+            "icon_i_d": 50150
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110051504,
+            "text_i_d": 50154,
+            "icon_i_d": 50150
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 5,
+            "reward_item_i_d": 110051505,
+            "text_i_d": 50155,
+            "icon_i_d": 50150
+          }
+        ]
+      },
+      {
+        "i_d": 510010,
+        "need_item_i_d": 120510001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110510101,
+            "text_i_d": 510011,
+            "icon_i_d": 510010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110510102,
+            "text_i_d": 510012,
+            "icon_i_d": 510010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110510103,
+            "text_i_d": 510013,
+            "icon_i_d": 510010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510104,
+            "text_i_d": 510014,
+            "icon_i_d": 510010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110510105,
+            "text_i_d": 510015,
+            "icon_i_d": 510010
+          }
+        ]
+      },
+      {
+        "i_d": 510020,
+        "need_item_i_d": 120510002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510201,
+            "text_i_d": 510021,
+            "icon_i_d": 510020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110510202,
+            "text_i_d": 510022,
+            "icon_i_d": 510020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110510203,
+            "text_i_d": 510023,
+            "icon_i_d": 510020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110510204,
+            "text_i_d": 510024,
+            "icon_i_d": 510020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110510205,
+            "text_i_d": 510025,
+            "icon_i_d": 510020
+          }
+        ]
+      },
+      {
+        "i_d": 510030,
+        "need_item_i_d": 120510003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110510301,
+            "text_i_d": 510031,
+            "icon_i_d": 510030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110510302,
+            "text_i_d": 510032,
+            "icon_i_d": 510030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110510303,
+            "text_i_d": 510033,
+            "icon_i_d": 510030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510304,
+            "text_i_d": 510034,
+            "icon_i_d": 510030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110510305,
+            "text_i_d": 510035,
+            "icon_i_d": 510030
+          }
+        ]
+      },
+      {
+        "i_d": 510040,
+        "need_item_i_d": 120510004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510401,
+            "text_i_d": 510041,
+            "icon_i_d": 510040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110510402,
+            "text_i_d": 510042,
+            "icon_i_d": 510040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110510403,
+            "text_i_d": 510043,
+            "icon_i_d": 510040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110510404,
+            "text_i_d": 510044,
+            "icon_i_d": 510040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110510405,
+            "text_i_d": 510045,
+            "icon_i_d": 510040
+          }
+        ]
+      },
+      {
+        "i_d": 510050,
+        "need_item_i_d": 120510005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110510501,
+            "text_i_d": 510051,
+            "icon_i_d": 510050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110510502,
+            "text_i_d": 510052,
+            "icon_i_d": 510050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110510503,
+            "text_i_d": 510053,
+            "icon_i_d": 510050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510504,
+            "text_i_d": 510054,
+            "icon_i_d": 510050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110510505,
+            "text_i_d": 510055,
+            "icon_i_d": 510050
+          }
+        ]
+      },
+      {
+        "i_d": 510060,
+        "need_item_i_d": 120510006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510601,
+            "text_i_d": 510061,
+            "icon_i_d": 510060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110510602,
+            "text_i_d": 510062,
+            "icon_i_d": 510060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110510603,
+            "text_i_d": 510063,
+            "icon_i_d": 510060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110510604,
+            "text_i_d": 510064,
+            "icon_i_d": 510060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110510605,
+            "text_i_d": 510065,
+            "icon_i_d": 510060
+          }
+        ]
+      },
+      {
+        "i_d": 510070,
+        "need_item_i_d": 120510007,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110510701,
+            "text_i_d": 510071,
+            "icon_i_d": 510070
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110510702,
+            "text_i_d": 510072,
+            "icon_i_d": 510070
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110510703,
+            "text_i_d": 510073,
+            "icon_i_d": 510070
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510704,
+            "text_i_d": 510074,
+            "icon_i_d": 510070
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110510705,
+            "text_i_d": 510075,
+            "icon_i_d": 510070
+          }
+        ]
+      },
+      {
+        "i_d": 510080,
+        "need_item_i_d": 120510008,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510801,
+            "text_i_d": 510081,
+            "icon_i_d": 510080
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110510802,
+            "text_i_d": 510082,
+            "icon_i_d": 510080
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110510803,
+            "text_i_d": 510083,
+            "icon_i_d": 510080
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110510804,
+            "text_i_d": 510084,
+            "icon_i_d": 510080
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110510805,
+            "text_i_d": 510085,
+            "icon_i_d": 510080
+          }
+        ]
+      },
+      {
+        "i_d": 510090,
+        "need_item_i_d": 120510009,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110510901,
+            "text_i_d": 510091,
+            "icon_i_d": 510090
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110510902,
+            "text_i_d": 510092,
+            "icon_i_d": 510090
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110510903,
+            "text_i_d": 510093,
+            "icon_i_d": 510090
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110510904,
+            "text_i_d": 510094,
+            "icon_i_d": 510090
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110510905,
+            "text_i_d": 510095,
+            "icon_i_d": 510090
+          }
+        ]
+      },
+      {
+        "i_d": 510100,
+        "need_item_i_d": 120510010,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110511001,
+            "text_i_d": 510101,
+            "icon_i_d": 510100
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110511002,
+            "text_i_d": 510102,
+            "icon_i_d": 510100
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110511003,
+            "text_i_d": 510103,
+            "icon_i_d": 510100
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110511004,
+            "text_i_d": 510104,
+            "icon_i_d": 510100
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110511005,
+            "text_i_d": 510105,
+            "icon_i_d": 510100
+          }
+        ]
+      },
+      {
+        "i_d": 520010,
+        "need_item_i_d": 120520001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110520101,
+            "text_i_d": 520011,
+            "icon_i_d": 520010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110520102,
+            "text_i_d": 520012,
+            "icon_i_d": 520010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110520103,
+            "text_i_d": 520013,
+            "icon_i_d": 520010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520104,
+            "text_i_d": 520014,
+            "icon_i_d": 520010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110520105,
+            "text_i_d": 520015,
+            "icon_i_d": 520010
+          }
+        ]
+      },
+      {
+        "i_d": 520020,
+        "need_item_i_d": 120520002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520201,
+            "text_i_d": 520021,
+            "icon_i_d": 520020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110520202,
+            "text_i_d": 520022,
+            "icon_i_d": 520020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110520203,
+            "text_i_d": 520023,
+            "icon_i_d": 520020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110520204,
+            "text_i_d": 520024,
+            "icon_i_d": 520020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110520205,
+            "text_i_d": 520025,
+            "icon_i_d": 520020
+          }
+        ]
+      },
+      {
+        "i_d": 520030,
+        "need_item_i_d": 120520003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110520301,
+            "text_i_d": 520031,
+            "icon_i_d": 520030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110520302,
+            "text_i_d": 520032,
+            "icon_i_d": 520030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110520303,
+            "text_i_d": 520033,
+            "icon_i_d": 520030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520304,
+            "text_i_d": 520034,
+            "icon_i_d": 520030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110520305,
+            "text_i_d": 520035,
+            "icon_i_d": 520030
+          }
+        ]
+      },
+      {
+        "i_d": 520040,
+        "need_item_i_d": 120520004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520401,
+            "text_i_d": 520041,
+            "icon_i_d": 520040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110520402,
+            "text_i_d": 520042,
+            "icon_i_d": 520040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110520403,
+            "text_i_d": 520043,
+            "icon_i_d": 520040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110520404,
+            "text_i_d": 520044,
+            "icon_i_d": 520040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110520405,
+            "text_i_d": 520045,
+            "icon_i_d": 520040
+          }
+        ]
+      },
+      {
+        "i_d": 520050,
+        "need_item_i_d": 120520005,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110520501,
+            "text_i_d": 520051,
+            "icon_i_d": 520050
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110520502,
+            "text_i_d": 520052,
+            "icon_i_d": 520050
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110520503,
+            "text_i_d": 520053,
+            "icon_i_d": 520050
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520504,
+            "text_i_d": 520054,
+            "icon_i_d": 520050
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110520505,
+            "text_i_d": 520055,
+            "icon_i_d": 520050
+          }
+        ]
+      },
+      {
+        "i_d": 520060,
+        "need_item_i_d": 120520006,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520601,
+            "text_i_d": 520061,
+            "icon_i_d": 520060
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110520602,
+            "text_i_d": 520062,
+            "icon_i_d": 520060
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110520603,
+            "text_i_d": 520063,
+            "icon_i_d": 520060
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110520604,
+            "text_i_d": 520064,
+            "icon_i_d": 520060
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110520605,
+            "text_i_d": 520065,
+            "icon_i_d": 520060
+          }
+        ]
+      },
+      {
+        "i_d": 520070,
+        "need_item_i_d": 120520007,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110520701,
+            "text_i_d": 520071,
+            "icon_i_d": 520070
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110520702,
+            "text_i_d": 520072,
+            "icon_i_d": 520070
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110520703,
+            "text_i_d": 520073,
+            "icon_i_d": 520070
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520704,
+            "text_i_d": 520074,
+            "icon_i_d": 520070
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110520705,
+            "text_i_d": 520075,
+            "icon_i_d": 520070
+          }
+        ]
+      },
+      {
+        "i_d": 520080,
+        "need_item_i_d": 120520008,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520801,
+            "text_i_d": 520081,
+            "icon_i_d": 520080
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110520802,
+            "text_i_d": 520082,
+            "icon_i_d": 520080
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110520803,
+            "text_i_d": 520083,
+            "icon_i_d": 520080
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110520804,
+            "text_i_d": 520084,
+            "icon_i_d": 520080
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110520805,
+            "text_i_d": 520085,
+            "icon_i_d": 520080
+          }
+        ]
+      },
+      {
+        "i_d": 520090,
+        "need_item_i_d": 120520009,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 1,
+            "reward_item_i_d": 110520901,
+            "text_i_d": 520091,
+            "icon_i_d": 520090
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 2,
+            "reward_item_i_d": 110520902,
+            "text_i_d": 520092,
+            "icon_i_d": 520090
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 3,
+            "reward_item_i_d": 110520903,
+            "text_i_d": 520093,
+            "icon_i_d": 520090
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110520904,
+            "text_i_d": 520094,
+            "icon_i_d": 520090
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 6,
+            "reward_item_i_d": 110520905,
+            "text_i_d": 520095,
+            "icon_i_d": 520090
+          }
+        ]
+      },
+      {
+        "i_d": 520100,
+        "need_item_i_d": 120520010,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110521001,
+            "text_i_d": 520101,
+            "icon_i_d": 520100
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110521002,
+            "text_i_d": 520102,
+            "icon_i_d": 520100
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110521003,
+            "text_i_d": 520103,
+            "icon_i_d": 520100
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110521004,
+            "text_i_d": 520104,
+            "icon_i_d": 520100
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110521005,
+            "text_i_d": 520105,
+            "icon_i_d": 520100
+          }
+        ]
+      },
+      {
+        "i_d": 530010,
+        "need_item_i_d": 120530001,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110530101,
+            "text_i_d": 530011,
+            "icon_i_d": 530010
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110530102,
+            "text_i_d": 530012,
+            "icon_i_d": 530010
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110530103,
+            "text_i_d": 530013,
+            "icon_i_d": 530010
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110530104,
+            "text_i_d": 530014,
+            "icon_i_d": 530010
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110530105,
+            "text_i_d": 530015,
+            "icon_i_d": 530010
+          }
+        ]
+      },
+      {
+        "i_d": 530020,
+        "need_item_i_d": 120530002,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110530201,
+            "text_i_d": 530021,
+            "icon_i_d": 530020
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110530202,
+            "text_i_d": 530022,
+            "icon_i_d": 530020
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110530203,
+            "text_i_d": 530023,
+            "icon_i_d": 530020
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110530204,
+            "text_i_d": 530024,
+            "icon_i_d": 530020
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110530205,
+            "text_i_d": 530025,
+            "icon_i_d": 530020
+          }
+        ]
+      },
+      {
+        "i_d": 530030,
+        "need_item_i_d": 120530003,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110530301,
+            "text_i_d": 530031,
+            "icon_i_d": 530030
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110530302,
+            "text_i_d": 530032,
+            "icon_i_d": 530030
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110530303,
+            "text_i_d": 530033,
+            "icon_i_d": 530030
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110530304,
+            "text_i_d": 530034,
+            "icon_i_d": 530030
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110530305,
+            "text_i_d": 530035,
+            "icon_i_d": 530030
+          }
+        ]
+      },
+      {
+        "i_d": 530040,
+        "need_item_i_d": 120530004,
+        "level_info": [
+          {
+            "level": 1,
+            "cost_item_i_d": 103,
+            "cost_count": 4,
+            "reward_item_i_d": 110530401,
+            "text_i_d": 530041,
+            "icon_i_d": 530040
+          },
+          {
+            "level": 2,
+            "cost_item_i_d": 103,
+            "cost_count": 9,
+            "reward_item_i_d": 110530402,
+            "text_i_d": 530042,
+            "icon_i_d": 530040
+          },
+          {
+            "level": 3,
+            "cost_item_i_d": 103,
+            "cost_count": 13,
+            "reward_item_i_d": 110530403,
+            "text_i_d": 530043,
+            "icon_i_d": 530040
+          },
+          {
+            "level": 4,
+            "cost_item_i_d": 103,
+            "cost_count": 18,
+            "reward_item_i_d": 110530404,
+            "text_i_d": 530044,
+            "icon_i_d": 530040
+          },
+          {
+            "level": 5,
+            "cost_item_i_d": 103,
+            "cost_count": 22,
+            "reward_item_i_d": 110530405,
+            "text_i_d": 530045,
+            "icon_i_d": 530040
+          }
+        ]
+      }
+    ]
+  }
+}

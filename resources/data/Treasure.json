@@ -1,0 +1,14 @@
+{
+  "treasure": {
+    "datas": [
+      {
+        "i_d": 5070001,
+        "collection_i_d": 7000020
+      },
+      {
+        "i_d": 5070002,
+        "collection_i_d": 7000070
+      }
+    ]
+  }
+}

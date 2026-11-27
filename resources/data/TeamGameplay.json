@@ -1,0 +1,180 @@
+{
+  "mode": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "text_i_d": 1001,
+        "icon_i_d": 1001,
+        "u_i_index": 9990,
+        "mode_items": [
+          {
+            "sub_mode_id": 100101,
+            "sub_text_i_d": 100101,
+            "sub_icon_i_d": 100101,
+            "player_min": 3,
+            "player_max": 16,
+            "sub_u_i_index": 1,
+            "new_play_mode": 1,
+            "room_cost": [
+              117,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "i_d": 1002,
+        "text_i_d": 1002,
+        "icon_i_d": 1002,
+        "u_i_index": 9980,
+        "mode_items": [
+          {
+            "sub_mode_id": 100201,
+            "sub_text_i_d": 100201,
+            "sub_icon_i_d": 100201,
+            "player_min": 3,
+            "player_max": 16,
+            "sub_u_i_index": 1,
+            "new_play_mode": 2,
+            "room_cost": [
+              117,
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sub_mode": {
+    "datas": [
+      {
+        "i_d": 100101,
+        "sub_mode_items": [
+          {
+            "index": 10010101,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010101.prefab"
+          },
+          {
+            "index": 10010102,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010102.prefab"
+          },
+          {
+            "index": 10010103,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010103.prefab"
+          },
+          {
+            "index": 10010104,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010104.prefab"
+          },
+          {
+            "index": 10010105,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010105.prefab"
+          },
+          {
+            "index": 10010106,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010106.prefab"
+          },
+          {
+            "index": 10010107,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010107.prefab"
+          },
+          {
+            "index": 10010108,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010108.prefab"
+          },
+          {
+            "index": 10010109,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010109.prefab"
+          },
+          {
+            "index": 10010110,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/AttackBalloon/AttackBalloon_10010110.prefab"
+          }
+        ]
+      },
+      {
+        "i_d": 100201,
+        "sub_mode_items": [
+          {
+            "index": 10020101,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020101.prefab"
+          },
+          {
+            "index": 10020102,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020102.prefab"
+          },
+          {
+            "index": 10020103,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020103.prefab"
+          },
+          {
+            "index": 10020104,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020104.prefab"
+          },
+          {
+            "index": 10020105,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020105.prefab"
+          },
+          {
+            "index": 10020106,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020106.prefab"
+          },
+          {
+            "index": 10020107,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020107.prefab"
+          },
+          {
+            "index": 10020108,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020108.prefab"
+          },
+          {
+            "index": 10020109,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020109.prefab"
+          },
+          {
+            "index": 10020110,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/FloatPlatform/FloatPlatform_10020110.prefab"
+          }
+        ]
+      },
+      {
+        "i_d": 100301,
+        "sub_mode_items": [
+          {
+            "index": 10030101,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/SpearFight/SpearFight_10030101.prefab"
+          }
+        ]
+      },
+      {
+        "i_d": 100401,
+        "sub_mode_items": [
+          {
+            "index": 10040101
+          }
+        ]
+      },
+      {
+        "i_d": 100501,
+        "sub_mode_items": [
+          {
+            "index": 10050101
+          }
+        ]
+      },
+      {
+        "i_d": 100601,
+        "sub_mode_items": [
+          {
+            "index": 10060101,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/Collapse/坍塌地块1.prefab"
+          },
+          {
+            "index": 10060102,
+            "asset_path": "Assets/ResBundle/Level/MultiplayerChallenge/Collapse/坍塌地块1.prefab"
+          }
+        ]
+      }
+    ]
+  }
+}

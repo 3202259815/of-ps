@@ -1,0 +1,6283 @@
+{
+  "restaurant_dungeon": {
+    "datas": [
+      {
+        "i_d": 1000,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1030,
+        "is_refresh": true,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1001,
+        "activity_i_d": 12000,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 9,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 9,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 9,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 9,
+            "food_type": 1
+          }
+        ]
+      },
+      {
+        "i_d": 1002,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1001,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1003,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1002,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 5,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1004,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1003,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 1
+          }
+        ]
+      },
+      {
+        "i_d": 1005,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1004,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1006,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1005,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 2,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1007,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1006,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1008,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1007,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1009,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1008,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 5,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1010,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1009,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1011,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1010,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1012,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1011,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1013,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1012,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1014,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1013,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1015,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1014,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1016,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1015,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1017,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1016,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1018,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1017,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          }
+        ]
+      },
+      {
+        "i_d": 1019,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1018,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1020,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1019,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1021,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1020,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1022,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1021,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 4,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1023,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1022,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 6,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1024,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1023,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 6,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 3,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1025,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1024,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 7,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1026,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1025,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 7,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1027,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1026,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1028,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1027,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1029,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1028,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      },
+      {
+        "i_d": 1030,
+        "activity_i_d": 12000,
+        "unlock_dungeon_i_d": 1029,
+        "restaurant_dungeon_group_info": [
+          {
+            "food_level": 5,
+            "order_quantity": 5,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 4,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 1
+          },
+          {
+            "food_level": 3,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 4,
+            "order_quantity": 1,
+            "food_type": 2
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 1
+          },
+          {
+            "food_level": 5,
+            "order_quantity": 2,
+            "food_type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "customer_illustration": {
+    "datas": [
+      {
+        "i_d": 12000,
+        "customer_illustration_group_info": [
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_01",
+            "index": 1
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_02",
+            "index": 2
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_03",
+            "index": 3
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_04",
+            "index": 4
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_05",
+            "index": 5
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_06",
+            "index": 6
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_07",
+            "index": 7
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_08",
+            "index": 8
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_09",
+            "index": 9
+          }
+        ]
+      },
+      {
+        "i_d": 12001,
+        "customer_illustration_group_info": [
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_01",
+            "index": 1
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_02",
+            "index": 2
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_03",
+            "index": 3
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_04",
+            "index": 4
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_05",
+            "index": 5
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_06",
+            "index": 6
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_07",
+            "index": 7
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_08",
+            "index": 8
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_09",
+            "index": 9
+          }
+        ]
+      },
+      {
+        "i_d": 12002,
+        "customer_illustration_group_info": [
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_01",
+            "index": 1
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_02",
+            "index": 2
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_03",
+            "index": 3
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_04",
+            "index": 4
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_05",
+            "index": 5
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_06",
+            "index": 6
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_07",
+            "index": 7
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_08",
+            "index": 8
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_09",
+            "index": 9
+          }
+        ]
+      },
+      {
+        "i_d": 12003,
+        "customer_illustration_group_info": [
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_01",
+            "index": 1
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_02",
+            "index": 2
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_03",
+            "index": 3
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_04",
+            "index": 4
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_05",
+            "index": 5
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_06",
+            "index": 6
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_07",
+            "index": 7
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_08",
+            "index": 8
+          },
+          {
+            "asset_path": "Texture/Background/activity/小游戏1/",
+            "asset_name": "icon_xiaoyouxi_guke_09",
+            "index": 9
+          }
+        ]
+      }
+    ]
+  },
+  "restaurant_food_icon": {
+    "datas": [
+      {
+        "i_d": 12000,
+        "restaurant_food_icon_group_info": [
+          {
+            "food_icon_i_d": 1,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_501"
+          },
+          {
+            "food_icon_i_d": 2,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_502"
+          },
+          {
+            "food_icon_i_d": 3,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_503"
+          },
+          {
+            "food_icon_i_d": 4,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_504"
+          },
+          {
+            "food_icon_i_d": 5,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_505"
+          },
+          {
+            "food_icon_i_d": 6,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_701"
+          },
+          {
+            "food_icon_i_d": 7,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_702"
+          },
+          {
+            "food_icon_i_d": 8,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_703"
+          },
+          {
+            "food_icon_i_d": 9,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_704"
+          },
+          {
+            "food_icon_i_d": 10,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_705"
+          },
+          {
+            "food_icon_i_d": 11,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_301"
+          },
+          {
+            "food_icon_i_d": 12,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_302"
+          },
+          {
+            "food_icon_i_d": 13,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_303"
+          },
+          {
+            "food_icon_i_d": 14,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_304"
+          },
+          {
+            "food_icon_i_d": 15,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_305"
+          },
+          {
+            "food_icon_i_d": 16,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_601"
+          },
+          {
+            "food_icon_i_d": 17,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_602"
+          },
+          {
+            "food_icon_i_d": 18,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_603"
+          },
+          {
+            "food_icon_i_d": 19,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_604"
+          },
+          {
+            "food_icon_i_d": 20,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_605"
+          },
+          {
+            "food_icon_i_d": 21,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_401"
+          },
+          {
+            "food_icon_i_d": 22,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_402"
+          },
+          {
+            "food_icon_i_d": 23,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_403"
+          },
+          {
+            "food_icon_i_d": 24,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_404"
+          },
+          {
+            "food_icon_i_d": 25,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_405"
+          },
+          {
+            "food_icon_i_d": 26,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_201"
+          },
+          {
+            "food_icon_i_d": 27,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_202"
+          },
+          {
+            "food_icon_i_d": 28,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_203"
+          },
+          {
+            "food_icon_i_d": 29,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_204"
+          },
+          {
+            "food_icon_i_d": 30,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_205"
+          },
+          {
+            "food_icon_i_d": 101,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_101"
+          },
+          {
+            "food_icon_i_d": 102,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_102"
+          },
+          {
+            "food_icon_i_d": 103,
+            "asset_path": "Texture/Item/Minigame/Coffeegame/",
+            "asset_name": "item_coffee_103"
+          }
+        ]
+      },
+      {
+        "i_d": 12001,
+        "restaurant_food_icon_group_info": [
+          {
+            "food_icon_i_d": 1,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a501"
+          },
+          {
+            "food_icon_i_d": 2,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a502"
+          },
+          {
+            "food_icon_i_d": 3,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a503"
+          },
+          {
+            "food_icon_i_d": 4,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a504"
+          },
+          {
+            "food_icon_i_d": 5,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a505"
+          },
+          {
+            "food_icon_i_d": 6,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a701"
+          },
+          {
+            "food_icon_i_d": 7,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a702"
+          },
+          {
+            "food_icon_i_d": 8,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a703"
+          },
+          {
+            "food_icon_i_d": 9,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a704"
+          },
+          {
+            "food_icon_i_d": 10,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a705"
+          },
+          {
+            "food_icon_i_d": 11,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a301"
+          },
+          {
+            "food_icon_i_d": 12,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a302"
+          },
+          {
+            "food_icon_i_d": 13,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a303"
+          },
+          {
+            "food_icon_i_d": 14,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a304"
+          },
+          {
+            "food_icon_i_d": 15,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a305"
+          },
+          {
+            "food_icon_i_d": 16,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a601"
+          },
+          {
+            "food_icon_i_d": 17,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a602"
+          },
+          {
+            "food_icon_i_d": 18,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a603"
+          },
+          {
+            "food_icon_i_d": 19,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a604"
+          },
+          {
+            "food_icon_i_d": 20,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a605"
+          },
+          {
+            "food_icon_i_d": 21,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a401"
+          },
+          {
+            "food_icon_i_d": 22,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a402"
+          },
+          {
+            "food_icon_i_d": 23,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a403"
+          },
+          {
+            "food_icon_i_d": 24,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a404"
+          },
+          {
+            "food_icon_i_d": 25,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a405"
+          },
+          {
+            "food_icon_i_d": 26,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a201"
+          },
+          {
+            "food_icon_i_d": 27,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a202"
+          },
+          {
+            "food_icon_i_d": 28,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a203"
+          },
+          {
+            "food_icon_i_d": 29,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a204"
+          },
+          {
+            "food_icon_i_d": 30,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a205"
+          },
+          {
+            "food_icon_i_d": 101,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a101"
+          },
+          {
+            "food_icon_i_d": 102,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a102"
+          },
+          {
+            "food_icon_i_d": 103,
+            "asset_path": "Texture/Item/Minigame/Coffeegame2/",
+            "asset_name": "item_coffee_a103"
+          }
+        ]
+      },
+      {
+        "i_d": 12002,
+        "restaurant_food_icon_group_info": [
+          {
+            "food_icon_i_d": 1,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b501"
+          },
+          {
+            "food_icon_i_d": 2,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b502"
+          },
+          {
+            "food_icon_i_d": 3,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b503"
+          },
+          {
+            "food_icon_i_d": 4,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b504"
+          },
+          {
+            "food_icon_i_d": 5,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b505"
+          },
+          {
+            "food_icon_i_d": 6,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b701"
+          },
+          {
+            "food_icon_i_d": 7,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b702"
+          },
+          {
+            "food_icon_i_d": 8,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b703"
+          },
+          {
+            "food_icon_i_d": 9,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b704"
+          },
+          {
+            "food_icon_i_d": 10,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b705"
+          },
+          {
+            "food_icon_i_d": 11,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b301"
+          },
+          {
+            "food_icon_i_d": 12,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b302"
+          },
+          {
+            "food_icon_i_d": 13,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b303"
+          },
+          {
+            "food_icon_i_d": 14,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b304"
+          },
+          {
+            "food_icon_i_d": 15,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b305"
+          },
+          {
+            "food_icon_i_d": 16,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b601"
+          },
+          {
+            "food_icon_i_d": 17,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b602"
+          },
+          {
+            "food_icon_i_d": 18,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b603"
+          },
+          {
+            "food_icon_i_d": 19,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b604"
+          },
+          {
+            "food_icon_i_d": 20,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b605"
+          },
+          {
+            "food_icon_i_d": 21,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b401"
+          },
+          {
+            "food_icon_i_d": 22,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b402"
+          },
+          {
+            "food_icon_i_d": 23,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b403"
+          },
+          {
+            "food_icon_i_d": 24,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b404"
+          },
+          {
+            "food_icon_i_d": 25,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b405"
+          },
+          {
+            "food_icon_i_d": 26,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b201"
+          },
+          {
+            "food_icon_i_d": 27,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b202"
+          },
+          {
+            "food_icon_i_d": 28,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b203"
+          },
+          {
+            "food_icon_i_d": 29,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b204"
+          },
+          {
+            "food_icon_i_d": 30,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b205"
+          },
+          {
+            "food_icon_i_d": 101,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b101"
+          },
+          {
+            "food_icon_i_d": 102,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b102"
+          },
+          {
+            "food_icon_i_d": 103,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_b103"
+          }
+        ]
+      },
+      {
+        "i_d": 12003,
+        "restaurant_food_icon_group_info": [
+          {
+            "food_icon_i_d": 1,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c501"
+          },
+          {
+            "food_icon_i_d": 2,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c502"
+          },
+          {
+            "food_icon_i_d": 3,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c503"
+          },
+          {
+            "food_icon_i_d": 4,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c504"
+          },
+          {
+            "food_icon_i_d": 5,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c505"
+          },
+          {
+            "food_icon_i_d": 6,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c701"
+          },
+          {
+            "food_icon_i_d": 7,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c702"
+          },
+          {
+            "food_icon_i_d": 8,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c703"
+          },
+          {
+            "food_icon_i_d": 9,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c704"
+          },
+          {
+            "food_icon_i_d": 10,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c705"
+          },
+          {
+            "food_icon_i_d": 11,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c301"
+          },
+          {
+            "food_icon_i_d": 12,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c302"
+          },
+          {
+            "food_icon_i_d": 13,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c303"
+          },
+          {
+            "food_icon_i_d": 14,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c304"
+          },
+          {
+            "food_icon_i_d": 15,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c305"
+          },
+          {
+            "food_icon_i_d": 16,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c601"
+          },
+          {
+            "food_icon_i_d": 17,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c602"
+          },
+          {
+            "food_icon_i_d": 18,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c603"
+          },
+          {
+            "food_icon_i_d": 19,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c604"
+          },
+          {
+            "food_icon_i_d": 20,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c605"
+          },
+          {
+            "food_icon_i_d": 21,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c401"
+          },
+          {
+            "food_icon_i_d": 22,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c402"
+          },
+          {
+            "food_icon_i_d": 23,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c403"
+          },
+          {
+            "food_icon_i_d": 24,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c404"
+          },
+          {
+            "food_icon_i_d": 25,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c405"
+          },
+          {
+            "food_icon_i_d": 26,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c201"
+          },
+          {
+            "food_icon_i_d": 27,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c202"
+          },
+          {
+            "food_icon_i_d": 28,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c203"
+          },
+          {
+            "food_icon_i_d": 29,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c204"
+          },
+          {
+            "food_icon_i_d": 30,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c205"
+          },
+          {
+            "food_icon_i_d": 101,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c101"
+          },
+          {
+            "food_icon_i_d": 102,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c102"
+          },
+          {
+            "food_icon_i_d": 103,
+            "asset_path": "Texture/Item/Minigame/Coffeegame3/",
+            "asset_name": "item_coffee_c103"
+          }
+        ]
+      }
+    ]
+  },
+  "restaurant_desk_bag": {
+    "datas": [
+      {
+        "i_d": 12000,
+        "restaurant_desk_bag_group_info": [
+          {
+            "bag_i_d": 1,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 2,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 3,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 4,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 5
+          },
+          {
+            "bag_i_d": 6,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 7,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 8,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 9
+          },
+          {
+            "bag_i_d": 10
+          },
+          {
+            "bag_i_d": 11
+          },
+          {
+            "bag_i_d": 12
+          },
+          {
+            "bag_i_d": 13
+          },
+          {
+            "bag_i_d": 14
+          },
+          {
+            "bag_i_d": 15
+          },
+          {
+            "bag_i_d": 16
+          },
+          {
+            "bag_i_d": 17
+          },
+          {
+            "bag_i_d": 18,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 19,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 20,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 21,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 22,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 23,
+            "unlock_dungon_i_d": 1013
+          },
+          {
+            "bag_i_d": 24,
+            "unlock_dungon_i_d": 1013
+          }
+        ]
+      },
+      {
+        "i_d": 12001,
+        "restaurant_desk_bag_group_info": [
+          {
+            "bag_i_d": 1,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 2,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 3,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 4,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 5
+          },
+          {
+            "bag_i_d": 6,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 7,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 8,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 9
+          },
+          {
+            "bag_i_d": 10
+          },
+          {
+            "bag_i_d": 11
+          },
+          {
+            "bag_i_d": 12
+          },
+          {
+            "bag_i_d": 13
+          },
+          {
+            "bag_i_d": 14
+          },
+          {
+            "bag_i_d": 15
+          },
+          {
+            "bag_i_d": 16
+          },
+          {
+            "bag_i_d": 17
+          },
+          {
+            "bag_i_d": 18,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 19,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 20,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 21,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 22,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 23,
+            "unlock_dungon_i_d": 1013
+          },
+          {
+            "bag_i_d": 24,
+            "unlock_dungon_i_d": 1013
+          }
+        ]
+      },
+      {
+        "i_d": 12002,
+        "restaurant_desk_bag_group_info": [
+          {
+            "bag_i_d": 1,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 2,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 3,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 4,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 5
+          },
+          {
+            "bag_i_d": 6,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 7,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 8,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 9
+          },
+          {
+            "bag_i_d": 10
+          },
+          {
+            "bag_i_d": 11
+          },
+          {
+            "bag_i_d": 12
+          },
+          {
+            "bag_i_d": 13
+          },
+          {
+            "bag_i_d": 14
+          },
+          {
+            "bag_i_d": 15
+          },
+          {
+            "bag_i_d": 16
+          },
+          {
+            "bag_i_d": 17
+          },
+          {
+            "bag_i_d": 18,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 19,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 20,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 21,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 22,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 23,
+            "unlock_dungon_i_d": 1013
+          },
+          {
+            "bag_i_d": 24,
+            "unlock_dungon_i_d": 1013
+          }
+        ]
+      },
+      {
+        "i_d": 12003,
+        "restaurant_desk_bag_group_info": [
+          {
+            "bag_i_d": 1,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 2,
+            "unlock_dungon_i_d": 1007
+          },
+          {
+            "bag_i_d": 3,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 4,
+            "unlock_dungon_i_d": 1009
+          },
+          {
+            "bag_i_d": 5
+          },
+          {
+            "bag_i_d": 6,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 7,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 8,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 9
+          },
+          {
+            "bag_i_d": 10
+          },
+          {
+            "bag_i_d": 11
+          },
+          {
+            "bag_i_d": 12
+          },
+          {
+            "bag_i_d": 13
+          },
+          {
+            "bag_i_d": 14
+          },
+          {
+            "bag_i_d": 15
+          },
+          {
+            "bag_i_d": 16
+          },
+          {
+            "bag_i_d": 17
+          },
+          {
+            "bag_i_d": 18,
+            "unlock_dungon_i_d": 1001
+          },
+          {
+            "bag_i_d": 19,
+            "unlock_dungon_i_d": 1003
+          },
+          {
+            "bag_i_d": 20,
+            "unlock_dungon_i_d": 1005
+          },
+          {
+            "bag_i_d": 21,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 22,
+            "unlock_dungon_i_d": 1011
+          },
+          {
+            "bag_i_d": 23,
+            "unlock_dungon_i_d": 1013
+          },
+          {
+            "bag_i_d": 24,
+            "unlock_dungon_i_d": 1013
+          }
+        ]
+      }
+    ]
+  },
+  "restaurant_random_pool": {
+    "datas": [
+      {
+        "i_d": 1001,
+        "activity_i_d": 12000,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 1
+          },
+          {
+            "food_id": 6
+          },
+          {
+            "food_id": 11
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1002,
+        "activity_i_d": 12000,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 16
+          },
+          {
+            "food_id": 21
+          },
+          {
+            "food_id": 26
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1003,
+        "activity_i_d": 12001,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 1
+          },
+          {
+            "food_id": 6
+          },
+          {
+            "food_id": 11
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1004,
+        "activity_i_d": 12001,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 16
+          },
+          {
+            "food_id": 21
+          },
+          {
+            "food_id": 26
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1005,
+        "activity_i_d": 12002,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 1
+          },
+          {
+            "food_id": 6
+          },
+          {
+            "food_id": 11
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1006,
+        "activity_i_d": 12002,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 16
+          },
+          {
+            "food_id": 21
+          },
+          {
+            "food_id": 26
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1007,
+        "activity_i_d": 12003,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 1
+          },
+          {
+            "food_id": 6
+          },
+          {
+            "food_id": 11
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      },
+      {
+        "i_d": 1008,
+        "activity_i_d": 12003,
+        "restaurant_random_pool_group_info": [
+          {
+            "food_id": 16
+          },
+          {
+            "food_id": 21
+          },
+          {
+            "food_id": 26
+          }
+        ],
+        "rate_min": 3,
+        "rate_max": 5
+      }
+    ]
+  },
+  "restaurant_game_quest": {
+    "datas": [
+      {
+        "i_d": 12000,
+        "restaurant_game_quest_group_info": [
+          {
+            "game_quest_i_d": 1,
+            "game_coin": 100,
+            "game_integral_item": 1600,
+            "game_integral": 1,
+            "param": 1001,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 2,
+            "game_coin": 150,
+            "game_integral_item": 1600,
+            "game_integral": 1,
+            "param": 1002,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 3,
+            "game_coin": 200,
+            "game_integral_item": 1600,
+            "game_integral": 2,
+            "param": 1003,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 4,
+            "game_coin": 200,
+            "game_integral_item": 1600,
+            "game_integral": 2,
+            "param": 1004,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 5,
+            "game_coin": 250,
+            "game_integral_item": 1600,
+            "game_integral": 3,
+            "param": 1005,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 6,
+            "game_coin": 250,
+            "game_integral_item": 1600,
+            "game_integral": 3,
+            "param": 1006,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 7,
+            "game_coin": 250,
+            "game_integral_item": 1600,
+            "game_integral": 4,
+            "param": 1007,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 8,
+            "game_coin": 250,
+            "game_integral_item": 1600,
+            "game_integral": 4,
+            "param": 1008,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 9,
+            "game_coin": 250,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1009,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 10,
+            "game_coin": 300,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1010,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 11,
+            "game_coin": 300,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1011,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 12,
+            "game_coin": 300,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1012,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 13,
+            "game_coin": 400,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1013,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 14,
+            "game_coin": 400,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1014,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 15,
+            "game_coin": 400,
+            "game_integral_item": 1600,
+            "game_integral": 5,
+            "param": 1015,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 16,
+            "game_coin": 600,
+            "game_integral_item": 1600,
+            "game_integral": 10,
+            "param": 1016,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 17,
+            "game_coin": 600,
+            "game_integral_item": 1600,
+            "game_integral": 10,
+            "param": 1017,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 18,
+            "game_coin": 600,
+            "game_integral_item": 1600,
+            "game_integral": 10,
+            "param": 1018,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 19,
+            "game_coin": 900,
+            "game_integral_item": 1600,
+            "game_integral": 10,
+            "param": 1019,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 20,
+            "game_coin": 900,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1020,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 21,
+            "game_coin": 900,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1021,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 22,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1022,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 23,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1023,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 24,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1024,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 25,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1025,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 26,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1026,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 27,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1027,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 28,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1028,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 29,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1029,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 30,
+            "game_coin": 1000,
+            "game_integral_item": 1600,
+            "game_integral": 15,
+            "param": 1030,
+            "game_coin_i_d": 1601,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 31,
+            "game_coin": 2000,
+            "game_integral_item": 1600,
+            "game_integral": 10,
+            "param": 1000,
+            "is_refresh": true,
+            "game_coin_i_d": 1601,
+            "text_i_d": 3
+          },
+          {
+            "game_quest_i_d": 101,
+            "game_coin": 600,
+            "game_integral_item": 1600,
+            "param": 1,
+            "is_refresh": true,
+            "new_restaurant_game_quest_type": 1,
+            "game_coin_i_d": 1601,
+            "text_i_d": 2
+          }
+        ]
+      },
+      {
+        "i_d": 12001,
+        "restaurant_game_quest_group_info": [
+          {
+            "game_quest_i_d": 1,
+            "game_coin": 100,
+            "game_integral_item": 1602,
+            "game_integral": 1,
+            "param": 1001,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 2,
+            "game_coin": 150,
+            "game_integral_item": 1602,
+            "game_integral": 1,
+            "param": 1002,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 3,
+            "game_coin": 200,
+            "game_integral_item": 1602,
+            "game_integral": 2,
+            "param": 1003,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 4,
+            "game_coin": 200,
+            "game_integral_item": 1602,
+            "game_integral": 2,
+            "param": 1004,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 5,
+            "game_coin": 250,
+            "game_integral_item": 1602,
+            "game_integral": 3,
+            "param": 1005,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 6,
+            "game_coin": 250,
+            "game_integral_item": 1602,
+            "game_integral": 3,
+            "param": 1006,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 7,
+            "game_coin": 250,
+            "game_integral_item": 1602,
+            "game_integral": 4,
+            "param": 1007,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 8,
+            "game_coin": 250,
+            "game_integral_item": 1602,
+            "game_integral": 4,
+            "param": 1008,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 9,
+            "game_coin": 250,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1009,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 10,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1010,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 11,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1011,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 12,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1012,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 13,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1013,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 14,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1014,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 15,
+            "game_coin": 300,
+            "game_integral_item": 1602,
+            "game_integral": 5,
+            "param": 1015,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 16,
+            "game_coin": 500,
+            "game_integral_item": 1602,
+            "game_integral": 10,
+            "param": 1016,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 17,
+            "game_coin": 500,
+            "game_integral_item": 1602,
+            "game_integral": 10,
+            "param": 1017,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 18,
+            "game_coin": 500,
+            "game_integral_item": 1602,
+            "game_integral": 10,
+            "param": 1018,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 19,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 10,
+            "param": 1019,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 20,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1020,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 21,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1021,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 22,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1022,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 23,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1023,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 24,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1024,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 25,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1025,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 26,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1026,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 27,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1027,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 28,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1028,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 29,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1029,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 30,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "game_integral": 15,
+            "param": 1030,
+            "game_coin_i_d": 1603,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 31,
+            "game_coin": 2000,
+            "game_integral_item": 1602,
+            "game_integral": 10,
+            "param": 1000,
+            "is_refresh": true,
+            "game_coin_i_d": 1603,
+            "text_i_d": 3
+          },
+          {
+            "game_quest_i_d": 101,
+            "game_coin": 600,
+            "game_integral_item": 1602,
+            "param": 1,
+            "is_refresh": true,
+            "new_restaurant_game_quest_type": 1,
+            "game_coin_i_d": 1603,
+            "text_i_d": 2
+          }
+        ]
+      },
+      {
+        "i_d": 12002,
+        "restaurant_game_quest_group_info": [
+          {
+            "game_quest_i_d": 1,
+            "game_coin": 100,
+            "game_integral_item": 1604,
+            "game_integral": 1,
+            "param": 1001,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 2,
+            "game_coin": 150,
+            "game_integral_item": 1604,
+            "game_integral": 1,
+            "param": 1002,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 3,
+            "game_coin": 200,
+            "game_integral_item": 1604,
+            "game_integral": 2,
+            "param": 1003,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 4,
+            "game_coin": 200,
+            "game_integral_item": 1604,
+            "game_integral": 2,
+            "param": 1004,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 5,
+            "game_coin": 250,
+            "game_integral_item": 1604,
+            "game_integral": 3,
+            "param": 1005,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 6,
+            "game_coin": 250,
+            "game_integral_item": 1604,
+            "game_integral": 3,
+            "param": 1006,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 7,
+            "game_coin": 250,
+            "game_integral_item": 1604,
+            "game_integral": 4,
+            "param": 1007,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 8,
+            "game_coin": 250,
+            "game_integral_item": 1604,
+            "game_integral": 4,
+            "param": 1008,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 9,
+            "game_coin": 250,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1009,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 10,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1010,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 11,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1011,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 12,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1012,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 13,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1013,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 14,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1014,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 15,
+            "game_coin": 300,
+            "game_integral_item": 1604,
+            "game_integral": 5,
+            "param": 1015,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 16,
+            "game_coin": 500,
+            "game_integral_item": 1604,
+            "game_integral": 10,
+            "param": 1016,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 17,
+            "game_coin": 500,
+            "game_integral_item": 1604,
+            "game_integral": 10,
+            "param": 1017,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 18,
+            "game_coin": 500,
+            "game_integral_item": 1604,
+            "game_integral": 10,
+            "param": 1018,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 19,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 10,
+            "param": 1019,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 20,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1020,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 21,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1021,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 22,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1022,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 23,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1023,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 24,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1024,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 25,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1025,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 26,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1026,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 27,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1027,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 28,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1028,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 29,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1029,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 30,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "game_integral": 15,
+            "param": 1030,
+            "game_coin_i_d": 1605,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 31,
+            "game_coin": 2000,
+            "game_integral_item": 1604,
+            "game_integral": 10,
+            "param": 1000,
+            "is_refresh": true,
+            "game_coin_i_d": 1605,
+            "text_i_d": 3
+          },
+          {
+            "game_quest_i_d": 101,
+            "game_coin": 600,
+            "game_integral_item": 1604,
+            "param": 1,
+            "is_refresh": true,
+            "new_restaurant_game_quest_type": 1,
+            "game_coin_i_d": 1605,
+            "text_i_d": 2
+          }
+        ]
+      },
+      {
+        "i_d": 12003,
+        "restaurant_game_quest_group_info": [
+          {
+            "game_quest_i_d": 1,
+            "game_coin": 100,
+            "game_integral_item": 1606,
+            "game_integral": 1,
+            "param": 1001,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 2,
+            "game_coin": 150,
+            "game_integral_item": 1606,
+            "game_integral": 1,
+            "param": 1002,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 3,
+            "game_coin": 200,
+            "game_integral_item": 1606,
+            "game_integral": 2,
+            "param": 1003,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 4,
+            "game_coin": 200,
+            "game_integral_item": 1606,
+            "game_integral": 2,
+            "param": 1004,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 5,
+            "game_coin": 250,
+            "game_integral_item": 1606,
+            "game_integral": 3,
+            "param": 1005,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 6,
+            "game_coin": 250,
+            "game_integral_item": 1606,
+            "game_integral": 3,
+            "param": 1006,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 7,
+            "game_coin": 250,
+            "game_integral_item": 1606,
+            "game_integral": 4,
+            "param": 1007,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 8,
+            "game_coin": 250,
+            "game_integral_item": 1606,
+            "game_integral": 4,
+            "param": 1008,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 9,
+            "game_coin": 250,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1009,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 10,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1010,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 11,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1011,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 12,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1012,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 13,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1013,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 14,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1014,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 15,
+            "game_coin": 300,
+            "game_integral_item": 1606,
+            "game_integral": 5,
+            "param": 1015,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 16,
+            "game_coin": 500,
+            "game_integral_item": 1606,
+            "game_integral": 10,
+            "param": 1016,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 17,
+            "game_coin": 500,
+            "game_integral_item": 1606,
+            "game_integral": 10,
+            "param": 1017,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 18,
+            "game_coin": 500,
+            "game_integral_item": 1606,
+            "game_integral": 10,
+            "param": 1018,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 19,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 10,
+            "param": 1019,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 20,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1020,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 21,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1021,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 22,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1022,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 23,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1023,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 24,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1024,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 25,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1025,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 26,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1026,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 27,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1027,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 28,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1028,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 29,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1029,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 30,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "game_integral": 15,
+            "param": 1030,
+            "game_coin_i_d": 1607,
+            "text_i_d": 1
+          },
+          {
+            "game_quest_i_d": 31,
+            "game_coin": 2000,
+            "game_integral_item": 1606,
+            "game_integral": 10,
+            "param": 1000,
+            "is_refresh": true,
+            "game_coin_i_d": 1607,
+            "text_i_d": 3
+          },
+          {
+            "game_quest_i_d": 101,
+            "game_coin": 600,
+            "game_integral_item": 1606,
+            "param": 1,
+            "is_refresh": true,
+            "new_restaurant_game_quest_type": 1,
+            "game_coin_i_d": 1607,
+            "text_i_d": 2
+          }
+        ]
+      }
+    ]
+  },
+  "restaurant_game_food": {
+    "datas": [
+      {
+        "i_d": 12000,
+        "restaurant_game_food_group_info": [
+          {
+            "food_i_d": 1,
+            "food_icon_i_d": 1,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 2,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 2,
+            "food_icon_i_d": 2,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 3,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 3,
+            "food_icon_i_d": 3,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 4,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 4,
+            "food_icon_i_d": 4,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 5,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 5,
+            "food_icon_i_d": 5,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 6,
+            "food_icon_i_d": 6,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 7,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 7,
+            "food_icon_i_d": 7,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 8,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 8,
+            "food_icon_i_d": 8,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 9,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 9,
+            "food_icon_i_d": 9,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 10,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 10,
+            "food_icon_i_d": 10,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 11,
+            "food_icon_i_d": 11,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 12,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 12,
+            "food_icon_i_d": 12,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 13,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 13,
+            "food_icon_i_d": 13,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 14,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 14,
+            "food_icon_i_d": 14,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 15,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 15,
+            "food_icon_i_d": 15,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 16,
+            "food_icon_i_d": 16,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 17,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 17,
+            "food_icon_i_d": 17,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 18,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 18,
+            "food_icon_i_d": 18,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 19,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 19,
+            "food_icon_i_d": 19,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 20,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 20,
+            "food_icon_i_d": 20,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 21,
+            "food_icon_i_d": 21,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 22,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 22,
+            "food_icon_i_d": 22,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 23,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 23,
+            "food_icon_i_d": 23,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 24,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 24,
+            "food_icon_i_d": 24,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 25,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 25,
+            "food_icon_i_d": 25,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 26,
+            "food_icon_i_d": 26,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 27,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 27,
+            "food_icon_i_d": 27,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 28,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 28,
+            "food_icon_i_d": 28,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 29,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 29,
+            "food_icon_i_d": 29,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 30,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 30,
+            "food_icon_i_d": 30,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 101,
+            "food_icon_i_d": 101,
+            "food_level": 1,
+            "food_type": 3,
+            "synthetic_target": 102,
+            "recycling_price_min": 1,
+            "recycling_price_max": 2
+          },
+          {
+            "food_i_d": 102,
+            "food_icon_i_d": 102,
+            "food_level": 2,
+            "food_type": 3,
+            "synthetic_target": 103,
+            "recycling_price_min": 1,
+            "recycling_price_max": 5
+          },
+          {
+            "food_i_d": 103,
+            "food_icon_i_d": 103,
+            "food_level": 3,
+            "food_type": 3,
+            "recycling_price_min": 1,
+            "recycling_price_max": 20
+          }
+        ]
+      },
+      {
+        "i_d": 12001,
+        "restaurant_game_food_group_info": [
+          {
+            "food_i_d": 1,
+            "food_icon_i_d": 1,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 2,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 2,
+            "food_icon_i_d": 2,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 3,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 3,
+            "food_icon_i_d": 3,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 4,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 4,
+            "food_icon_i_d": 4,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 5,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 5,
+            "food_icon_i_d": 5,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 6,
+            "food_icon_i_d": 6,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 7,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 7,
+            "food_icon_i_d": 7,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 8,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 8,
+            "food_icon_i_d": 8,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 9,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 9,
+            "food_icon_i_d": 9,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 10,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 10,
+            "food_icon_i_d": 10,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 11,
+            "food_icon_i_d": 11,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 12,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 12,
+            "food_icon_i_d": 12,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 13,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 13,
+            "food_icon_i_d": 13,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 14,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 14,
+            "food_icon_i_d": 14,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 15,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 15,
+            "food_icon_i_d": 15,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 16,
+            "food_icon_i_d": 16,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 17,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 17,
+            "food_icon_i_d": 17,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 18,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 18,
+            "food_icon_i_d": 18,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 19,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 19,
+            "food_icon_i_d": 19,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 20,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 20,
+            "food_icon_i_d": 20,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 21,
+            "food_icon_i_d": 21,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 22,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 22,
+            "food_icon_i_d": 22,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 23,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 23,
+            "food_icon_i_d": 23,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 24,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 24,
+            "food_icon_i_d": 24,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 25,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 25,
+            "food_icon_i_d": 25,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 26,
+            "food_icon_i_d": 26,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 27,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 27,
+            "food_icon_i_d": 27,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 28,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 28,
+            "food_icon_i_d": 28,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 29,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 29,
+            "food_icon_i_d": 29,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 30,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 30,
+            "food_icon_i_d": 30,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 101,
+            "food_icon_i_d": 101,
+            "food_level": 1,
+            "food_type": 3,
+            "synthetic_target": 102,
+            "recycling_price_min": 1,
+            "recycling_price_max": 2
+          },
+          {
+            "food_i_d": 102,
+            "food_icon_i_d": 102,
+            "food_level": 2,
+            "food_type": 3,
+            "synthetic_target": 103,
+            "recycling_price_min": 1,
+            "recycling_price_max": 5
+          },
+          {
+            "food_i_d": 103,
+            "food_icon_i_d": 103,
+            "food_level": 3,
+            "food_type": 3,
+            "recycling_price_min": 1,
+            "recycling_price_max": 20
+          }
+        ]
+      },
+      {
+        "i_d": 12002,
+        "restaurant_game_food_group_info": [
+          {
+            "food_i_d": 1,
+            "food_icon_i_d": 1,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 2,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 2,
+            "food_icon_i_d": 2,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 3,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 3,
+            "food_icon_i_d": 3,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 4,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 4,
+            "food_icon_i_d": 4,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 5,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 5,
+            "food_icon_i_d": 5,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 6,
+            "food_icon_i_d": 6,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 7,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 7,
+            "food_icon_i_d": 7,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 8,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 8,
+            "food_icon_i_d": 8,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 9,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 9,
+            "food_icon_i_d": 9,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 10,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 10,
+            "food_icon_i_d": 10,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 11,
+            "food_icon_i_d": 11,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 12,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 12,
+            "food_icon_i_d": 12,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 13,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 13,
+            "food_icon_i_d": 13,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 14,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 14,
+            "food_icon_i_d": 14,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 15,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 15,
+            "food_icon_i_d": 15,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 16,
+            "food_icon_i_d": 16,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 17,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 17,
+            "food_icon_i_d": 17,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 18,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 18,
+            "food_icon_i_d": 18,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 19,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 19,
+            "food_icon_i_d": 19,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 20,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 20,
+            "food_icon_i_d": 20,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 21,
+            "food_icon_i_d": 21,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 22,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 22,
+            "food_icon_i_d": 22,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 23,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 23,
+            "food_icon_i_d": 23,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 24,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 24,
+            "food_icon_i_d": 24,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 25,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 25,
+            "food_icon_i_d": 25,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 26,
+            "food_icon_i_d": 26,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 27,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 27,
+            "food_icon_i_d": 27,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 28,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 28,
+            "food_icon_i_d": 28,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 29,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 29,
+            "food_icon_i_d": 29,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 30,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 30,
+            "food_icon_i_d": 30,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 101,
+            "food_icon_i_d": 101,
+            "food_level": 1,
+            "food_type": 3,
+            "synthetic_target": 102,
+            "recycling_price_min": 1,
+            "recycling_price_max": 2
+          },
+          {
+            "food_i_d": 102,
+            "food_icon_i_d": 102,
+            "food_level": 2,
+            "food_type": 3,
+            "synthetic_target": 103,
+            "recycling_price_min": 1,
+            "recycling_price_max": 5
+          },
+          {
+            "food_i_d": 103,
+            "food_icon_i_d": 103,
+            "food_level": 3,
+            "food_type": 3,
+            "recycling_price_min": 1,
+            "recycling_price_max": 20
+          }
+        ]
+      },
+      {
+        "i_d": 12003,
+        "restaurant_game_food_group_info": [
+          {
+            "food_i_d": 1,
+            "food_icon_i_d": 1,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 2,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 2,
+            "food_icon_i_d": 2,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 3,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 3,
+            "food_icon_i_d": 3,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 4,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 4,
+            "food_icon_i_d": 4,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 5,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 5,
+            "food_icon_i_d": 5,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 6,
+            "food_icon_i_d": 6,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 7,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 7,
+            "food_icon_i_d": 7,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 8,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 8,
+            "food_icon_i_d": 8,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 9,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 9,
+            "food_icon_i_d": 9,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 10,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 10,
+            "food_icon_i_d": 10,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 11,
+            "food_icon_i_d": 11,
+            "food_level": 1,
+            "food_type": 1,
+            "synthetic_target": 12,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 12,
+            "food_icon_i_d": 12,
+            "food_level": 2,
+            "food_type": 1,
+            "synthetic_target": 13,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 13,
+            "food_icon_i_d": 13,
+            "food_level": 3,
+            "food_type": 1,
+            "synthetic_target": 14,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 14,
+            "food_icon_i_d": 14,
+            "food_level": 4,
+            "food_type": 1,
+            "synthetic_target": 15,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 15,
+            "food_icon_i_d": 15,
+            "food_level": 5,
+            "food_type": 1,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 16,
+            "food_icon_i_d": 16,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 17,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 17,
+            "food_icon_i_d": 17,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 18,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 18,
+            "food_icon_i_d": 18,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 19,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 19,
+            "food_icon_i_d": 19,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 20,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 20,
+            "food_icon_i_d": 20,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 21,
+            "food_icon_i_d": 21,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 22,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 22,
+            "food_icon_i_d": 22,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 23,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 23,
+            "food_icon_i_d": 23,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 24,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 24,
+            "food_icon_i_d": 24,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 25,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 25,
+            "food_icon_i_d": 25,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 26,
+            "food_icon_i_d": 26,
+            "food_level": 1,
+            "food_type": 2,
+            "synthetic_target": 27,
+            "recycling_price_min": 7,
+            "recycling_price_max": 7,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 27,
+            "food_icon_i_d": 27,
+            "food_level": 2,
+            "food_type": 2,
+            "synthetic_target": 28,
+            "recycling_price_min": 15,
+            "recycling_price_max": 15,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 28,
+            "food_icon_i_d": 28,
+            "food_level": 3,
+            "food_type": 2,
+            "synthetic_target": 29,
+            "recycling_price_min": 32,
+            "recycling_price_max": 32,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 29,
+            "food_icon_i_d": 29,
+            "food_level": 4,
+            "food_type": 2,
+            "synthetic_target": 30,
+            "recycling_price_min": 68,
+            "recycling_price_max": 68,
+            "synthesis_special_food_i_d": 101
+          },
+          {
+            "food_i_d": 30,
+            "food_icon_i_d": 30,
+            "food_level": 5,
+            "food_type": 2,
+            "recycling_price_min": 144,
+            "recycling_price_max": 144
+          },
+          {
+            "food_i_d": 101,
+            "food_icon_i_d": 101,
+            "food_level": 1,
+            "food_type": 3,
+            "synthetic_target": 102,
+            "recycling_price_min": 1,
+            "recycling_price_max": 2
+          },
+          {
+            "food_i_d": 102,
+            "food_icon_i_d": 102,
+            "food_level": 2,
+            "food_type": 3,
+            "synthetic_target": 103,
+            "recycling_price_min": 1,
+            "recycling_price_max": 5
+          },
+          {
+            "food_i_d": 103,
+            "food_icon_i_d": 103,
+            "food_level": 3,
+            "food_type": 3,
+            "recycling_price_min": 1,
+            "recycling_price_max": 20
+          }
+        ]
+      }
+    ]
+  }
+}

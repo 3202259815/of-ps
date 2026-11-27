@@ -1,0 +1,200 @@
+{
+  "battle_guide_task": {
+    "datas": [
+      {
+        "i_d": 130010,
+        "text_i_d": 1,
+        "icon_i_d": 130010,
+        "start_voice_i_d": 130010,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130010",
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130020,
+        "text_i_d": 1,
+        "icon_i_d": 130020,
+        "start_voice_i_d": 130020,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130020",
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130030,
+        "text_i_d": 1,
+        "icon_i_d": 130030,
+        "start_voice_i_d": 130030,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130030",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130040,
+        "text_i_d": 1,
+        "icon_i_d": 130040,
+        "start_voice_i_d": 130040,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130040",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130050,
+        "text_i_d": 1,
+        "icon_i_d": 130050,
+        "start_voice_i_d": 130050,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130050",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130060,
+        "text_i_d": 1,
+        "icon_i_d": 130060,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130060",
+        "new_task_type": 3
+      },
+      {
+        "i_d": 130070,
+        "text_i_d": 1,
+        "icon_i_d": 130070,
+        "asset_full_name": "Level/Guide/TestSceneBattle001/GuideBattle_130070",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 230010,
+        "text_i_d": 1,
+        "icon_i_d": 230010,
+        "start_voice_i_d": 230010,
+        "asset_full_name": "Level/Guide/TestSceneBattle002/GuideBattle_230010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 230020,
+        "text_i_d": 1,
+        "icon_i_d": 230020,
+        "start_voice_i_d": 230020,
+        "asset_full_name": "Level/Guide/TestSceneBattle002/GuideBattle_230020",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 230030,
+        "text_i_d": 1,
+        "icon_i_d": 230030,
+        "start_voice_i_d": 230030,
+        "asset_full_name": "Level/Guide/TestSceneBattle002/GuideBattle_230030",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 230040,
+        "text_i_d": 1,
+        "icon_i_d": 230040,
+        "start_voice_i_d": 230040,
+        "asset_full_name": "Level/Guide/TestSceneBattle002/GuideBattle_230040",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 230050,
+        "text_i_d": 1,
+        "icon_i_d": 230050,
+        "asset_full_name": "Level/Guide/TestSceneBattle002/GuideBattle_230050",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 330010,
+        "text_i_d": 1,
+        "icon_i_d": 330010,
+        "start_voice_i_d": 330010,
+        "asset_full_name": "Level/Guide/TestSceneBattle001_Night/GuideBattle_330010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 330020,
+        "text_i_d": 1,
+        "icon_i_d": 330020,
+        "start_voice_i_d": 330020,
+        "asset_full_name": "Level/Guide/TestSceneBattle001_Night/GuideBattle_330020",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 330030,
+        "text_i_d": 1,
+        "icon_i_d": 330030,
+        "start_voice_i_d": 330030,
+        "asset_full_name": "Level/Guide/TestSceneBattle001_Night/GuideBattle_330030",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 430010,
+        "text_i_d": 1,
+        "icon_i_d": 430010,
+        "asset_full_name": "Level/Guide/TestSceneBattle002_Superstructure/GuideBattle_430010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 430020,
+        "text_i_d": 1,
+        "icon_i_d": 430020,
+        "asset_full_name": "Level/Guide/TestSceneBattle002_Superstructure/GuideBattle_430020",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 430030,
+        "text_i_d": 1,
+        "icon_i_d": 430030,
+        "asset_full_name": "Level/Guide/TestSceneBattle002_Superstructure/GuideBattle_430030",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 430040,
+        "text_i_d": 1,
+        "icon_i_d": 430040,
+        "asset_full_name": "Level/Guide/TestSceneBattle002_Superstructure/GuideBattle_430040",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 530010,
+        "text_i_d": 1,
+        "icon_i_d": 530010,
+        "asset_full_name": "Level/Guide/TestSceneBattle003/GuideBattle_530010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 100130010,
+        "text_i_d": 1,
+        "icon_i_d": 100130010,
+        "start_voice_i_d": 100130010,
+        "asset_full_name": "Level/Guide/TestSceneBattle1001/GuideBattle_100130010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 100230010,
+        "text_i_d": 1,
+        "icon_i_d": 100230010,
+        "asset_full_name": "Level/Guide/TestSceneBattle1002/GuideBattle_100230010",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      },
+      {
+        "i_d": 100230020,
+        "text_i_d": 1,
+        "icon_i_d": 100230020,
+        "asset_full_name": "Level/Guide/TestSceneBattle1002/GuideBattle_100230020",
+        "new_unlock_task_type": 3,
+        "new_task_type": 3
+      }
+    ]
+  }
+}

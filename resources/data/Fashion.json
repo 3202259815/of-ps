@@ -1,0 +1,6307 @@
+{
+  "fashion_info": {
+    "datas": [
+      {
+        "i_d": 4011012,
+        "item_i_d": 4011012,
+        "only_character_i_d": 101001,
+        "asset_full_name": "Model/Fashion/Character_27/Character_27@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4011013,
+        "item_i_d": 4011013,
+        "asset_full_name": "Model/Fashion/Character_27/Character_27@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4011021,
+        "item_i_d": 4011021,
+        "asset_full_name": "Model/Fashion/Character_07/Character_07@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4031022,
+          4200212,
+          4200222,
+          4041042,
+          4200272,
+          4100022,
+          4100062,
+          4011012,
+          4041032,
+          4042022,
+          4021032,
+          4031032,
+          4200302,
+          4200382,
+          4041022,
+          4021012,
+          4043012,
+          4043032,
+          4041012,
+          4042032,
+          4012032,
+          4200032,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200362,
+          4200372,
+          4200382,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200612,
+          4200522,
+          4200562,
+          4043022,
+          4200612,
+          4200402,
+          4200512,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100062,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4200032,
+          4200232,
+          4021032,
+          4042022,
+          4012032,
+          4200262,
+          4200272,
+          4200292,
+          4200362,
+          4200372,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4400012,
+          4200222,
+          4011012,
+          4200522,
+          4200562,
+          4043012,
+          4200382,
+          4200512,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4011022,
+        "item_i_d": 4011022,
+        "only_character_i_d": 101002,
+        "asset_full_name": "Model/Fashion/Character_07/Character_07@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4011023,
+        "item_i_d": 4011023,
+        "asset_full_name": "Model/Fashion/Character_07/Character_07@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4011032,
+        "item_i_d": 4011032,
+        "only_character_i_d": 101003,
+        "asset_full_name": "Model/Fashion/Character_10/Character_10@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4011033,
+        "item_i_d": 4011033,
+        "asset_full_name": "Model/Fashion/Character_10/Character_10@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4011041,
+        "item_i_d": 4011041,
+        "asset_full_name": "Model/Fashion/Character_11/Character_11@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4100022,
+          4011012,
+          4042022,
+          4031032,
+          4041012,
+          4041042,
+          4042032,
+          4042022,
+          4031032,
+          4200222,
+          4200272,
+          4200392,
+          4200412,
+          4200452,
+          4200212,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4200272,
+          4400012,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4011042,
+        "item_i_d": 4011042,
+        "only_character_i_d": 101004,
+        "asset_full_name": "Model/Fashion/Character_11/Character_11@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4011043,
+        "item_i_d": 4011043,
+        "asset_full_name": "Model/Fashion/Character_11/Character_11@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4011044,
+        "item_i_d": 4011044,
+        "asset_full_name": "Model/Fashion/Character_11/Character_11@pend_upface_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4012011,
+        "item_i_d": 4012011,
+        "asset_full_name": "Model/Fashion/Character_02/Character_02@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4031022,
+          4200212,
+          4200222,
+          4041042,
+          4100062,
+          4011012,
+          4041032,
+          4042022,
+          4021032,
+          4031032,
+          4200302,
+          4200372,
+          4200442,
+          4200292,
+          4200472,
+          4200382,
+          4200422,
+          4200612,
+          4021012,
+          4200262,
+          4042032,
+          4200291,
+          4200561,
+          4200402,
+          4100222,
+          4200662
+        ],
+        "hide_braid": [
+          4200032,
+          4200222,
+          4200232,
+          4200442,
+          4400012,
+          4200262,
+          4200422,
+          4021012,
+          4200472,
+          4200402,
+          4031022,
+          4200291,
+          4200371,
+          4200561,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4012012,
+        "item_i_d": 4012012,
+        "only_character_i_d": 102001,
+        "asset_full_name": "Model/Fashion/Character_02/Character_02@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4012013,
+        "item_i_d": 4012013,
+        "asset_full_name": "Model/Fashion/Character_02/Character_02@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4012014,
+        "item_i_d": 4012014,
+        "asset_full_name": "Model/Fashion/Character_02/Character_02@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4012021,
+        "item_i_d": 4012021,
+        "asset_full_name": "Model/Fashion/Character_15/Character_15@hat_avatar",
+        "hide_orn": [
+          4021032,
+          4031032,
+          4200302,
+          4021012,
+          4031022,
+          4042032,
+          4012032,
+          4200032,
+          4200212,
+          4200222,
+          4200232,
+          4200292,
+          4200302,
+          4200372,
+          4200422,
+          4200472,
+          4200402
+        ],
+        "hide_braid": [
+          4021012,
+          4200032,
+          4200222,
+          4200232,
+          4031022,
+          4012032,
+          4200292,
+          4200372,
+          4200422,
+          4200472,
+          4400012
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4012022,
+        "item_i_d": 4012022,
+        "only_character_i_d": 102002,
+        "asset_full_name": "Model/Fashion/Character_15/Character_15@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4012023,
+        "item_i_d": 4012023,
+        "asset_full_name": "Model/Fashion/Character_15/Character_15@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4012032,
+        "item_i_d": 4012032,
+        "only_character_i_d": 102003,
+        "asset_full_name": "Model/Fashion/Character_29/Character_29@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4012033,
+        "item_i_d": 4012033,
+        "asset_full_name": "Model/Fashion/Character_29/Character_29@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4013012,
+        "item_i_d": 4013012,
+        "only_character_i_d": 103001,
+        "asset_full_name": "Model/Fashion/Character_30/Character_30@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4013013,
+        "item_i_d": 4013013,
+        "asset_full_name": "Model/Fashion/Character_30/Character_30@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4013022,
+        "item_i_d": 4013022,
+        "only_character_i_d": 103002,
+        "asset_full_name": "Model/Fashion/Character_23/Character_23@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4013023,
+        "item_i_d": 4013023,
+        "asset_full_name": "Model/Fashion/Character_23/Character_23@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4013024,
+        "item_i_d": 4013024,
+        "asset_full_name": "Model/Fashion/Character_23/Character_23@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4021012,
+        "item_i_d": 4021012,
+        "only_character_i_d": 201001,
+        "asset_full_name": "Model/Fashion/Character_05/Character_05@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4021013,
+        "item_i_d": 4021013,
+        "asset_full_name": "Model/Fashion/Character_05/Character_05@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4021021,
+        "item_i_d": 4021021,
+        "asset_full_name": "Model/Fashion/Character_17/Character_17@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4011022,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4011012,
+          4200262,
+          4200272,
+          4200302,
+          4100012,
+          4100022,
+          4100062,
+          4041022,
+          4021012,
+          4043012,
+          4043032,
+          4042032,
+          4012032,
+          4200032,
+          4200212,
+          4200222,
+          4200232,
+          4200292,
+          4200302,
+          4200362,
+          4200372,
+          4200382,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200472,
+          4200612,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200472,
+          4200402,
+          4200662
+        ],
+        "hide_braid": [
+          4031022,
+          4041032,
+          4200032,
+          4200232,
+          4041012,
+          4021012,
+          4042022,
+          4012032,
+          4200262,
+          4200272,
+          4200292,
+          4200362,
+          4200372,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4400012,
+          4200212,
+          4200222,
+          4200612,
+          4100052,
+          4100062,
+          4100102,
+          4200472,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4021022,
+        "item_i_d": 4021022,
+        "only_character_i_d": 201002,
+        "asset_full_name": "Model/Fashion/Character_17/Character_17@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4021023,
+        "item_i_d": 4021023,
+        "asset_full_name": "Model/Fashion/Character_17/Character_17@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4021032,
+        "item_i_d": 4021032,
+        "only_character_i_d": 201003,
+        "asset_full_name": "Model/Fashion/Character_25/Character_25@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4021033,
+        "item_i_d": 4021033,
+        "asset_full_name": "Model/Fashion/Character_25/Character_25@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4022011,
+        "item_i_d": 4022011,
+        "asset_full_name": "Model/Fashion/Character_09/Character_09@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4042022,
+          4200472,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4200222,
+          4100052,
+          4100062,
+          4100102,
+          4011012
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4022012,
+        "item_i_d": 4022012,
+        "only_character_i_d": 202001,
+        "asset_full_name": "Model/Fashion/Character_09/Character_09@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4022013,
+        "item_i_d": 4022013,
+        "asset_full_name": "Model/Fashion/Character_09/Character_09@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4022021,
+        "item_i_d": 4022021,
+        "asset_full_name": "Model/Fashion/Character_33/Character_33@hat_avatar",
+        "hide_orn": [
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4031032,
+          4200272,
+          4200292,
+          4200372,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200512,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4012032,
+          4200222,
+          4200232,
+          4200372,
+          4200392,
+          4200442,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4022022,
+        "item_i_d": 4022022,
+        "only_character_i_d": 202002,
+        "asset_full_name": "Model/Fashion/Character_33/Character_33@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4022023,
+        "item_i_d": 4022023,
+        "asset_full_name": "Model/Fashion/Character_33/Character_33@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4022031,
+        "item_i_d": 4022031,
+        "asset_full_name": "Model/Fashion/Character_13/Character_13@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4031032,
+          4012032,
+          4100062,
+          4200222,
+          4200272,
+          4200372,
+          4200402,
+          4200422,
+          4200482,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4012032,
+          4200372,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4022032,
+        "item_i_d": 4022032,
+        "only_character_i_d": 202003,
+        "asset_full_name": "Model/Fashion/Character_13/Character_13@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4022033,
+        "item_i_d": 4022033,
+        "asset_full_name": "Model/Fashion/Character_13/Character_13@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4022034,
+        "item_i_d": 4022034,
+        "asset_full_name": "Model/Fashion/Character_13/Character_13@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4022041,
+        "item_i_d": 4022041,
+        "asset_full_name": "Model/Fashion/Character_38/Character_38@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043042,
+          4041022,
+          4042042,
+          4042022,
+          4041042,
+          4012042,
+          4100062,
+          4200222,
+          4200272,
+          4200472,
+          4200402,
+          4200422,
+          4200482,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4012042,
+          4200472,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4022042,
+        "item_i_d": 4022042,
+        "only_character_i_d": 202004,
+        "asset_full_name": "Model/Fashion/Character_38/Character_38@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4022043,
+        "item_i_d": 4022043,
+        "asset_full_name": "Model/Fashion/Character_38/Character_38@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4031022,
+        "item_i_d": 4031022,
+        "only_character_i_d": 301002,
+        "asset_full_name": "Model/Fashion/Character_18/Character_18@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4031023,
+        "item_i_d": 4031023,
+        "asset_full_name": "Model/Fashion/Character_18/Character_18@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4031032,
+        "item_i_d": 4031032,
+        "only_character_i_d": 301003,
+        "asset_full_name": "Model/Fashion/Character_26/Character_26@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4031033,
+        "item_i_d": 4031033,
+        "asset_full_name": "Model/Fashion/Character_26/Character_26@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4031042,
+        "item_i_d": 4031042,
+        "only_character_i_d": 301004,
+        "asset_full_name": "Model/Fashion/Character_35/Character_35@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4031043,
+        "item_i_d": 4031043,
+        "asset_full_name": "Model/Fashion/Character_35/Character_35@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4032011,
+        "item_i_d": 4032011,
+        "asset_full_name": "Model/Fashion/Character_32/Character_32@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4031022,
+          4042022,
+          4031032,
+          4200222,
+          4200402,
+          4200422,
+          4200442,
+          4200512,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262
+        ],
+        "hide_braid": [
+          4200442,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4032012,
+        "item_i_d": 4032012,
+        "asset_full_name": "Model/Fashion/Character_32/Character_32@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4032013,
+        "item_i_d": 4032013,
+        "asset_full_name": "Model/Fashion/Character_32/Character_32@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4032022,
+        "item_i_d": 4032022,
+        "only_character_i_d": 302002,
+        "asset_full_name": "Model/Fashion/Character_22/Character_22@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4032023,
+        "item_i_d": 4032023,
+        "asset_full_name": "Model/Fashion/Character_22/Character_22@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4032031,
+        "item_i_d": 4032031,
+        "asset_full_name": "Model/Fashion/Character_08/Character_08@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4031022,
+          4200212,
+          4041042,
+          4200272,
+          4100062,
+          4011012,
+          4041032,
+          4042022,
+          4021032,
+          4031032,
+          4200302,
+          4200382,
+          4041022,
+          4021012,
+          4043032,
+          4042032,
+          4012032,
+          4200032,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200372,
+          4200392,
+          4200422,
+          4200442,
+          4200472,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4200032,
+          4200222,
+          4200232,
+          4041012,
+          4043032,
+          4012032,
+          4200262,
+          4200272,
+          4200292,
+          4200392,
+          4200422,
+          4200442,
+          4200472,
+          4400012,
+          4200472,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4032032,
+        "item_i_d": 4032032,
+        "only_character_i_d": 302003,
+        "asset_full_name": "Model/Fashion/Character_08/Character_08@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4032033,
+        "item_i_d": 4032033,
+        "asset_full_name": "Model/Fashion/Character_08/Character_08@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4032042,
+        "item_i_d": 4032042,
+        "only_character_i_d": 302004,
+        "asset_full_name": "Model/Fashion/Character_36/Character_36@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4032043,
+        "item_i_d": 4032043,
+        "asset_full_name": "Model/Fashion/Character_36/Character_36@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041012,
+        "item_i_d": 4041012,
+        "only_character_i_d": 401001,
+        "asset_full_name": "Model/Fashion/Character_03/Character_03@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4041013,
+        "item_i_d": 4041013,
+        "asset_full_name": "Model/Fashion/Character_03/Character_03@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041021,
+        "item_i_d": 4041021,
+        "asset_full_name": "Model/Fashion/Character_04/Character_04@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4031022,
+          4200212,
+          4200222,
+          4041042,
+          4100022,
+          4100062,
+          4011012,
+          4041032,
+          4042022,
+          4021032,
+          4031032,
+          4200262,
+          4200302,
+          4200382,
+          4200422,
+          4200232,
+          4200292,
+          4200372,
+          4200442,
+          4200472,
+          4042032,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4031022,
+          4200222,
+          4200232,
+          4200422,
+          4200292,
+          4200302,
+          4200372,
+          4400012,
+          4200032,
+          4200442,
+          4200472,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4041022,
+        "item_i_d": 4041022,
+        "only_character_i_d": 401002,
+        "asset_full_name": "Model/Fashion/Character_04/Character_04@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4041023,
+        "item_i_d": 4041023,
+        "asset_full_name": "Model/Fashion/Character_04/Character_04@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041031,
+        "item_i_d": 4041031,
+        "asset_full_name": "Model/Fashion/Character_19/Character_19@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4013022,
+          4042022,
+          4021032,
+          4031032,
+          4011012,
+          4200302,
+          4100012,
+          4100022,
+          4100062,
+          4021012,
+          4011022,
+          4043032,
+          4041042,
+          4042032,
+          4012032,
+          4200032,
+          4200212,
+          4200222,
+          4200292,
+          4200372,
+          4200382,
+          4200422,
+          4200452,
+          4200472,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4200032,
+          4200232,
+          4021012,
+          4043032,
+          4031022,
+          4042022,
+          4012032,
+          4200372,
+          4200422,
+          4400012,
+          4100052,
+          4100062,
+          4100102,
+          4200472,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4041032,
+        "item_i_d": 4041032,
+        "only_character_i_d": 401003,
+        "asset_full_name": "Model/Fashion/Character_19/Character_19@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4041033,
+        "item_i_d": 4041033,
+        "asset_full_name": "Model/Fashion/Character_19/Character_19@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041041,
+        "item_i_d": 4041041,
+        "asset_full_name": "Model/Fashion/Character_20/Character_20@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4021032,
+          4031032,
+          4200302,
+          4021012,
+          4031022,
+          4042032,
+          4021032,
+          4031032,
+          4012032,
+          4200032,
+          4200222,
+          4200232,
+          4200292,
+          4200302,
+          4200372,
+          4200422,
+          4200472,
+          4200402,
+          4200082
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4200032,
+          4200212,
+          4200222,
+          4200232,
+          4012032,
+          4200292,
+          4200372,
+          4200422,
+          4400012,
+          4200472,
+          4200082
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4041042,
+        "item_i_d": 4041042,
+        "only_character_i_d": 401004,
+        "asset_full_name": "Model/Fashion/Character_20/Character_20@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4041043,
+        "item_i_d": 4041043,
+        "asset_full_name": "Model/Fashion/Character_20/Character_20@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041051,
+        "item_i_d": 4041051,
+        "asset_full_name": "Model/Fashion/Character_14/Character_14@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4021032,
+          4031032,
+          4200302,
+          4021012,
+          4031022,
+          4042032,
+          4021032,
+          4031032,
+          4012032,
+          4200032,
+          4200222,
+          4200232,
+          4200292,
+          4200302,
+          4200372,
+          4200422,
+          4200472,
+          4200402,
+          4200082
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4200032,
+          4200212,
+          4200222,
+          4200232,
+          4012032,
+          4200292,
+          4200372,
+          4200422,
+          4400012,
+          4200472,
+          4200082
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4041052,
+        "item_i_d": 4041052,
+        "only_character_i_d": 401005,
+        "asset_full_name": "Model/Fashion/Character_14/Character_14@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4041053,
+        "item_i_d": 4041053,
+        "asset_full_name": "Model/Fashion/Character_14/Character_14@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4041054,
+        "item_i_d": 4041054,
+        "asset_full_name": "Model/Fashion/Character_14/Character_14@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4042012,
+        "item_i_d": 4042012,
+        "only_character_i_d": 402001,
+        "asset_full_name": "Model/Fashion/Character_28/Character_28@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4042013,
+        "item_i_d": 4042013,
+        "asset_full_name": "Model/Fashion/Character_28/Character_28@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4042014,
+        "item_i_d": 4042014,
+        "asset_full_name": "Model/Fashion/Character_28/Character_28@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4042022,
+        "item_i_d": 4042022,
+        "only_character_i_d": 402002,
+        "asset_full_name": "Model/Fashion/Character_24/Character_24@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4042023,
+        "item_i_d": 4042023,
+        "asset_full_name": "Model/Fashion/Character_24/Character_24@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4042032,
+        "item_i_d": 4042032,
+        "only_character_i_d": 402003,
+        "asset_full_name": "Model/Fashion/Character_21/Character_21@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4042033,
+        "item_i_d": 4042033,
+        "asset_full_name": "Model/Fashion/Character_21/Character_21@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4043012,
+        "item_i_d": 4043012,
+        "only_character_i_d": 403001,
+        "asset_full_name": "Model/Fashion/Character_12/Character_12@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4043013,
+        "item_i_d": 4043013,
+        "asset_full_name": "Model/Fashion/Character_12/Character_12@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4043021,
+        "item_i_d": 4043021,
+        "asset_full_name": "Model/Fashion/Character_06/Character_06@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4100022,
+          4100062,
+          4042022,
+          4031032,
+          4200262,
+          4041012,
+          4011022,
+          4041042,
+          4200222,
+          4200272,
+          4200382,
+          4200392,
+          4200432,
+          4200442,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4200452,
+          4200662
+        ],
+        "hide_braid": [
+          4200272,
+          4400012,
+          4100052,
+          4100062,
+          4100102,
+          4200272,
+          4200452
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4043022,
+        "item_i_d": 4043022,
+        "only_character_i_d": 403002,
+        "asset_full_name": "Model/Fashion/Character_06/Character_06@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4043023,
+        "item_i_d": 4043023,
+        "asset_full_name": "Model/Fashion/Character_06/Character_06@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4043032,
+        "item_i_d": 4043032,
+        "only_character_i_d": 403003,
+        "asset_full_name": "Model/Fashion/Character_16/Character_16@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4043033,
+        "item_i_d": 4043033,
+        "asset_full_name": "Model/Fashion/Character_16/Character_16@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4043042,
+        "item_i_d": 4043042,
+        "only_character_i_d": 403004,
+        "asset_full_name": "Model/Fashion/Character_37/Character_37@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4043043,
+        "item_i_d": 4043043,
+        "asset_full_name": "Model/Fashion/Character_37/Character_37@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100012,
+        "item_i_d": 4100012,
+        "asset_full_name": "Model/Fashion/Fashion_1001/Fashion_1001@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100013,
+        "item_i_d": 4100013,
+        "asset_full_name": "Model/Fashion/Fashion_1001/Fashion_1001@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100022,
+        "item_i_d": 4100022,
+        "asset_full_name": "Model/Fashion/Fashion_1002/Fashion_1002@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100023,
+        "item_i_d": 4100023,
+        "asset_full_name": "Model/Fashion/Fashion_1002/Fashion_1002@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100032,
+        "item_i_d": 4100032,
+        "asset_full_name": "Model/Fashion/Fashion_1003/Fashion_1003@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100033,
+        "item_i_d": 4100033,
+        "asset_full_name": "Model/Fashion/Fashion_1003/Fashion_1003@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100042,
+        "item_i_d": 4100042,
+        "asset_full_name": "Model/Fashion/Fashion_1004/Fashion_1004@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100043,
+        "item_i_d": 4100043,
+        "asset_full_name": "Model/Fashion/Fashion_1004/Fashion_1004@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100052,
+        "item_i_d": 4100052,
+        "asset_full_name": "Model/Fashion/Fashion_1005/Fashion_1005@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100053,
+        "item_i_d": 4100053,
+        "asset_full_name": "Model/Fashion/Fashion_1005/Fashion_1005@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100062,
+        "item_i_d": 4100062,
+        "asset_full_name": "Model/Fashion/Fashion_1006/Fashion_1006@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100063,
+        "item_i_d": 4100063,
+        "asset_full_name": "Model/Fashion/Fashion_1006/Fashion_1006@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100072,
+        "item_i_d": 4100072,
+        "asset_full_name": "Model/Fashion/Fashion_1007/Fashion_1007@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100073,
+        "item_i_d": 4100073,
+        "asset_full_name": "Model/Fashion/Fashion_1007/Fashion_1007@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100082,
+        "item_i_d": 4100082,
+        "asset_full_name": "Model/Fashion/Fashion_1008/Fashion_1008@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100083,
+        "item_i_d": 4100083,
+        "asset_full_name": "Model/Fashion/Fashion_1008/Fashion_1008@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100092,
+        "item_i_d": 4100092,
+        "asset_full_name": "Model/Fashion/Fashion_1009/Fashion_1009@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100093,
+        "item_i_d": 4100093,
+        "asset_full_name": "Model/Fashion/Fashion_1009/Fashion_1009@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100102,
+        "item_i_d": 4100102,
+        "asset_full_name": "Model/Fashion/Fashion_1010/Fashion_1010@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100103,
+        "item_i_d": 4100103,
+        "asset_full_name": "Model/Fashion/Fashion_1010/Fashion_1010@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100111,
+        "item_i_d": 4100111,
+        "asset_full_name": "Model/Fashion/Fashion_1011/Fashion_1011@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4042032,
+          4021032,
+          4031032,
+          4200292,
+          4200302,
+          4200372,
+          4200382,
+          4200402,
+          4200422,
+          4200442,
+          4200472,
+          4200512,
+          4200472,
+          4200212,
+          4200222,
+          4011012,
+          4012032,
+          4200612,
+          4200262,
+          4021012
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4042022,
+          4012032,
+          4200222,
+          4200232,
+          4200292,
+          4200372,
+          4200422,
+          4200442,
+          4200472,
+          4200262,
+          4021012,
+          4043012
+        ],
+        "new_sex_type": 1
+      },
+      {
+        "i_d": 4100112,
+        "item_i_d": 4100112,
+        "asset_full_name": "Model/Fashion/Fashion_1011/Fashion_1011@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100113,
+        "item_i_d": 4100113,
+        "asset_full_name": "Model/Fashion/Fashion_1011/Fashion_1011@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100121,
+        "item_i_d": 4100121,
+        "asset_full_name": "Model/Fashion/Fashion_1012/Fashion_1012@hat_avatar",
+        "hide_orn": [
+          4021012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4021032,
+          4031032,
+          4012032,
+          4200212,
+          4200222,
+          4200272,
+          4200292,
+          4200302,
+          4200372,
+          4200382,
+          4200402,
+          4200422,
+          4200442,
+          4200512,
+          4200472,
+          4200612
+        ],
+        "hide_braid": [
+          4200222,
+          4200372,
+          4200422,
+          4200442
+        ],
+        "new_sex_type": 1
+      },
+      {
+        "i_d": 4100122,
+        "item_i_d": 4100122,
+        "asset_full_name": "Model/Fashion/Fashion_1012/Fashion_1012@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100123,
+        "item_i_d": 4100123,
+        "asset_full_name": "Model/Fashion/Fashion_1012/Fashion_1012@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100132,
+        "item_i_d": 4100132,
+        "asset_full_name": "Model/Fashion/Fashion_1013/Fashion_1013@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100133,
+        "item_i_d": 4100133,
+        "asset_full_name": "Model/Fashion/Fashion_1013/Fashion_1013@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100142,
+        "item_i_d": 4100142,
+        "asset_full_name": "Model/Fashion/Fashion_1014/Fashion_1014@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100143,
+        "item_i_d": 4100143,
+        "asset_full_name": "Model/Fashion/Fashion_1014/Fashion_1014@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100152,
+        "item_i_d": 4100152,
+        "asset_full_name": "Model/Fashion/Fashion_1015/Fashion_1015@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100153,
+        "item_i_d": 4100153,
+        "asset_full_name": "Model/Fashion/Fashion_1015/Fashion_1015@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100161,
+        "item_i_d": 4100161,
+        "asset_full_name": "Model/Fashion/Fashion_1016/Fashion_1016@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043022,
+          4031022,
+          4041042,
+          4042022,
+          4031032,
+          4200082,
+          4200212,
+          4200222,
+          4200262,
+          4200272,
+          4200362,
+          4200392,
+          4200402,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200482,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100262
+        ],
+        "hide_braid": [
+          4043022,
+          4011012,
+          4200032,
+          4200082,
+          4200222,
+          4200262,
+          4200362,
+          4200392,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4100162,
+        "item_i_d": 4100162,
+        "asset_full_name": "Model/Fashion/Fashion_1016/Fashion_1016@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100163,
+        "item_i_d": 4100163,
+        "asset_full_name": "Model/Fashion/Fashion_1016/Fashion_1016@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100181,
+        "item_i_d": 4100181,
+        "asset_full_name": "Model/Fashion/Fashion_1018/Fashion_1018@hat_avatar"
+      },
+      {
+        "i_d": 4100182,
+        "item_i_d": 4100182,
+        "asset_full_name": "Model/Fashion/Fashion_1018/Fashion_1018@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100183,
+        "item_i_d": 4100183,
+        "asset_full_name": "Model/Fashion/Fashion_1018/Fashion_1018@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100191,
+        "item_i_d": 4100191,
+        "asset_full_name": "Model/Fashion/Fashion_1019/Fashion_1019@hat_avatar"
+      },
+      {
+        "i_d": 4100192,
+        "item_i_d": 4100192,
+        "asset_full_name": "Model/Fashion/Fashion_1019/Fashion_1019@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100193,
+        "item_i_d": 4100193,
+        "asset_full_name": "Model/Fashion/Fashion_1019/Fashion_1019@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100202,
+        "item_i_d": 4100202,
+        "asset_full_name": "Model/Fashion/Fashion_1020/Fashion_1020@hair_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100062,
+          4100262,
+          4200212,
+          4041012,
+          4043022,
+          4022012,
+          4043032,
+          4021022,
+          4041032,
+          4041042,
+          4021032,
+          4031032,
+          4022022,
+          4200042,
+          4200082,
+          4200222,
+          4200272,
+          4200302,
+          4200362,
+          4200382,
+          4200402,
+          4200432,
+          4200482,
+          4200552,
+          4200562,
+          4200572,
+          4200612,
+          4100162,
+          4100222,
+          4200302,
+          4011022,
+          4042032
+        ],
+        "hide_braid": [
+          4021012,
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102,
+          4100162,
+          4200232,
+          4021022,
+          4041032,
+          4200042,
+          4200222,
+          4200262,
+          4200362,
+          4200382,
+          4200392,
+          4200422,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4100062,
+          4100162,
+          4200372
+        ],
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100203,
+        "item_i_d": 4100203,
+        "asset_full_name": "Model/Fashion/Fashion_1020/Fashion_1020@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100212,
+        "item_i_d": 4100212,
+        "asset_full_name": "Model/Fashion/Fashion_1021/Fashion_1021@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100213,
+        "item_i_d": 4100213,
+        "asset_full_name": "Model/Fashion/Fashion_1021/Fashion_1021@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100232,
+        "item_i_d": 4100232,
+        "asset_full_name": "Model/Fashion/Fashion_1023/Fashion_1023@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100233,
+        "item_i_d": 4100233,
+        "asset_full_name": "Model/Fashion/Fashion_1023/Fashion_1023@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100242,
+        "item_i_d": 4100242,
+        "asset_full_name": "Model/Fashion/Fashion_1024/Fashion_1024@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100243,
+        "item_i_d": 4100243,
+        "asset_full_name": "Model/Fashion/Fashion_1024/Fashion_1024@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100221,
+        "item_i_d": 4100221,
+        "asset_full_name": "Model/Fashion/Fashion_1022/Fashion_1022@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100062,
+          4100262,
+          4200212,
+          4041012,
+          4043022,
+          4022012,
+          4043032,
+          4021022,
+          4041032,
+          4041042,
+          4021032,
+          4031032,
+          4022022,
+          4200042,
+          4200082,
+          4200222,
+          4200272,
+          4200302,
+          4200362,
+          4200382,
+          4200402,
+          4200432,
+          4200482,
+          4200552,
+          4200562,
+          4200572,
+          4200612,
+          4100162,
+          4100222,
+          4200302,
+          4011022,
+          4042032
+        ],
+        "hide_braid": [
+          4021012,
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102,
+          4100162,
+          4200232,
+          4021022,
+          4041032,
+          4200042,
+          4200222,
+          4200262,
+          4200362,
+          4200382,
+          4200392,
+          4200422,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4100062,
+          4100162,
+          4200372
+        ],
+        "new_sex_type": 1
+      },
+      {
+        "i_d": 4100222,
+        "item_i_d": 4100222,
+        "asset_full_name": "Model/Fashion/Fashion_1022/Fashion_1022@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100223,
+        "item_i_d": 4100223,
+        "asset_full_name": "Model/Fashion/Fashion_1022/Fashion_1022@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100262,
+        "item_i_d": 4100262,
+        "asset_full_name": "Model/Fashion/Fashion_1026/Fashion_1026@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100263,
+        "item_i_d": 4100263,
+        "asset_full_name": "Model/Fashion/Fashion_1026/Fashion_1026@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100272,
+        "item_i_d": 4100272,
+        "asset_full_name": "Model/Fashion/Fashion_1027/Fashion_1027@hair_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100273,
+        "item_i_d": 4100273,
+        "asset_full_name": "Model/Fashion/Fashion_1027/Fashion_1027@cloth_avatar",
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100274,
+        "item_i_d": 4100274,
+        "asset_full_name": "Model/Fashion/Fashion_1027/Fashion_1027@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4100281,
+        "item_i_d": 4100281,
+        "asset_full_name": "Model/Fashion/Fashion_1028/Fashion_1028@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100062,
+          4100262,
+          4200212,
+          4041012,
+          4043022,
+          4022012,
+          4043032,
+          4021022,
+          4041032,
+          4041042,
+          4021032,
+          4031032,
+          4022022,
+          4200042,
+          4200082,
+          4200222,
+          4200272,
+          4200302,
+          4200362,
+          4200382,
+          4200402,
+          4200432,
+          4200482,
+          4200552,
+          4200562,
+          4200572,
+          4200612,
+          4100162,
+          4100222,
+          4200302,
+          4011022,
+          4042032
+        ],
+        "hide_braid": [
+          4021012,
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102,
+          4100162,
+          4200232,
+          4021022,
+          4041032,
+          4200042,
+          4200222,
+          4200262,
+          4200362,
+          4200382,
+          4200392,
+          4200422,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4100062,
+          4100162,
+          4200372
+        ]
+      },
+      {
+        "i_d": 4100282,
+        "item_i_d": 4100282,
+        "asset_full_name": "Model/Fashion/Fashion_1028/Fashion_1028@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100283,
+        "item_i_d": 4100283,
+        "asset_full_name": "Model/Fashion/Fashion_1028/Fashion_1028@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4100284,
+        "item_i_d": 4100284,
+        "asset_full_name": "Model/Fashion/Fashion_1028/Fashion_1028@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4100285,
+        "item_i_d": 4100285,
+        "asset_full_name": "Model/Fashion/Fashion_1028/Fashion_1028@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4100292,
+        "item_i_d": 4100292,
+        "asset_full_name": "Model/Fashion/Fashion_1029/Fashion_1029@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4100293,
+        "item_i_d": 4100293,
+        "asset_full_name": "Model/Fashion/Fashion_1029/Fashion_1029@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200012,
+        "item_i_d": 4200012,
+        "asset_full_name": "Model/Fashion/Fashion_01/Fashion_01@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200013,
+        "item_i_d": 4200013,
+        "asset_full_name": "Model/Fashion/Fashion_01/Fashion_01@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200021,
+        "item_i_d": 4200021,
+        "asset_full_name": "Model/Fashion/Fashion_02/Fashion_02@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4021032,
+          4031032,
+          4012032,
+          4100012,
+          4100022,
+          4100052,
+          4100062,
+          4100162,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200362,
+          4200372,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200472,
+          4200482,
+          4200512,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4021012,
+          4043032,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4200032,
+          4100162,
+          4200262,
+          4200292,
+          4200372,
+          4200392,
+          4200422,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4200522,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200022,
+        "item_i_d": 4200022,
+        "asset_full_name": "Model/Fashion/Fashion_02/Fashion_02@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200023,
+        "item_i_d": 4200023,
+        "asset_full_name": "Model/Fashion/Fashion_02/Fashion_02@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200024,
+        "item_i_d": 4200024,
+        "asset_full_name": "Model/Fashion/Fashion_02/Fashion_02@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200025,
+        "item_i_d": 4200025,
+        "asset_full_name": "Model/Fashion/Fashion_02/Fashion_02@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200031,
+        "item_i_d": 4200031,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@hat_avatar",
+        "hide_orn": [
+          4200222
+        ],
+        "hide_braid": [
+          4400012
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200032,
+        "item_i_d": 4200032,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200033,
+        "item_i_d": 4200033,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200034,
+        "item_i_d": 4200034,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200035,
+        "item_i_d": 4200035,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200036,
+        "item_i_d": 4200036,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4200037,
+        "item_i_d": 4200037,
+        "asset_full_name": "Model/Fashion/Fashion_03/Fashion_03@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4200041,
+        "item_i_d": 4200041,
+        "asset_full_name": "Model/Fashion/Fashion_04/Fashion_04@hat_avatar",
+        "hide_orn": [
+          4200222
+        ],
+        "hide_braid": [
+          4400012
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200042,
+        "item_i_d": 4200042,
+        "asset_full_name": "Model/Fashion/Fashion_04/Fashion_04@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200043,
+        "item_i_d": 4200043,
+        "asset_full_name": "Model/Fashion/Fashion_04/Fashion_04@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200044,
+        "item_i_d": 4200044,
+        "asset_full_name": "Model/Fashion/Fashion_04/Fashion_04@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200045,
+        "item_i_d": 4200045,
+        "asset_full_name": "Model/Fashion/Fashion_04/Fashion_04@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200051,
+        "item_i_d": 4200051,
+        "asset_full_name": "Model/Fashion/Fashion_05/Fashion_05@hat_avatar",
+        "hide_orn": [
+          4011022,
+          4031022,
+          4042022,
+          4031032,
+          4200272,
+          4100012,
+          4100022,
+          4100062,
+          4041012,
+          4041022,
+          4043032,
+          4041042,
+          4200042,
+          4200212,
+          4200222,
+          4200422,
+          4200442,
+          4200452,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4200272,
+          4200442,
+          4400012,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200052,
+        "item_i_d": 4200052,
+        "asset_full_name": "Model/Fashion/Fashion_05/Fashion_05@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200053,
+        "item_i_d": 4200053,
+        "asset_full_name": "Model/Fashion/Fashion_05/Fashion_05@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200054,
+        "item_i_d": 4200054,
+        "asset_full_name": "Model/Fashion/Fashion_05/Fashion_05@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200055,
+        "item_i_d": 4200055,
+        "asset_full_name": "Model/Fashion/Fashion_05/Fashion_05@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200071,
+        "item_i_d": 4200071,
+        "asset_full_name": "Model/Fashion/Fashion_07/Fashion_07@hat_avatar",
+        "hide_orn": [
+          4021012,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4100162,
+          4200232,
+          4200262,
+          4200292,
+          4200372,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4200522,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100262,
+          4200082,
+          4100222,
+          4200662
+        ],
+        "hide_braid": [
+          4021012,
+          4043022,
+          4043012,
+          4043032,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4013012,
+          4200082,
+          4200522,
+          4200562,
+          4100052,
+          4100102,
+          4100162,
+          4200232,
+          4021022,
+          4041032,
+          4200042,
+          4200222,
+          4200262,
+          4200362,
+          4200382,
+          4200392,
+          4200422,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4100062,
+          4100162,
+          4200372,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200072,
+        "item_i_d": 4200072,
+        "asset_full_name": "Model/Fashion/Fashion_07/Fashion_07@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200073,
+        "item_i_d": 4200073,
+        "asset_full_name": "Model/Fashion/Fashion_07/Fashion_07@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200082,
+        "item_i_d": 4200082,
+        "asset_full_name": "Model/Fashion/Fashion_08/Fashion_08@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200083,
+        "item_i_d": 4200083,
+        "asset_full_name": "Model/Fashion/Fashion_08/Fashion_08@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200091,
+        "item_i_d": 4200091,
+        "asset_full_name": "Model/Fashion/Fashion_09/Fashion_09@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4100062,
+          4011012,
+          4042022,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402
+        ],
+        "hide_braid": [
+          4100052,
+          4100062,
+          4100102,
+          4200272,
+          4200272
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200092,
+        "item_i_d": 4200092,
+        "asset_full_name": "Model/Fashion/Fashion_09/Fashion_09@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200093,
+        "item_i_d": 4200093,
+        "asset_full_name": "Model/Fashion/Fashion_09/Fashion_09@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200094,
+        "item_i_d": 4200094,
+        "asset_full_name": "Model/Fashion/Fashion_09/Fashion_09@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200095,
+        "item_i_d": 4200095,
+        "asset_full_name": "Model/Fashion/Fashion_09/Fashion_09@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200201,
+        "item_i_d": 4200201,
+        "asset_full_name": "Model/Fashion/Fashion_20/Fashion_20@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4200222,
+          4041042,
+          4100032,
+          4100062,
+          4011012,
+          4021022,
+          4041032,
+          4042022,
+          4031032,
+          4041012,
+          4041022,
+          4011022,
+          4043032,
+          4042022,
+          4031032,
+          4200042,
+          4200212,
+          4200222,
+          4200272,
+          4200382,
+          4200422,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4200272,
+          4400012,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200202,
+        "item_i_d": 4200202,
+        "asset_full_name": "Model/Fashion/Fashion_20/Fashion_20@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200203,
+        "item_i_d": 4200203,
+        "asset_full_name": "Model/Fashion/Fashion_20/Fashion_20@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200212,
+        "item_i_d": 4200212,
+        "asset_full_name": "Model/Fashion/Fashion_21/Fashion_21@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200213,
+        "item_i_d": 4200213,
+        "asset_full_name": "Model/Fashion/Fashion_21/Fashion_21@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200222,
+        "item_i_d": 4200222,
+        "asset_full_name": "Model/Fashion/Fashion_22/Fashion_22@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200223,
+        "item_i_d": 4200223,
+        "asset_full_name": "Model/Fashion/Fashion_22/Fashion_22@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200232,
+        "item_i_d": 4200232,
+        "asset_full_name": "Model/Fashion/Fashion_23/Fashion_23@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200233,
+        "item_i_d": 4200233,
+        "asset_full_name": "Model/Fashion/Fashion_23/Fashion_23@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200241,
+        "item_i_d": 4200241,
+        "asset_full_name": "Model/Fashion/Fashion_24/Fashion_24@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4100062,
+          4011012,
+          4042022,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402
+        ],
+        "hide_braid": [
+          4100052,
+          4100062,
+          4100102,
+          4200272,
+          4200272
+        ]
+      },
+      {
+        "i_d": 4200242,
+        "item_i_d": 4200242,
+        "asset_full_name": "Model/Fashion/Fashion_24/Fashion_24@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200243,
+        "item_i_d": 4200243,
+        "asset_full_name": "Model/Fashion/Fashion_24/Fashion_24@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200251,
+        "item_i_d": 4200251,
+        "asset_full_name": "Model/Fashion/Fashion_25/Fashion_25@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4011022,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4031032,
+          4200212,
+          4200222,
+          4200272,
+          4200422,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4200392,
+          4200662
+        ],
+        "hide_braid": [
+          4400012,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200252,
+        "item_i_d": 4200252,
+        "asset_full_name": "Model/Fashion/Fashion_25/Fashion_25@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200253,
+        "item_i_d": 4200253,
+        "asset_full_name": "Model/Fashion/Fashion_25/Fashion_25@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200262,
+        "item_i_d": 4200262,
+        "asset_full_name": "Model/Fashion/Fashion_26/Fashion_26@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200263,
+        "item_i_d": 4200263,
+        "asset_full_name": "Model/Fashion/Fashion_26/Fashion_26@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200272,
+        "item_i_d": 4200272,
+        "asset_full_name": "Model/Fashion/Fashion_27/Fashion_27@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200273,
+        "item_i_d": 4200273,
+        "asset_full_name": "Model/Fashion/Fashion_27/Fashion_27@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200282,
+        "item_i_d": 4200282,
+        "asset_full_name": "Model/Fashion/Fashion_28/Fashion_28@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200283,
+        "item_i_d": 4200283,
+        "asset_full_name": "Model/Fashion/Fashion_28/Fashion_28@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200292,
+        "item_i_d": 4200292,
+        "asset_full_name": "Model/Fashion/Fashion_29/Fashion_29@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200293,
+        "item_i_d": 4200293,
+        "asset_full_name": "Model/Fashion/Fashion_29/Fashion_29@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200302,
+        "item_i_d": 4200302,
+        "asset_full_name": "Model/Fashion/Fashion_30/Fashion_30@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200303,
+        "item_i_d": 4200303,
+        "asset_full_name": "Model/Fashion/Fashion_30/Fashion_30@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200311,
+        "item_i_d": 4200311,
+        "asset_full_name": "Model/Fashion/Fashion_31/Fashion_31@hat_avatar",
+        "hide_orn": [
+          4011022,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4011012,
+          4200212,
+          4200222,
+          4200262,
+          4200272,
+          4200302,
+          4100012,
+          4100022,
+          4100062,
+          4041012,
+          4041022,
+          4043032,
+          4200212,
+          4200222,
+          4200272,
+          4200382,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200612,
+          4100072,
+          4100262,
+          4200402
+        ],
+        "hide_braid": [
+          4041032,
+          4021032,
+          4200032,
+          4200232,
+          4200272,
+          4200392,
+          4200442,
+          4400012,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4200312,
+        "item_i_d": 4200312,
+        "asset_full_name": "Model/Fashion/Fashion_31/Fashion_31@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200313,
+        "item_i_d": 4200313,
+        "asset_full_name": "Model/Fashion/Fashion_31/Fashion_31@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200314,
+        "item_i_d": 4200314,
+        "asset_full_name": "Model/Fashion/Fashion_31/Fashion_31@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200321,
+        "item_i_d": 4200321,
+        "asset_full_name": "Model/Fashion/Fashion_32/Fashion_32@hat_avatar",
+        "hide_orn": [
+          4031022,
+          4042022,
+          4031032,
+          4011012,
+          4100012,
+          4100022,
+          4100062,
+          4041012,
+          4041022,
+          4011022,
+          4043012,
+          4043032,
+          4041042,
+          4042032,
+          4021032,
+          4012032,
+          4200032,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200362,
+          4200372,
+          4200382,
+          4200392,
+          4200442,
+          4200452,
+          4200472,
+          4200462,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4021012,
+          4043022,
+          4100222,
+          4200662
+        ],
+        "hide_braid": [
+          4012032,
+          4200232,
+          4200272,
+          4200372,
+          4200392,
+          4200442,
+          4400012,
+          4200462,
+          4100052,
+          4100062,
+          4100102,
+          4200262,
+          4200292,
+          4200362,
+          4021012,
+          4200452,
+          4200472,
+          4031022,
+          4043022,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200322,
+        "item_i_d": 4200322,
+        "asset_full_name": "Model/Fashion/Fashion_32/Fashion_32@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200323,
+        "item_i_d": 4200323,
+        "asset_full_name": "Model/Fashion/Fashion_32/Fashion_32@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200331,
+        "item_i_d": 4200331,
+        "asset_full_name": "Model/Fashion/Fashion_33/Fashion_33@hat_avatar",
+        "hide_orn": [
+          4041022,
+          4031022,
+          4041042,
+          4042022,
+          4200042,
+          4200222,
+          4200272,
+          4200382,
+          4200392,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4041012,
+          4200662
+        ],
+        "hide_braid": [
+          4100052,
+          4100062,
+          4100102,
+          4041012,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200332,
+        "item_i_d": 4200332,
+        "asset_full_name": "Model/Fashion/Fashion_33/Fashion_33@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200333,
+        "item_i_d": 4200333,
+        "asset_full_name": "Model/Fashion/Fashion_33/Fashion_33@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200341,
+        "item_i_d": 4200341,
+        "asset_full_name": "Model/Fashion/Fashion_34/Fashion_34@hat_avatar",
+        "hide_orn": [
+          4012012,
+          4041012,
+          4041022,
+          4011022,
+          4043012,
+          4043032,
+          4031022,
+          4041042,
+          4042032,
+          4042022,
+          4031032,
+          4012032,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200362,
+          4200382,
+          4200392,
+          4200442,
+          4200452,
+          4200472,
+          4400012,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4022012
+        ],
+        "hide_braid": [
+          4041012,
+          4043032,
+          4041032,
+          4042022,
+          4012032,
+          4200262,
+          4200272,
+          4200362,
+          4200392,
+          4200442,
+          4200452,
+          4400012,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200342,
+        "item_i_d": 4200342,
+        "asset_full_name": "Model/Fashion/Fashion_34/Fashion_34@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200343,
+        "item_i_d": 4200343,
+        "asset_full_name": "Model/Fashion/Fashion_34/Fashion_34@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200352,
+        "item_i_d": 4200352,
+        "asset_full_name": "Model/Fashion/Fashion_35/Fashion_35@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200353,
+        "item_i_d": 4200353,
+        "asset_full_name": "Model/Fashion/Fashion_35/Fashion_35@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200362,
+        "item_i_d": 4200362,
+        "asset_full_name": "Model/Fashion/Fashion_36/Fashion_36@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200363,
+        "item_i_d": 4200363,
+        "asset_full_name": "Model/Fashion/Fashion_36/Fashion_36@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200372,
+        "item_i_d": 4200372,
+        "asset_full_name": "Model/Fashion/Fashion_37/Fashion_37@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200373,
+        "item_i_d": 4200373,
+        "asset_full_name": "Model/Fashion/Fashion_37/Fashion_37@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200382,
+        "item_i_d": 4200382,
+        "asset_full_name": "Model/Fashion/Fashion_38/Fashion_38@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200383,
+        "item_i_d": 4200383,
+        "asset_full_name": "Model/Fashion/Fashion_38/Fashion_38@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200392,
+        "item_i_d": 4200392,
+        "asset_full_name": "Model/Fashion/Fashion_39/Fashion_39@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200393,
+        "item_i_d": 4200393,
+        "asset_full_name": "Model/Fashion/Fashion_39/Fashion_39@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200402,
+        "item_i_d": 4200402,
+        "asset_full_name": "Model/Fashion/Fashion_40/Fashion_40@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200403,
+        "item_i_d": 4200403,
+        "asset_full_name": "Model/Fashion/Fashion_40/Fashion_40@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200411,
+        "item_i_d": 4200411,
+        "asset_full_name": "Model/Fashion/Fashion_41/Fashion_41@hat_avatar",
+        "hide_orn": [
+          4012012,
+          4041012,
+          4041022,
+          4021012,
+          4011022,
+          4043012,
+          4043032,
+          4031022,
+          4041042,
+          4042032,
+          4042022,
+          4031032,
+          4012032,
+          4200222,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200372,
+          4200382,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200472,
+          4200362,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4200462,
+          4200212,
+          4043022,
+          4022012,
+          4100222,
+          4200662
+        ],
+        "hide_braid": [
+          4012032,
+          4200272,
+          4200372,
+          4200442,
+          4400012,
+          4021012,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200362,
+          4200392,
+          4200452,
+          4200512,
+          4200472,
+          4100052,
+          4100062,
+          4100102,
+          4200462,
+          4200292,
+          4200422,
+          4031022,
+          4043012,
+          4043022,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200412,
+        "item_i_d": 4200412,
+        "asset_full_name": "Model/Fashion/Fashion_41/Fashion_41@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200413,
+        "item_i_d": 4200413,
+        "asset_full_name": "Model/Fashion/Fashion_41/Fashion_41@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200422,
+        "item_i_d": 4200422,
+        "asset_full_name": "Model/Fashion/Fashion_42/Fashion_42@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200423,
+        "item_i_d": 4200423,
+        "asset_full_name": "Model/Fashion/Fashion_42/Fashion_42@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200432,
+        "item_i_d": 4200432,
+        "asset_full_name": "Model/Fashion/Fashion_43/Fashion_43@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200433,
+        "item_i_d": 4200433,
+        "asset_full_name": "Model/Fashion/Fashion_43/Fashion_43@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200442,
+        "item_i_d": 4200442,
+        "asset_full_name": "Model/Fashion/Fashion_44/Fashion_44@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200443,
+        "item_i_d": 4200443,
+        "asset_full_name": "Model/Fashion/Fashion_44/Fashion_44@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200452,
+        "item_i_d": 4200452,
+        "asset_full_name": "Model/Fashion/Fashion_45/Fashion_45@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200453,
+        "item_i_d": 4200453,
+        "asset_full_name": "Model/Fashion/Fashion_45/Fashion_45@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200462,
+        "item_i_d": 4200462,
+        "asset_full_name": "Model/Fashion/Fashion_46/Fashion_46@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200463,
+        "item_i_d": 4200463,
+        "asset_full_name": "Model/Fashion/Fashion_46/Fashion_46@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200472,
+        "item_i_d": 4200472,
+        "asset_full_name": "Model/Fashion/Fashion_47/Fashion_47@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200473,
+        "item_i_d": 4200473,
+        "asset_full_name": "Model/Fashion/Fashion_47/Fashion_47@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200482,
+        "item_i_d": 4200482,
+        "asset_full_name": "Model/Fashion/Fashion_48/Fashion_48@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200483,
+        "item_i_d": 4200483,
+        "asset_full_name": "Model/Fashion/Fashion_48/Fashion_48@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200491,
+        "item_i_d": 4200491,
+        "asset_full_name": "Model/Fashion/Fashion_49/Fashion_49@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4021012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4031032,
+          4012032,
+          4042032,
+          4200222,
+          4200232,
+          4200262,
+          4200292,
+          4200302,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200512,
+          4200472,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662,
+          4200082,
+          4200212,
+          4200362,
+          4200372,
+          4200382,
+          4200462,
+          4200562,
+          4031022
+        ],
+        "hide_braid": [
+          4042022,
+          4012032,
+          4200232,
+          4200262,
+          4200392,
+          4200422,
+          4200442,
+          4011012,
+          4100052,
+          4100062,
+          4100102,
+          4200662,
+          4200082,
+          4200362,
+          4200372,
+          4200462,
+          4200562,
+          4021012,
+          4031022
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200492,
+        "item_i_d": 4200492,
+        "asset_full_name": "Model/Fashion/Fashion_49/Fashion_49@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200493,
+        "item_i_d": 4200493,
+        "asset_full_name": "Model/Fashion/Fashion_49/Fashion_49@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200501,
+        "item_i_d": 4200501,
+        "asset_full_name": "Model/Fashion/Fashion_50/Fashion_50@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100062,
+          4100262
+        ],
+        "hide_braid": [
+          4021012,
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200502,
+        "item_i_d": 4200502,
+        "asset_full_name": "Model/Fashion/Fashion_50/Fashion_50@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200503,
+        "item_i_d": 4200503,
+        "asset_full_name": "Model/Fashion/Fashion_50/Fashion_50@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200512,
+        "item_i_d": 4200512,
+        "asset_full_name": "Model/Fashion/Fashion_51/Fashion_51@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200513,
+        "item_i_d": 4200513,
+        "asset_full_name": "Model/Fashion/Fashion_51/Fashion_51@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200522,
+        "item_i_d": 4200522,
+        "asset_full_name": "Model/Fashion/Fashion_52/Fashion_52@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200523,
+        "item_i_d": 4200523,
+        "asset_full_name": "Model/Fashion/Fashion_52/Fashion_52@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200532,
+        "item_i_d": 4200532,
+        "asset_full_name": "Model/Fashion/Fashion_53/Fashion_53@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200533,
+        "item_i_d": 4200533,
+        "asset_full_name": "Model/Fashion/Fashion_53/Fashion_53@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200541,
+        "item_i_d": 4200541,
+        "asset_full_name": "Model/Fashion/Fashion_54/Fashion_54@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4021032,
+          4031032,
+          4012032,
+          4200042,
+          4100162,
+          4200212,
+          4200222,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200372,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200482,
+          4200512,
+          4200522,
+          4200552,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4021012,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4100162,
+          4200232,
+          4200262,
+          4200292,
+          4200372,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4200522,
+          4100052,
+          4100062,
+          4100102,
+          4200662
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200542,
+        "item_i_d": 4200542,
+        "asset_full_name": "Model/Fashion/Fashion_54/Fashion_54@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200543,
+        "item_i_d": 4200543,
+        "asset_full_name": "Model/Fashion/Fashion_54/Fashion_54@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200544,
+        "item_i_d": 4200544,
+        "asset_full_name": "Model/Fashion/Fashion_54/Fashion_54@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200545,
+        "item_i_d": 4200545,
+        "asset_full_name": "Model/Fashion/Fashion_54/Fashion_54@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200552,
+        "item_i_d": 4200552,
+        "asset_full_name": "Model/Fashion/Fashion_55/Fashion_55@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200553,
+        "item_i_d": 4200553,
+        "asset_full_name": "Model/Fashion/Fashion_55/Fashion_55@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200562,
+        "item_i_d": 4200562,
+        "asset_full_name": "Model/Fashion/Fashion_56/Fashion_56@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200563,
+        "item_i_d": 4200563,
+        "asset_full_name": "Model/Fashion/Fashion_56/Fashion_56@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200571,
+        "item_i_d": 4200571,
+        "asset_full_name": "Model/Fashion/Fashion_57/Fashion_57@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100062,
+          4100262,
+          4200482
+        ],
+        "hide_braid": [
+          4021012,
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200572,
+        "item_i_d": 4200572,
+        "asset_full_name": "Model/Fashion/Fashion_57/Fashion_57@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200573,
+        "item_i_d": 4200573,
+        "asset_full_name": "Model/Fashion/Fashion_57/Fashion_57@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200581,
+        "item_i_d": 4200581,
+        "asset_full_name": "Model/Fashion/Fashion_58/Fashion_58@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4012032,
+          4013012,
+          4200042,
+          4200212,
+          4200222,
+          4200272,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200482,
+          4200512,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100212,
+          4100222,
+          4100262,
+          4031042
+        ],
+        "hide_braid": [
+          4011012,
+          4012032,
+          4031042,
+          4200392,
+          4200422,
+          4200442,
+          4200512,
+          4200522,
+          4100052,
+          4100062,
+          4100102
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200582,
+        "item_i_d": 4200582,
+        "asset_full_name": "Model/Fashion/Fashion_58/Fashion_58@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200583,
+        "item_i_d": 4200583,
+        "asset_full_name": "Model/Fashion/Fashion_58/Fashion_58@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200592,
+        "item_i_d": 4200592,
+        "asset_full_name": "Model/Fashion/Fashion_59/Fashion_59@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200593,
+        "item_i_d": 4200593,
+        "asset_full_name": "Model/Fashion/Fashion_59/Fashion_59@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200601,
+        "item_i_d": 4200601,
+        "asset_full_name": "Model/Fashion/Fashion_60/Fashion_60@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4031032,
+          4032012,
+          4200042,
+          4200082,
+          4200212,
+          4200222,
+          4200262,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200452,
+          4200512,
+          4200522,
+          4200582,
+          4200612,
+          4200662
+        ],
+        "hide_braid": [
+          4013012,
+          4200392,
+          4200512
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200602,
+        "item_i_d": 4200602,
+        "asset_full_name": "Model/Fashion/Fashion_60/Fashion_60@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200603,
+        "item_i_d": 4200603,
+        "asset_full_name": "Model/Fashion/Fashion_60/Fashion_60@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200604,
+        "item_i_d": 4200604,
+        "asset_full_name": "Model/Fashion/Fashion_60/Fashion_60@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200612,
+        "item_i_d": 4200612,
+        "asset_full_name": "Model/Fashion/Fashion_61/Fashion_61@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200613,
+        "item_i_d": 4200613,
+        "asset_full_name": "Model/Fashion/Fashion_61/Fashion_61@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200621,
+        "item_i_d": 4200621,
+        "asset_full_name": "Model/Fashion/Fashion_62/Fashion_62@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200622,
+        "item_i_d": 4200622,
+        "asset_full_name": "Model/Fashion/Fashion_62/Fashion_62@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200623,
+        "item_i_d": 4200623,
+        "asset_full_name": "Model/Fashion/Fashion_62/Fashion_62@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200631,
+        "item_i_d": 4200631,
+        "asset_full_name": "Model/Fashion/Fashion_63/Fashion_63@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4031032,
+          4031042,
+          4200082,
+          4200212,
+          4200272,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200612
+        ],
+        "hide_braid": [
+          4041032,
+          4011012,
+          4013012,
+          4200392,
+          4200442,
+          4200512
+        ]
+      },
+      {
+        "i_d": 4200632,
+        "item_i_d": 4200632,
+        "asset_full_name": "Model/Fashion/Fashion_63/Fashion_63@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200633,
+        "item_i_d": 4200633,
+        "asset_full_name": "Model/Fashion/Fashion_63/Fashion_63@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200634,
+        "item_i_d": 4200634,
+        "asset_full_name": "Model/Fashion/Fashion_63/Fashion_63@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4200635,
+        "item_i_d": 4200635,
+        "asset_full_name": "Model/Fashion/Fashion_63/Fashion_63@pend_pelvis_avatar_1",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4200641,
+        "item_i_d": 4200641,
+        "asset_full_name": "Model/Fashion/Fashion_64/Fashion_64@hat_avatar",
+        "hide_orn": [
+          4043022,
+          4022012,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4031042,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200482,
+          4200512,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100262,
+          4200212,
+          4041012,
+          4043022,
+          4022012,
+          4043032,
+          4021022,
+          4041032,
+          4041042,
+          4021032,
+          4031032,
+          4200042,
+          4200082,
+          4200222,
+          4200272,
+          4200302,
+          4200362,
+          4200382,
+          4200402,
+          4200432,
+          4200482,
+          4200552,
+          4200562,
+          4200572,
+          4200612,
+          4100162,
+          4100212,
+          4100222,
+          4100262,
+          4200662
+        ],
+        "hide_braid": [
+          4043022,
+          4043012,
+          4043032,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4200082,
+          4200262,
+          4200272,
+          4200362,
+          4200392,
+          4200452,
+          4200462,
+          4200512,
+          4200522,
+          4200562,
+          4100162,
+          4200232,
+          4021022,
+          4041032,
+          4200042,
+          4200222,
+          4200262,
+          4200362,
+          4200382,
+          4200392,
+          4200422,
+          4200432,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4100162,
+          4200372,
+          4200292,
+          4200082,
+          4200272,
+          4200032
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200642,
+        "item_i_d": 4200642,
+        "asset_full_name": "Model/Fashion/Fashion_64/Fashion_64@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200643,
+        "item_i_d": 4200643,
+        "asset_full_name": "Model/Fashion/Fashion_64/Fashion_64@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200644,
+        "item_i_d": 4200644,
+        "asset_full_name": "Model/Fashion/Fashion_64/Fashion_64@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200645,
+        "item_i_d": 4200645,
+        "asset_full_name": "Model/Fashion/Fashion_64/Fashion_64@pend_chest_avatar_1",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200651,
+        "item_i_d": 4200651,
+        "asset_full_name": "Model/Fashion/Fashion_65/Fashion_65@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200652,
+        "item_i_d": 4200652,
+        "asset_full_name": "Model/Fashion/Fashion_65/Fashion_65@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200653,
+        "item_i_d": 4200653,
+        "asset_full_name": "Model/Fashion/Fashion_65/Fashion_65@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200662,
+        "item_i_d": 4200662,
+        "asset_full_name": "Model/Fashion/Fashion_66/Fashion_66@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200663,
+        "item_i_d": 4200663,
+        "asset_full_name": "Model/Fashion/Fashion_66/Fashion_66@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200682,
+        "item_i_d": 4200682,
+        "asset_full_name": "Model/Fashion/Fashion_68/Fashion_68@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200683,
+        "item_i_d": 4200683,
+        "asset_full_name": "Model/Fashion/Fashion_68/Fashion_68@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200692,
+        "item_i_d": 4200692,
+        "asset_full_name": "Model/Fashion/Fashion_69/Fashion_69@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200693,
+        "item_i_d": 4200693,
+        "asset_full_name": "Model/Fashion/Fashion_69/Fashion_69@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200701,
+        "item_i_d": 4200701,
+        "asset_full_name": "Model/Fashion/Fashion_70/Fashion_70@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4031032,
+          4032012,
+          4200042,
+          4200082,
+          4200212,
+          4200222,
+          4200262,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200452,
+          4200512,
+          4200522,
+          4200582,
+          4200612,
+          4200662
+        ],
+        "hide_braid": [
+          4013012,
+          4200392,
+          4200512
+        ],
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200702,
+        "item_i_d": 4200702,
+        "asset_full_name": "Model/Fashion/Fashion_70/Fashion_70@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200703,
+        "item_i_d": 4200703,
+        "asset_full_name": "Model/Fashion/Fashion_70/Fashion_70@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200704,
+        "item_i_d": 4200704,
+        "asset_full_name": "Model/Fashion/Fashion_70/Fashion_70@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200711,
+        "item_i_d": 4200711,
+        "asset_full_name": "Model/Fashion/Fashion_71/Fashion_71@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200712,
+        "item_i_d": 4200712,
+        "asset_full_name": "Model/Fashion/Fashion_71/Fashion_71@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200713,
+        "item_i_d": 4200713,
+        "asset_full_name": "Model/Fashion/Fashion_71/Fashion_71@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200721,
+        "item_i_d": 4200721,
+        "asset_full_name": "Model/Fashion/Fashion_72/Fashion_72@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200722,
+        "item_i_d": 4200722,
+        "asset_full_name": "Model/Fashion/Fashion_72/Fashion_72@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200723,
+        "item_i_d": 4200723,
+        "asset_full_name": "Model/Fashion/Fashion_72/Fashion_72@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200731,
+        "item_i_d": 4200731,
+        "asset_full_name": "Model/Fashion/Fashion_73/Fashion_73@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200732,
+        "item_i_d": 4200732,
+        "asset_full_name": "Model/Fashion/Fashion_73/Fashion_73@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200733,
+        "item_i_d": 4200733,
+        "asset_full_name": "Model/Fashion/Fashion_73/Fashion_73@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200742,
+        "item_i_d": 4200742,
+        "asset_full_name": "Model/Fashion/Fashion_74/Fashion_74@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200743,
+        "item_i_d": 4200743,
+        "asset_full_name": "Model/Fashion/Fashion_74/Fashion_74@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200744,
+        "item_i_d": 4200744,
+        "asset_full_name": "Model/Fashion/Fashion_74/Fashion_74@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4200745,
+        "item_i_d": 4200745,
+        "asset_full_name": "Model/Fashion/Fashion_74/Fashion_74@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200746,
+        "item_i_d": 4200746,
+        "asset_full_name": "Model/Fashion/Fashion_74/Fashion_74@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200752,
+        "item_i_d": 4200752,
+        "asset_full_name": "Model/Fashion/Fashion_75/Fashion_75@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200753,
+        "item_i_d": 4200753,
+        "asset_full_name": "Model/Fashion/Fashion_75/Fashion_75@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200754,
+        "item_i_d": 4200754,
+        "asset_full_name": "Model/Fashion/Fashion_75/Fashion_75@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200762,
+        "item_i_d": 4200762,
+        "asset_full_name": "Model/Fashion/Fashion_76/Fashion_76@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200763,
+        "item_i_d": 4200763,
+        "asset_full_name": "Model/Fashion/Fashion_76/Fashion_76@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200772,
+        "item_i_d": 4200772,
+        "asset_full_name": "Model/Fashion/Fashion_77/Fashion_77@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200773,
+        "item_i_d": 4200773,
+        "asset_full_name": "Model/Fashion/Fashion_77/Fashion_77@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200782,
+        "item_i_d": 4200782,
+        "asset_full_name": "Model/Fashion/Fashion_78/Fashion_78@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200783,
+        "item_i_d": 4200783,
+        "asset_full_name": "Model/Fashion/Fashion_78/Fashion_78@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200791,
+        "item_i_d": 4200791,
+        "asset_full_name": "Model/Fashion/Fashion_79/Fashion_79@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200792,
+        "item_i_d": 4200792,
+        "asset_full_name": "Model/Fashion/Fashion_79/Fashion_79@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200793,
+        "item_i_d": 4200793,
+        "asset_full_name": "Model/Fashion/Fashion_79/Fashion_79@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200794,
+        "item_i_d": 4200794,
+        "asset_full_name": "Model/Fashion/Fashion_79/Fashion_79@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200795,
+        "item_i_d": 4200795,
+        "asset_full_name": "Model/Fashion/Fashion_79/Fashion_79@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200801,
+        "item_i_d": 4200801,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200802,
+        "item_i_d": 4200802,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200803,
+        "item_i_d": 4200803,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200804,
+        "item_i_d": 4200804,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4200805,
+        "item_i_d": 4200805,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200806,
+        "item_i_d": 4200806,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4200807,
+        "item_i_d": 4200807,
+        "asset_full_name": "Model/Fashion/Fashion_80/Fashion_80@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4200812,
+        "item_i_d": 4200812,
+        "asset_full_name": "Model/Fashion/Fashion_81/Fashion_81@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200813,
+        "item_i_d": 4200813,
+        "asset_full_name": "Model/Fashion/Fashion_81/Fashion_81@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200821,
+        "item_i_d": 4200821,
+        "asset_full_name": "Model/Fashion/Fashion_82/Fashion_82@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200822,
+        "item_i_d": 4200822,
+        "asset_full_name": "Model/Fashion/Fashion_82/Fashion_82@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200823,
+        "item_i_d": 4200823,
+        "asset_full_name": "Model/Fashion/Fashion_82/Fashion_82@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200832,
+        "item_i_d": 4200832,
+        "asset_full_name": "Model/Fashion/Fashion_83/Fashion_83@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200833,
+        "item_i_d": 4200833,
+        "asset_full_name": "Model/Fashion/Fashion_83/Fashion_83@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200841,
+        "item_i_d": 4200841,
+        "asset_full_name": "Model/Fashion/Fashion_84/Fashion_84@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200842,
+        "item_i_d": 4200842,
+        "asset_full_name": "Model/Fashion/Fashion_84/Fashion_84@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200843,
+        "item_i_d": 4200843,
+        "asset_full_name": "Model/Fashion/Fashion_84/Fashion_84@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200844,
+        "item_i_d": 4200844,
+        "asset_full_name": "Model/Fashion/Fashion_84/Fashion_84@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200845,
+        "item_i_d": 4200845,
+        "asset_full_name": "Model/Fashion/Fashion_84/Fashion_84@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4200852,
+        "item_i_d": 4200852,
+        "asset_full_name": "Model/Fashion/Fashion_85/Fashion_85@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200853,
+        "item_i_d": 4200853,
+        "asset_full_name": "Model/Fashion/Fashion_85/Fashion_85@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200871,
+        "item_i_d": 4200871,
+        "asset_full_name": "Model/Fashion/Fashion_87/Fashion_87@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200872,
+        "item_i_d": 4200872,
+        "asset_full_name": "Model/Fashion/Fashion_87/Fashion_87@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200873,
+        "item_i_d": 4200873,
+        "asset_full_name": "Model/Fashion/Fashion_87/Fashion_87@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200874,
+        "item_i_d": 4200874,
+        "asset_full_name": "Model/Fashion/Fashion_87/Fashion_87@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4200875,
+        "item_i_d": 4200875,
+        "asset_full_name": "Model/Fashion/Fashion_87/Fashion_87@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4200881,
+        "item_i_d": 4200881,
+        "asset_full_name": "Model/Fashion/Fashion_88/Fashion_88@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200882,
+        "item_i_d": 4200882,
+        "asset_full_name": "Model/Fashion/Fashion_88/Fashion_88@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200883,
+        "item_i_d": 4200883,
+        "asset_full_name": "Model/Fashion/Fashion_88/Fashion_88@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200884,
+        "item_i_d": 4200884,
+        "asset_full_name": "Model/Fashion/Fashion_88/Fashion_88@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200885,
+        "item_i_d": 4200885,
+        "asset_full_name": "Model/Fashion/Fashion_88/Fashion_88@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200911,
+        "item_i_d": 4200911,
+        "asset_full_name": "Model/Fashion/Fashion_91/Fashion_91@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200912,
+        "item_i_d": 4200912,
+        "asset_full_name": "Model/Fashion/Fashion_91/Fashion_91@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200913,
+        "item_i_d": 4200913,
+        "asset_full_name": "Model/Fashion/Fashion_91/Fashion_91@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200922,
+        "item_i_d": 4200922,
+        "asset_full_name": "Model/Fashion/Fashion_92/Fashion_92@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200923,
+        "item_i_d": 4200923,
+        "asset_full_name": "Model/Fashion/Fashion_92/Fashion_92@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200932,
+        "item_i_d": 4200932,
+        "asset_full_name": "Model/Fashion/Fashion_93/Fashion_93@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200933,
+        "item_i_d": 4200933,
+        "asset_full_name": "Model/Fashion/Fashion_93/Fashion_93@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200934,
+        "item_i_d": 4200934,
+        "asset_full_name": "Model/Fashion/Fashion_93/Fashion_93@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4200935,
+        "item_i_d": 4200935,
+        "asset_full_name": "Model/Fashion/Fashion_93/Fashion_93@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200936,
+        "item_i_d": 4200936,
+        "asset_full_name": "Model/Fashion/Fashion_93/Fashion_93@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4200941,
+        "item_i_d": 4200941,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200942,
+        "item_i_d": 4200942,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200943,
+        "item_i_d": 4200943,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200944,
+        "item_i_d": 4200944,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4200945,
+        "item_i_d": 4200945,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200946,
+        "item_i_d": 4200946,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4200947,
+        "item_i_d": 4200947,
+        "asset_full_name": "Model/Fashion/Fashion_94/Fashion_94@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4200951,
+        "item_i_d": 4200951,
+        "asset_full_name": "Model/Fashion/Fashion_95/Fashion_95@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200952,
+        "item_i_d": 4200952,
+        "asset_full_name": "Model/Fashion/Fashion_95/Fashion_95@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200953,
+        "item_i_d": 4200953,
+        "asset_full_name": "Model/Fashion/Fashion_95/Fashion_95@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200981,
+        "item_i_d": 4200981,
+        "asset_full_name": "Model/Fashion/Fashion_98/Fashion_98@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200982,
+        "item_i_d": 4200982,
+        "asset_full_name": "Model/Fashion/Fashion_98/Fashion_98@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200983,
+        "item_i_d": 4200983,
+        "asset_full_name": "Model/Fashion/Fashion_98/Fashion_98@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200984,
+        "item_i_d": 4200984,
+        "asset_full_name": "Model/Fashion/Fashion_98/Fashion_98@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4200985,
+        "item_i_d": 4200985,
+        "asset_full_name": "Model/Fashion/Fashion_98/Fashion_98@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4200991,
+        "item_i_d": 4200991,
+        "asset_full_name": "Model/Fashion/Fashion_99/Fashion_99@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200992,
+        "item_i_d": 4200992,
+        "asset_full_name": "Model/Fashion/Fashion_99/Fashion_99@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200993,
+        "item_i_d": 4200993,
+        "asset_full_name": "Model/Fashion/Fashion_99/Fashion_99@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200972,
+        "item_i_d": 4200972,
+        "asset_full_name": "Model/Fashion/Fashion_97/Fashion_97@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200973,
+        "item_i_d": 4200973,
+        "asset_full_name": "Model/Fashion/Fashion_97/Fashion_97@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200961,
+        "item_i_d": 4200961,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4200962,
+        "item_i_d": 4200962,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4200963,
+        "item_i_d": 4200963,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4200964,
+        "item_i_d": 4200964,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4200965,
+        "item_i_d": 4200965,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4200966,
+        "item_i_d": 4200966,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4200967,
+        "item_i_d": 4200967,
+        "asset_full_name": "Model/Fashion/Fashion_96/Fashion_96@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4201001,
+        "item_i_d": 4201001,
+        "asset_full_name": "Model/Fashion/Fashion_100/Fashion_100@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201002,
+        "item_i_d": 4201002,
+        "asset_full_name": "Model/Fashion/Fashion_100/Fashion_100@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201003,
+        "item_i_d": 4201003,
+        "asset_full_name": "Model/Fashion/Fashion_100/Fashion_100@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201004,
+        "item_i_d": 4201004,
+        "asset_full_name": "Model/Fashion/Fashion_100/Fashion_100@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4201005,
+        "item_i_d": 4201005,
+        "asset_full_name": "Model/Fashion/Fashion_100/Fashion_100@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4201021,
+        "item_i_d": 4201021,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201022,
+        "item_i_d": 4201022,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201023,
+        "item_i_d": 4201023,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201024,
+        "item_i_d": 4201024,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4201025,
+        "item_i_d": 4201025,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4201026,
+        "item_i_d": 4201026,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4201027,
+        "item_i_d": 4201027,
+        "asset_full_name": "Model/Fashion/Fashion_102/Fashion_102@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4201011,
+        "item_i_d": 4201011,
+        "asset_full_name": "Model/Fashion/Fashion_101/Fashion_101@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201012,
+        "item_i_d": 4201012,
+        "asset_full_name": "Model/Fashion/Fashion_101/Fashion_101@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201013,
+        "item_i_d": 4201013,
+        "asset_full_name": "Model/Fashion/Fashion_101/Fashion_101@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201014,
+        "item_i_d": 4201014,
+        "asset_full_name": "Model/Fashion/Fashion_101/Fashion_101@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4201031,
+        "item_i_d": 4201031,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201032,
+        "item_i_d": 4201032,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201033,
+        "item_i_d": 4201033,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201034,
+        "item_i_d": 4201034,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4201035,
+        "item_i_d": 4201035,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4201036,
+        "item_i_d": 4201036,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@pend_leftfoot_avatar",
+        "new_fashion_type": 11
+      },
+      {
+        "i_d": 4201037,
+        "item_i_d": 4201037,
+        "asset_full_name": "Model/Fashion/Fashion_103/Fashion_103@pend_rightfoot_avatar",
+        "new_fashion_type": 12
+      },
+      {
+        "i_d": 4201042,
+        "item_i_d": 4201042,
+        "asset_full_name": "Model/Fashion/Fashion_104/Fashion_104@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201043,
+        "item_i_d": 4201043,
+        "asset_full_name": "Model/Fashion/Fashion_104/Fashion_104@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201051,
+        "item_i_d": 4201051,
+        "asset_full_name": "Model/Fashion/Fashion_105/Fashion_105@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201052,
+        "item_i_d": 4201052,
+        "asset_full_name": "Model/Fashion/Fashion_105/Fashion_105@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201053,
+        "item_i_d": 4201053,
+        "asset_full_name": "Model/Fashion/Fashion_105/Fashion_105@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201062,
+        "item_i_d": 4201062,
+        "asset_full_name": "Model/Fashion/Fashion_106/Fashion_106@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201063,
+        "item_i_d": 4201063,
+        "asset_full_name": "Model/Fashion/Fashion_106/Fashion_106@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201064,
+        "item_i_d": 4201064,
+        "asset_full_name": "Model/Fashion/Fashion_106/Fashion_106@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4201065,
+        "item_i_d": 4201065,
+        "asset_full_name": "Model/Fashion/Fashion_106/Fashion_106@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4201081,
+        "item_i_d": 4201081,
+        "asset_full_name": "Model/Fashion/Fashion_108/Fashion_108@hat_avatar",
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4201082,
+        "item_i_d": 4201082,
+        "asset_full_name": "Model/Fashion/Fashion_108/Fashion_108@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201083,
+        "item_i_d": 4201083,
+        "asset_full_name": "Model/Fashion/Fashion_108/Fashion_108@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4201084,
+        "item_i_d": 4201084,
+        "asset_full_name": "Model/Fashion/Fashion_108/Fashion_108@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4201085,
+        "item_i_d": 4201085,
+        "asset_full_name": "Model/Fashion/Fashion_108/Fashion_108@pend_upface_avatar_1",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4201072,
+        "item_i_d": 4201072,
+        "asset_full_name": "Model/Fashion/Fashion_107/Fashion_107@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4201073,
+        "item_i_d": 4201073,
+        "asset_full_name": "Model/Fashion/Fashion_107/Fashion_107@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4300011,
+        "item_i_d": 4300011
+      },
+      {
+        "i_d": 4300012,
+        "item_i_d": 4300012,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4300013,
+        "item_i_d": 4300013,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4300014,
+        "item_i_d": 4300014,
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4400012,
+        "item_i_d": 4400012,
+        "asset_full_name": "Model/Fashion/Fashion_2001/Fashion_2001@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400013,
+        "item_i_d": 4400013,
+        "asset_full_name": "Model/Fashion/Fashion_2001/Fashion_2001@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400022,
+        "item_i_d": 4400022,
+        "asset_full_name": "Model/Fashion/Fashion_2002/Fashion_2002@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400023,
+        "item_i_d": 4400023,
+        "asset_full_name": "Model/Fashion/Fashion_2002/Fashion_2002@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400032,
+        "item_i_d": 4400032,
+        "asset_full_name": "Model/Fashion/Fashion_2003/Fashion_2003@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400033,
+        "item_i_d": 4400033,
+        "asset_full_name": "Model/Fashion/Fashion_2003/Fashion_2003@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400042,
+        "item_i_d": 4400042,
+        "asset_full_name": "Model/Fashion/Fashion_2004/Fashion_2004@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400043,
+        "item_i_d": 4400043,
+        "asset_full_name": "Model/Fashion/Fashion_2004/Fashion_2004@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400052,
+        "item_i_d": 4400052,
+        "asset_full_name": "Model/Fashion/Fashion_2005/Fashion_2005@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400053,
+        "item_i_d": 4400053,
+        "asset_full_name": "Model/Fashion/Fashion_2005/Fashion_2005@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400062,
+        "item_i_d": 4400062,
+        "asset_full_name": "Model/Fashion/Fashion_2006/Fashion_2006@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400063,
+        "item_i_d": 4400063,
+        "asset_full_name": "Model/Fashion/Fashion_2006/Fashion_2006@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400072,
+        "item_i_d": 4400072,
+        "asset_full_name": "Model/Fashion/Fashion_2007/Fashion_2007@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400073,
+        "item_i_d": 4400073,
+        "asset_full_name": "Model/Fashion/Fashion_2007/Fashion_2007@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400082,
+        "item_i_d": 4400082,
+        "asset_full_name": "Model/Fashion/Fashion_2008/Fashion_2008@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400083,
+        "item_i_d": 4400083,
+        "asset_full_name": "Model/Fashion/Fashion_2008/Fashion_2008@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400092,
+        "item_i_d": 4400092,
+        "asset_full_name": "Model/Fashion/Fashion_2009/Fashion_2009@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400093,
+        "item_i_d": 4400093,
+        "asset_full_name": "Model/Fashion/Fashion_2009/Fashion_2009@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400102,
+        "item_i_d": 4400102,
+        "asset_full_name": "Model/Fashion/Fashion_2010/Fashion_2010@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400103,
+        "item_i_d": 4400103,
+        "asset_full_name": "Model/Fashion/Fashion_2010/Fashion_2010@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400112,
+        "item_i_d": 4400112,
+        "asset_full_name": "Model/Fashion/Fashion_2011/Fashion_2011@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400113,
+        "item_i_d": 4400113,
+        "asset_full_name": "Model/Fashion/Fashion_2011/Fashion_2011@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400122,
+        "item_i_d": 4400122,
+        "asset_full_name": "Model/Fashion/Fashion_2012/Fashion_2012@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400123,
+        "item_i_d": 4400123,
+        "asset_full_name": "Model/Fashion/Fashion_2012/Fashion_2012@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400132,
+        "item_i_d": 4400132,
+        "asset_full_name": "Model/Fashion/Fashion_2013/Fashion_2013@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400133,
+        "item_i_d": 4400133,
+        "asset_full_name": "Model/Fashion/Fashion_2013/Fashion_2013@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4400142,
+        "item_i_d": 4400142,
+        "asset_full_name": "Model/Fashion/Fashion_2014/Fashion_2014@hair_avatar",
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4400143,
+        "item_i_d": 4400143,
+        "asset_full_name": "Model/Fashion/Fashion_2014/Fashion_2014@cloth_avatar",
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4410001,
+        "item_i_d": 4410001,
+        "new_sex_type": 1
+      },
+      {
+        "i_d": 4420001,
+        "item_i_d": 4420001,
+        "new_sex_type": 1,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4430001,
+        "item_i_d": 4430001,
+        "new_sex_type": 1,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4440001,
+        "item_i_d": 4440001,
+        "new_sex_type": 1,
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4510001,
+        "item_i_d": 4510001,
+        "new_sex_type": 2
+      },
+      {
+        "i_d": 4520001,
+        "item_i_d": 4520001,
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4530001,
+        "item_i_d": 4530001,
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4540001,
+        "item_i_d": 4540001,
+        "new_sex_type": 2,
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4610001,
+        "item_i_d": 4610001,
+        "asset_full_name": "Model/Fashion/Fashion_201/Fashion_201@hat_avatar",
+        "hide_orn": [
+          4042032,
+          4042022,
+          4200482,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100262,
+          4200402
+        ],
+        "hide_braid": [
+          4011012,
+          4013012,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610011,
+        "item_i_d": 4610011,
+        "asset_full_name": "Model/Fashion/Hat_01/Hat_01@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4042022,
+          4031032,
+          4012032,
+          4100012,
+          4100022,
+          4100032,
+          4100042,
+          4100052,
+          4100062,
+          4100072,
+          4200212,
+          4200222,
+          4200272,
+          4200372,
+          4200382,
+          4200402,
+          4200522,
+          4100262,
+          4011022,
+          4022012
+        ],
+        "hide_braid": [
+          4011012,
+          4012032,
+          4200372,
+          4200442,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610021,
+        "item_i_d": 4610021,
+        "asset_full_name": "Model/Fashion/Hat_02/Hat_02@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4042032,
+          4042022,
+          4031032,
+          4011012,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4200212,
+          4200272,
+          4200612,
+          4011022,
+          4022012
+        ],
+        "hide_braid": [
+          4011012,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610031,
+        "item_i_d": 4610031,
+        "asset_full_name": "Model/Fashion/Hat_03/Hat_03@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4041032,
+          4042032,
+          4042022,
+          4021032,
+          4031032,
+          4011012,
+          4012032,
+          4100012,
+          4100022,
+          4100032,
+          4100042,
+          4100052,
+          4100062,
+          4100072,
+          4100162,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200372,
+          4200382,
+          4200392,
+          4200402,
+          4200412,
+          4200452,
+          4200472,
+          4200482,
+          4200512,
+          4200522,
+          4200552,
+          4022012,
+          4100262,
+          4200462,
+          4200362,
+          4200422,
+          4200612,
+          4011022,
+          4043022
+        ],
+        "hide_braid": [
+          4021012,
+          4043032,
+          4031022,
+          4042022,
+          4011012,
+          4012032,
+          4100162,
+          4200262,
+          4200292,
+          4200372,
+          4200382,
+          4200392,
+          4200412,
+          4200442,
+          4200452,
+          4200472,
+          4200512,
+          4200522,
+          4100052,
+          4100062,
+          4100102,
+          4200462,
+          4200232,
+          4200362,
+          4200422,
+          4043012,
+          4043022,
+          4200662
+        ]
+      },
+      {
+        "i_d": 4610041,
+        "item_i_d": 4610041,
+        "asset_full_name": "Model/Fashion/Hat_04/Hat_04@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043012,
+          4043032,
+          4031022,
+          4041032,
+          4011012,
+          4200212,
+          4200222,
+          4200232,
+          4200262,
+          4200272,
+          4200292,
+          4200302,
+          4200362,
+          4200372,
+          4200382,
+          4200402,
+          4200412,
+          4200452,
+          4200462,
+          4200472,
+          4200482,
+          4200512,
+          4200522,
+          4200552,
+          4041042,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200362,
+          4200422,
+          4200612,
+          4042032
+        ],
+        "hide_braid": [
+          4021012,
+          4043012,
+          4043032,
+          4031022,
+          4100012,
+          4100022,
+          4100032,
+          4100042,
+          4100052,
+          4100062,
+          4100072,
+          4100162,
+          4200262,
+          4200292,
+          4200372,
+          4200382,
+          4200412,
+          4200442,
+          4200452,
+          4200462,
+          4200472,
+          4200512,
+          4200522,
+          4011012,
+          4200292,
+          4100052,
+          4100062,
+          4100102,
+          4200232,
+          4200362,
+          4200422,
+          4200662
+        ]
+      },
+      {
+        "i_d": 4610051,
+        "item_i_d": 4610051,
+        "asset_full_name": "Model/Fashion/Hat_05/Hat_05@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4043032,
+          4031022,
+          4041032,
+          4042022,
+          4011012,
+          4100162,
+          4200212,
+          4200222,
+          4200402,
+          4200412,
+          4200232,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200612
+        ],
+        "hide_braid": [
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610061,
+        "item_i_d": 4610061,
+        "asset_full_name": "Model/Fashion/Hat_06/Hat_06@hat_avatar",
+        "hide_orn": [
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4031032,
+          4200222,
+          4200272,
+          4200402,
+          4200482,
+          4200522,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100162,
+          4100262,
+          4200612,
+          4043022
+        ],
+        "hide_braid": [
+          4043032,
+          4011012,
+          4013012,
+          4100052,
+          4100102,
+          4100162,
+          4043022
+        ]
+      },
+      {
+        "i_d": 4610071,
+        "item_i_d": 4610071,
+        "asset_full_name": "Model/Fashion/Hat_07/Hat_07@hat_avatar",
+        "hide_orn": [
+          4012012,
+          4041012,
+          4041022,
+          4021012,
+          4011022,
+          4043012,
+          4043032,
+          4031022,
+          4041042,
+          4042032,
+          4042022,
+          4031032,
+          4012032,
+          4200212,
+          4200222,
+          4200232,
+          4200272,
+          4200292,
+          4200362,
+          4200382,
+          4200392,
+          4200452,
+          4200472,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4022012
+        ],
+        "hide_braid": [
+          4041012,
+          4021012,
+          4043032,
+          4031022,
+          4041032,
+          4012032,
+          4200272,
+          4200362,
+          4200392,
+          4200452,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610081,
+        "item_i_d": 4610081,
+        "asset_full_name": "Model/Fashion/Hat_08/Hat_08@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4021032,
+          4031032,
+          4200082,
+          4200222,
+          4200272,
+          4200362,
+          4200382,
+          4200392,
+          4200402,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4200612,
+          4100262
+        ],
+        "hide_braid": [
+          4042022,
+          4011012,
+          4013012,
+          4200082,
+          4200362,
+          4200392,
+          4200422,
+          4200442,
+          4200452,
+          4200512,
+          4200522,
+          4200562,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610091,
+        "item_i_d": 4610091,
+        "asset_full_name": "Model/Fashion/Hat_09/Hat_09@hat_avatar",
+        "hide_orn": [
+          4200222
+        ]
+      },
+      {
+        "i_d": 4610101,
+        "item_i_d": 4610101,
+        "asset_full_name": "Model/Fashion/Hat_10/Hat_10@hat_avatar",
+        "hide_orn": [
+          4200222
+        ]
+      },
+      {
+        "i_d": 4610111,
+        "item_i_d": 4610111,
+        "asset_full_name": "Model/Fashion/Hat_11/Hat_11@hat_avatar"
+      },
+      {
+        "i_d": 4610121,
+        "item_i_d": 4610121,
+        "asset_full_name": "Model/Fashion/Hat_12/Hat_12@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041042,
+          4042032,
+          4042022,
+          4031032,
+          4200022,
+          4200042,
+          4200082,
+          4200212,
+          4200222,
+          4200262,
+          4200372,
+          4200402,
+          4200452,
+          4200512,
+          4200522,
+          4200612,
+          4200632,
+          4200352,
+          4200662
+        ],
+        "hide_braid": [
+          4200032,
+          4200082,
+          4200262,
+          4200452,
+          4200512
+        ]
+      },
+      {
+        "i_d": 4610131,
+        "item_i_d": 4610131,
+        "asset_full_name": "Model/Fashion/Hat_13/Hat_13@hat_avatar",
+        "hide_orn": [
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4031032,
+          4200212,
+          4200262,
+          4200272,
+          4200382,
+          4200392,
+          4200402,
+          4200452,
+          4200482,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100212,
+          4100222,
+          4100262,
+          4200352,
+          4200662
+        ],
+        "hide_braid": [
+          4011012,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610141,
+        "item_i_d": 4610141,
+        "asset_full_name": "Model/Fashion/Hat_14/Hat_14@hat_avatar",
+        "hide_orn": [
+          4041012,
+          4041022,
+          4011022,
+          4043032,
+          4031022,
+          4041042,
+          4042022,
+          4031032,
+          4200212,
+          4200222,
+          4200272,
+          4200422,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100062,
+          4100072,
+          4100262,
+          4200402,
+          4031042,
+          4200392,
+          4200352,
+          4200662
+        ],
+        "hide_braid": [
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4610151,
+        "item_i_d": 4610151,
+        "asset_full_name": "Model/Fashion/Hat_15/Hat_15@hat_avatar"
+      },
+      {
+        "i_d": 4610161,
+        "item_i_d": 4610161,
+        "asset_full_name": "Model/Fashion/Hat_16/Hat_16@hat_avatar",
+        "hide_orn": [
+          4200352,
+          4200662
+        ]
+      },
+      {
+        "i_d": 4610171,
+        "item_i_d": 4610171,
+        "asset_full_name": "Model/Fashion/Hat_17/Hat_17@hat_avatar"
+      },
+      {
+        "i_d": 4610191,
+        "item_i_d": 4610191,
+        "asset_full_name": "Model/Fashion/Hat_19/Hat_19@hat_avatar"
+      },
+      {
+        "i_d": 4610201,
+        "item_i_d": 4610201,
+        "asset_full_name": "Model/Fashion/Hat_20/Hat_20@hat_avatar"
+      },
+      {
+        "i_d": 4610211,
+        "item_i_d": 4610211,
+        "asset_full_name": "Model/Fashion/Hat_21/Hat_21@hat_avatar"
+      },
+      {
+        "i_d": 4610221,
+        "item_i_d": 4610221,
+        "asset_full_name": "Model/Fashion/Hat_22/Hat_22@hat_avatar"
+      },
+      {
+        "i_d": 4610231,
+        "item_i_d": 4610231,
+        "asset_full_name": "Model/Fashion/Hat_23/Hat_23@hat_avatar"
+      },
+      {
+        "i_d": 4610241,
+        "item_i_d": 4610241,
+        "asset_full_name": "Model/Fashion/Hat_24/Hat_24@hat_avatar",
+        "hide_orn": [
+          4041022,
+          4011022,
+          4022012,
+          4043032,
+          4031022,
+          4041032,
+          4041042,
+          4042022,
+          4031032,
+          4200212,
+          4200262,
+          4200272,
+          4200382,
+          4200392,
+          4200402,
+          4200452,
+          4200482,
+          4200522,
+          4200612,
+          4100012,
+          4100022,
+          4100042,
+          4100072,
+          4100212,
+          4100222,
+          4100262,
+          4200352,
+          4200662
+        ],
+        "hide_braid": [
+          4011012,
+          4100052,
+          4100062,
+          4100102
+        ]
+      },
+      {
+        "i_d": 4620001,
+        "item_i_d": 4620001,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4630001,
+        "item_i_d": 4630001,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4640011,
+        "item_i_d": 4640011,
+        "asset_full_name": "Model/Fashion/Pend_01/Pend_01@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640021,
+        "item_i_d": 4640021,
+        "asset_full_name": "Model/Fashion/Pend_02/Pend_02@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640031,
+        "item_i_d": 4640031,
+        "asset_full_name": "Model/Fashion/Pend_03/Pend_03@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640041,
+        "item_i_d": 4640041,
+        "asset_full_name": "Model/Fashion/Pend_04/Pend_04@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640051,
+        "item_i_d": 4640051,
+        "asset_full_name": "Model/Fashion/Pend_05/Pend_05@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640061,
+        "item_i_d": 4640061,
+        "asset_full_name": "Model/Fashion/Pend_06/Pend_06@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640071,
+        "item_i_d": 4640071,
+        "asset_full_name": "Model/Fashion/Pend_07/Pend_07@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640081,
+        "item_i_d": 4640081,
+        "asset_full_name": "Model/Fashion/Pend_08/Pend_08@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640091,
+        "item_i_d": 4640091,
+        "asset_full_name": "Model/Fashion/Pend_09/Pend_09@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640101,
+        "item_i_d": 4640101,
+        "asset_full_name": "Model/Fashion/Pend_10/Pend_10@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640111,
+        "item_i_d": 4640111,
+        "asset_full_name": "Model/Fashion/Pend_11/Pend_11@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640121,
+        "item_i_d": 4640121,
+        "asset_full_name": "Model/Fashion/Pend_12/Pend_12@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640131,
+        "item_i_d": 4640131,
+        "asset_full_name": "Model/Fashion/Pend_13/Pend_13@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4640141,
+        "item_i_d": 4640141,
+        "asset_full_name": "Model/Fashion/Pend_14/Pend_14@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4640151,
+        "item_i_d": 4640151,
+        "asset_full_name": "Model/Fashion/Pend_15/Pend_15@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4640161,
+        "item_i_d": 4640161,
+        "asset_full_name": "Model/Fashion/Pend_16/Pend_16@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4640171,
+        "item_i_d": 4640171,
+        "asset_full_name": "Model/Fashion/Pend_17/Pend_17@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4640181,
+        "item_i_d": 4640181,
+        "asset_full_name": "Model/Fashion/Pend_18/Pend_18@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4640191,
+        "item_i_d": 4640191,
+        "asset_full_name": "Model/Fashion/Pend_19/Pend_19@pend_downface_avatar",
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4641001,
+        "item_i_d": 4641001,
+        "asset_full_name": "Model/Fashion/Pend_Top_01/Pend_Top_01@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4641003,
+        "item_i_d": 4641003,
+        "asset_full_name": "Model/Fashion/Pend_Top_03/Pend_Top_03@pend_top_avatar",
+        "new_fashion_type": 4
+      },
+      {
+        "i_d": 4642001,
+        "item_i_d": 4642001,
+        "asset_full_name": "Model/Fashion/Pend_UpFace_01/Pend_UpFace_01@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4642002,
+        "item_i_d": 4642002,
+        "asset_full_name": "Model/Fashion/Pend_UpFace_02/Pend_UpFace_02@pend_upface_avatar",
+        "new_fashion_type": 7
+      },
+      {
+        "i_d": 4643001,
+        "item_i_d": 4643001,
+        "new_fashion_type": 8
+      },
+      {
+        "i_d": 4644001,
+        "item_i_d": 4644001,
+        "asset_full_name": "Model/Fashion/pend_chest_01/pend_chest_01@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4644021,
+        "item_i_d": 4644021,
+        "asset_full_name": "Model/Fashion/pend_chest_02/pend_chest_02@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4644031,
+        "item_i_d": 4644031,
+        "asset_full_name": "Model/Fashion/pend_chest_03/pend_chest_03@pend_chest_avatar",
+        "new_fashion_type": 5
+      },
+      {
+        "i_d": 4645001,
+        "item_i_d": 4645001,
+        "is_can_sit": 1,
+        "asset_full_name": "Model/Fashion/pend_pelvis_01/pend_pelvis_01@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645002,
+        "item_i_d": 4645002,
+        "asset_full_name": "Model/Fashion/pend_pelvis_02/pend_pelvis_02@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645003,
+        "item_i_d": 4645003,
+        "asset_full_name": "Model/Fashion/pend_pelvis_03/pend_pelvis_03@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645004,
+        "item_i_d": 4645004,
+        "is_can_sit": 1,
+        "asset_full_name": "Model/Fashion/pend_pelvis_04/pend_pelvis_04@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645005,
+        "item_i_d": 4645005,
+        "asset_full_name": "Model/Fashion/pend_pelvis_05/pend_pelvis_05@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645006,
+        "item_i_d": 4645006,
+        "asset_full_name": "Model/Fashion/pend_pelvis_06/pend_pelvis_06@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4645007,
+        "item_i_d": 4645007,
+        "asset_full_name": "Model/Fashion/pend_pelvis_07/pend_pelvis_07@pend_pelvis_avatar",
+        "new_fashion_type": 6
+      },
+      {
+        "i_d": 4700012,
+        "item_i_d": 4700012,
+        "asset_full_name": "Model/Fashion/NPC_01/NPC_01@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4700013,
+        "item_i_d": 4700013,
+        "asset_full_name": "Model/Fashion/NPC_01/NPC_01@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      },
+      {
+        "i_d": 4700022,
+        "item_i_d": 4700022,
+        "asset_full_name": "Model/Fashion/NPC_02/NPC_02@hair_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 1
+      },
+      {
+        "i_d": 4700023,
+        "item_i_d": 4700023,
+        "asset_full_name": "Model/Fashion/NPC_02/NPC_02@cloth_avatar",
+        "new_sex_type": 2,
+        "new_fashion_type": 2
+      }
+    ]
+  }
+}

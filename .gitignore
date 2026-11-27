@@ -8,9 +8,6 @@ build
 /proto/cfg_pb2.py
 /proto/net_pb2.py
 /trash
-/resources/assets
-/resources/data
-/resources/swirlnoisetexture
 /player.db
 /player.db-journal
 /player.db-shm

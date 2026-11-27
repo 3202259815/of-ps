@@ -13,15 +13,21 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-if [ -f .env ]; then
-  set -a
-  # shellcheck disable=SC1091
-  . ./.env
-  set +a
-fi
+# 只读需要的两个键，**不能用 source .env**：
+# .env 里 RES_URL 带分号（http://a;https://b），source 会被当成命令执行并报错退出。
+env_get() {
+  [ -f .env ] || return 0
+  grep -E "^[[:space:]]*$1[[:space:]]*=" .env 2>/dev/null \
+    | tail -n 1 \
+    | cut -d= -f2- \
+    | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' \
+          -e 's/^"//' -e 's/"$//' -e "s/^'//" -e "s/'\$//"
+}
 
-PORT="${HTTP_PORT:-25565}"
-TOKEN="${GM_HTTP_TOKEN:-}"
+PORT="$(env_get HTTP_PORT)"
+PORT="${PORT:-25565}"
+TOKEN="$(env_get GM_HTTP_TOKEN)"
+TOKEN="${TOKEN:-${GM_HTTP_TOKEN:-}}"
 
 if [ -z "${TOKEN}" ]; then
   echo "错误：.env 里没有设置 GM_HTTP_TOKEN" >&2
